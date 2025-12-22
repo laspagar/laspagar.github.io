@@ -21,17 +21,7 @@ Kanopi Alderon bukan sekadar penutup, melainkan investasi praktis untuk kenyaman
 *   **Tahan Lama & Perawatan Mudah**: Alderon memiliki ketahanan yang baik terhadap cuaca, termasuk paparan UV yang dapat menyebabkan warna pudar. Untuk membersihkannya, Anda cukup menyiram atau mengelap permukaannya dengan air sabun.
 *   **Pilihan Warna**: Tersedia dalam beberapa varian warna seperti bening (clear), biru, hijau, atau smoke, memungkinkan Anda menyesuaikan dengan desain eksterior rumah.
 
-## Perbandingan Singkat: Alderon vs. Material Kanopi Lain
 
-| Fitur | **Alderon (Polycarbonate)** | **Spandek/Galvalum** | **Kaca** |
-| :--- | :--- | :--- | :--- |
-| **Harga** | ⭐⭐⭐⭐⭐ (Paling Ekonomis) | ⭐⭐⭐⭐ (Menengah) | ⭐⭐ (Paling Mahal) |
-| **Pencahayaan Alami** | ⭐⭐⭐⭐⭐ (Sangat Baik) | ⭐ (Gelap Total) | ⭐⭐⭐⭐⭐ (Sangat Baik) |
-| **Ketahanan Benturan** | ⭐⭐⭐⭐ (Kuat) | ⭐⭐⭐⭐⭐ (Sangat Kuat) | ⭐ (Rentan Pecah) |
-| **Bobot** | ⭐⭐⭐⭐⭐ (Sangat Ringan) | ⭐⭐⭐ (Sedang) | ⭐⭐ (Berat) |
-| **Perawatan** | ⭐⭐⭐⭐⭐ (Mudah) | ⭐⭐⭐ (Cenderung Berisik) | ⭐⭐⭐ (Perlu Hati-hati) |
-
-**Kesimpulan:** Alderon unggul sebagai **pilihan terbaik untuk budget terbatas** dengan kebutuhan pencahayaan alami yang tinggi.
 
 ## Aplikasi & Ide Pemasangan Kanopi Alderon
 
