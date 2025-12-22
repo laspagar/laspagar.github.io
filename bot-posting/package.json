@@ -1,0 +1,26 @@
+{
+  "name": "kharisma-steel-bot",
+  "version": "1.0.0",
+  "description": "Node.js bot for automated blog post and product creation for Kharisma Steel Jekyll site",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "post:article": "node bin/create-article.js",
+    "post:product": "node bin/create-product.js",
+    "help": "echo 'Usage: npm run post:article OR npm run post:product'"
+  },
+  "keywords": [
+    "jekyll",
+    "blog",
+    "automation",
+    "bot"
+  ],
+  "author": "Kharisma Steel",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.5",
+    "slugify": "^1.6.6",
+    "dayjs": "^1.11.10"
+  }
+}

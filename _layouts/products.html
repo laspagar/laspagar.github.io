@@ -1,0 +1,83 @@
+---
+layout: default
+---
+
+<div class="max-w-7xl mx-auto px-6 py-12">
+    <!-- Header -->
+    <div class="mb-12">
+        <h1 class="text-3xl md:text-4xl font-extrabold text-slate-900 mb-2">{{ page.title }}</h1>
+        <p class="text-slate-500">{{ page.description }}</p>
+    </div>
+
+    <!-- Main Content with Sidebar -->
+    <div class="grid md:grid-cols-4 gap-8">
+        <!-- Sidebar -->
+        <div class="md:col-span-1">
+            {% include sidebar.html %}
+        </div>
+
+        <!-- Products Grid -->
+        <div class="md:col-span-3">
+            <div class="grid grid-cols-2 md:grid-cols-3 gap-6 mb-12">
+                {% assign items_per_page = 9 %}
+                {% assign all_products = site.products | sort: 'title' %}
+                
+                {% if page.category %}
+                    {% assign filtered = all_products | where: 'category', page.category %}
+                {% else %}
+                    {% assign filtered = all_products %}
+                {% endif %}
+
+                {% assign total_items = filtered | size %}
+                {% assign current_page = page.page | default: 1 %}
+                {% assign start_index = current_page | minus: 1 | times: items_per_page %}
+                {% assign end_index = start_index | plus: items_per_page %}
+                
+                {% for p in filtered %}
+                    {% if forloop.index > start_index and forloop.index <= end_index %}
+                    <div class="product-card rounded-2xl overflow-hidden bg-white border border-slate-100 hover:border-indigo-300 hover:shadow-lg transition-all">
+                        <div class="relative aspect-square overflow-hidden bg-slate-100 group">
+                            {% if p.image %}
+                                <img src="{{ p.image | relative_url }}" alt="{{ p.title }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform" />
+                            {% else %}
+                                <div class="w-full h-full flex items-center justify-center text-slate-300 text-center px-4">
+                                    <span>Foto {{ p.title }}</span>
+                                </div>
+                            {% endif %}
+                            <span class="absolute top-3 right-3 bg-indigo-600 text-white text-[10px] font-bold px-3 py-1 rounded-full uppercase tracking-widest">{{ p.category }}</span>
+                        </div>
+                        <div class="p-4">
+                            <h3 class="font-bold text-sm mb-1 text-slate-900 line-clamp-2">{{ p.title }}</h3>
+                            {% if p.price %}<p class="text-indigo-600 text-xs font-bold mb-2">{{ p.price }}</p>{% endif %}
+                            <p class="text-slate-500 text-xs mb-4 line-clamp-2">{{ p.description }}</p>
+                            <a href="{{ p.url }}" class="inline-block text-[10px] font-black uppercase text-slate-400 hover:text-indigo-600 transition">Lihat Detail →</a>
+                        </div>
+                    </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+
+            <!-- Pagination -->
+            {% assign total_pages = total_items | divided_by: items_per_page | ceil %}
+            {% if total_pages > 1 %}
+            <div class="flex justify-center items-center gap-2 mt-12 border-t pt-8">
+                {% if current_page > 1 %}
+                    <a href="{% if current_page == 2 %}{{ page.url }}{% else %}{{ page.url }}?page={{ current_page | minus: 1 }}{% endif %}" class="px-4 py-2 rounded-lg border border-slate-200 hover:bg-indigo-50 hover:border-indigo-300 text-sm font-semibold">← Sebelumnya</a>
+                {% endif %}
+
+                {% for i in (1..total_pages) %}
+                    {% if i == current_page %}
+                        <span class="px-4 py-2 rounded-lg bg-indigo-600 text-white text-sm font-semibold">{{ i }}</span>
+                    {% else %}
+                        <a href="{% if i == 1 %}{{ page.url }}{% else %}{{ page.url }}?page={{ i }}{% endif %}" class="px-4 py-2 rounded-lg border border-slate-200 hover:bg-indigo-50 text-sm font-semibold">{{ i }}</a>
+                    {% endif %}
+                {% endfor %}
+
+                {% if current_page < total_pages %}
+                    <a href="{{ page.url }}?page={{ current_page | plus: 1 }}" class="px-4 py-2 rounded-lg border border-slate-200 hover:bg-indigo-50 hover:border-indigo-300 text-sm font-semibold">Selanjutnya →</a>
+                {% endif %}
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
