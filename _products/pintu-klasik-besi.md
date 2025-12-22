@@ -18,16 +18,6 @@ Pintu depan adalah elemen pertama yang menyambut tamu dan mencerminkan karakter 
 3.  **Daya Tahan Luar Biasa:** Dengan **finishing anti karat premium** (seperti powder coating atau cat hammerite), pintu ini tahan terhadap terik matahari, hujan, dan kelembaban. Tidak akan lapuk atau keropos seperti kayu.
 4.  **Nilai Investasi Properti:** Kehadiran pintu klasik besi langsung meningkatkan kesan eksklusif dan nilai jual rumah, menunjukkan perhatian pemilik pada detail dan kualitas.
 
-## Detail Material & Spesifikasi
-
-| Komponen | Material & Keterangan | Keunggulan |
-| :--- | :--- | :--- |
-| **Panel Utama** | Plat besi / kombinasi besi hollow struktural dengan plat. | Memberikan struktur dasar yang kaku, kuat, dan tahan bentur. |
-| **Ornamen & Dekorasi** | Besi tempa tempaan (wrought iron) atau casting besi. | Detail dekoratif yang elegan, bisa custom sesuai permintaan. |
-| **Rangka & Kusen** | Besi siku atau hollow tebal, disesuaikan dengan bukaan pintu. | Memastikan keselarasan dan kekuatan pemasangan yang sempurna. |
-| **Finishing** | **Powder Coating** (pilihan warna: hitam, coklat tua, perunggu, emas) atau **Cat Duco**. | Lapisan tebal yang tahan cuaca, anti gores, dan tidak mudah pudar. |
-| **Aksesoris** | Engsel besi tebal (koncepan), anak kunci kamar/slot, handle besi tempa. | Mendukung fungsi dan estetika, serta keamanan tambahan. |
-| **Opsional** | Kaca patri (stained glass) atau kaca es pada bagian tertentu. | Menambah keindahan dan memasukkan cahaya alami. |
 
 ## Ide Penggunaan & Gaya Arsitektur
 
