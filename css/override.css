@@ -1,3 +1,20 @@
+/* Perbesar grid produk di mobile (homepage Layanan & Produk) */
+@media (max-width: 640px) {
+  .product-card {
+    font-size: 1.1rem;
+    padding: 0.5rem;
+  }
+  .product-card .aspect-square {
+    height: 220px;
+    min-height: 180px;
+    max-height: 260px;
+  }
+  .product-card img {
+    min-height: 180px;
+    max-height: 260px;
+    object-fit: cover;
+  }
+}
 hr {
   margin-top: 30px;
   margin-bottom: 20px;

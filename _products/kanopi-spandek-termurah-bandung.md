@@ -2,7 +2,7 @@
 title: Kanopi Spandek Termurah Bandung
 price: Rp 550.000 / m²
 category: Kanopi
-image: /assets/products/kanopi-spandek-termurah-bandung.jpg
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHg5vLsin_KzJAI4cwOXY8i7wiRETnYiiR7Hyh8IbDQIsg11mh4Q_cd0ewcr0NSjLgZ6ldAt5f9caxS5etTWAB3zAe6Xf9_vTfTpcOyu_a6W1eQDUS3yxJX-glraxdvIEFQeicyQN_AA8/s1600/1.jpg
 description: Kanopi atap spandek ekonomis dengan finishing galvanis, tahan karat dan cocok untuk carport rumah sederhana.
 keywords: kanopi spandek, kanopi murah, kanopi termurah bandung, atap spandek
 ---
