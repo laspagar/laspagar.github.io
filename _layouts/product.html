@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article class="product-page max-w-4xl mx-auto py-16">
+  <header class="mb-8">
+    <h1 class="text-3xl font-extrabold">{{ page.title }}</h1>
+    {% if page.price %}<p class="text-indigo-600 font-bold mt-2">{{ page.price }}</p>{% endif %}
+  </header>
+
+  {% if page.image %}
+  <div class="mb-6">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="rounded-2xl w-full" />
+  </div>
+  {% endif %}
+
+  <div class="prose">
+    {{ content }}
+  </div>
+
+  {% include navlinks.html %}
+</article>

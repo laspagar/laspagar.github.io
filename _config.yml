@@ -30,6 +30,12 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# Collections
+collections:
+  products:
+    output: true
+    permalink: /products/:name/
+
 titles_from_headings:
   strip_title: true
   collections: true
@@ -40,3 +46,9 @@ defaults:
       type: post
     values:
       tags: Other
+
+  - scope:
+      path: ""
+      type: products
+    values:
+      layout: product
