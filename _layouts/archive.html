@@ -1,0 +1,100 @@
+---
+layout: default
+---
+
+<!-- Archive Header -->
+<div class="mb-12">
+  <h1 class="text-4xl md:text-5xl font-black text-slate-900 mb-4">{{ page.title }}</h1>
+  <p class="text-slate-500 text-lg">Semua artikel blog kami. Total {{ site.posts | size }} artikel tersedia.</p>
+</div>
+
+<!-- Blog Grid - 7 posts per page -->
+<div class="grid md:grid-cols-2 lg:grid-cols-1 gap-8 mb-16">
+  {% assign posts_per_page = 7 %}
+  {% assign offset = page.paginate.page | default: 1 | minus: 1 | times: posts_per_page %}
+  
+  {% for post in site.posts limit: posts_per_page offset: offset %}
+  <article class="group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-lg hover:border-indigo-200 transition">
+    <div class="grid md:grid-cols-3 gap-6 items-center p-6">
+      <!-- Image -->
+      {% if post.image %}
+      <div class="md:col-span-1">
+        <div class="aspect-square rounded-xl overflow-hidden bg-slate-100">
+          <a href="{{ post.url }}">
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="w-full h-full object-cover group-hover:scale-105 transition" />
+          </a>
+        </div>
+      </div>
+      {% endif %}
+      
+      <!-- Content -->
+      <div class="{% if post.image %}md:col-span-2{% else %}col-span-full{% endif %}">
+        <!-- Categories -->
+        {% if post.categories %}
+        <div class="flex flex-wrap gap-2 mb-3">
+          {% for cat in post.categories limit: 2 %}
+          <span class="inline-block px-2.5 py-1 rounded-full bg-indigo-100 text-indigo-700 text-xs font-bold uppercase">{{ cat }}</span>
+          {% endfor %}
+        </div>
+        {% endif %}
+        
+        <!-- Title -->
+        <h2 class="text-xl md:text-2xl font-bold text-slate-900 group-hover:text-indigo-600 mb-3 line-clamp-2">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h2>
+        
+        <!-- Meta -->
+        <div class="flex items-center gap-4 text-sm text-slate-500 mb-3">
+          <span>📅 {{ post.date | date: "%d %B %Y" }}</span>
+          {% if post.tags %}
+          <span>🏷️ {{ post.tags | join: ", " }}</span>
+          {% endif %}
+        </div>
+        
+        <!-- Excerpt -->
+        <p class="text-slate-600 text-sm leading-relaxed line-clamp-2 mb-4">
+          {{ post.excerpt | strip_html | truncate: 150 }}
+        </p>
+        
+        <!-- Read More -->
+        <a href="{{ post.url }}" class="inline-flex items-center gap-2 text-indigo-600 hover:text-indigo-700 font-bold text-sm">
+          Baca Selengkapnya →
+        </a>
+      </div>
+    </div>
+  </article>
+  {% endfor %}
+</div>
+
+<!-- Pagination -->
+<div class="pagination">
+  {% assign total_posts = site.posts | size %}
+  {% assign posts_per_page = 7 %}
+  {% assign total_pages = total_posts | divided_by: posts_per_page | ceil %}
+  {% assign current_page = page.paginate.page | default: 1 %}
+  
+  <!-- Previous Page -->
+  {% if current_page > 1 %}
+  <a href="{% if current_page == 2 %}/archive.html{% else %}/archive/page{{ current_page | minus: 1 }}/{% endif %}" class="px-4 py-2 rounded-lg bg-slate-100 hover:bg-indigo-600 text-slate-600 hover:text-white transition font-medium">← Sebelumnya</a>
+  {% else %}
+  <span class="px-4 py-2 rounded-lg bg-slate-50 text-slate-400 opacity-50 cursor-not-allowed font-medium">← Sebelumnya</span>
+  {% endif %}
+  
+  <!-- Page Numbers -->
+  <div class="flex gap-2">
+    {% for page_num in (1..total_pages) %}
+      {% if page_num == current_page %}
+      <span class="px-4 py-2 rounded-lg bg-indigo-600 text-white font-medium">{{ page_num }}</span>
+      {% else %}
+      <a href="{% if page_num == 1 %}/archive.html{% else %}/archive/page{{ page_num }}/{% endif %}" class="px-4 py-2 rounded-lg bg-slate-100 hover:bg-indigo-600 text-slate-600 hover:text-white transition font-medium">{{ page_num }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+  
+  <!-- Next Page -->
+  {% if current_page < total_pages %}
+  <a href="/archive/page{{ current_page | plus: 1 }}/" class="px-4 py-2 rounded-lg bg-slate-100 hover:bg-indigo-600 text-slate-600 hover:text-white transition font-medium">Berikutnya →</a>
+  {% else %}
+  <span class="px-4 py-2 rounded-lg bg-slate-50 text-slate-400 opacity-50 cursor-not-allowed font-medium">Berikutnya →</span>
+  {% endif %}
+</div>

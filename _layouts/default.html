@@ -5,13 +5,15 @@
   {% include header.html %}
 
   <main class="pt-20">
-    <div class="max-w-7xl mx-auto px-6 grid lg:grid-cols-4 gap-8">
-      <div class="lg:col-span-3">
+    <div class="{% if page.layout == 'home' %}max-w-7xl{% else %}max-w-7xl lg:grid lg:grid-cols-4 lg:gap-8{% endif %} mx-auto px-6 {% if page.layout != 'home' %}grid{% endif %}">
+      <div class="{% if page.layout == 'home' %}w-full{% else %}lg:col-span-3{% endif %}">
         {{ content }}
       </div>
+      {% if page.layout != 'home' %}
       <aside class="hidden lg:block">
         {% include sidebar.html %}
       </aside>
+      {% endif %}
     </div>
   </main>
 
