@@ -35,14 +35,7 @@ Ini adalah pagar yang dirancang dengan struktur rangka utama dari **besi hollow 
 - Konstruksi yang solid dan kokoh meningkatkan keamanan.
 - Dapat dirancang dengan kerapatan dan tinggi yang optimal untuk privasi.
 
-## Material & Spesifikasi
 
-| Komponen | Material | Spesifikasi | Keuntungan |
-| :--- | :--- | :--- | :--- |
-| **Rangka Utama** | Besi Hollow | Galvanis, ketebalan 4x4 cm atau 4x6 cm | Kaku, kuat, tahan karat, sebagai struktur penahan. |
-| **Panel Depan** | Papan/Plank WPC | Bertekstur kayu, berbagai pilihan warna, UV protected. | Tampilan natural, tahan cuaca, tidak perlu dicat. |
-| **Finishing** | Powder Coating | Pada bagian besi yang terlihat (seperti tiang atau detail). | Lapisan tambahan anti karat, pilihan warna matching. |
-| **Aksesoris** | Klem, Baut, Dudukan | Stainless atau galvanis. | Memastikan pemasangan kuat dan rapi. |
 
 ## Ide Desain & Motif
 
