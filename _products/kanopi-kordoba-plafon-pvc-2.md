@@ -21,17 +21,8 @@ Varian ini menawarkan peningkatan signifikan pada dua aspek krusial:
 *   **Pilihan Plafon yang Beragam**: Tersedia pilihan **tekstur dan warna plafon PVC** (seperti woodgrain, plain, atau glossy) yang dapat disesuaikan dengan desain rumah Anda, menciptakan kesan custom yang personal.
 *   **Insulasi Termal Ganda**: Kombinasi **atap polycarbonate (alderon/spandek transparan)** yang memantulkan panas dan **plafon PVC** yang menghambat konduksi panas, membuat suhu di bawah kanopi lebih sejuk dan nyaman dibandingkan kanopi konvensional.
 
-## Perbandingan: Varian 1 vs. Varian 2
 
-| Komponen | **Kanopi Kordoba Varian 1** | **Kanopi Kordoba Varian 2 (Premium)** |
-| :--- | :--- | :--- |
-| **Rangka Utama** | Hollow single layer 4x4 cm | Hollow double layer 4x4 cm & 2x4 cm |
-| **Kekuatan Struktur** | Kuat, untuk bentang standar (< 4m) | **Sangat Kuat**, optimal untuk bentang panjang (> 4m) dan beban tinggi |
-| **Sistem Plafon** | PVC standar, pemasangan dasar | **PVC premium**, sistem knock-down rapat, pilihan tekstur |
-| **Sistem Talang** | Talang terbuka (visible gutter) | **Talang tersembunyi** (hidden gutter) |
-| **Tampilan Interior** | Rapi, rangka tertutup plafon | **Sangat rapi dan flat**, seperti langit-langit rumah |
-| **Kenyamanan Termal** | Baik | **Lebih Baik** (insulasi ganda) |
-| **Investasi** | Lebih ekonomis | Sedikit lebih tinggi untuk nilai tambah yang signifikan |
+
 
 ## Spesifikasi Material & Pengerjaan
 
