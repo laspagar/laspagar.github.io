@@ -1,0 +1,63 @@
+````instructions
+Purpose
+-------
+Concise onboarding for AI coding agents working on this Jekyll-based GitHub Pages site. Focus: where content and assets live, safe edit patterns, automation scripts, and project-specific conventions to make low-risk changes.
+
+Quick architecture
+------------------
+- Content: `_posts/` (blog posts) and `_products/` (products collection). Product pages are generated from `_products/*` and exposed as `site.products` (see `collections:` in `_config.yml`).
+- Presentation: `_layouts/` (templates) and `_includes/` (partials: `head.html`, `navlinks.html`, `sharelinks.html`).
+- Assets: `assets/products/` for product images, `css/override.css` for styling overrides, and `js/highlightjs/` for syntax highlighting.
+
+Developer workflows
+-------------------
+- Local preview/build (Ruby + Bundler):
+  - bundle install
+  - bundle exec jekyll serve --livereload  (or `bundle exec jekyll build` for one-off build)
+- Bot-assisted content creation (Node):
+  - cd bot-posting && npm install
+  - npm run post:article  => creates `_posts/YYYY-MM-DD-slug.md`
+  - npm run post:product  => creates `_products/slug.md` (front matter: title, price, category, image, keywords)
+- Image tooling (Python):
+  - scripts/scrape_bintang_images.py -> updates `_data/product_images.yml`
+  - scripts/fetch_images_bulk.py -> downloads images to `assets/products/`
+  - Dependencies: pip install requests pyyaml beautifulsoup4
+
+Project conventions (important, concrete)
+-----------------------------------------
+- Post filename format: `YYYY-MM-DD-title.md`; preserve YAML front matter and `layout: post`.
+- Product front matter: include `title`, `price`, `category`, `image` (use `/assets/products/name.jpg`), and `keywords`.
+- Collections configured in `_config.yml`:
+  collections:
+    products:
+      output: true
+      permalink: /products/:name/
+- Use `_includes/navlinks.html` and `_includes/sharelinks.html` for repeated UI; prefer editing includes over copying markup across pages.
+- For CSS, edit `css/override.css` (avoid changing vendor files in `js/highlightjs/`).
+
+Automation & data
+-----------------
+- `_data/product_images.yml` maps product slugs to remote image URLs; the Python scrapers update it.
+- After updating `_data/`, run `python3 scripts/fetch_images_bulk.py` to download images and verify `image:` front matter paths.
+- Bot-posting generates front matter automatically (see `bot-posting/README.md` for templates and CLI flow).
+
+Safety & review checklist
+-------------------------
+- Preserve YAML front matter and filename conventions when adding/editing content.
+- Run `bundle exec jekyll build` and spot-check affected pages in `_site/` before opening a PR.
+- Keep commits focused (one logical change per PR) and include which pages you previewed locally.
+- If adding Jekyll plugins, confirm compatibility with GitHub Pages or vendor the plugin and document the change.
+
+Where to look when things break
+-------------------------------
+- Layout issues: `_layouts/default.html`, `_layouts/post.html`, `_layouts/product.html`.
+- Missing images: check `assets/products/` and `_data/product_images.yml`.
+- Bot problems: `bot-posting/bin/*` (reproduce with `npm run post:article`).
+- Scraper issues: `scripts/scrape_bintang_images.py` and `scripts/fetch_images_bulk.py` (source site structure may change).
+
+Feedback / gaps
+----------------
+- No `Gemfile` or CI config was discovered; add them if reproducible Ruby versions or automated builds are required.
+- If you'd like, I can replace the original `.github/copilot-instructions.md` with this version and tidy wording further — say the word and I'll commit the change.
+
+````
