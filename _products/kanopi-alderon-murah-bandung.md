@@ -62,5 +62,4 @@ A: Sangat bisa. Karena ringan, kami dapat merancang struktur pendukung yang sesu
 
 Jangan ragu untuk menghubungi **Kharisma Steel** sebagai ahlinya **kanopi murah dan berkualitas di Bandung**. Dapatkan penawaran terbaik dan konsultasi gratis untuk mewujudkan teras impian Anda.
 
-📞 **Hubungi Kami**: 0813-2008-7982  
 📍 **Lokasi Workshop**: Jl. Cigugur Girang No.rt03 rw 07, Cigugur Girang, Kec. Parongpong, Bandung, Jawa Barat 40559
