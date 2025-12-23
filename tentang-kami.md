@@ -32,7 +32,7 @@ permalink: /tentang/
         </li>
         <li class="flex items-start">
           <span class="mr-2">📞</span>
-          <span><strong>Layanan Pelanggan:</strong><br><a href="tel:+6281320087982" class="text-blue-600 font-semibold hover:underline">0813-2008-7982</a> (Telepon/WA)</span>
+          <span><strong>Layanan Pelanggan:</strong><br><a href="tel:+6282318993732" class="text-blue-600 font-semibold hover:underline">0823-1899-3732</a> (Telepon/WA)</span>
         </li>
       </ul>
     </div>
