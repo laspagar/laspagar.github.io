@@ -72,5 +72,5 @@ Hentikan kekhawatiran soal pagar yang berkarat, lapuk, atau perlu dicat ulang ti
 **Konsultasikan desain pagar impian Anda sekarang! Dapatkan penawaran harga terbaik.**
 
 **Kharisma Steel - Ahlinya Pagar & Kanopi Bandung**  
-📱 **Hubungi via WhatsApp:** [0813-2008-7982](https://wa.me/6281320087982)  
+📱 **Hubungi via WhatsApp:** [082318993732(https://wa.me/6282318993732)  
 📍 Melayani: Bandung, Cimahi, dan sekitarnya.
