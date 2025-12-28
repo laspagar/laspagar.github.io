@@ -1,74 +1,91 @@
 /* Extracted from test2.html inline styles - variables, base, layout, and components */
-:root {
-    --primary: #2563eb;
-    --primary-light: #3b82f6;
-    --primary-dark: #1d4ed8;
-    --secondary: #f97316;
-    --secondary-light: #fb923c;
-    --accent: #06b6d4;
-    --success: #22c55e;
-    --warning: #eab308;
-    --white: #ffffff;
-    --gray-50: #f8fafc;
-    --gray-100: #f1f5f9;
-    --gray-200: #e2e8f0;
-    --gray-300: #cbd5e1;
-    --gray-400: #94a3b8;
-    --gray-500: #64748b;
-    --gray-600: #475569;
-    --gray-700: #334155;
-    --gray-800: #1e293b;
-    --gray-900: #0f172a;
-    --gradient-primary: linear-gradient(135deg, #2563eb 0%, #06b6d4 100%);
-    --gradient-secondary: linear-gradient(135deg, #f97316 0%, #fb923c 100%);
-    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
-    --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
-    --shadow-md: 0 10px 15px -3px rgb(0 0 0 / 0.1);
-    --shadow-lg: 0 20px 25px -5px rgb(0 0 0 / 0.1);
-    --shadow-xl: 0 25px 50px -12px rgb(0 0 0 / 0.25);
-    --radius-sm: 8px;
-    --radius: 12px;
-    --radius-lg: 16px;
-    --radius-xl: 24px;
-    --radius-full: 9999px;
+.test2-theme {
+  /* scoped design tokens - prevent global variable collisions */
+  --t2-primary: #2563eb;
+  --t2-primary-light: #3b82f6;
+  --t2-secondary: #f97316;
+  --t2-white: #ffffff;
+  --t2-gray-50: #f8fafc;
+  --t2-gray-100: #f1f5f9;
+  --t2-gray-500: #64748b;
+  --t2-gray-700: #334155;
+  --t2-gray-900: #0f172a;
+  --t2-gradient-primary: linear-gradient(135deg, #2563eb 0%, #06b6d4 100%);
+  --t2-radius: 12px;
+  --t2-radius-full: 9999px;
 }
 
-/* Reset & base */
-*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
-html { scroll-behavior: smooth; scroll-padding-top: 80px; }
-body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 16px; line-height: 1.6; color: var(--gray-700); background: var(--white); overflow-x: hidden; }
-img { max-width: 100%; height: auto; display: block; }
-a { text-decoration: none; color: inherit; transition: all 0.2s ease; }
-ul { list-style: none; }
+/* Scoped components only (avoid global resets) */
+.test2-theme .section { padding: 80px 0; }
+.test2-theme .section-light { background: var(--t2-gray-50); }
+.test2-theme .section-white { background: var(--t2-white); }
+.test2-theme .section-header { text-align: center; max-width: 600px; margin: 0 auto 48px; }
+.test2-theme .section-badge { display:inline-flex; align-items:center; gap:8px; background:var(--t2-gray-100); color:var(--t2-primary); font-size:13px; font-weight:600; padding:8px 16px; border-radius:var(--t2-radius-full); margin-bottom:16px; text-transform:uppercase; letter-spacing:0.5px; }
+.test2-theme .section-title { font-size:clamp(28px,5vw,42px); font-weight:800; color:var(--t2-gray-900); line-height:1.2; margin-bottom:16px; }
+.test2-theme .section-subtitle { font-size:18px; color:var(--t2-gray-500); }
 
-/* utilities */
-.container { max-width: 1280px; margin: 0 auto; padding: 0 20px; }
-.section { padding: 80px 0; }
-.section-light { background: var(--gray-50); }
-.section-white { background: var(--white); }
-.section-gradient { background: var(--gradient-primary); }
-.section-header { text-align: center; max-width: 600px; margin: 0 auto 48px; }
-.section-badge { display: inline-flex; align-items: center; gap: 8px; background: var(--gray-100); color: var(--primary); font-size: 13px; font-weight: 600; padding: 8px 16px; border-radius: var(--radius-full); margin-bottom: 16px; text-transform: uppercase; letter-spacing: 0.5px; }
-.section-title { font-size: clamp(28px, 5vw, 42px); font-weight: 800; color: var(--gray-900); line-height: 1.2; margin-bottom: 16px; }
-.section-subtitle { font-size: 18px; color: var(--gray-500); }
+/* Buttons (scoped) */
+.test2-theme .btn { display:inline-flex; align-items:center; justify-content:center; gap:8px; padding:14px 28px; font-size:15px; font-weight:600; border-radius:var(--t2-radius-full); border:none; cursor:pointer; transition:all 0.2s ease; white-space:nowrap; }
+.test2-theme .btn-primary { background:var(--t2-gradient-primary); color:var(--t2-white); box-shadow:0 4px 14px rgba(37,99,235,0.4); }
+.test2-theme .btn-secondary { background:var(--t2-white); color:var(--t2-primary); border:2px solid var(--t2-gray-100); }
+.test2-theme .btn-whatsapp { background:#25D366; color:var(--t2-white); }
 
-/* Buttons */
-.btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 14px 28px; font-size: 15px; font-weight: 600; border-radius: var(--radius-full); border: none; cursor: pointer; transition: all 0.2s ease; white-space: nowrap; }
-.btn-primary { background: var(--gradient-primary); color: var(--white); box-shadow: 0 4px 14px rgba(37, 99, 235, 0.4); }
-.btn-secondary { background: var(--white); color: var(--primary); border: 2px solid var(--gray-200); }
-.btn-whatsapp { background: #25D366; color: var(--white); }
+/* Hero */
+.test2-theme .hero { min-height: 100vh; padding-top: 72px; background: linear-gradient(180deg,#eff6ff 0%,var(--t2-white) 100%); position:relative; overflow:hidden; }
+.test2-theme .hero-bg-pattern { position:absolute; inset:0; background-image: radial-gradient(circle at 1px 1px, var(--t2-gray-200, #e2e8f0) 1px, transparent 0); background-size:40px 40px; opacity:0.5; }
+.test2-theme .hero .container { display:grid; grid-template-columns:1fr 1fr; gap:60px; align-items:center; min-height:calc(100vh - 72px); }
+.test2-theme .hero-content h1 { font-size:clamp(36px,6vw,56px); font-weight:800; color:var(--t2-gray-900); line-height:1.1; margin-bottom:20px; }
+.test2-theme .hero-content p { font-size:18px; color:var(--t2-gray-500); margin-bottom:32px; max-width:480px; }
+.test2-theme .hero-buttons { display:flex; gap:12px; flex-wrap:wrap; margin-bottom:48px; }
+.test2-theme .hero-stats { display:flex; gap:40px; }
+.test2-theme .hero-stat-number { font-size:32px; font-weight:800; color:var(--t2-gray-900); }
 
-/* navbar */
-.navbar { position: fixed; top: 0; left: 0; right: 0; height: 72px; background: rgba(255,255,255,0.95); backdrop-filter: blur(12px); border-bottom: 1px solid var(--gray-100); z-index: 1000; transition: all 0.2s ease; }
-.navbar.scrolled { box-shadow: var(--shadow); }
-.navbar .container { display: flex; align-items: center; justify-content: space-between; height: 100%; }
-.logo { display: flex; align-items: center; gap: 10px; font-size: 20px; font-weight: 800; color: var(--gray-900); }
-.logo-icon { width: 42px; height: 42px; background: var(--gradient-primary); border-radius: var(--radius); display: flex; align-items: center; justify-content: center; color: var(--white); font-size: 18px; }
-.nav-menu { display: flex; align-items: center; gap: 8px; }
-.nav-link { padding: 10px 16px; font-size: 14px; font-weight: 500; color: var(--gray-600); border-radius: var(--radius); }
-.nav-link:hover, .nav-link.active { color: var(--primary); background: var(--gray-50); }
-.nav-cta { margin-left: 12px; }
-.nav-toggle { display: none; }
+/* Services */
+.test2-theme .services-grid { display:grid; grid-template-columns: repeat(4,1fr); gap:24px; }
+.test2-theme .service-card { background:var(--t2-white); border-radius:var(--t2-radius); padding:28px; border:1px solid var(--t2-gray-100); transition:all 0.2s ease; }
+.test2-theme .service-card:hover { transform:translateY(-4px); box-shadow:0 20px 25px -5px rgba(0,0,0,0.1); border-color:transparent; }
+
+/* Products grid (scoped) */
+.test2-theme .products-grid { display:grid; grid-template-columns: repeat(4,1fr); gap:24px; }
+.test2-theme .product-card { background:var(--t2-white); border-radius:var(--t2-radius); overflow:hidden; border:1px solid var(--t2-gray-100); transition:all 0.2s ease; }
+.test2-theme .product-card:hover { transform:translateY(-4px); box-shadow:0 20px 25px -5px rgba(0,0,0,0.1); }
+.test2-theme .product-image { height:180px; display:flex; align-items:center; justify-content:center; position:relative; }
+.test2-theme .product-content { padding:20px; }
+.test2-theme .price-label { font-size:14px; font-weight:600; color:var(--t2-primary); }
+
+/* CTA */
+.test2-theme .cta-box { background:var(--t2-gradient-primary); border-radius:var(--t2-radius-xl,24px); padding:64px; display:grid; grid-template-columns:1fr 1fr; gap:48px; align-items:center; }
+.test2-theme .cta-content h2 { font-size:clamp(28px,4vw,36px); font-weight:800; color:var(--t2-white); }
+
+/* Blog */
+.test2-theme .blog-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:24px; }
+.test2-theme .blog-card { background:var(--t2-white); border-radius:var(--t2-radius); overflow:hidden; border:1px solid var(--t2-gray-100); }
+
+/* Contact */
+.test2-theme .contact-grid { display:grid; grid-template-columns:1fr 1fr; gap:48px; }
+.test2-theme .contact-item { display:flex; gap:16px; padding:20px; background:var(--t2-white); border:1px solid var(--t2-gray-100); border-radius:var(--t2-radius); transition:all 0.2s ease; }
+
+/* Footer specific overrides scoped */
+.test2-theme footer { background:var(--t2-gray-900); color:var(--t2-white); padding:64px 0 0; }
+
+/* Responsive */
+@media (max-width: 1024px) {
+  .test2-theme .services-grid, .test2-theme .products-grid { grid-template-columns: repeat(2,1fr); }
+}
+@media (max-width: 768px) {
+  .test2-theme .hero .container { grid-template-columns:1fr; text-align:center; padding-top:40px; padding-bottom:40px; }
+  .test2-theme .hero-visual { order:-1; max-width:400px; margin:0 auto; }
+  .test2-theme .cta-box { grid-template-columns:1fr; padding:40px 24px; text-align:center; }
+}
+@media (max-width:480px) {
+  .test2-theme .section { padding:48px 0; }
+  .test2-theme .btn { width:100%; }
+}
+
+/* small helpers */
+.test2-theme .hero-card-icon { width:80px; height:80px; background:var(--t2-gradient-primary); border-radius:var(--t2-radius-lg,16px); display:flex; align-items:center; justify-content:center; font-size:36px; margin-bottom:24px; }
+.test2-theme .floating-icon.orange { background:#ffedd5; color:var(--t2-secondary); }
+.test2-theme .floating-icon.blue { background:#dbeafe; color:var(--t2-primary); }
 
 /* hero, services, products, cta, blog, contact, footer, responsive rules follow — for brevity they were copied intact */
 /* ... (omitted in this message for brevity, but the file contains the full styles from test2.html) */
