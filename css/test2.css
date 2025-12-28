@@ -22,6 +22,12 @@
 
 .test2-theme .section { 
   padding: 80px 20px;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 .test2-theme .section-light { background: var(--t2-gray-50); }
 .test2-theme .section-white { background: var(--t2-white); }
@@ -74,12 +80,16 @@
 .test2-theme .hero {
   min-height: 100vh;
   padding-top: 72px;
-  padding-left: 0;
-  padding-right: 0;
   padding-bottom: 40px;
   background: linear-gradient(135deg, #7e22ce 0%, #9333ea 50%, #06b6d4 100%);
   position: relative;
-  overflow: hidden;
+  overflow: visible;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
 .test2-theme .hero .container {
@@ -92,6 +102,7 @@
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 20px;
+  width: 100%;
 }
 
 .test2-theme .hero-content h1 {
