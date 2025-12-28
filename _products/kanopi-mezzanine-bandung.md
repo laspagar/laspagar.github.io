@@ -1,51 +1,35 @@
 ---
-title: Kanopi Mezzanine Bandung | Solusi Tambah Lantai Modern
+layout: product
+title: Jasa Pembuatan Kanopi Mezzanine Bandung (Lantai Tingkat)
 price: Rp 1.350.000 / m²
 category: Kanopi & Konstruksi Baja
 image: /assets/products/kanopi-mezzanine-bandung.jpg
-description: Cari solusi perluas ruang tanpa perlu bangun ulang? Kanopi Mezzanine di Bandung ini jawabannya. Tambah area fungsional di lantai atas rumah, kantor, atau cafe dengan struktur kokoh dan desain minimalis.
-keywords: kanopi mezzanine, mezzanine bandung, kanopi minimalis, tambah lantai, struktur baja ringan, perluasan ruang, kanopi modern
+description: Solusi nambah ruang tanpa cor beton! Jasa bikin Kanopi Mezzanine besi di Bandung. Kuat untuk balkon, jemuran, atau kamar tambahan.
+keywords: kanopi mezzanine bandung, jasa mezzanine besi, lantai tingkat besi, balkon mezzanine, konstruksi baja ringan bandung
 ---
 
-## Manfaat Utama Kanopi Mezzanine di Bandung
+# Kanopi Mezzanine Bandung: Tambah Lantai Tanpa Cor Beton
 
-Apakah ruang di rumah atau bisnis Anda terasa semakin sempit? **Kanopi Mezzanine** menjadi solusi cerdas untuk menciptakan ruang tambahan tanpa membangun dari nol. Khususnya di Bandung, dengan kebutuhan ruang yang multifungsi, struktur ini sangat populer untuk:
+Lahan rumah di Bandung makin sempit dan mahal? Solusinya jangan pindah rumah, tapi **tambah lantai ke atas** menggunakan **Kanopi Mezzanine**. 
 
-*   **Menambah area kerja atau gudang** di atas garasi atau ruang usaha.
-*   **Menciptakan ruang lounge atau tempat duduk tambahan** di cafe atau restoran.
-*   **Memperluas kamar atau ruang keluarga** di lantai dua rumah.
-*   **Sebagai deck atau balkon tambahan** yang terlindungi.
+Struktur rangka besi yang dirancang khusus agar **kuat diinjak**, bisa difungsikan sebagai balkon santai, area jemur, gudang, bahkan kamar tidur tambahan di atas carport Anda.
 
-## Mengapa Memilih Kanopi Mezzanine Kami?
+## Keunggulan Mezzanine Besi vs Cor Beton:
+1.  **Lebih Hemat**: Biaya konstruksi bisa hemat 30-40% dibanding cor dak beton konvensional.
+2.  **Lebih Cepat**: Pengerjaan hanya 1-2 minggu (sistem rakitan las).
+3.  **Beban Ringan**: Tidak membebani pondasi rumah existing secara berlebihan.
 
-Kami menawarkan lebih dari sekadar struktur baja. Berikut keunggulan yang Anda dapatkan:
+## Spesifikasi Kekuatan (Heavy Duty):
+*   **Tiang Utama**: Besi Hollow 5x10 tebal / WF 150 (Tergantung bentang).
+*   **Rangka Lantai**: Kanal C Double / Hollow 4x8.
+*   **Alas Lantai**: Plat Bordes / KalsiFloor 20mm / Decking Kayu.
+*   **Pagar Railing**: Besi Hollow Minimalis (Safety first).
 
-*   **Struktur Kokoh & Aman:** Menggunakan **baja ringan berkualitas tinggi** dengan ketebalan standar industri. Setiap sambungan dirancang untuk menahan beban maksimal, memberikan rasa aman untuk aktivitas di bawah maupun atas kanopi.
-*   **Finishing Tahan Lama:** Dilengkapi **pelapis anti karat** (seperti zincalume atau powder coating) yang melindungi dari cuaca Bandung yang lembap, sehingga awet dan minim perawatan.
-*   **Desain Modern & Minimalis:** Kami menyesuaikan desain dengan arsitektur bangunan utama. Pilihan bentuk atap (flat, pelana, atau limas) dan warna dapat dikustomisasi untuk kesan yang rapi dan elegan.
-*   **Pengerjaan Profesional & Rapi:** Tim kami yang berpengalaman memastikan proses instalasi cepat, tepat, dan bersih. Hasil akhir rapi, baik dari bawah maupun atas struktur.
+## Harga Paket Bandung:
+Mulai **Rp 1.350.000 / m²** (Konstruksi standar balkon jemuran). 
+Untuk fungsi beban berat (gudang/kamar), kami perlu hitung struktur dulu (GRATIS konsultasi).
 
-## Harga Kanopi Mezzanine Bandung
+**Hubungi Engineering Kami:**
+[0851-8309-9865](https://wa.me/6285183099865)
 
-Harga **Rp 1.350.000 per meter persegi** sudah mencakup:
-
-*   Material baja ringan pilihan.
-*   Semua aksesoris dan komponen pendukung (sekrup, baut, bracket).
-*   Material atap (polycarbonate atau spandek berkelas - dapat disesuaikan).
-*   Jasa desain, pemotongan, dan pemasangan oleh tenaga ahli.
-*   Finishing anti karat pada seluruh rangka.
-
-**Catatan:** Harga dapat berubah sesuai dengan kompleksitas desain, jenis penutup atap pilihan, dan ketinggian pemasangan. Konsultasi gratis untuk survey dan penawaran yang lebih akurat.
-
-## Ide Pemanfaatan Kanopi Mezzanine
-
-*   **Rumah Tinggal:** Ruang baca di atas teras, area jemur pribadi, atau tempat bersantai keluarga.
-*   **Usaha Cafe/Restoran:** Tambahan tempat duduk outdoor yang teduh dan nyaman.
-*   **Ruko atau Kantor:** Ruang penyimpanan arsip atau area rapat informal.
-*   **Bengkel atau Showroom:** Area gudang parts atau display produk tambahan.
-
-## Pesan Sekarang!
-
-Butuh ruang lebih dengan cara yang praktis dan estetis? **Kanopi Mezzanine** adalah investasi tepat untuk nilai dan fungsi properti Anda.
-
-**Hubungi kami sekarang untuk konsultasi dan survey GRATIS di Bandung dan sekitarnya.** Dapatkan penawaran terbaik dan solusi yang disesuaikan dengan kebutuhan spesifik Anda.
+**[Baca Panduan Lengkap Mezzanine Disini](/posts/2025-12-28-panduan-kanopi-mezzanine-bandung)**

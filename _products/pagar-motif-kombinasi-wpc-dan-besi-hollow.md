@@ -1,76 +1,36 @@
 ---
-title: Pagar Motif Kombinasi WPC & Besi Hollow | Elegan & Minim Perawatan
+layout: product
+title: Pagar Motif Kayu WPC & Besi Hollow Bandung
 price: Rp 1.500.000 / m²
 category: Pagar
 image: /assets/products/pagar-motif-kombinasi-wpc-dan-besi-hollow.jpg
-description: Ingin pagar terlihat hangat alami kayu tapi kuat dan awet? Pagar kombinasi WPC dan besi hollow ini jawabannya. Tampil elegan seperti kayu asli, namun tahan rayap, cuaca, dan tanpa perlu cat ulang berulang.
-keywords: pagar wpc, pagar kombinasi, pagar motif, pagar modern minimalis, pagar kayu sintetis, pagar besi hollow, pagar low maintenance
+description: Pagar kombinasi besi hollow galvanis dan WPC (Wood Plastic Composite) di Bandung. Tampilan kayu natural tapi anti rayap dan tahan hujan.
+keywords: pagar wpc bandung, pagar motif kayu, pagar woodplank, pagar minimalis modern, pagar grc motif kayu
 ---
 
-# Pagar Kombinasi WPC & Besi Hollow: Solusi Pagar Modern yang Pintar
+# Pagar WPC Bandung: Nuansa Kayu, Kekuatan Besi
 
-Mencari pagar yang tidak hanya berfungsi sebagai pembatas tetapi juga menjadi elemen estetika yang memperindah tampilan depan rumah? **Pagar kombinasi WPC (Wood Plastic Composite) dan besi hollow** adalah pilihan cerdas yang menggabungkan keindahan visual kayu dengan kekuatan dan kepraktisan material modern.
+Ingin tampilan pagar kayu yang alami tapi takut lapuk dan dimakan rayap? **Pagar Kombinasi WPC (Wood Plastic Composite)** adalah solusinya. Ini adalah tren pagar modern di perumahan Bandung yang menggabungkan estetika villa dengan durabilitas tinggi.
 
-## Apa Itu Pagar Kombinasi WPC & Besi Hollow?
+## Apa itu WPC?
+WPC adalah material campuran serbuk kayu dan plastik.
+*   **Tahan Air**: Tidak akan lapuk meski kena hujan deras Bandung tiap hari.
+*   **Anti Rayap**: Rayap tidak suka material plastik.
+*   **Tampilan Natural**: Memiliki serat dan tekstur persis kayu asli.
 
-Ini adalah pagar yang dirancang dengan struktur rangka utama dari **besi hollow galvanis** yang kokoh, kemudian dilapisi atau dipadukan dengan panel atau papan **WPC**. WPC sendiri adalah material komposit dari serat kayu dan plastik yang memiliki tampilan dan tekstur persis seperti kayu asli, namun dengan daya tahan yang jauh lebih unggul.
+## Spesifikasi Pagar WPC Las Pagar Bandung:
+*   **Rangka Utama**: Besi Hollow Galvanis 4x6 / 5x10 (Tebal 1.4 - 1.6mm).
+*   **Isian**: Panel WPC import (Warna Coklat Tua / Muda / Abu).
+*   **Finishing Rangka**: Cat Duco / Powder Coating Hitam Doff.
 
-## Mengapa Memilih Pagar Kombinasi Ini?
+## Keuntungan:
+1.  **Minim Perawatan**: Tidak perlu vernis ulang tiap tahun.
+2.  **Privasi Terjaga**: Papan WPC bisa dipasang rapat (blind) atau ada celah (kisi-kisi).
+3.  **Modern**: Cocok untuk fasad rumah Industrial, Tropical, atau Minimalis.
 
-### ✅ **Tampilan Elegan & Natural**
-- Memiliki grain (serat) dan warna yang mirip sekali dengan kayu alam (tersedia pilihan warna coklat kayu, abu-abu, dll).
-- Memberikan kesan hangat, alami, dan berkelas pada eksterior rumah.
+**Harga Mulai Rp 1.500.000 / m² (Terima Beres)**
 
-### ✅ **Sangat Minim Perawatan (Low Maintenance)**
-- **Tidak perlu di cat ulang** setiap tahun seperti pagar besi biasa.
-- **Tahan rayap dan lapuk**, tidak seperti kayu asli yang rentan.
-- Cukup dibersihkan dengan air dan sabun lembut jika kotor.
+**[Lihat Juga: Pagar Laser Cutting Custom](/products/pagar-plat-laser-cutting-cimahi-bandung)**
 
-### ✅ **Kuat & Tahan Lama**
-- Struktur rangka **besi hollow** memberikan kekuatan dan stabilitas maksimal.
-- Material **WPC tahan terhadap segala cuaca** (panas, hujan, lembab) tanpa mudah melengkung atau retak.
-- Finishing anti karat pada besi hollow menjamin ketahanan jangka panjang.
-
-### ✅ **Lebih Aman & Privasi Terjaga**
-- Konstruksi yang solid dan kokoh meningkatkan keamanan.
-- Dapat dirancang dengan kerapatan dan tinggi yang optimal untuk privasi.
-
-
-
-## Ide Desain & Motif
-
-Pagar kombinasi ini sangat fleksibel. Beberapa motif populer yang bisa kami buat:
-*   **Motif Horizontal atau Vertikal:** Papan WPC dipasang sejajar secara horizontal untuk kesan modern, atau vertikal untuk kesan lansekap.
-*   **Kombinasi dengan Besi Tempa:** Menyisipkan ornamen besi tempa di bagian tertentu untuk sentuhan klasik.
-*   **Kombinasi dengan Batu Alam:** Bagian bawah pagar (bawah 1m) menggunakan batu alam, atasnya WPC.
-*   **Panel WPC dengan Ventilasi:** Dirancang dengan celah untuk sirkulasi udara yang baik.
-
-## Perkiraan Harga & Contoh Biaya
-
-**Harga Standar:** **Rp 1.500.000 per meter persegi**.
-*Harga sudah termasuk material WPC, rangka besi hollow galvanis, aksesoris, jasa pasang, dan finishing dasar. Dapat berubah sesuai kompleksitas desain dan kondisi lokasi.*
-
-**Contoh Perhitungan:**
-Untuk pagar depan rumah dengan panjang 10 meter dan tinggi 1.8 meter.
-- Luas: 10 m x 1.8 m = **18 m²**
-- Perkiraan Total Biaya: 18 m² x Rp 1.500.000 = **Rp 27.000.000**
-
-## Proses Pengerjaan
-
-1.  **Konsultasi & Survey:** Diskusi kebutuhan, pengukuran lokasi, dan pemilihan desain & warna WPC.
-2.  **Penawaran & Persetujuan:** Pemberikan RAB detail dan gambar desain untuk disetujui.
-3.  **Fabrikasi:** Proses pembuatan rangka besi dan pemotongan panel WPC di workshop kami.
-4.  **Pemasangan On-site:** Tim kami melakukan instalasi di lokasi Anda dengan rapi dan presisi.
-5.  **Finishing & Serah Terima:** Pembersihan area dan penyerahan pagar siap pakai beserta garansi.
-
----
-
-### 🏡 **Buat Tampilan Depan Rumah Anda Lebih Berkelas!**
-
-Hentikan kekhawatiran soal pagar yang berkarat, lapuk, atau perlu dicat ulang tiap tahun. Pilih pagar kombinasi WPC & besi hollow yang awet, elegan, dan hemat perawatan.
-
-**Konsultasikan desain pagar impian Anda sekarang! Dapatkan penawaran harga terbaik.**
-
-**Kharisma Steel - Ahlinya Pagar & Kanopi Bandung**  
-📱 **Hubungi via WhatsApp:** [082318993732(https://wa.me/6282318993732)  
-📍 Melayani: Bandung, Cimahi, dan sekitarnya.
+**Pesan Sekarang:**
+[0851-8309-9865](https://wa.me/6285183099865)
