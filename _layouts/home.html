@@ -4,151 +4,204 @@ layout: default
 
 <div class="test2-theme">
 
-<!-- Hero (test2 style) -->
-<section class="hero" id="home">
-    <div class="hero-bg-pattern"></div>
-    <div class="container">
-        <div class="hero-content">
-            <h1>Solusi <span>Las Profesional</span> untuk Rumah & Proyek Anda</h1>
-            <p>Kami menghadirkan jasa las berkualitas dengan harga terjangkau. Dari pagar minimalis hingga konstruksi baja, semua dikerjakan oleh tim profesional.</p>
-            <div class="hero-buttons">
-                <a href="#products" class="btn btn-primary"><i class="fas fa-eye"></i> Lihat Produk</a>
-                <a href="https://wa.me/6282318993732" class="btn btn-secondary"><i class="fab fa-whatsapp"></i> Konsultasi Gratis</a>
-            </div>
-            <div class="hero-stats">
-                <div class="hero-stat"><div class="hero-stat-image">🏗️</div><div class="hero-stat-number">500+</div><div class="hero-stat-label">Proyek Selesai</div></div>
-                <div class="hero-stat"><div class="hero-stat-image">⏱️</div><div class="hero-stat-number">10+</div><div class="hero-stat-label">Tahun Pengalaman</div></div>
-                <div class="hero-stat"><div class="hero-stat-image">😊</div><div class="hero-stat-number">98%</div><div class="hero-stat-label">Klien Puas</div></div>
-            </div>
-        </div>
-        <div class="hero-visual">
-            <div class="hero-image-card">
-                <div class="hero-card-icon">🏗️</div>
-                <h3 class="hero-card-title">Kualitas Terjamin</h3>
-                <p class="hero-card-text">Material berkualitas & pengerjaan profesional dengan garansi kepuasan</p>
-                <div class="hero-features">
-                    <span class="hero-feature"><i class="fas fa-check"></i> Garansi</span>
-                    <span class="hero-feature"><i class="fas fa-check"></i> Cepat</span>
-                    <span class="hero-feature"><i class="fas fa-check"></i> Terjangkau</span>
-                    <span class="hero-feature"><i class="fas fa-check"></i> Profesional</span>
+    <!-- Hero (test2 style) -->
+    <section class="hero" id="home">
+        <div class="hero-bg-pattern"></div>
+        <div class="container">
+            <div class="hero-content">
+                <h1>Solusi <span>Las Profesional</span> untuk Rumah & Proyek Anda</h1>
+                <p>Kami menghadirkan jasa las berkualitas dengan harga terjangkau. Dari pagar minimalis hingga
+                    konstruksi baja, semua dikerjakan oleh tim profesional.</p>
+                <div class="hero-buttons">
+                    <a href="#products" class="btn btn-primary"><i class="fas fa-eye"></i> Lihat Produk</a>
+                    <a href="https://wa.me/6285183099865" class="btn btn-secondary"><i class="fab fa-whatsapp"></i>
+                        Konsultasi Gratis</a>
                 </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Services Section -->
-<section class="section section-light" id="services">
-    <div class="container">
-        <div class="section-header">
-            <a href="/products/" class="inline-block section-badge"><i class="fas fa-tools"></i> Layanan & Produk</a>
-            <h2 class="section-title">Apa yang Kami Tawarkan</h2>
-            <p class="section-subtitle">Solusi las lengkap untuk kebutuhan rumah dan proyek Anda</p>
-            <div class="mt-4">
-                <a href="/products/" class="btn btn-secondary">Lihat Semua Produk</a>
-            </div>
-        </div>
-        <div class="services-grid">
-            <a href="/products/?category=Pagar" class="service-card service-link"><div class="service-icon">🏠</div><h3>Pagar</h3></a>
-            <a href="/products/?category=Kanopi" class="service-card service-link"><div class="service-icon">☀️</div><h3>Kanopi</h3></a>
-            <a href="/products/?category=Tangga" class="service-card service-link"><div class="service-icon">🪜</div><h3>Tangga</h3></a>
-            <a href="/products/?category=Konstruksi" class="service-card service-link"><div class="service-icon">🏗️</div><h3>Konstruksi Baja</h3></a>
-        </div>
-    </div>
-</section>
-
-<!-- Products Section (dynamic) -->
-<section class="section section-white" id="products">
-    <div class="container">
-        <div class="section-header">
-            <span class="section-badge"><i class="fas fa-cube"></i> Produk Unggulan</span>
-            <h2 class="section-title">Produk Terbaru</h2>
-            <p class="section-subtitle">Lihat karya terbaik yang telah memuaskan ratusan pelanggan</p>
-            <div class="mt-4">
-                <a href="/products/" class="btn btn-secondary">Lihat Semua Produk</a>
-            </div>
-        </div>
-        <div class="products-grid">
-            {% for p in site.products limit:8 %}
-            <div class="product-card">
-                <a href="{{ p.url }}" class="product-image" style="height:180px; display:block; overflow:hidden;">{% if p.image %}<img src="{{ p.image | relative_url }}" alt="{{ p.title }}" style="width:100%;height:100%;object-fit:cover">{% else %}<div style="display:flex;align-items:center;justify-content:center;height:100%">🏠</div>{% endif %}</a>
-                <div class="product-content">
-                    <h3><a href="{{ p.url }}">{{ p.title }}</a></h3>
-                    <div class="product-price">
-                        <span class="price-label">{{ p.price }}</span>
-                        <a href="https://wa.me/6282318993732?text=Saya%20tertarik%20{{ p.title | url_encode }}" class="price-btn"><i class="fab fa-whatsapp"></i></a>
+                <div class="hero-stats">
+                    <div class="hero-stat">
+                        <div class="hero-stat-image">🏗️</div>
+                        <div class="hero-stat-number">500+</div>
+                        <div class="hero-stat-label">Proyek Selesai</div>
+                    </div>
+                    <div class="hero-stat">
+                        <div class="hero-stat-image">⏱️</div>
+                        <div class="hero-stat-number">10+</div>
+                        <div class="hero-stat-label">Tahun Pengalaman</div>
+                    </div>
+                    <div class="hero-stat">
+                        <div class="hero-stat-image">😊</div>
+                        <div class="hero-stat-number">98%</div>
+                        <div class="hero-stat-label">Klien Puas</div>
                     </div>
                 </div>
             </div>
-            {% endfor %}
-        </div>
-    </div>
-</section>
-
-<!-- CTA Section -->
-<section class="section section-white">
-    <div class="container">
-        <div class="cta-box">
-            <div class="cta-content">
-                <h2>Siap Membangun Proyek Anda?</h2>
-                <p>Hubungi kami sekarang untuk konsultasi gratis! Tim profesional kami siap membantu.</p>
-                <div class="cta-features">
-                    <span class="cta-feature"><i class="fas fa-check-circle"></i> Garansi Kualitas</span>
-                    <span class="cta-feature"><i class="fas fa-check-circle"></i> Harga Kompetitif</span>
-                </div>
-                <div class="cta-buttons">
-                    <a href="https://wa.me/6282318993732" class="btn btn-whatsapp"><i class="fab fa-whatsapp"></i> WhatsApp Sekarang</a>
-                    <a href="tel:+6282318993732" class="btn btn-secondary"><i class="fas fa-phone"></i> Hubungi Kami</a>
+            <div class="hero-visual">
+                <div class="hero-image-card">
+                    <div class="hero-card-icon">🏗️</div>
+                    <h3 class="hero-card-title">Kualitas Terjamin</h3>
+                    <p class="hero-card-text">Material berkualitas & pengerjaan profesional dengan garansi kepuasan</p>
+                    <div class="hero-features">
+                        <span class="hero-feature"><i class="fas fa-check"></i> Garansi</span>
+                        <span class="hero-feature"><i class="fas fa-check"></i> Cepat</span>
+                        <span class="hero-feature"><i class="fas fa-check"></i> Terjangkau</span>
+                        <span class="hero-feature"><i class="fas fa-check"></i> Profesional</span>
+                    </div>
                 </div>
             </div>
-            <div class="cta-visual"><div class="cta-icon-box"><i class="fas fa-hard-hat"></i></div><h3>500+ Proyek Selesai</h3></div>
         </div>
-    </div>
-</section>
+    </section>
 
-<!-- Blog Section -->
-<section class="section section-light" id="blog">
-    <div class="container">
-        <div class="section-header">
-            <span class="section-badge"><i class="fas fa-newspaper"></i> Artikel & Tips</span>
-            <h2 class="section-title">Tips & Artikel</h2>
-            <p class="section-subtitle">Panduan seputar konstruksi besi dan eksterior rumah.</p>
-            <div class="mt-4">
-                <a href="/archive.html" class="btn btn-secondary">Semua Artikel</a>
-            </div>
-        </div>
-        <div class="blog-grid">
-            {% for post in site.posts limit:6 %}
-            <article class="blog-card">
-                <a href="{{ post.url }}" class="blog-image" style="height:140px;display:block;overflow:hidden;">{% if post.image %}<img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="width:100%;height:100%;object-fit:cover">{% endif %}</a>
-                <div class="blog-content">
-                    <div class="blog-meta"><span>{{ post.date | date: "%-d %b %Y" }}</span></div>
-                    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <!-- Services Section -->
+    <section class="section section-light" id="services">
+        <div class="container">
+            <div class="section-header">
+                <a href="/products/" class="inline-block section-badge"><i class="fas fa-tools"></i> Layanan &
+                    Produk</a>
+                <h2 class="section-title">Apa yang Kami Tawarkan</h2>
+                <p class="section-subtitle">Solusi las lengkap untuk kebutuhan rumah dan proyek Anda</p>
+                <div class="mt-4">
+                    <a href="/products/" class="btn btn-secondary">Lihat Semua Produk</a>
                 </div>
-            </article>
-            {% endfor %}
-        </div>
-    </div>
-</section>
-
-<!-- Contact Section -->
-<section class="section section-white" id="contact">
-    <div class="container">
-        <div class="section-header">
-            <span class="section-badge"><i class="fas fa-map-marker-alt"></i> Hubungi Kami</span>
-            <h2 class="section-title">Lokasi & Kontak</h2>
-            <p class="section-subtitle">Kunjungi workshop kami atau hubungi melalui kontak di bawah</p>
-        </div>
-        <div class="contact-grid">
-            <div class="contact-info">
-                <h3>Informasi Kontak</h3>
-                <p>Silakan hubungi kami melalui salah satu kontak berikut untuk konsultasi atau order.</p>
-                <div class="contact-item"><div class="contact-icon"><i class="fas fa-map-marker-alt"></i></div><div class="contact-text"><h4>Alamat Workshop</h4><p>Jl. Cigugur Girang No.rt03 rw 07, Parongpong, Bandung, Jawa Barat 40559</p></div></div>
-                <div class="contact-item"><div class="contact-icon"><i class="fab fa-whatsapp"></i></div><div class="contact-text"><h4>WhatsApp / Telepon</h4><a href="https://wa.me/6282318993732">+62 823-1899-3732</a></div></div>
             </div>
-            <div class="map-container"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7922.994528281451!2d107.58041575869142!3d-6.830822893043321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Lokasi"></iframe></div>
+            <div class="services-grid">
+                <a href="/products/?category=Pagar" class="service-card service-link">
+                    <div class="service-icon">🏠</div>
+                    <h3>Pagar</h3>
+                </a>
+                <a href="/products/?category=Kanopi" class="service-card service-link">
+                    <div class="service-icon">☀️</div>
+                    <h3>Kanopi</h3>
+                </a>
+                <a href="/products/?category=Tangga" class="service-card service-link">
+                    <div class="service-icon">🪜</div>
+                    <h3>Tangga</h3>
+                </a>
+                <a href="/products/?category=Konstruksi" class="service-card service-link">
+                    <div class="service-icon">🏗️</div>
+                    <h3>Konstruksi Baja</h3>
+                </a>
+            </div>
         </div>
-    </div>
-</section>
+    </section>
+
+    <!-- Products Section (dynamic) -->
+    <section class="section section-white" id="products">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-badge"><i class="fas fa-cube"></i> Produk Unggulan</span>
+                <h2 class="section-title">Produk Terbaru</h2>
+                <p class="section-subtitle">Lihat karya terbaik yang telah memuaskan ratusan pelanggan</p>
+                <div class="mt-4">
+                    <a href="/products/" class="btn btn-secondary">Lihat Semua Produk</a>
+                </div>
+            </div>
+            <div class="products-grid">
+                {% for p in site.products limit:8 %}
+                <div class="product-card">
+                    <a href="{{ p.url }}" class="product-image" style="height:180px; display:block; overflow:hidden;">{%
+                        if p.image %}<img src="{{ p.image | relative_url }}" alt="{{ p.title }}"
+                            style="width:100%;height:100%;object-fit:cover">{% else %}<div
+                            style="display:flex;align-items:center;justify-content:center;height:100%">🏠</div>{% endif
+                        %}</a>
+                    <div class="product-content">
+                        <h3><a href="{{ p.url }}">{{ p.title }}</a></h3>
+                        <div class="product-price">
+                            <span class="price-label">{{ p.price }}</span>
+                            <a href="https://wa.me/6285183099865?text=Saya%20tertarik%20{{ p.title | url_encode }}"
+                                class="price-btn"><i class="fab fa-whatsapp"></i></a>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="section section-white">
+        <div class="container">
+            <div class="cta-box">
+                <div class="cta-content">
+                    <h2>Siap Membangun Proyek Anda?</h2>
+                    <p>Hubungi kami sekarang untuk konsultasi gratis! Tim profesional kami siap membantu.</p>
+                    <div class="cta-features">
+                        <span class="cta-feature"><i class="fas fa-check-circle"></i> Garansi Kualitas</span>
+                        <span class="cta-feature"><i class="fas fa-check-circle"></i> Harga Kompetitif</span>
+                    </div>
+                    <div class="cta-buttons">
+                        <a href="https://wa.me/6285183099865" class="btn btn-whatsapp"><i class="fab fa-whatsapp"></i>
+                            WhatsApp Sekarang</a>
+                        <a href="tel:+6285183099865" class="btn btn-secondary"><i class="fas fa-phone"></i> Hubungi
+                            Kami</a>
+                    </div>
+                </div>
+                <div class="cta-visual">
+                    <div class="cta-icon-box"><i class="fas fa-hard-hat"></i></div>
+                    <h3>500+ Proyek Selesai</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Blog Section -->
+    <section class="section section-light" id="blog">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-badge"><i class="fas fa-newspaper"></i> Artikel & Tips</span>
+                <h2 class="section-title">Tips & Artikel</h2>
+                <p class="section-subtitle">Panduan seputar konstruksi besi dan eksterior rumah.</p>
+                <div class="mt-4">
+                    <a href="/archive.html" class="btn btn-secondary">Semua Artikel</a>
+                </div>
+            </div>
+            <div class="blog-grid">
+                {% for post in site.posts limit:6 %}
+                <article class="blog-card">
+                    <a href="{{ post.url }}" class="blog-image" style="height:140px;display:block;overflow:hidden;">{%
+                        if post.image %}<img src="{{ post.image | relative_url }}" alt="{{ post.title }}"
+                            style="width:100%;height:100%;object-fit:cover">{% endif %}</a>
+                    <div class="blog-content">
+                        <div class="blog-meta"><span>{{ post.date | date: "%-d %b %Y" }}</span></div>
+                        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                    </div>
+                </article>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="section section-white" id="contact">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-badge"><i class="fas fa-map-marker-alt"></i> Hubungi Kami</span>
+                <h2 class="section-title">Lokasi & Kontak</h2>
+                <p class="section-subtitle">Kunjungi workshop kami atau hubungi melalui kontak di bawah</p>
+            </div>
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <h3>Informasi Kontak</h3>
+                    <p>Silakan hubungi kami melalui salah satu kontak berikut untuk konsultasi atau order.</p>
+                    <div class="contact-item">
+                        <div class="contact-icon"><i class="fas fa-map-marker-alt"></i></div>
+                        <div class="contact-text">
+                            <h4>Alamat Workshop</h4>
+                            <p>Jl. Cigugur Girang No.rt03 rw 07, Parongpong, Bandung, Jawa Barat 40559</p>
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <div class="contact-icon"><i class="fab fa-whatsapp"></i></div>
+                        <div class="contact-text">
+                            <h4>WhatsApp / Telepon</h4><a href="https://wa.me/6285183099865">+62 851-8309-9865</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="map-container"><iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7922.994528281451!2d107.58041575869142!3d-6.830822893043321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1"
+                        allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+                        title="Lokasi"></iframe></div>
+            </div>
+        </div>
+    </section>
 
 </div>

@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Tentang Kami | Kharisma Steel - Bengkel Las & Konstruksi Baja Profesional Bandung"
-description: "Kharisma Steel: bengkel las dan konstruksi baja profesional di Parongpong, Bandung sejak 2010. Spesialis kanopi, pagar besi, tangga minimalis, dan konstruksi baja SNI dengan garansi mutu. Free survey & konsultasi desain."
+title: "Tentang Kami | Las Pagar - Bengkel Las & Konstruksi Baja Profesional Bandung"
+description: "Las Pagar: bengkel las dan konstruksi baja profesional di Parongpong, Bandung sejak 2010. Spesialis kanopi, pagar besi, tangga minimalis, dan konstruksi baja SNI dengan garansi mutu. Free survey & konsultasi desain."
 permalink: /tentang/
 ---
 
 <section class="prose prose-lg max-w-none py-8 md:py-12">
   
   <div class="text-center mb-10">
-    <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Tentang Kharisma Steel</h1>
+    <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Tentang Las Pagar</h1>
     <p class="text-lg text-slate-600 max-w-3xl mx-auto">Bengkel Las dan Spesialis Konstruksi Baja Berkualitas di Bandung Barat</p>
   </div>
 
   <div class="grid md:grid-cols-2 gap-8 mb-12">
     <div>
       <h2 class="text-2xl font-bold text-slate-800 mb-6">Profil Perusahaan</h2>
-      <p class="mb-4"><strong>Kharisma Steel</strong> adalah bengkel las dan penyedia jasa konstruksi baja profesional yang telah berpengalaman melayani <strong>Bandung dan sekitarnya sejak 2010</strong>.</p>
+      <p class="mb-4"><strong>Las Pagar</strong> adalah bengkel las dan penyedia jasa konstruksi baja profesional yang telah berpengalaman melayani <strong>Bandung dan sekitarnya sejak 2010</strong>.</p>
       <p class="mb-4">Kami mengkhususkan diri dalam pembuatan produk besi dengan standar SNI untuk kebutuhan hunian, komersial, dan industri, seperti <strong>kanopi minimalis</strong>, <strong>pagar besi laser cutting</strong>, <strong>tangga & railing</strong>, serta <strong>konstruksi baja ringan</strong>.</p>
       <p>Visi kami adalah menjadi mitra terpercaya dalam mewujudkan keamanan, keindahan, dan fungsionalitas properti Anda melalui karya besi yang presisi dan tahan lama.</p>
     </div>
@@ -32,14 +32,14 @@ permalink: /tentang/
         </li>
         <li class="flex items-start">
           <span class="mr-2">📞</span>
-          <span><strong>Layanan Pelanggan:</strong><br><a href="tel:+6282318993732" class="text-blue-600 font-semibold hover:underline">0823-1899-3732</a> (Telepon/WA)</span>
+          <span><strong>Layanan Pelanggan:</strong><br><a href="tel:+6285183099865" class="text-blue-600 font-semibold hover:underline">0851-8309-9865</a> (Telepon/WA)</span>
         </li>
       </ul>
     </div>
   </div>
 
   <div class="mb-12">
-    <h2 class="text-2xl font-bold text-slate-800 mb-6">Mengapa Memilih Kharisma Steel?</h2>
+    <h2 class="text-2xl font-bold text-slate-800 mb-6">Mengapa Memilih Las Pagar?</h2>
     <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
       <div class="text-center p-5 bg-white border border-slate-200 rounded-xl shadow-sm hover:shadow-md transition-shadow">
         <div class="text-3xl mb-3">👨‍🏭</div>
