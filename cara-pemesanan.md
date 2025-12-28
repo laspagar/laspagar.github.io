@@ -1,27 +1,55 @@
 ---
-layout: default
-title: "Cara Pemesanan"
-description: "Langkah mudah untuk memesan kanopi, pagar, atau layanan konstruksi dari Las Pagar."
+layout: page
+title: Cara Pemesanan Las Pagar Bandung
 permalink: /cara-pemesanan/
 ---
 
-<section class="prose max-w-none py-12">
+<div class="test2-theme">
+    <div class="container py-12 max-w-4xl">
+        <div class="text-center mb-12">
+            <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Cara Pemesanan Jasa Las Bandung</h1>
+            <p class="text-lg text-slate-600">Proses mudah, transparan, dan amanah. Melayani Bandung, Cimahi, & Padalarang.</p>
+        </div>
 
-## Cara Pemesanan
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+            <!-- Step 1 -->
+            <div class="bg-white p-6 rounded-xl shadow-sm border border-slate-200 relative">
+                <div class="absolute -top-4 -left-4 w-10 h-10 bg-blue-600 text-white rounded-full flex items-center justify-center font-bold text-xl shadow-lg">1</div>
+                <h3 class="text-xl font-bold text-slate-900 mb-3 mt-2">Konsultasi & Survey Gratis</h3>
+                <p class="text-slate-600">Hubungi admin kami via WhatsApp. Kirimkan foto lokasi & ukuran kasar. Untuk area Bandung Raya, kami berikan layanan <strong>Survey Gratis</strong> ke lokasi Anda.</p>
+            </div>
 
-Berikut langkah singkat untuk memesan produk atau jasa kami:
+            <!-- Step 2 -->
+            <div class="bg-white p-6 rounded-xl shadow-sm border border-slate-200 relative">
+                <div class="absolute -top-4 -left-4 w-10 h-10 bg-blue-600 text-white rounded-full flex items-center justify-center font-bold text-xl shadow-lg">2</div>
+                <h3 class="text-xl font-bold text-slate-900 mb-3 mt-2">Penawaran Harga (RAB)</h3>
+                <p class="text-slate-600">Kami akan mengirimkan detail penawaran harga resmi (Quotation) sesuai hasil ukur. Harga transparan, terperinci spesifikasi bahannya (Tebal besi, Merk cat, dll).</p>
+            </div>
 
-1. Hubungi kami melalui WhatsApp di [+62 085183099865](https://wa.me/6285183099865) atau telepon langsung.
-2. Jelaskan jenis layanan atau produk yang Anda butuhkan (kanopi, pagar, tangga, dll). Sertakan foto atau alamat untuk survey jika tersedia.
-3. Kami akan menjadwalkan free survey (opsional) dan mengirim estimasi harga serta opsi material/finishing.
-4. Setelah Anda setuju, lakukan konfirmasi pemesanan dan pembayaran DP sesuai kesepakatan.
-5. Produksi & pemasangan dilakukan oleh tim kami pada jadwal yang disepakati; pembayaran pelunasan setelah pekerjaan selesai (atau sesuai perjanjian).
+            <!-- Step 3 -->
+            <div class="bg-white p-6 rounded-xl shadow-sm border border-slate-200 relative">
+                <div class="absolute -top-4 -left-4 w-10 h-10 bg-blue-600 text-white rounded-full flex items-center justify-center font-bold text-xl shadow-lg">3</div>
+                <h3 class="text-xl font-bold text-slate-900 mb-3 mt-2">DP & Pengerjaan</h3>
+                <p class="text-slate-600">Deal harga? Cukup DP 30-50% sebagai tanda jadi. Tim kami langsung fabrikasi pesanan Anda di workshop Parongpong. Anda akan dapat update foto proses pengerjaan.</p>
+            </div>
 
-### Catatan Penting
+            <!-- Step 4 -->
+            <div class="bg-white p-6 rounded-xl shadow-sm border border-slate-200 relative">
+                <div class="absolute -top-4 -left-4 w-10 h-10 bg-green-500 text-white rounded-full flex items-center justify-center font-bold text-xl shadow-lg">4</div>
+                <h3 class="text-xl font-bold text-slate-900 mb-3 mt-2">Pemasangan & Pelunasan</h3>
+                <p class="text-slate-600">Tim instalasi datang ke rumah Anda untuk pemasangan. Setelah selesai, rapi, dan Anda puas, baru lakukan pelunasan sisa pembayaran.</p>
+            </div>
+        </div>
 
-- Harga dapat berubah tergantung spesifikasi bahan dan lokasi pemasangan.
-- Waktu produksi bergantung pada antrean pesanan dan ketersediaan material.
-
-Jika butuh bantuan memilih material atau mendapatkan estimasi cepat, kirim pesan ke WhatsApp kami dan lampirkan foto lokasi atau desain yang diinginkan.
-
-</section>
+        <div class="bg-blue-50 rounded-xl p-8 text-center border border-blue-100">
+            <h2 class="text-2xl font-bold text-slate-900 mb-4">Siap Memesan?</h2>
+            <p class="text-slate-600 mb-6">Jangan ragu bertanya, konsultasi 100% GRATIS tanpa kewajiban memesan.</p>
+            <a href="https://wa.me/6285183099865?text=Halo%20Las%20Pagar,%20saya%20mau%20tanya%20harga%20untuk%20pembuatan..." class="inline-flex items-center bg-blue-600 text-white px-8 py-4 rounded-full font-bold shadow-lg hover:bg-blue-700 transition-colors">
+                <i class="fab fa-whatsapp text-2xl mr-3"></i> Hubungi Kami Sekarang
+            </a>
+            <div class="mt-4 text-sm text-slate-500">
+                Respon Cepat: Senin - Minggu (08.00 - 21.00 WIB)
+            </div>
+        </div>
+    </div>
+</div>

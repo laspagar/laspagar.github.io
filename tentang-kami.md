@@ -1,107 +1,79 @@
 ---
-layout: default
-title: "Tentang Kami | Las Pagar - Bengkel Las & Konstruksi Baja Profesional Bandung"
-description: "Las Pagar: bengkel las dan konstruksi baja profesional di Parongpong, Bandung sejak 2010. Spesialis kanopi, pagar besi, tangga minimalis, dan konstruksi baja SNI dengan garansi mutu. Free survey & konsultasi desain."
-permalink: /tentang/
+layout: page
+title: Tentang Las Pagar Bandung
+permalink: /tentang-kami/
 ---
 
-<section class="prose prose-lg max-w-none py-8 md:py-12">
-  
-  <div class="text-center mb-10">
-    <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Tentang Las Pagar</h1>
-    <p class="text-lg text-slate-600 max-w-3xl mx-auto">Bengkel Las dan Spesialis Konstruksi Baja Berkualitas di Bandung Barat</p>
-  </div>
+<div class="test2-theme">
+    <div class="container py-12">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16">
+            <div>
+                <span class="text-blue-600 font-bold tracking-wider uppercase text-sm mb-2 block">Profil Perusahaan</span>
+                <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Bengkel Las Bandung Terpercaya & Berpengalaman</h1>
+                <p class="text-slate-600 mb-6 leading-relaxed">
+                    <strong>Las Pagar Bandung</strong> adalah penyedia jasa konstruksi besi dan baja ringan yang berbasis di Parongpong, Bandung Barat. Kami telah melayani ratusan warga Bandung, Cimahi, hingga Padalarang dalam mewujudkan rumah impian mereka.
+                </p>
+                <p class="text-slate-600 mb-6 leading-relaxed">
+                    Berawal dari bengkel las kecil, kini kami berkembang menjadi partner terpercaya untuk berbagai kebutuhan eksterior rumah mulai dari pagar minimalis, kanopi modern, hingga konstruksi baja berat. Keunggulan kami adalah transparansi harga dan kualitas material yang <strong>Full SNI</strong>.
+                </p>
+                <div class="flex flex-wrap gap-4">
+                    <div class="bg-blue-50 p-4 rounded-lg border border-blue-100">
+                        <span class="block text-2xl font-bold text-blue-600 mb-1">10+</span>
+                        <span class="text-sm text-slate-600">Tahun Pengalaman</span>
+                    </div>
+                    <div class="bg-blue-50 p-4 rounded-lg border border-blue-100">
+                        <span class="block text-2xl font-bold text-blue-600 mb-1">500+</span>
+                        <span class="text-sm text-slate-600">Proyek Bandung</span>
+                    </div>
+                </div>
+            </div>
+            <div class="rounded-xl overflow-hidden shadow-2xl skew-y-3 transform hover:skew-y-0 transition-transform duration-500">
+                <img src="/assets/products/kanopi-mezzanine-bandung.jpg" alt="Bengkel Las Pagar Bandung" class="w-full h-full object-cover">
+            </div>
+        </div>
 
-  <div class="grid md:grid-cols-2 gap-8 mb-12">
-    <div>
-      <h2 class="text-2xl font-bold text-slate-800 mb-6">Profil Perusahaan</h2>
-      <p class="mb-4"><strong>Las Pagar</strong> adalah bengkel las dan penyedia jasa konstruksi baja profesional yang telah berpengalaman melayani <strong>Bandung dan sekitarnya sejak 2010</strong>.</p>
-      <p class="mb-4">Kami mengkhususkan diri dalam pembuatan produk besi dengan standar SNI untuk kebutuhan hunian, komersial, dan industri, seperti <strong>kanopi minimalis</strong>, <strong>pagar besi laser cutting</strong>, <strong>tangga & railing</strong>, serta <strong>konstruksi baja ringan</strong>.</p>
-      <p>Visi kami adalah menjadi mitra terpercaya dalam mewujudkan keamanan, keindahan, dan fungsionalitas properti Anda melalui karya besi yang presisi dan tahan lama.</p>
+        <!-- Vision Mission -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16">
+            <div class="bg-white p-8 rounded-xl shadow-sm border border-slate-100 hover:shadow-md transition-shadow">
+                <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-xl mb-4"><i class="fas fa-eye"></i></div>
+                <h3 class="text-xl font-bold text-slate-900 mb-3">Visi Kami</h3>
+                <p class="text-slate-600 text-sm leading-relaxed">Menjadi bengkel las rujukan utama di Kota Bandung yang dikenal karena kualitas, kejujuran, dan inovasi desain.</p>
+            </div>
+            <div class="bg-white p-8 rounded-xl shadow-sm border border-slate-100 hover:shadow-md transition-shadow">
+                <div class="w-12 h-12 bg-indigo-100 text-indigo-600 rounded-lg flex items-center justify-center text-xl mb-4"><i class="fas fa-bullseye"></i></div>
+                <h3 class="text-xl font-bold text-slate-900 mb-3">Misi Kami</h3>
+                <ul class="text-slate-600 text-sm leading-relaxed space-y-2">
+                    <li class="flex items-start"><span class="mr-2 text-indigo-500">•</span> Menggunakan material SNI terbaik.</li>
+                    <li class="flex items-start"><span class="mr-2 text-indigo-500">•</span> Memberikan garansi nyata bukan janji.</li>
+                    <li class="flex items-start"><span class="mr-2 text-indigo-500">•</span> Edukasi pelanggan tentang kualitas besi.</li>
+                </ul>
+            </div>
+            <div class="bg-white p-8 rounded-xl shadow-sm border border-slate-100 hover:shadow-md transition-shadow">
+                <div class="w-12 h-12 bg-violet-100 text-violet-600 rounded-lg flex items-center justify-center text-xl mb-4"><i class="fas fa-heart"></i></div>
+                <h3 class="text-xl font-bold text-slate-900 mb-3">Nilai Kami</h3>
+                <p class="text-slate-600 text-sm leading-relaxed">Amanah, Rapi, Tepat Waktu. Tiga hal yang selalu kami pegang dalam setiap proyek pemasangan pagar atau kanopi di Bandung.</p>
+            </div>
+        </div>
+
+        <!-- Contact Section -->
+        <div class="bg-slate-900 rounded-2xl p-8 md:p-12 text-center text-white relative overflow-hidden">
+            <div class="absolute top-0 left-0 w-full h-full opacity-10">
+                <div class="grid grid-cols-6 gap-4 transform -rotate-12 scale-150">
+                    <div class="h-32 bg-white rounded-full"></div>
+                    <!-- Pattern dots, simplified -->
+                </div>
+            </div>
+            <div class="relative z-10">
+                <h2 class="text-3xl font-bold mb-4">Siap Mempercantik Rumah Anda?</h2>
+                <p class="text-slate-300 mb-8 max-w-2xl mx-auto">Konsultasikan kebutuhan las pagar, kanopi, atau konstruksi Anda dengan tim ahli kami. Survey Gratis untuk area Bandung & Cimahi!</p>
+                <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+                    <a href="https://wa.me/6285183099865" class="bg-green-500 hover:bg-green-600 text-white px-8 py-3 rounded-full font-bold transition-all shadow-lg hover:shadow-green-500/30 flex items-center">
+                        <i class="fab fa-whatsapp mr-2"></i> Chat WhatsApp
+                    </a>
+                    <div class="text-slate-400 text-sm sm:mx-2">atau</div>
+                    <span class="text-xl font-bold font-mono text-blue-400">0851-8309-9865</span>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="bg-slate-50 p-6 rounded-xl border border-slate-200">
-      <h3 class="text-xl font-semibold text-slate-800 mb-4">🏠 Lokasi & Jam Operasional</h3>
-      <ul class="space-y-3">
-        <li class="flex items-start">
-          <span class="mr-2">📍</span>
-          <span><strong>Alamat Workshop:</strong><br>Jl. Cigugur Girang No.RT03 RW07, Cigugur Girang, Parongpong, Bandung Barat, Jawa Barat 40559</span>
-        </li>
-        <li class="flex items-start">
-          <span class="mr-2">🕒</span>
-          <span><strong>Jam Operasional:</strong><br>Senin - Sabtu: 08.00 - 17.00 WIB<br>Minggu: Tersedia untuk konsultasi via telepon/WA</span>
-        </li>
-        <li class="flex items-start">
-          <span class="mr-2">📞</span>
-          <span><strong>Layanan Pelanggan:</strong><br><a href="tel:+6285183099865" class="text-blue-600 font-semibold hover:underline">0851-8309-9865</a> (Telepon/WA)</span>
-        </li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="mb-12">
-    <h2 class="text-2xl font-bold text-slate-800 mb-6">Mengapa Memilih Las Pagar?</h2>
-    <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
-      <div class="text-center p-5 bg-white border border-slate-200 rounded-xl shadow-sm hover:shadow-md transition-shadow">
-        <div class="text-3xl mb-3">👨‍🏭</div>
-        <h3 class="font-bold text-slate-800 mb-2">Tenaga Ahli Berpengalaman</h3>
-        <p class="text-sm text-slate-600">Dikerjakan oleh tukang las dan teknisi dengan pengalaman 10+ tahun di bidang fabrikasi besi.</p>
-      </div>
-      <div class="text-center p-5 bg-white border border-slate-200 rounded-xl shadow-sm hover:shadow-md transition-shadow">
-        <div class="text-3xl mb-3">⚙️</div>
-        <h3 class="font-bold text-slate-800 mb-2">Material Berkualitas SNI</h3>
-        <p class="text-sm text-slate-600">Menggunakan material pilihan (besi hollow, plat, pipa) dengan ketebalan dan spesifikasi standar.</p>
-      </div>
-      <div class="text-center p-5 bg-white border border-slate-200 rounded-xl shadow-sm hover:shadow-md transition-shadow">
-        <div class="text-3xl mb-3">🎨</div>
-        <h3 class="font-bold text-slate-800 mb-2">Finishing Premium</h3>
-        <p class="text-sm text-slate-600">Finishing powder coating atau cat duco yang rata, anti karat, dan tersedia dalam berbagai pilihan warna.</p>
-      </div>
-      <div class="text-center p-5 bg-white border border-slate-200 rounded-xl shadow-sm hover:shadow-md transition-shadow">
-        <div class="text-3xl mb-3">✅</div>
-        <h3 class="font-bold text-slate-800 mb-2">Garansi Pekerjaan</h3>
-        <p class="text-sm text-slate-600">Garansi hingga 1 tahun untuk konstruksi dan finishing, menjamin kepuasan dan ketahanan produk.</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="mb-10">
-    <h2 class="text-2xl font-bold text-slate-800 mb-6">Layanan Unggulan Kami</h2>
-    <ul class="grid sm:grid-cols-2 gap-4 list-none pl-0">
-      <li class="flex items-start p-3 bg-blue-50 rounded-lg">
-        <span class="mr-3 mt-1">✅</span>
-        <div>
-          <strong class="text-slate-800">Kanopi & Atap</strong>
-          <p class="text-sm text-slate-600 mt-1">Kanopi minimalis Alderon/Spandek, kanopi kaca, carport, canopy teras.</p>
-        </div>
-      </li>
-      <li class="flex items-start p-3 bg-blue-50 rounded-lg">
-        <span class="mr-3 mt-1">✅</span>
-        <div>
-          <strong class="text-slate-800">Pagar & Railing</strong>
-          <p class="text-sm text-slate-600 mt-1">Pagar besi minimalis, pagar laser cutting, railing tangga & balkon.</p>
-        </div>
-      </li>
-      <li class="flex items-start p-3 bg-blue-50 rounded-lg">
-        <span class="mr-3 mt-1">✅</span>
-        <div>
-          <strong class="text-slate-800">Tangga Besi</strong>
-          <p class="text-sm text-slate-600 mt-1">Tangga besi minimalis, tangga putar, tangga untuk rumah dan ruko.</p>
-        </div>
-      </li>
-      <li class="flex items-start p-3 bg-blue-50 rounded-lg">
-        <span class="mr-3 mt-1">✅</span>
-        <div>
-          <strong class="text-slate-800">Konstruksi Baja</strong>
-          <p class="text-sm text-slate-600 mt-1">Konstruksi baja ringan, mezzanine, gudang, dan struktur bangunan.</p>
-        </div>
-      </li>
-    </ul>
-  </div>
-
-  <div class="bg-gradient-to-r from-blue-50 to-indigo-50 p-6 md:p-8 rounded-2xl border border-blue-200">
-    <h2 class="text-2xl font-bold text-slate-800 mb-4">Konsultasi & Penawaran Gratis</h2>
-    <p class="mb-6">Ingin berkonsultasi mengenai proyek kanopi, pagar, atau konstruksi baja Anda? Tim kami siap membantu dengan layanan <strong>FREE SURVEY</strong> ke lokasi (area Bandung Raya) dan <strong>FREE ESTIMASI BIAYA</strong> yang transparan.</p>
-    
- 
-  </div>
-</section>
+</div>
