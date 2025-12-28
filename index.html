@@ -2,17 +2,371 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
+<!-- Hero Section -->
+<section class="hero" id="home">
+  <div class="hero-bg-pattern"></div>
+  <div class="container">
+    <div class="hero-content">
+      <h1>Solusi <span>Las Profesional</span> untuk Rumah & Proyek Anda</h1>
+      <p>Kami menghadirkan jasa las berkualitas dengan harga terjangkau. Dari pagar minimalis hingga konstruksi baja,
+        semua dikerjakan oleh tim profesional.</p>
+      <div class="hero-buttons">
+        <a href="#products" class="btn btn-primary">
+          <i class="fas fa-eye"></i> Lihat Produk
+        </a>
+        <a href="https://wa.me/6285183099865" class="btn btn-secondary">
+          <i class="fab fa-whatsapp"></i> Konsultasi Gratis
+        </a>
       </div>
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <div class="hero-stat-number">500+</div>
+          <div class="hero-stat-label">Proyek Selesai</div>
+        </div>
+        <div class="hero-stat">
+          <div class="hero-stat-number">10+</div>
+          <div class="hero-stat-label">Tahun Pengalaman</div>
+        </div>
+        <div class="hero-stat">
+          <div class="hero-stat-number">98%</div>
+          <div class="hero-stat-label">Klien Puas</div>
+        </div>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="hero-image-card">
+        <div class="hero-card-icon">🏗️</div>
+        <h3 class="hero-card-title">Kualitas Terjamin</h3>
+        <p class="hero-card-text">Material berkualitas & pengerjaan profesional dengan garansi kepuasan</p>
+        <div class="hero-features">
+          <span class="hero-feature"><i class="fas fa-check"></i> Garansi</span>
+          <span class="hero-feature"><i class="fas fa-check"></i> Cepat</span>
+          <span class="hero-feature"><i class="fas fa-check"></i> Terjangkau</span>
+          <span class="hero-feature"><i class="fas fa-check"></i> Profesional</span>
+        </div>
+      </div>
+      <div class="hero-floating-card card-1">
+        <div class="floating-icon orange">📞</div>
+        <div class="floating-text">
+          <strong>Fast Response</strong>
+          <span>Balas dalam 5 menit</span>
+        </div>
+      </div>
+      <div class="hero-floating-card card-2">
+        <div class="floating-icon blue">⭐</div>
+        <div class="floating-text">
+          <strong>Rating 4.9/5</strong>
+          <span>200+ Review</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+<!-- Services Section -->
+<section class="section section-light" id="services">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-badge"><i class="fas fa-tools"></i> Layanan Kami</span>
+      <h2 class="section-title">Apa yang Kami Tawarkan</h2>
+      <p class="section-subtitle">Solusi las lengkap untuk kebutuhan rumah dan proyek Anda</p>
+    </div>
+    <div class="services-grid">
+      <div class="service-card">
+        <div class="service-icon">🏠</div>
+        <h3>Pagar Minimalis</h3>
+        <p>Simpel, modern, dan tetap aman buat rumahmu dengan desain elegan kontemporer.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">☀️</div>
+        <h3>Kanopi</h3>
+        <p>Lindungi teras atau halaman dari panas dan hujan dengan tampilan tetap keren!</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🪜</div>
+        <h3>Railing Tangga</h3>
+        <p>Tangga lebih aman dan stylish dengan railing besi berkualitas tinggi.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🚪</div>
+        <h3>Teralis Jendela & Pintu</h3>
+        <p>Amanin rumah tanpa ngorbanin gaya dengan desain artistik modern.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">📏</div>
+        <h3>Pagar Espanda</h3>
+        <p>Pagar kuat, simpel, dan ramah di kantong untuk pembatas area efektif.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">✨</div>
+        <h3>Pagar Tempa</h3>
+        <p>Tampil klasik dan mewah dengan pagar besi tempa penuh ornamen indah.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🪟</div>
+        <h3>Kanopi Kaca</h3>
+        <p>Kanopi kaca modern untuk tampilan lebih elegan dan terkesan mewah.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🏗️</div>
+        <h3>Konstruksi Baja</h3>
+        <p>Kuat, tahan lama, pas buat proyek besar seperti gudang dan pabrik.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Products Section -->
+<section class="section section-white" id="products">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-badge"><i class="fas fa-cube"></i> Produk Unggulan</span>
+      <h2 class="section-title">Portfolio Kami</h2>
+      <p class="section-subtitle">Lihat karya terbaik yang telah memuaskan ratusan pelanggan</p>
+    </div>
+    <div class="products-grid">
+      <div class="product-card">
+        <div class="product-image pink">
+          <span class="product-badge">Populer</span>
+          🏠
+        </div>
+        <div class="product-content">
+          <h3>Pagar Minimalis</h3>
+          <p>Desain simpel dengan material galvanis berkualitas tinggi</p>
+          <div class="product-price">
+            <span class="price-label">Mulai Rp 250rb/m</span>
+            <a href="https://wa.me/6285183099865?text=Saya%20tertarik%20Pagar%20Minimalis" class="price-btn">
+              <i class="fab fa-whatsapp"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="product-card">
+        <div class="product-image blue">
+          <span class="product-badge">Best Seller</span>
+          ☀️
+        </div>
+        <div class="product-content">
+          <h3>Kanopi Polycarbonate</h3>
+          <p>Perlindungan optimal dari panas dan hujan</p>
+          <div class="product-price">
+            <span class="price-label">Mulai Rp 1.5jt</span>
+            <a href="https://wa.me/6285183099865?text=Saya%20tertarik%20Kanopi" class="price-btn">
+              <i class="fab fa-whatsapp"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="product-card">
+        <div class="product-image green">
+          🪜
+        </div>
+        <div class="product-content">
+          <h3>Railing Tangga</h3>
+          <p>Aman dan stylish untuk tangga rumah tinggal</p>
+          <div class="product-price">
+            <span class="price-label">Mulai Rp 800rb</span>
+            <a href="https://wa.me/6285183099865?text=Saya%20tertarik%20Railing%20Tangga" class="price-btn">
+              <i class="fab fa-whatsapp"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="product-card">
+        <div class="product-image orange">
+          🚪
+        </div>
+        <div class="product-content">
+          <h3>Teralis Jendela</h3>
+          <p>Keamanan maksimal dengan desain artistik</p>
+          <div class="product-price">
+            <span class="price-label">Mulai Rp 500rb</span>
+            <a href="https://wa.me/6285183099865?text=Saya%20tertarik%20Teralis" class="price-btn">
+              <i class="fab fa-whatsapp"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="product-card">
+        <div class="product-image purple">
+          📏
+        </div>
+        <div class="product-content">
+          <h3>Pagar Espanda</h3>
+          <p>Ekonomis namun tetap kokoh dan tahan lama</p>
+          <div class="product-price">
+            <span class="price-label">Mulai Rp 150rb/m</span>
+            <a href="https://wa.me/6285183099865?text=Saya%20tertarik%20Pagar%20Espanda" class="price-btn">
+              <i class="fab fa-whatsapp"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="product-card">
+        <div class="product-image cyan">
+          ✨
+        </div>
+        <div class="product-content">
+          <h3>Pagar Tempa Klasik</h3>
+          <p>Kerajinan tangan dengan detail ornamen eksklusif</p>
+          <div class="product-price">
+            <span class="price-label">Mulai Rp 500rb/m</span>
+            <a href="https://wa.me/6285183099865?text=Saya%20tertarik%20Pagar%20Tempa" class="price-btn">
+              <i class="fab fa-whatsapp"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="product-card">
+        <div class="product-image pink">
+          🪟
+        </div>
+        <div class="product-content">
+          <h3>Kanopi Kaca Tempered</h3>
+          <p>Tampilan elegan dengan kaca tempered anti-pecah</p>
+          <div class="product-price">
+            <span class="price-label">Mulai Rp 5jt</span>
+            <a href="https://wa.me/6285183099865?text=Saya%20tertarik%20Kanopi%20Kaca" class="price-btn">
+              <i class="fab fa-whatsapp"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="product-card">
+        <div class="product-image blue">
+          🏗️
+        </div>
+        <div class="product-content">
+          <h3>Konstruksi Baja</h3>
+          <p>Struktur baja ringan untuk bangunan industri</p>
+          <div class="product-price">
+            <span class="price-label">Sesuai RAB</span>
+            <a href="https://wa.me/6285183099865?text=Saya%20tertarik%20Konstruksi%20Baja" class="price-btn">
+              <i class="fab fa-whatsapp"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA Section -->
+<section class="section section-white">
+  <div class="container">
+    <div class="cta-box">
+      <div class="cta-content">
+        <h2>Siap Membangun Proyek Anda?</h2>
+        <p>Hubungi kami sekarang untuk konsultasi gratis! Tim profesional kami siap membantu mewujudkan kebutuhan
+          konstruksi baja Anda.</p>
+        <div class="cta-features">
+          <span class="cta-feature"><i class="fas fa-check-circle"></i> Garansi Kualitas</span>
+          <span class="cta-feature"><i class="fas fa-check-circle"></i> Harga Kompetitif</span>
+          <span class="cta-feature"><i class="fas fa-check-circle"></i> Pengerjaan Cepat</span>
+          <span class="cta-feature"><i class="fas fa-check-circle"></i> Konsultasi Gratis</span>
+        </div>
+        <div class="cta-buttons">
+          <a href="https://wa.me/6285183099865?text=Halo%20Bengkel%20Las%20Bandung" class="btn btn-whatsapp">
+            <i class="fab fa-whatsapp"></i> WhatsApp Sekarang
+          </a>
+          <a href="tel:+6285183099865" class="btn btn-secondary" style="background: var(--white);">
+            <i class="fas fa-phone"></i> Hubungi Kami
+          </a>
+        </div>
+      </div>
+      <div class="cta-visual">
+        <div class="cta-icon-box">
+          <i class="fas fa-hard-hat"></i>
+        </div>
+        <h3>500+ Proyek Selesai</h3>
+        <p>Dipercaya oleh ratusan pelanggan di Bandung dan sekitarnya</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Blog Section -->
+<section class="section section-light" id="blog">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-badge"><i class="fas fa-newspaper"></i> Artikel & Tips</span>
+      <h2 class="section-title">Blog Terbaru</h2>
+      <p class="section-subtitle">Tips dan informasi terbaru seputar konstruksi baja & desain</p>
+    </div>
+    <div class="blog-grid">
+      {% for post in site.posts limit:3 %}
+      <article class="blog-card">
+        <div class="product-image purple" style="height: 180px; position: relative;">
+          <!-- Using a default icon or extracting first image logic could be added here -->
+          <span class="product-badge">Artikel</span>
+          📝
+        </div>
+        <div class="blog-content">
+          <div class="blog-meta">
+            <span><i class="far fa-calendar"></i> {{ post.date | date: "%d %b %Y" }}</span>
+            <span><i class="far fa-user"></i> Admin</span>
+          </div>
+          <h3>{{ post.title }}</h3>
+          <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+          <a href="{{ post.url | relative_url }}" class="blog-link">Baca Selengkapnya <i
+              class="fas fa-arrow-right"></i></a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- Contact Section -->
+<section class="section section-white" id="contact">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-badge"><i class="fas fa-map-marker-alt"></i> Hubungi Kami</span>
+      <h2 class="section-title">Lokasi & Kontak</h2>
+      <p class="section-subtitle">Kunjungi workshop kami atau hubungi melalui kontak di bawah</p>
+    </div>
+    <div class="contact-grid">
+      <div class="contact-info">
+        <h3>Informasi Kontak</h3>
+        <p>Silakan hubungi kami melalui salah satu kontak berikut untuk konsultasi atau order.</p>
+        <div class="contact-item">
+          <div class="contact-icon"><i class="fas fa-map-marker-alt"></i></div>
+          <div class="contact-text">
+            <h4>Alamat Workshop</h4>
+            <p>Jl. Taman Kembang No.1, Ciwaruga, Kec. Parongpong, Kabupaten Bandung Barat, Jawa Barat 40559</p>
+          </div>
+        </div>
+        <div class="contact-item">
+          <div class="contact-icon"><i class="fab fa-whatsapp"></i></div>
+          <div class="contact-text">
+            <h4>WhatsApp / Telepon</h4>
+            <a href="https://wa.me/6285183099865">+62 851-8309-9865</a>
+            <p>Klik untuk chat langsung</p>
+          </div>
+        </div>
+        <div class="contact-item">
+          <div class="contact-icon"><i class="fas fa-clock"></i></div>
+          <div class="contact-text">
+            <h4>Jam Operasional</h4>
+            <p>Senin - Sabtu: 08:00 - 17:00 WIB</p>
+            <p>Minggu: Tutup</p>
+          </div>
+        </div>
+        <div class="contact-item">
+          <div class="contact-icon"><i class="fas fa-envelope"></i></div>
+          <div class="contact-text">
+            <h4>Email</h4>
+            <a href="mailto:bengkellasbandung@gmail.com">bengkellasbandung@gmail.com</a>
+          </div>
+        </div>
+      </div>
+      <div class="map-container">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.852039594994!2d107.5826!3d-6.8156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e6a8c6b5c5b7%3A0xexample!2sParongpong%2C%20Bandung%20Barat!5e0!3m2!1sid!2sid!4v1234567890"
+          allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+          title="Lokasi Bengkel Las Bandung">
+        </iframe>
+      </div>
+    </div>
+  </div>
+</section>

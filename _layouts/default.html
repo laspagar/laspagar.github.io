@@ -2,19 +2,48 @@
 <html lang="id">
 
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title %}{{ page.title }}{% else %}Bengkel Las Bandung | Pagar, Kanopi & Konstruksi Berkualitas{%
     endif %}</title>
-  {% include bengkel-meta.html %}
+
+  <meta name="description"
+    content="Bengkel Las Bandung - Jasa pembuatan pagar minimalis, kanopi, railing, tralis, dan konstruksi baja berkualitas. Harga terjangkau, hasil profesional, garansi.">
+  <meta name="keywords"
+    content="bengkel las bandung, pagar minimalis, kanopi besi, railing tangga, tralis jendela, konstruksi baja">
+  <meta name="author" content="Bengkel Las Bandung">
+  <meta name="robots" content="index, follow">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Bengkel Las Bandung | Pagar, Kanopi & Konstruksi Berkualitas">
+  <meta property="og:description"
+    content="Jasa las profesional di Bandung. Pagar, kanopi, railing, tralis dengan harga terjangkau.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="id_ID">
+
+  {% include meta.html %}
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
 </head>
 
 <body>
-  {% include bengkel-header.html %}
+  <div class="preloader" id="preloader">
+    <div class="preloader-spinner"></div>
+  </div>
+
+  {% include header.html %}
 
   {{ content }}
 
-  {% include bengkel-footer.html %}
-  {% include bengkel-scripts.html %}
+  {% include footer.html %}
+  {% include custom-scripts.html %}
   {% include analytics.html %}
 </body>
 
