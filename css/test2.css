@@ -21,11 +21,7 @@
 }
 
 .test2-theme .section { 
-  padding: 80px 0;
-  width: 100%;
-  margin-left: calc(-50vw + 50%);
-  padding-left: calc(50vw - 50%);
-  padding-right: calc(50vw - 50%);
+  padding: 80px 20px;
 }
 .test2-theme .section-light { background: var(--t2-gray-50); }
 .test2-theme .section-white { background: var(--t2-white); }
@@ -72,13 +68,11 @@
 .test2-theme .hero {
   min-height: 100vh;
   padding-top: 72px;
+  padding-left: 20px;
+  padding-right: 20px;
   background: linear-gradient(135deg, #1e3c72 0%, #2a5298 50%, #0052cc 100%);
   position: relative;
   overflow: hidden;
-  width: 100%;
-  margin-left: calc(-50vw + 50%);
-  padding-left: calc(50vw - 50%);
-  padding-right: calc(50vw - 50%);
 }
 
 .test2-theme .hero .container {
@@ -89,6 +83,7 @@
   min-height: calc(100vh - 72px);
   position: relative;
   max-width: 1200px;
+  margin: 0 auto;
 }
 
 .test2-theme .hero-content h1 {
