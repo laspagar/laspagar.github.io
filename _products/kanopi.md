@@ -19,7 +19,7 @@ Kami mengkhususkan diri dalam pembuatan dan pemasangan kanopi berkualitas tinggi
 *   **Kanopi Komersial:** Untuk cafe, restoran (area smoking atau outdoor dining), showroom, kantor, warung, atau bengkel.
 *   **Kanopi Khusus:** Kanopi jembatan, walkway, atau kanopi dengan desain custom yang unik.
 
-## Keunggulan Kanopi dari Layanan Kami
+## Keunggulan Kanopi dari Layanan & Produk
 
 Mengapa ratusan pelanggan di Bandung mempercayakan proyek kanopi mereka kepada kami?
 

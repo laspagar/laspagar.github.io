@@ -43,7 +43,7 @@ Pintu ini sangat serbaguna dan cocok untuk:
 3.  Engsel dan anak kunci dasar.
 4.  Finishing powder coating warna pilihan standar.
 
-## Keunggulan Layanan Kami
+## Keunggulan Layanan & Produk
 
 1.  **Kerajinan Tempa Berkualitas:** Ornamen dibuat oleh pengrajin berpengalaman untuk detail yang tajam dan rapi.
 2.  **Konstruksi Kokoh:** Setiap sambungan dilas dengan kuat dan diratakan (grinding) untuk hasil yang halus.

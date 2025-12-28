@@ -47,7 +47,7 @@ Untuk pagar depan rumah dengan panjang 8 meter dan tinggi 1.5 meter.
 - Perkiraan Total (dengan motif sedang): 12 m² x Rp 1.950.000 ≈ **Rp 23.400.000**
 *(Harga sudah termasuk material plat, rangka, jasa laser cutting, finishing powder coating, dan pemasangan)*.
 
-## Keunggulan Layanan Kami di Cimahi & Bandung
+## Keunggulan Layanan & Produk di Cimahi & Bandung
 
 1.  **Konsultasi Desain Gratis:** Tim desain kami membantu Anda mengembangkan ide menjadi file digital yang siap dipotong laser.
 2.  **Teknologi Laser Terkini:** Menggunakan mesin CNC laser presisi untuk hasil terbaik.
