@@ -20,7 +20,13 @@
   --t2-radius-full: 9999px;
 }
 
-.test2-theme .section { padding: 80px 0; }
+.test2-theme .section { 
+  padding: 80px 0;
+  width: 100%;
+  margin-left: calc(-50vw + 50%);
+  padding-left: calc(50vw - 50%);
+  padding-right: calc(50vw - 50%);
+}
 .test2-theme .section-light { background: var(--t2-gray-50); }
 .test2-theme .section-white { background: var(--t2-white); }
 
@@ -66,9 +72,13 @@
 .test2-theme .hero {
   min-height: 100vh;
   padding-top: 72px;
-  background: linear-gradient(135deg, #ffffff 0%, #f0f4ff 50%, #e8eeff 100%);
+  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 50%, #0052cc 100%);
   position: relative;
   overflow: hidden;
+  width: 100%;
+  margin-left: calc(-50vw + 50%);
+  padding-left: calc(50vw - 50%);
+  padding-right: calc(50vw - 50%);
 }
 
 .test2-theme .hero .container {
@@ -78,30 +88,31 @@
   align-items: center;
   min-height: calc(100vh - 72px);
   position: relative;
+  max-width: 1200px;
 }
 
 .test2-theme .hero-content h1 {
-  font-size: clamp(36px, 7vw, 56px);
+  font-size: clamp(40px, 7vw, 64px);
   font-weight: 900;
-  color: var(--t2-gray-900);
+  color: var(--t2-white);
   line-height: 1.15;
   margin-bottom: 24px;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.8px;
 }
 
 .test2-theme .hero-content h1 span {
-  background: var(--t2-gradient-primary);
+  background: linear-gradient(135deg, #ffde40 0%, #ffa500 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
 .test2-theme .hero-content p {
-  font-size: 18px;
-  color: var(--t2-gray-600);
-  line-height: 1.7;
+  font-size: 19px;
+  color: rgba(255, 255, 255, 0.95);
+  line-height: 1.8;
   margin-bottom: 32px;
-  max-width: 500px;
+  max-width: 550px;
   font-weight: 500;
 }
 
@@ -517,8 +528,8 @@
 /* Blog - Modern grid */
 .test2-theme .blog-grid {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  gap: 20px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
 }
 
 .test2-theme .blog-card {
@@ -540,7 +551,7 @@
 }
 
 .test2-theme .blog-image {
-  height: 140px;
+  height: 200px;
   display: block;
   overflow: hidden;
   background: linear-gradient(135deg, #f0f4ff, #f5f7ff);
@@ -558,14 +569,14 @@
 }
 
 .test2-theme .blog-content {
-  padding: 16px;
+  padding: 20px;
   flex: 1;
   display: flex;
   flex-direction: column;
 }
 
 .test2-theme .blog-content h3 {
-  font-size: 15px;
+  font-size: 17px;
   margin: 0;
   font-weight: 800;
   color: var(--t2-gray-900);
@@ -582,9 +593,9 @@
 }
 
 .test2-theme .blog-meta {
-  font-size: 12px;
+  font-size: 13px;
   color: var(--t2-gray-500);
-  margin-bottom: 8px;
+  margin-bottom: 10px;
   font-weight: 600;
 }
 
