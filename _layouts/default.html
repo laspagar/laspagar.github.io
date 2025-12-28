@@ -4,23 +4,46 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title %}{{ page.title }}{% else %}Bengkel Las Bandung | Pagar, Kanopi & Konstruksi Berkualitas{%
+  <meta name="theme-color" content="#3b82f6">
+
+  <title>{% if page.title %}{{ page.title }} | Bengkel Las Bandung{% else %}Bengkel Las Bandung - Jasa Pagar Minimalis,
+    Kanopi & Konstruksi Baja Profesional{%
     endif %}</title>
 
   <meta name="description"
-    content="Bengkel Las Bandung - Jasa pembuatan pagar minimalis, kanopi, railing, tralis, dan konstruksi baja berkualitas. Harga terjangkau, hasil profesional, garansi.">
+    content="⭐ Bengkel Las Bandung Terpercaya - Spesialis pagar minimalis, kanopi polycarbonate, railing tangga, tralis jendela & konstruksi baja. Garansi kualitas, harga terjangkau, pengerjaan cepat. Gratis konsultasi & survey!">
   <meta name="keywords"
-    content="bengkel las bandung, pagar minimalis, kanopi besi, railing tangga, tralis jendela, konstruksi baja">
+    content="bengkel las bandung, jasa las bandung, pagar minimalis bandung, kanopi bandung, railing tangga, tralis jendela, konstruksi baja, las listrik bandung, tukang las bandung, pagar besi minimalis">
   <meta name="author" content="Bengkel Las Bandung">
-  <meta name="robots" content="index, follow">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  <meta name="googlebot" content="index, follow">
 
-  <!-- Open Graph -->
-  <meta property="og:title" content="Bengkel Las Bandung | Pagar, Kanopi & Konstruksi Berkualitas">
-  <meta property="og:description"
-    content="Jasa las profesional di Bandung. Pagar, kanopi, railing, tralis dengan harga terjangkau.">
+  <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:title"
+    content="{% if page.title %}{{ page.title }}{% else %}Bengkel Las Bandung - Jasa Pagar, Kanopi & Konstruksi Baja Profesional{% endif %}">
+  <meta property="og:description"
+    content="Jasa las profesional di Bandung dengan 10+ tahun pengalaman. Pagar minimalis, kanopi, railing, tralis berkualitas tinggi. Harga kompetitif, garansi kepuasan 100%.">
+  <meta property="og:image" content="{{ site.baseurl }}/images/og-image.jpg">
   <meta property="og:locale" content="id_ID">
+  <meta property="og:site_name" content="Bengkel Las Bandung">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title"
+    content="{% if page.title %}{{ page.title }}{% else %}Bengkel Las Bandung - Jasa Pagar & Kanopi Profesional{% endif %}">
+  <meta name="twitter:description"
+    content="Spesialis pagar minimalis, kanopi & konstruksi baja di Bandung. Gratis konsultasi!">
+
+  <!-- Canonical URL -->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+
+  <!-- Geo Tags -->
+  <meta name="geo.region" content="ID-JB">
+  <meta name="geo.placename" content="Bandung">
+  <meta name="geo.position" content="-6.8156;107.5826">
+  <meta name="ICBM" content="-6.8156, 107.5826">
 
   {% include meta.html %}
 
