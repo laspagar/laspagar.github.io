@@ -226,57 +226,57 @@
 
 /* Floating cards in hero */
 .test2-theme .hero-floating-card {
-  position: absolute;
+  position: fixed;
   background: var(--t2-white);
   border-radius: var(--t2-radius-lg);
-  padding: 16px 20px;
-  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+  padding: 14px 18px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 10px;
   animation: float 3s ease-in-out infinite;
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.5);
   white-space: nowrap;
-  pointer-events: none;
+  z-index: 40;
 }
 
 .test2-theme .hero-floating-card.card-1 {
-  bottom: 20%;
-  left: 10px;
+  bottom: 100px;
+  left: 20px;
   animation-delay: 0s;
 }
 
 .test2-theme .hero-floating-card.card-2 {
-  bottom: 10%;
-  right: 10px;
+  bottom: 40px;
+  right: 20px;
   animation-delay: 1s;
 }
 
 .test2-theme .floating-icon {
-  font-size: 28px;
+  font-size: 24px;
   display: flex;
   align-items: center;
   justify-content: center;
-  min-width: 45px;
+  min-width: 40px;
   flex-shrink: 0;
 }
 
 .test2-theme .floating-text {
   display: flex;
   flex-direction: column;
-  gap: 2px;
+  gap: 1px;
   min-width: 0;
 }
 
 .test2-theme .floating-text strong {
-  font-size: 13px;
+  font-size: 12px;
   color: var(--t2-gray-900);
   font-weight: 800;
   line-height: 1.2;
 }
 
 .test2-theme .floating-text span {
-  font-size: 11px;
+  font-size: 10px;
   color: var(--t2-gray-500);
   font-weight: 600;
   line-height: 1.2;
