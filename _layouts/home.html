@@ -43,15 +43,18 @@ layout: default
 <section class="section section-light" id="services">
     <div class="container">
         <div class="section-header">
-            <span class="section-badge"><i class="fas fa-tools"></i> Layanan & Produk</span>
+            <a href="/products/" class="inline-block section-badge"><i class="fas fa-tools"></i> Layanan & Produk</a>
             <h2 class="section-title">Apa yang Kami Tawarkan</h2>
             <p class="section-subtitle">Solusi las lengkap untuk kebutuhan rumah dan proyek Anda</p>
+            <div class="mt-4">
+                <a href="/products/" class="btn btn-secondary">Lihat Semua Produk</a>
+            </div>
         </div>
         <div class="services-grid">
-            <div class="service-card"><div class="service-icon">🏠</div><h3>Pagar Minimalis</h3><p>Simpel, modern, dan tetap aman.</p></div>
-            <div class="service-card"><div class="service-icon">☀️</div><h3>Kanopi</h3><p>Lindungi teras atau halaman dari panas dan hujan.</p></div>
-            <div class="service-card"><div class="service-icon">🪜</div><h3>Railing Tangga</h3><p>Tangga lebih aman dan stylish.</p></div>
-            <div class="service-card"><div class="service-icon">🚪</div><h3>Teralis Jendela & Pintu</h3><p>Amanin rumah tanpa ngorbanin gaya.</p></div>
+            <a href="/products/?category=Pagar" class="service-card service-link"><div class="service-icon">🏠</div><h3>Pagar</h3></a>
+            <a href="/products/?category=Kanopi" class="service-card service-link"><div class="service-icon">☀️</div><h3>Kanopi</h3></a>
+            <a href="/products/?category=Tangga" class="service-card service-link"><div class="service-icon">🪜</div><h3>Tangga</h3></a>
+            <a href="/products/?category=Konstruksi" class="service-card service-link"><div class="service-icon">🏗️</div><h3>Konstruksi Baja</h3></a>
         </div>
     </div>
 </section>
@@ -61,16 +64,18 @@ layout: default
     <div class="container">
         <div class="section-header">
             <span class="section-badge"><i class="fas fa-cube"></i> Produk Unggulan</span>
-            <h2 class="section-title">Layanan & Produk</h2>
+            <h2 class="section-title">Produk Terbaru</h2>
             <p class="section-subtitle">Lihat karya terbaik yang telah memuaskan ratusan pelanggan</p>
+            <div class="mt-4">
+                <a href="/products/" class="btn btn-secondary">Lihat Semua Produk</a>
+            </div>
         </div>
         <div class="products-grid">
             {% for p in site.products limit:8 %}
             <div class="product-card">
-                <div class="product-image" style="height:180px; display:flex;align-items:center;justify-content:center;">{% if p.image %}<img src="{{ p.image | relative_url }}" alt="{{ p.title }}" style="width:100%;height:100%;object-fit:cover">{% else %}🏠{% endif %}</div>
+                <a href="{{ p.url }}" class="product-image" style="height:180px; display:block; overflow:hidden;">{% if p.image %}<img src="{{ p.image | relative_url }}" alt="{{ p.title }}" style="width:100%;height:100%;object-fit:cover">{% else %}<div style="display:flex;align-items:center;justify-content:center;height:100%">🏠</div>{% endif %}</a>
                 <div class="product-content">
-                    <h3>{{ p.title }}</h3>
-                    {% if p.description %}<p>{{ p.description | strip_html | truncate: 100 }}</p>{% endif %}
+                    <h3><a href="{{ p.url }}">{{ p.title }}</a></h3>
                     <div class="product-price">
                         <span class="price-label">{{ p.price }}</span>
                         <a href="https://wa.me/6282318993732?text=Saya%20tertarik%20{{ p.title | url_encode }}" class="price-btn"><i class="fab fa-whatsapp"></i></a>
@@ -109,17 +114,18 @@ layout: default
         <div class="section-header">
             <span class="section-badge"><i class="fas fa-newspaper"></i> Artikel & Tips</span>
             <h2 class="section-title">Tips & Artikel</h2>
-            <p class="section-subtitle">Tips dan informasi terbaru seputar konstruksi dan desain</p>
+            <p class="section-subtitle">Panduan seputar konstruksi besi dan eksterior rumah.</p>
+            <div class="mt-4">
+                <a href="/archive.html" class="btn btn-secondary">Semua Artikel</a>
+            </div>
         </div>
         <div class="blog-grid">
-            {% for post in site.posts limit:3 %}
+            {% for post in site.posts limit:6 %}
             <article class="blog-card">
-                <div class="blog-image" style="height:180px;display:flex;align-items:center;justify-content:center;">{% if post.image %}<a href="{{ post.url }}"><img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="width:100%;height:100%;object-fit:cover"></a>{% endif %}</div>
+                <a href="{{ post.url }}" class="blog-image" style="height:140px;display:block;overflow:hidden;">{% if post.image %}<img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="width:100%;height:100%;object-fit:cover">{% endif %}</a>
                 <div class="blog-content">
-                    <div class="blog-meta"><span>{{ post.date | date: "%-d %b %Y" }}</span><span>{{ post.author | default: site.author }}</span></div>
+                    <div class="blog-meta"><span>{{ post.date | date: "%-d %b %Y" }}</span></div>
                     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-                    <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
-                    <a class="blog-link" href="{{ post.url }}">Baca Selengkapnya <i class="fas fa-arrow-right"></i></a>
                 </div>
             </article>
             {% endfor %}
