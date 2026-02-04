@@ -83,6 +83,6 @@ Masih bingung? Tim desain **MITRAJAYA LAS Setu Bekasi** siap datang ke lokasi An
 
 **Survey & Konsultasi Gratis:**
 📲 **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Workshop**: {NEWADDR}
+📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
 
 [**Lihat Portfolio Pintu Garasi Kami Lainnya**](/products)

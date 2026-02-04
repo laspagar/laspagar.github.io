@@ -3,7 +3,7 @@ layout: post
 title: "Pintu Garasi Lipat Besi Manual & Otomatis di Setu Bekasi | Hemat Ruang & Kuat"
 date: 2025-12-28 17:45:00 +0700
 categories: [Pintu, Teknologi]
-tags: [Pintu Garasi Otomatis, Pintu Lipat Besi Manual, Pintu Sleding Setu Bekasi, Motorized Garage Door, Bengkel Las {NEWADDR}]
+tags: [Pintu Garasi Otomatis, Pintu Lipat Besi Manual, Pintu Sleding Setu Bekasi, Motorized Garage Door, Bengkel Las Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320]
 author: "MITRAJAYA LAS Setu Bekasi"
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO2Y4XapOBejwpT1BGntlPZRD7VP8yQM_hx3QTiHBssYluvSkQM3L6lMWFrqj7AsNkK6YdDzuWY4bIWV-SW7uvz6d_dQPa2QnJpabNRKpYjnp2b4mEKpESY2Mmq1ihWZW01Hn1bMGPQuRg/s1600-rw/Desain-Pintu-Garasi-Kayu-768x576.jpg
 description: "Pilih manual atau otomatis? Simak perbandingan pengerjaan pintu garasi lipat besi di Setu Bekasi. Solusi hemat ruang dengan kekuatan beban maksimal untuk keamanan rumah Anda."

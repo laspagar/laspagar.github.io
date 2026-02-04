@@ -10,7 +10,7 @@ keywords: pintu lipat galvanis setu bekasi, pintu besi anti karat, folding gate 
 
 # Pintu Lipat Besi Galvanis Setu Bekasi: Perisai Tangguh Melawan Cuaca
 
-Setu Bekasi memiliki kelembapan udara yang tinggi, terutama di area pegunungan seperti bekasi,cilengsi,bogor,jakarta,tangerang, Dago, atau {NEWADDR}. Besi biasa akan cepat berkarat jika tidak dilindungi dengan benar. **Pintu Lipat Besi Galvanis** kami adalah jawaban atas tantangan cuaca tersebut.
+Setu Bekasi memiliki kelembapan udara yang tinggi, terutama di area pegunungan seperti bekasi,cilengsi,bogor,jakarta,tangerang, Dago, atau Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320. Besi biasa akan cepat berkarat jika tidak dilindungi dengan benar. **Pintu Lipat Besi Galvanis** kami adalah jawaban atas tantangan cuaca tersebut.
 
 Dengan lapisan pelindung Zinc, besi di dalamnya aman dari korosi meskipun sering terkena hujan deras khas Kota Kembang.
 

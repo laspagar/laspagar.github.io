@@ -26,4 +26,4 @@ Wujudkan pintu garasi atau pintu rahasia yang benar-benar pas dengan dimensi lah
 
 **Jadwalkan Survey Lokasi Anda Hari Ini:**
 📲 Hubungi Kami: [0851-8309-9865](https://wa.me/6285183099865)
-📍 Alamat: {NEWADDR}
+📍 Alamat: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320

@@ -46,7 +46,7 @@ Untuk proyek ini, kami tidak main-main dengan spek material:
 ## Proses Pengerjaan: Presisi adalah Kunci
 
 Pengerjaan memakan waktu total 7 hari kerja:
-1.  **Hari 1-3 (Fabrikasi di Workshop)**: Kami memotong dan mengelas rangka di bengkel kami di {NEWADDR} agar tidak mengotori rumah klien.
+1.  **Hari 1-3 (Fabrikasi di Workshop)**: Kami memotong dan mengelas rangka di bengkel kami di Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320 agar tidak mengotori rumah klien.
 2.  **Hari 4 (Setting Lokasi)**: Pemasangan tiang kolom dan balok utama menggunakan *dynabolt* beton heavy duty. Waterpass dicek berkali-kali untuk kemiringan drainase yang sempurna.
 3.  **Hari 5 (Atap & Finishing)**: Pemasangan lembaran Alderon dan pengecetan ulang (touch up) pada sambungan las.
 4.  **Hari 6 (Quality Control)**: Tes siram air untuk memastikan tidak ada bocor setetes pun.
@@ -79,6 +79,6 @@ Kami melayani survey gratis ke area: bekasi,cilengsi,bogor,jakarta,tangerang.
 
 **Hubungi Kami Sekarang:**
 � **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Workshop**: {NEWADDR}
+📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
 
 *MITRAJAYA LAS Setu Bekasi - Spesialis Kanopi, Pagar, dan Konstruksi Besi Terbaik.*

@@ -13,7 +13,7 @@ Pernahkah Anda melihat kanopi yang sudah terpasang indah, tapi ternyata mobil di
 
 Sebagai bengkel las spesialis di Setu Bekasi, **MITRAJAYA LAS** sering menemui kasus "salah ukur" seperti ini. Biasanya terjadi karena pemilik rumah hanya mengikuti luas lahan yang tersisa, tanpa memikirkan dimensi mobil dan ruang gerak manusia di sekitarnya.
 
-Apalagi di Setu Bekasi, di mana intensitas hujan seringkali disertai angin kencang (terutama di area seperti bekasi,cilengsi,bogor,jakarta,tangerang, {NEWADDR}, atau kawasan perbukitan Dago), ukuran kanopi harus dihitung dengan ekstra hati-hati agar fungsi aplikasinya tidak sia-sia.
+Apalagi di Setu Bekasi, di mana intensitas hujan seringkali disertai angin kencang (terutama di area seperti bekasi,cilengsi,bogor,jakarta,tangerang, Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320, atau kawasan perbukitan Dago), ukuran kanopi harus dihitung dengan ekstra hati-hati agar fungsi aplikasinya tidak sia-sia.
 
 ![Kanopi Carport Minimalis Ukuran Ideal Pasang di Setu Bekasi](/assets/products/kanopi-atap-spandek-termurah.jpeg)
 
@@ -89,6 +89,6 @@ Jangan sampai biaya jutaan rupiah yang Anda keluarkan untuk [pemasangan kanopi](
 Tim **MITRAJAYA LAS Setu Bekasi** siap meluncur ke lokasi Anda (Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, bekasi,cilengsi,bogor,jakarta,tangerang, bekasi,cilengsi,bogor,jakarta,tangerang) untuk memberikan solusi ukuran paling presisi dan desain paling proporsional.
 
 📲 **Konsultasi WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Workshop**: {NEWADDR}
+📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
 
 [**Lihat Portfolio Kanopi Terpasang Berdasarkan Ukuran**](https://laspagar.github.io/products)

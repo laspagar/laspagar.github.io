@@ -78,6 +78,6 @@ Terakhir, apapun pilihan finishing Anda, pastikan pengerjaannya dilakukan oleh t
 Tim **MITRAJAYA LAS Setu Bekasi** siap memberikan solusi terbaik yang sesuai dengan kebutuhan fungsional dan estetika rumah Anda.
 
 📲 **Konsultasi via WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Workshop**: {NEWADDR}
+📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
 
 [**Lihat Portfolio Hasil Kerja Kami**](https://laspagar.github.io/products)

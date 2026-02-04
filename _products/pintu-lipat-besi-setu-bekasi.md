@@ -50,6 +50,6 @@ Tidak hanya menjual barang, kami memberikan solusi keamanan total:
 Hubungi tim ahli kami untuk mendapatkan penawaran spesial minggu ini.
 
 📲 **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Workshop**: {NEWADDR}
+📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
 
 [**Pelajari Jasa Pembuatan Pintu Lipat Custom Selengkapnya**](/posts/2025-12-28-jasa-pintu-lipat-besi-custom-setu-bekasi)

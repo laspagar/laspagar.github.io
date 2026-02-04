@@ -29,4 +29,4 @@ Kami melayani pengiriman dan pemasangan untuk seluruh area Setu Bekasi Raya, ter
 
 **Hubungi MITRAJAYA LAS Setu Bekasi:**
 📲 [0851-8309-9865](https://wa.me/6285183099865)
-📍 Workshop: {NEWADDR}, Setu Bekasi Barat.
+📍 Workshop: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320, Setu Bekasi Barat.

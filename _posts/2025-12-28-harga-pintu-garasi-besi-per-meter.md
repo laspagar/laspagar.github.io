@@ -85,6 +85,6 @@ Survey lokasi adalah langkah terbijak. Tim **MITRAJAYA LAS Setu Bekasi** siap da
 
 **Jadwalkan Survey Gratis Sekarang:**
 📲 **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Workshop**: {NEWADDR}
+📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
 
 [**Kembali ke Panduan Utama Pintu Garasi Setu Bekasi**](/posts/2025-12-28-pintu-garasi-murah-setu-bekasi-terlengkap)
