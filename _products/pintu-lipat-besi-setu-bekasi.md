@@ -12,7 +12,7 @@ keywords: pintu lipat besi setu bekasi, harga folding gate setu bekasi, pintu ga
 
 Mencari solusi pintu yang kuat, aman, dan hemat ruang di Setu Bekasi? **Pintu Lipat Besi** (atau sering disebut Folding Gate) adalah pilihan paling cerdas untuk melindungi garasi rumah, ruko, maupun toko Anda.
 
-Tim **MITRAJAYA LAS Setu Bekasi** berpengalaman mengerjakan ratusan proyek pintu lipat dengan spesifikasi material berkualitas tinggi (Full Spek) yang disesuaikan dengan kebutuhan keamanan properti di Kota Kembang.
+Tim **MITRAJAYA LAS** berpengalaman mengerjakan ratusan proyek pintu lipat dengan spesifikasi material berkualitas tinggi (Full Spek) yang disesuaikan dengan kebutuhan keamanan properti di Kota Kembang.
 
 ![Pintu Lipat Besi Setu Bekasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGK3hl9vUiSL5F_7w_N0TCtHzLcm_LEMKZbuPfa_cWqCEgKFqbUGN2ydlCcJILya2tA8tY9_QUwaN6qes6wGXPXhsyJQ4mnoKBh6vXS4NFwsr72xezpbKthB6lO1ziUrkFCF106OG9A8M/s1600-rw/5.jpg)
 
@@ -37,7 +37,7 @@ Tim **MITRAJAYA LAS Setu Bekasi** berpengalaman mengerjakan ratusan proyek pintu
 
 ![Inspirasi Model Pintu Garasi Minimalis](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIZnbNeInNb4rRP2e26HVts7AMMXICzOty_OA08y9EaD8LjS1lvj6lbCIVyDmw1RUCmj7XiorZo-M5EqnS0iyLbmmHSCHbCIIEwae2diMrYdBZP-__HrFKP35yA-WLriZt4C3QK8DsMZc0zBGCQgM_CNfELE1UnDIGx4TVbV98GxEE1mx6Q4JE0Jj4/w320-h180-rw/maxresdefault.jpg)
 
-## Layanan Custom MITRAJAYA LAS Setu Bekasi:
+## Layanan Custom MITRAJAYA LAS:
 Tidak hanya menjual barang, kami memberikan solusi keamanan total:
 *   **Free Survey**: Kami datang, ukur, dan berikan estimasi di tempat.
 *   **Free Konsultasi Desain**: Sesuaikan model pintu dengan fasad rumah Anda.

@@ -18,7 +18,7 @@ WPC adalah material campuran serbuk kayu dan plastik.
 *   **Anti Rayap**: Rayap tidak suka material plastik.
 *   **Tampilan Natural**: Memiliki serat dan tekstur persis kayu asli.
 
-## Spesifikasi Pagar WPC MITRAJAYA LAS Setu Bekasi:
+## Spesifikasi Pagar WPC MITRAJAYA LAS:
 *   **Rangka Utama**: Besi Hollow Galvanis 4x6 / 5x10 (Tebal 1.4 - 1.6mm).
 *   **Isian**: Panel WPC import (Warna Coklat Tua / Muda / Abu).
 *   **Finishing Rangka**: Cat Duco / Powder Coating Hitam Doff.

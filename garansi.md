@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Garansi Resmi MITRAJAYA LAS Setu Bekasi
+title: Garansi Resmi MITRAJAYA LAS
 permalink: /garansi/
 ---
 
 <div class="test2-theme">
     <div class="container py-12 max-w-4xl">
         <div class="text-center mb-12">
-            <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Garansi Resmi MITRAJAYA LAS Setu Bekasi</h1>
+            <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Garansi Resmi MITRAJAYA LAS</h1>
             <p class="text-lg text-slate-600">Komitmen kami untuk kualitas dan kepuasan pelanggan di Setu Bekasi Raya.</p>
         </div>
 

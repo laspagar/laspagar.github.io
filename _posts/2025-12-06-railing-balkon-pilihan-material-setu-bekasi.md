@@ -4,7 +4,7 @@ title: "Panduan Memilih Railing Balkon Rumah Setu Bekasi: Material, Keamanan & H
 date: 2025-12-06 10:00:00 +0700
 categories: [Panduan, Railing, Eksterior]
 tags: [Railing Balkon Setu Bekasi, Pagar Balkon Minimalis, Bengkel Las bekasi,cilengsi,bogor,jakarta,tangerang, Harga Railing Per Meter, Balkon Safety, Laser Cutting Setu Bekasi]
-author: "MITRAJAYA LAS Setu Bekasi"
+author: "MITRAJAYA LAS"
 image: /assets/posts/railing-balkon.png
 description: "Jangan salah pilih railing balkon! Simak panduan lengkap memilih material tahan cuaca Setu Bekasi (Besi, Kaca, Stainless), standar keamanan tinggi railing, dan estimasi harga terbaru."
 ---
@@ -13,7 +13,7 @@ Balkon bukan sekadar area tambahan di lantai dua. Bagi warga Setu Bekasi yang di
 
 Namun, balkon tanpa pengaman yang tepat adalah risiko besar. **Railing Balkon** (pagar pembatas) adalah elemen wajib yang harus kuat menahan beban, tahan cuaca ekstrem (panas-hujan), namun tetap estetik dipandang mata.
 
-Di artikel ini, tim **MITRAJAYA LAS Setu Bekasi** akan mengupas tuntas opsi railing terbaik tahun 2025 yang cocok untuk arsitektur rumah di Setu Bekasi Barat, bekasi,cilengsi,bogor,jakarta,tangerang, hingga Setu Bekasi Timur.
+Di artikel ini, tim **MITRAJAYA LAS** akan mengupas tuntas opsi railing terbaik tahun 2025 yang cocok untuk arsitektur rumah di Setu Bekasi Barat, bekasi,cilengsi,bogor,jakarta,tangerang, hingga Setu Bekasi Timur.
 
 ![Desain Railing Balkon Minimalis Setu Bekasi](/assets/posts/railing-balkon.png)
 
@@ -60,7 +60,7 @@ Rangka besi hitam dipadukan dengan pegangan (handrail) kayu solid (Bengkirai/Kam
 
 ## Estimasi Harga Railing Balkon Setu Bekasi (2025)
 
-*Harga berikut adalah estimasi "Terima Beres" di MITRAJAYA LAS Setu Bekasi:*
+*Harga berikut adalah estimasi "Terima Beres" di MITRAJAYA LAS:*
 
 | Jenis Model | Spesifikasi | Kisaran Harga Per Meter |
 | :--- | :--- | :--- |
@@ -84,7 +84,7 @@ Setu Bekasi memiliki kelembapan tinggi dan curah hujan asam.
 ## Siap Mempercantik Balkon Anda?
 
 Jangan pertaruhkan keselamatan keluarga dengan railing murah yang tipis dan goyang.
-Konsultasikan kebutuhan Anda dengan **MITRAJAYA LAS Setu Bekasi**. Kami menjamin:
+Konsultasikan kebutuhan Anda dengan **MITRAJAYA LAS**. Kami menjamin:
 *   Bahan Full Spek (Banci uang kembali).
 *   Lasan matang dan penuh (Full Welding).
 *   Garansi struktur 6 bulan.

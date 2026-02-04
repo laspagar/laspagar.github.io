@@ -10,7 +10,7 @@ keywords: jasa pasang kanopi setu bekasi, tukang kanopi cimahi, harga kanopi per
 
 # Jasa Kanopi Setu Bekasi: Solusi Atap Carport Terlengkap
 
-Selamat datang di **MITRAJAYA LAS Setu Bekasi**, spesialis pembuatan kanopi nomor 1 di Setu Bekasi Raya. Kami menyediakan berbagai jenis atap dan rangka sesuai budget Anda, mulai dari yang ekonomis hingga kelas sultan.
+Selamat datang di **MITRAJAYA LAS**, spesialis pembuatan kanopi nomor 1 di Setu Bekasi Raya. Kami menyediakan berbagai jenis atap dan rangka sesuai budget Anda, mulai dari yang ekonomis hingga kelas sultan.
 
 ## Pilihan Model Kanopi Kami:
 

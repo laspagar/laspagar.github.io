@@ -4,7 +4,7 @@ title: "Pintu Garasi Murah Setu Bekasi: Panduan Lengkap 2025 (Harga, Model, & Ti
 date: 2025-12-28 17:00:00 +0700
 categories: [Pillar, Pintu]
 tags: [Pintu Garasi Setu Bekasi, Pintu Garasi Murah, Pintu Lipat Besi, Pintu Sliding Setu Bekasi, Harga Pintu Garasi, Folding Gate Setu Bekasi]
-author: "MITRAJAYA LAS Setu Bekasi"
+author: "MITRAJAYA LAS"
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGK3hl9vUiSL5F_7w_N0TCtHzLcm_LEMKZbuPfa_cWqCEgKFqbUGN2ydlCcJILya2tA8tY9_QUwaN6qes6wGXPXhsyJQ4mnoKBh6vXS4NFwsr72xezpbKthB6lO1ziUrkFCF106OG9A8M/s1600-rw/5.jpg
 description: "Mencari pintu garasi murah di Setu Bekasi? Simak panduan terlengkap 3000 kata ini: Bandingkan pintu sliding vs lipat, besi vs kayu, spek rel wina, dan daftar harga terbaru 2025."
 ---
@@ -43,7 +43,7 @@ Beberapa risiko jika Anda salah pilih pintu:
 
 ## BAB 2: Jenis Pintu Garasi Populer di Setu Bekasi
 
-Setiap lahan memiliki karakteristik berbeda. Berikut adalah tiga model yang paling banyak dipesan di workshop **MITRAJAYA LAS Setu Bekasi**.
+Setiap lahan memiliki karakteristik berbeda. Berikut adalah tiga model yang paling banyak dipesan di workshop **MITRAJAYA LAS**.
 
 ### A. Pintu Garasi Sliding (Tikung)
 Sistem ini paling favorit di perumahan cluster Setu Bekasi. Pintu tidak diayun keluar, melainkan didorong ke samping dan berbelok menyusuri dinding samping garasi.
@@ -99,7 +99,7 @@ Pintu garasi yang baik adalah yang bisa dibuka oleh anak kecil sekalipun saking 
 
 ## BAB 5: Daftar Harga Pintu Garasi Murah Setu Bekasi 2025
 
-Ini adalah estimasi harga di workshop **MITRAJAYA LAS Setu Bekasi**. Harga final tentu akan dipengaruhi oleh kerumitan model dan akses pengiriman ke lokasi.
+Ini adalah estimasi harga di workshop **MITRAJAYA LAS**. Harga final tentu akan dipengaruhi oleh kerumitan model dan akses pengiriman ke lokasi.
 
 | Tipe Pintu | Spesifikasi Material | Estimasi Harga (Lengkap Pasang) |
 | :--- | :--- | :--- |
@@ -146,7 +146,7 @@ Pintu besi Anda adalah benda mekanis yang bergerak. Ia butuh perawatan minimal a
 Setiap garasi di Setu Bekasi punya "drama" tersendiri (lantai yang tidak rata, dinding yang miring, atau balok gantung yang rendah). Membeli pintu ukuran jadi sangat berisiko.
 Dengan layanan [**Jasa Pintu Lipat Besi Custom Setu Bekasi**](/posts/2025-12-28-jasa-pintu-lipat-besi-custom-setu-bekasi), tim teknis kami akan datang, mengukur dengan laser, dan mendesain konstruksi paling pas untuk rumah Anda.
 
-**Mengapa di MITRAJAYA LAS Setu Bekasi?**
+**Mengapa di MITRAJAYA LAS?**
 *   **Free Survey**: Kami ukur dulu, bicarakan budget, baru mulai pengerjaan.
 *   **Material Jujur**: Tidak ada pengurangan spek material tanpa persetujuan Anda.
 *   **Garansi**: Pintu macet dalam 6 bulan? Kami datang dan perbaiki gratis.

@@ -4,14 +4,14 @@ title: "Tren Pagar Laser Cutting di Setu Bekasi: Mewah, Artistik & Solusi Privas
 date: 2025-12-10 10:00:00 +0700
 categories: [Inspirasi, Pagar]
 tags: [Pagar Laser Cutting Setu Bekasi, Pagar Cutting bekasi,cilengsi,bogor,jakarta,tangerang, Jasa Laser Cutting Metal, Pagar Rumah Mewah Setu Bekasi, Desain Pagar Custom]
-author: "MITRAJAYA LAS Setu Bekasi"
+author: "MITRAJAYA LAS"
 image: /assets/posts/pagar-laser-cut.png
 description: "Ingin fasad rumah tampil beda dan eksklusif? Pagar Laser Cutting adalah tren terbaru di Setu Bekasi yang menawarkan keindahan artistik tanpa batas. Simak keunggulan, harga, dan inspirasi desainnya di sini."
 ---
 
 Jika Anda sering berkendara melewati kawasan perumahan elite di Setu Bekasi, seperti Setra Duta, Kota Baru Parahyangan, atau Dago Pakar, Anda akan menyadari satu perubahan tren yang mencolok pada desain eksterior rumah-rumahnya. Pagar minimalis garis-garis sederhana atau pagar tempa klasik yang berat mulai digantikan oleh sesuatu yang lebih ringan, artistik, dan modern: **Pagar Laser Cutting**.
 
-Pagar bukan lagi sekadar pembatas fisik atau alat keamanan. Di tangan para arsitek dan pemilik hunian di Setu Bekasi, pagar telah bertransformasi menjadi "kanvas seni" yang mencerminkan karakter pemiliknya. **MITRAJAYA LAS Setu Bekasi** hadir untuk membantu Anda mewujudkan karya seni tersebut di depan rumah Anda.
+Pagar bukan lagi sekadar pembatas fisik atau alat keamanan. Di tangan para arsitek dan pemilik hunian di Setu Bekasi, pagar telah bertransformasi menjadi "kanvas seni" yang mencerminkan karakter pemiliknya. **MITRAJAYA LAS** hadir untuk membantu Anda mewujudkan karya seni tersebut di depan rumah Anda.
 
 ![Pagar Laser Cutting Motif Geometris Modern di Setu Bekasi](/assets/posts/pagar-laser-cut.png)
 
@@ -54,7 +54,7 @@ Untuk hasil terbaik, banyak klien kami menyamakan motif pagar laser cutting deng
 
 Bagi Anda yang menyukai tampilan minimalis tapi ingin kesan lebih hangat, kombinasi laser cutting dengan elemen kayu juga sangat menarik. Anda bisa membaca perbandingan antara [Pagar Woodplank vs Kayu Asli](/posts/2025-12-28-pagar-woodplank-vs-kayu-setu-bekasi) sebagai referensi tambahan.
 
-## Pesan Pagar Impian Anda di MITRAJAYA LAS Setu Bekasi
+## Pesan Pagar Impian Anda di MITRAJAYA LAS
 
 Jangan serahkan pengerjaan laser cutting pada bengkel las amatir. Keselarasan antar panel dan detailing pada area sambungan (welding) adalah kunci kualitas. Tim kami di Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320 memiliki pengalaman panjang menangani proyek-proyek arsitektural di Setu Bekasi Raya.
 

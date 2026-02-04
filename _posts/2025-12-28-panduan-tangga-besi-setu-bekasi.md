@@ -4,7 +4,7 @@ title: "Panduan Lengkap 2025: Desain Tangga Besi Minimalis & Industrial untuk Ru
 date: 2025-12-28 14:00:00 +0700
 categories: [Panduan, Interior, Tangga]
 tags: [Tangga Besi Setu Bekasi, Desain Tangga Sempit, Tangga Industrial, Harga Tangga Besi, Inspirasi Rumah Setu Bekasi]
-author: "MITRAJAYA LAS Setu Bekasi"
+author: "MITRAJAYA LAS"
 image: /assets/products/desain-tangga-besi-dan-kayu.jpg
 description: "Bingung bikin tangga di lahan sempit? Simak panduan lengkap memilih desain tangga besi (Monyet, Putar, Rebah) yang hemat ruang, kuat, dan estetik. Lengkap dengan estimasi biaya!"
 ---
@@ -15,7 +15,7 @@ Tangga beton konvensional seringkali memakan tempat, terlihat "bulky" (tebal), d
 
 Solusi modern yang kini digandrungi oleh arsitek dan pemilik rumah milenial di Setu Bekasi adalah **Tangga Besi**.
 
-Dalam artikel mendalam ini, tim **MITRAJAYA LAS Setu Bekasi** akan mengupas tuntas segala hal tentang tangga besi: mulai dari desain hemat ruang, pemilihan material yang tepat, hingga estimasi biaya yang transparan.
+Dalam artikel mendalam ini, tim **MITRAJAYA LAS** akan mengupas tuntas segala hal tentang tangga besi: mulai dari desain hemat ruang, pemilihan material yang tepat, hingga estimasi biaya yang transparan.
 
 ![Desain Tangga Besi Industrial Kombinasi Kayu](/assets/products/desain-tangga-besi-dan-kayu.jpg)
 
@@ -76,7 +76,7 @@ Full besi termasuk pijakannya menggunakan plat bordes (checker plate) bermotif.
 
 ## Spesifikasi Teknis: Jangan Asal Murah!
 
-Ini bagian paling penting. Tangga menyangkut keselamatan nyawa. Jangan tergiur harga murah tapi spek "banci" (diturunkan). Berikut standar aman dari MITRAJAYA LAS Setu Bekasi:
+Ini bagian paling penting. Tangga menyangkut keselamatan nyawa. Jangan tergiur harga murah tapi spek "banci" (diturunkan). Berikut standar aman dari MITRAJAYA LAS:
 
 | Komponen | Standar Aman (SNI) | Standar Murah (Bahaya) |
 | :--- | :--- | :--- |
@@ -123,7 +123,7 @@ Musuh utama besi adalah karat. Namun di interior rumah yang kering, risiko ini m
 
 ## Siap Mewujudkan Tangga Impian?
 
-Jangan biarkan lahan sempit membatasi kreativitas desain rumah Anda. Konsultasikan denah rumah Anda dengan tim **MITRAJAYA LAS Setu Bekasi**. Kami akan bantu menghitungkan:
+Jangan biarkan lahan sempit membatasi kreativitas desain rumah Anda. Konsultasikan denah rumah Anda dengan tim **MITRAJAYA LAS**. Kami akan bantu menghitungkan:
 *   Jumlah anak tangga yang ideal (supaya tidak pegal).
 *   Lebar dan tinggi bordes yang nyaman.
 *   Desain railing yang aman untuk anak-anak (child-safety).

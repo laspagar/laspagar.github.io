@@ -4,7 +4,7 @@ title: "Panduan Memilih Material Atap Kanopi Paling Adem & Awet untuk Rumah di S
 date: 2025-12-18 10:00:00 +0700
 categories: [Tips, Material]
 tags: [Atap Kanopi Terbaik, Kanopi Alderon vs Kaca, Kanopi Anti Panas, Harga Kanopi Setu Bekasi 2025, Material Kanopi Setu Bekasi]
-author: "MITRAJAYA LAS Setu Bekasi"
+author: "MITRAJAYA LAS"
 image: /assets/products/kanopi-alderon-murah-setu-bekasi.jpg
 description: "Pilih Alderon, Kaca, atau Spandek? Simak perbandingan mendalam material atap kanopi yang paling cocok untuk iklim Setu Bekasi yang lembab namun terik di siang hari."
 ---
@@ -81,6 +81,6 @@ Masih bingung menghitung total biayanya? Silakan baca artikel kami tentang [**es
 Kami siap membawakan sampel material (potongan Alderon, Kaca, Spandek) saat survey ke rumah Anda agar Anda bisa memegang dan melihat kualitasnya secara langsung.
 
 📲 **Hubungi Kami via WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **MITRAJAYA LAS Setu Bekasi**: Spesialis Kanopi, Pagar, Tangga & Konstruksi Besi.
+📍 **MITRAJAYA LAS**: Spesialis Kanopi, Pagar, Tangga & Konstruksi Besi.
 
 [**Lihat Portfolio Pemasangan Kanopi Kami**](https://laspagar.github.io/products)

@@ -24,7 +24,7 @@ Bahannya terbuat dari lembaran Zincalume (Seng & Aluminium) yang ringan namun sa
 *   **Berisik**: Jika hujan deras, suaranya cukup nyaring (Bisa diakali dengan peredam/glasswool atau pilih spandek pasir).
 *   **Panas**: Menyerap panas matahari (Kurang cocok untuk teras santai siang hari, tapi oke untuk parkir mobil).
 
-## Paket Hemat MITRAJAYA LAS Setu Bekasi:
+## Paket Hemat MITRAJAYA LAS:
 *   **Paket Ekonomi**: Rangka 4x4 + Atap Spandek Polos 0.3mm = **Rp 550.000 / m²**
 *   **Paket Standar**: Rangka 4x4 + Atap Spandek Pasir (Peredam) = **Rp 650.000 / m²**
 

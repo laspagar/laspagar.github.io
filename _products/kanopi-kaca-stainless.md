@@ -27,6 +27,6 @@ Ingin tampilan rumah yang mewah dan modern? **Kanopi Kaca Tempered** dengan rang
 *   **Tinted (Rayben)**: Mengurangi silau matahari.
 *   **Laminated**: Dua lapis kaca dengan film PVB (extra safety).
 
-**Hubungi MITRAJAYA LAS Setu Bekasi** untuk konsultasi teknis dan estimasi harga proyek kanopi kaca Anda.
+**Hubungi MITRAJAYA LAS** untuk konsultasi teknis dan estimasi harga proyek kanopi kaca Anda.
 
 **[Kembali ke Katalog Produk](/products)**

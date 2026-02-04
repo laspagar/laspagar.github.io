@@ -4,14 +4,14 @@ title: "Harga Pintu Lipat Besi Per Meter 2025 di Setu Bekasi | Model Minimalis &
 date: 2025-12-28 17:15:00 +0700
 categories: [Harga, Pintu]
 tags: [Harga Pintu Lipat Besi, Biaya Folding Gate Setu Bekasi, Pintu Besi Murah, Jasa Las Setu Bekasi, RAB Pintu Garasi]
-author: "MITRAJAYA LAS Setu Bekasi"
+author: "MITRAJAYA LAS"
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGK3hl9vUiSL5F_7w_N0TCtHzLcm_LEMKZbuPfa_cWqCEgKFqbUGN2ydlCcJILya2tA8tY9_QUwaN6qes6wGXPXhsyJQ4mnoKBh6vXS4NFwsr72xezpbKthB6lO1ziUrkFCF106OG9A8M/s1600-rw/5.jpg
 description: "Cek rincian harga pintu lipat besi per meter terbaru 2025 di Setu Bekasi. Pelajari cara menghitung budget, perbedaan material, dan tips mendapatkan harga termurah namun berkualitas."
 ---
 
 Seringkali kita bingung saat ingin memasang pintu garasi atau pintu toko di Setu Bekasi: *"Berapa sih budget yang harus disiapkan?"* Di pasar Setu Bekasi, **Harga Pintu Lipat Besi** sangatlah variatif. Ada yang menawarkan harga "muraah banget", tapi ada juga yang harganya selangit. 
 
-Sebagai bengkel las profesional, tim **MITRAJAYA LAS Setu Bekasi** ingin memberikan transparansi rincian harga untuk tahun 2025. Pengetahuan ini penting agar Anda tidak terjebak dengan penawaran harga rendah yang ternyata menggunakan material "banci" (tipis) yang hanya kuat bertahan 1-2 tahun saja.
+Sebagai bengkel las profesional, tim **MITRAJAYA LAS** ingin memberikan transparansi rincian harga untuk tahun 2025. Pengetahuan ini penting agar Anda tidak terjebak dengan penawaran harga rendah yang ternyata menggunakan material "banci" (tipis) yang hanya kuat bertahan 1-2 tahun saja.
 
 ![Estimasi Harga Pintu Lipat Besi Setu Bekasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGK3hl9vUiSL5F_7w_N0TCtHzLcm_LEMKZbuPfa_cWqCEgKFqbUGN2ydlCcJILya2tA8tY9_QUwaN6qes6wGXPXhsyJQ4mnoKBh6vXS4NFwsr72xezpbKthB6lO1ziUrkFCF106OG9A8M/s1600-rw/5.jpg)
 
@@ -87,7 +87,7 @@ Tabel [**Biaya Pasang Kanopi Setu Bekasi**](/posts/2025-12-12-biaya-pasang-kanop
 ## FAQ – Pertanyaan Sering Diajukan
 
 **Q: Apakah harga sudah termasuk jasa pasang?**
-A: Di MITRAJAYA LAS Setu Bekasi, harga yang kami berikan biasanya sudah *Include* pemasangan di area Setu Bekasi Raya.
+A: Di MITRAJAYA LAS, harga yang kami berikan biasanya sudah *Include* pemasangan di area Setu Bekasi Raya.
 
 **Q: Berapa lama proses pengerjaannya?**
 A: Untuk ukuran standar, biasanya memakan waktu 7-10 hari kerja mulai dari fabrikasi hingga pemasangan unit di lokasi.
@@ -98,6 +98,6 @@ A: Tentu saja! Kami memiliki katalog warna primer hingga warna modern seperti ab
 Ingin mendapatkan hitungan RAB yang lebih akurat dan detail sesuai ukuran pintu Anda? Kirimkan foto lokasi Anda sekarang juga melalu WhatsApp.
 
 📲 **Hubungi Tim Sales**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **MITRAJAYA LAS Setu Bekasi**: Amanah, Berkualitas, & Bergaransi.
+📍 **MITRAJAYA LAS**: Amanah, Berkualitas, & Bergaransi.
 
 [**Kembali ke Artikel Utama Pintu Garasi**](/posts/2025-12-28-pintu-garasi-murah-setu-bekasi-terlengkap)

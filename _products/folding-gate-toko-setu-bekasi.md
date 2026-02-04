@@ -27,6 +27,6 @@ Kami melayani pengiriman dan pemasangan untuk seluruh area Setu Bekasi Raya, ter
 
 [**Cek Harga Pintu Lipat Besi Per Meter Terbaru**](/posts/2025-12-28-harga-pintu-lipat-besi-setu-bekasi-2025)
 
-**Hubungi MITRAJAYA LAS Setu Bekasi:**
+**Hubungi MITRAJAYA LAS:**
 📲 [0851-8309-9865](https://wa.me/6285183099865)
 📍 Workshop: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320, Setu Bekasi Barat.

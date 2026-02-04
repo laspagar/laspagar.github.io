@@ -4,7 +4,7 @@ title: "Project Review: Transformasi Teras Rumah Dago Resort dengan Kanopi Kordo
 date: 2025-12-04 10:00:00 +0700
 categories: [Project, Kanopi, Studi Kasus]
 tags: [Kanopi Setu Bekasi, Kanopi Kordoba, Jasa Las Dago, Kanopi Rumah Cluster, Bengkel Las Setu Bekasi Utara, Kanopi Minimalis Modern]
-author: "MITRAJAYA LAS Setu Bekasi"
+author: "MITRAJAYA LAS"
 image: /assets/posts/kanopi-kordoba.png
 description: "Intip proses makeover teras rumah di Dago Resort menggunakan Kanopi Kordoba Varian 2. Solusi atap carport yang tidak hanya kuat menahan hujan angin Setu Bekasi, tapi juga bikin rumah auto-mewah."
 ---
@@ -15,7 +15,7 @@ Itulah masalah yang dihadapi Bapak Reka, klien kami yang tinggal di kawasan **Da
 
 Beliau memiliki rumah bergaya minimalis modern yang cantik, namun area carport-nya masih terbuka. Setiap kali hujan turun (yang di Dago bisa terjadi hampir setiap sore), mobil kesayangannya jadi kotor terkena *water spot* hujan asam, dan lantai terasnya licin membahayakan anak-anak.
 
-Beliau menghubungi **MITRAJAYA LAS Setu Bekasi** dengan satu request simpel tapi menantang:
+Beliau menghubungi **MITRAJAYA LAS** dengan satu request simpel tapi menantang:
 > *"Mas, saya mau kanopi yang kuat nahan angin Dago, tapi gak mau yang modelnya kuno. Harus nyambung sama fasad rumah saya yang modern. Oh iya, jangan berisik kalau hujan!"*
 
 Tantangan diterima! Inilah kisah bagaimana kami mewujudkannya.
@@ -81,4 +81,4 @@ Kami melayani survey gratis ke area: bekasi,cilengsi,bogor,jakarta,tangerang.
 � **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
 📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
 
-*MITRAJAYA LAS Setu Bekasi - Spesialis Kanopi, Pagar, dan Konstruksi Besi Terbaik.*
+*MITRAJAYA LAS - Spesialis Kanopi, Pagar, dan Konstruksi Besi Terbaik.*

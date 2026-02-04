@@ -27,7 +27,7 @@ Untuk rumah bergaya Klasik Eropa atau Mediterania di kawasan elite Setu Bekasi U
 Harga mulai **Rp 3.200.000 / daun pintu** (Ukuran standar 90x210 cm).
 *Termasuk kusen besi, engsel bubut, kunci, dan aksesoris handle mewah.*
 
-**Workshop MITRAJAYA LAS Setu Bekasi:**
+**Workshop MITRAJAYA LAS:**
 Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
 
 **[Hubungi Kami untuk Katalog Motif](/cara-pemesanan)**

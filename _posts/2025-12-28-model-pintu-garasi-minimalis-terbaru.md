@@ -4,7 +4,7 @@ title: "10+ Model Pintu Garasi Minimalis Terbaru 2025: Inspirasi Mewah untuk Rum
 date: 2025-12-28 18:00:00 +0700
 categories: [Inspirasi, Desain]
 tags: [Model Pintu Garasi, Garasi Minimalis, Desain Rumah Setu Bekasi, Pintu Garasi Modern, Pintu Lipat Besi, Pintu Sliding Setu Bekasi]
-author: "MITRAJAYA LAS Setu Bekasi"
+author: "MITRAJAYA LAS"
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIZnbNeInNb4rRP2e26HVts7AMMXICzOty_OA08y9EaD8LjS1lvj6lbCIVyDmw1RUCmj7XiorZo-M5EqnS0iyLbmmHSCHbCIIEwae2diMrYdBZP-__HrFKP35yA-WLriZt4C3QK8DsMZc0zBGCQgM_CNfELE1UnDIGx4TVbV98GxEE1mx6Q4JE0Jj4/w320-h180-rw/maxresdefault.jpg
 description: "Bingung pilih model pintu garasi? Simak 10+ inspirasi model pintu garasi minimalis terbaru 2025 di Setu Bekasi. Mulai dari gaya Industrial, Laser Cutting, hingga Woodplank premium."
 ---
@@ -13,7 +13,7 @@ Seringkali kita terlalu fokus pada desain interior atau warna cat dinding, sampa
 
 Bayangkan Anda tinggal di kawasan Dago, Antapani, atau Arcamanik. Rumah Anda sudah didesain apik oleh arsitek, namun jika pintu garasinya masih model plat besi "jadul" yang berisik dan berat, tentu estetika rumah akan langsung drop.
 
-Tahun 2025 ini, tren pintu garasi di Setu Bekasi bergeser dari sekadar fungsional menjadi elemen dekoratif yang cerdas. Tim **MITRAJAYA LAS Setu Bekasi** merangkum 10+ model pintu garasi minimalis terbaru yang sedang *hype* di Kota Kembang.
+Tahun 2025 ini, tren pintu garasi di Setu Bekasi bergeser dari sekadar fungsional menjadi elemen dekoratif yang cerdas. Tim **MITRAJAYA LAS** merangkum 10+ model pintu garasi minimalis terbaru yang sedang *hype* di Kota Kembang.
 
 ![Model Pintu Garasi Minimalis Terbaru Setu Bekasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIZnbNeInNb4rRP2e26HVts7AMMXICzOty_OA08y9EaD8LjS1lvj6lbCIVyDmw1RUCmj7XiorZo-M5EqnS0iyLbmmHSCHbCIIEwae2diMrYdBZP-__HrFKP35yA-WLriZt4C3QK8DsMZc0zBGCQgM_CNfELE1UnDIGx4TVbV98GxEE1mx6Q4JE0Jj4/w320-h180-rw/maxresdefault.jpg)
 
@@ -79,7 +79,7 @@ Agar model pintu yang sudah bagus tetap fungsional:
 
 Memilih model pintu garasi harus menyesuaikan dengan **fasad rumah** dan **fungsi utama**. Jika Anda butuh sirkulasi udara, pilih *Expanded* atau *Laser Cutting*. Jika butuh privasi total, pilih *Press Plat*.
 
-Masih bingung? Tim desain **MITRAJAYA LAS Setu Bekasi** siap datang ke lokasi Anda untuk melakukan survey dan memberikan saran model yang paling proporsional untuk rumah Anda.
+Masih bingung? Tim desain **MITRAJAYA LAS** siap datang ke lokasi Anda untuk melakukan survey dan memberikan saran model yang paling proporsional untuk rumah Anda.
 
 **Survey & Konsultasi Gratis:**
 📲 **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)

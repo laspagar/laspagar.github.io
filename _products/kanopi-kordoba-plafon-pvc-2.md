@@ -10,7 +10,7 @@ keywords: kanopi kordoba v2, kanopi double frame, kanopi mewah setu bekasi, plaf
 
 # Kanopi Kordoba Varian 2: Struktur Double Frame untuk Carport Mewah Setu Bekasi
 
-Jika Anda menginginkan **kekuatan maksimal** dan **tampilan interior termewah**, Varian 2 dari Kanopi Kordoba MITRAJAYA LAS Setu Bekasi adalah pilihan terbaik. Dirancang dengan **Double Frame** (Rangka Ganda) yang sangat kokoh, cocok untuk carport mobil besar (Pajero/Fortuner) di perumahan elite Setu Bekasi.
+Jika Anda menginginkan **kekuatan maksimal** dan **tampilan interior termewah**, Varian 2 dari Kanopi Kordoba MITRAJAYA LAS adalah pilihan terbaik. Dirancang dengan **Double Frame** (Rangka Ganda) yang sangat kokoh, cocok untuk carport mobil besar (Pajero/Fortuner) di perumahan elite Setu Bekasi.
 
 ## Bedanya dengan Varian Standar?
 *   **Rangka Double**: Menggunakan rangka utama 4x6 (2 layer) + Rangka isian 4x4. Sangat kekar dan gagah.
@@ -28,6 +28,6 @@ Jika Anda menginginkan **kekuatan maksimal** dan **tampilan interior termewah**,
 *   Cafe / Restoran kekinian di Setu Bekasi (Area Outdoor).
 *   Carport lebar > 6 meter (tanpa tiang tengah).
 
-**Hubungi MITRAJAYA LAS Setu Bekasi** untuk survey lokasi dan konsultasi desain premium ini.
+**Hubungi MITRAJAYA LAS** untuk survey lokasi dan konsultasi desain premium ini.
 
 **[Lihat Varian Standar (Lebih Hemat) Disini](/products/kanopi-kordoba-plafon-pvc)**

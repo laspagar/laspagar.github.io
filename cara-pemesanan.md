@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cara Pemesanan MITRAJAYA LAS Setu Bekasi
+title: Cara Pemesanan MITRAJAYA LAS
 permalink: /cara-pemesanan/
 ---
 

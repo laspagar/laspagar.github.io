@@ -4,7 +4,7 @@ title: "Pintu Lipat Besi (Folding Gate) untuk Garasi & Toko di Setu Bekasi | Kua
 date: 2025-12-28 17:00:00 +0700
 categories: [Pintu, Folding Gate]
 tags: [Pintu Lipat Besi, Folding Gate Setu Bekasi, Pintu Toko Setu Bekasi, Pintu Garasi Kuat, Jasa Pasang Folding Gate]
-author: "MITRAJAYA LAS Setu Bekasi"
+author: "MITRAJAYA LAS"
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGK3hl9vUiSL5F_7w_N0TCtHzLcm_LEMKZbuPfa_cWqCEgKFqbUGN2ydlCcJILya2tA8tY9_QUwaN6qes6wGXPXhsyJQ4mnoKBh6vXS4NFwsr72xezpbKthB6lO1ziUrkFCF106OG9A8M/s1600-rw/5.jpg
 description: "Mencari pintu lipat besi atau folding gate yang kuat dan aman untuk garasi atau toko Anda di Setu Bekasi? Simak panduan lengkap pemilihan material dan model terbaik disini."
 ---
@@ -43,7 +43,7 @@ Untuk kebutuhan ruko, keamanan adalah segalanya. Plat yang digunakan biasanya le
 
 ## Komponen Penting Pintu Lipat Besi Berkualitas
 
-Jangan tergiur dengan harga murah tanpa mengecek komponen dalamnya. Berikut adalah apa yang membuat pintu lipat dari **MITRAJAYA LAS Setu Bekasi** berbeda:
+Jangan tergiur dengan harga murah tanpa mengecek komponen dalamnya. Berikut adalah apa yang membuat pintu lipat dari **MITRAJAYA LAS** berbeda:
 
 1.  **Slat (Plat Isian)**: Kami menggunakan plat besi berkualitas tinggi yang sudah dicoating anti karat. Ketebalan bisa disesuaikan mulai dari 0.5mm hingga 1.2mm.
 2.  **UNP (Kerangka Utama)**: Rangka tegak yang menjadi tulang punggung pintu. Kami memastikan penggunaan UNP yang presisi agar pintu tidak miring saat dioperasikan.
@@ -57,7 +57,7 @@ Walaupun kuat, pintu lipat besi tetap butuh kasih sayang agar tidak berkarat dan
 *   **Lumasi Engsel**: Berikan oli atau WD-40 pada bagian silangan dan roda setiap 3 bulan sekali.
 *   **Cat Ulang Berkala**: Jika cat mulai mengelupas, segera lakukan pengecatan ulang untuk menghindari karat merayap ke pori-besi. Anda bisa membaca panduan [Cara Merawat Pagar Besi](/posts/2025-12-20-cara-merawat-pagar-besi-setu-bekasi) untuk tips lebih detail.
 
-## Mengapa Memesan di MITRAJAYA LAS Setu Bekasi?
+## Mengapa Memesan di MITRAJAYA LAS?
 
 Kami bukan sekadar bengkel las biasa. Kami mengerti karakteristik bangunan di Setu Bekasi. Tim kami siap melakukan survey ke lokasi Anda di seluruh area Setu Bekasi Raya, bekasi,cilengsi,bogor,jakarta,tangerang, hingga bekasi,cilengsi,bogor,jakarta,tangerang untuk memberikan saran teknis yang paling efisien.
 

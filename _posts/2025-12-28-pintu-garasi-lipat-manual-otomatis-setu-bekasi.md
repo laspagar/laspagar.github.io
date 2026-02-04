@@ -4,7 +4,7 @@ title: "Pintu Garasi Lipat Besi Manual & Otomatis di Setu Bekasi | Hemat Ruang &
 date: 2025-12-28 17:45:00 +0700
 categories: [Pintu, Teknologi]
 tags: [Pintu Garasi Otomatis, Pintu Lipat Besi Manual, Pintu Sleding Setu Bekasi, Motorized Garage Door, Bengkel Las Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320]
-author: "MITRAJAYA LAS Setu Bekasi"
+author: "MITRAJAYA LAS"
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO2Y4XapOBejwpT1BGntlPZRD7VP8yQM_hx3QTiHBssYluvSkQM3L6lMWFrqj7AsNkK6YdDzuWY4bIWV-SW7uvz6d_dQPa2QnJpabNRKpYjnp2b4mEKpESY2Mmq1ihWZW01Hn1bMGPQuRg/s1600-rw/Desain-Pintu-Garasi-Kayu-768x576.jpg
 description: "Pilih manual atau otomatis? Simak perbandingan pengerjaan pintu garasi lipat besi di Setu Bekasi. Solusi hemat ruang dengan kekuatan beban maksimal untuk keamanan rumah Anda."
 ---
@@ -13,7 +13,7 @@ Efisiensi ruang adalah isu utama bagi pemilik rumah modern di Setu Bekasi. Denga
 
 Namun, seiring dengan berkembangnya tren *smart home* di Setu Bekasi, muncul satu perdebatan baru: *"Mending pakai sistem manual yang hemat budget, atau sekalian pasang sistem otomatis biar praktis?"*
 
-Tim **MITRAJAYA LAS Setu Bekasi** akan mengulas keduanya untuk Anda, mulai dari aspek fungsionalitas, ketahanan beban, hingga efisiensi ruang yang ditawarkannya.
+Tim **MITRAJAYA LAS** akan mengulas keduanya untuk Anda, mulai dari aspek fungsionalitas, ketahanan beban, hingga efisiensi ruang yang ditawarkannya.
 
 ![Pintu Garasi Lipat Modern Setu Bekasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO2Y4XapOBejwpT1BGntlPZRD7VP8yQM_hx3QTiHBssYluvSkQM3L6lMWFrqj7AsNkK6YdDzuWY4bIWV-SW7uvz6d_dQPa2QnJpabNRKpYjnp2b4mEKpESY2Mmq1ihWZW01Hn1bMGPQuRg/s1600-rw/Desain-Pintu-Garasi-Kayu-768x576.jpg)
 
@@ -25,7 +25,7 @@ Sebelum memilih sistem pengoperasiannya, mari kita lihat mengapa model lipat san
 Berbeda dengan pintu sliding yang butuh dinding samping yang panjang, atau pintu swing yang butuh area sapuan (swing radius) di depan carport, pintu lipat hanya butuh area sangat sedikit di sisi kiri atau kanan. Saat melipat, ketebalan tumpukan daun pintu hanya memakan sekitar 40-60cm saja. Ini sangat ideal bagi Anda yang tinggal di cluster perumahan padat.
 
 ### 2. Konstruksi Kokoh & Kuat Beban
-Pintu lipat yang kami buat di **MITRAJAYA LAS Setu Bekasi** menggunakan engsel tanam berkekuatan tinggi. Setiap daun pintu didukung oleh roda bearing di bagian bawah yang mampu menopang beban plat besi tebal sekalipun. Hal ini memastikan pintu tidak akan turun ("ngamplung") meskipun sudah digunakan bertahun-tahun.
+Pintu lipat yang kami buat di **MITRAJAYA LAS** menggunakan engsel tanam berkekuatan tinggi. Setiap daun pintu didukung oleh roda bearing di bagian bawah yang mampu menopang beban plat besi tebal sekalipun. Hal ini memastikan pintu tidak akan turun ("ngamplung") meskipun sudah digunakan bertahun-tahun.
 
 ### 3. Keamanan Tingkat Tinggi
 Karena sistemnya yang saling mengunci antar daun, pintu lipat besi jauh lebih sulit untuk dicongkel secara paksa dibandingkan pintu tunggal berukuran besar.
@@ -70,7 +70,7 @@ Jika Anda mengutamakan **gengsi dan kenyamanan**, sistem **Otomatis** adalah pil
 Masih bingung menghitung kebutuhan ruang untuk lipatan pintunya? Atau ingin tahu seberapa kuat dinding garasi Anda menahan beban pintu?
 
 **Konsultasikan dengan Ahlinya:**
-Tim **MITRAJAYA LAS Setu Bekasi** siap melakukan survey teknis gratis ke lokasi Anda untuk memastikan pemasangan berjalan sempurna sesuai kondisi lapangan.
+Tim **MITRAJAYA LAS** siap melakukan survey teknis gratis ke lokasi Anda untuk memastikan pemasangan berjalan sempurna sesuai kondisi lapangan.
 
 📲 **Chat WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
 📍 **Layanan**: Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, bekasi,cilengsi,bogor,jakarta,tangerang, Soreang, Jatinangor.

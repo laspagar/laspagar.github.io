@@ -17,7 +17,7 @@ Ini adalah model kanopi **paling laris** di Setu Bekasi tahun ini. Menggabungkan
 *   **Adem Maksimal**: Rongga antara atap dan plafon berfungsi sebagai insulator panas terbaik. Sangat cocok untuk sirkulasi udara Setu Bekasi.
 *   **Tahan Air**: Plafon PVC tahan bocor dan tidak akan lapuk kena rembesan air (beda dengan Gypsum/GRC).
 
-## Spesifikasi Standar MITRAJAYA LAS Setu Bekasi:
+## Spesifikasi Standar MITRAJAYA LAS:
 *   **Rangka**: Hollow Galvanis 4x6 & 4x4 (Full SNI).
 *   **Atap Atas**: Spandek / Alderon RS (Single Layer).
 *   **Plafon Bawah**: PVC Board (Motif Putih / Kayu).

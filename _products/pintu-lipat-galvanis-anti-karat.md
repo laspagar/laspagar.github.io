@@ -24,7 +24,7 @@ Dengan lapisan pelindung Zinc, besi di dalamnya aman dari korosi meskipun sering
 
 [**Pelajari Mengapa Besi Galvanis Lebih Unggul**](/posts/2025-12-28-folding-gate-besi-galvanis-setu-bekasi)
 
-Ganti pintu lama Anda yang sudah berkarat dengan solusi masa depan dari MITRAJAYA LAS Setu Bekasi.
+Ganti pintu lama Anda yang sudah berkarat dengan solusi masa depan dari MITRAJAYA LAS.
 
 **Tanya Spek Material Gratis:**
 📲 WhatsApp: [0851-8309-9865](https://wa.me/6285183099865)

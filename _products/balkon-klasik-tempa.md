@@ -10,7 +10,7 @@ keywords: balkon tempa setu bekasi, railing klasik cimahi, balkon besi tempa, pa
 
 # Balkon Klasik Tempa Setu Bekasi: Kemewahan Abadi untuk Hunian Elite
 
-Railing atau pagar balkon bukan hanya sekadar pengaman, melainkan elemen estetika yang menentukan karakter fasad rumah. **Balkon Klasik Tempa** dari **MITRAJAYA LAS Setu Bekasi** menghadirkan keanggunan abadi, cocok untuk rumah-rumah di kawasan Dago, Setiabudi, atau Kota Baru Parahyangan yang mengusung gaya Classic atau Mediterranean.
+Railing atau pagar balkon bukan hanya sekadar pengaman, melainkan elemen estetika yang menentukan karakter fasad rumah. **Balkon Klasik Tempa** dari **MITRAJAYA LAS** menghadirkan keanggunan abadi, cocok untuk rumah-rumah di kawasan Dago, Setiabudi, atau Kota Baru Parahyangan yang mengusung gaya Classic atau Mediterranean.
 
 ## Keunggulan Balkon Tempa Kami
 *   **Handmade Quality**: Dikerjakan oleh pengrajin besi tempa berpengalaman di Setu Bekasi.

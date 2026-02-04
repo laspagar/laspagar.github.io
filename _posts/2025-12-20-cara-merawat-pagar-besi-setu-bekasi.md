@@ -4,7 +4,7 @@ title: "Cara Merawat Pagar Besi Agar Awet 10 Tahun (Panduan Khusus Cuaca Setu Be
 date: 2025-12-20 10:00:00 +0700
 categories: [Tips, Maintenance]
 tags: [Perawatan Pagar Besi, Cat Ulang Pagar Setu Bekasi, Pagar Karatan, Tips Rumah Setu Bekasi, Bengkel Las Setu Bekasi]
-author: "MITRAJAYA LAS Setu Bekasi"
+author: "MITRAJAYA LAS"
 image: /assets/products/pagar-plat-laser-cutting-cimahi-setu-bekasi.jpg
 description: "Pagar besi mulai kusam atau karatan? Jangan buru-buru ganti! Simak panduan lengkap perawatan pagar besi di Setu Bekasi agar tetap kuat, aman, dan tampak mewah seperti baru."
 ---
@@ -13,7 +13,7 @@ Pagar adalah elemen pertama yang dilihat orang saat berkunjung ke rumah Anda. Ia
 
 Apalagi bagi Anda yang tinggal di Setu Bekasi. Udara sejuk Kota Kembang memang menyenangkan bagi manusia, namun kelembapan tinggi, kabut pagi (terutama di area bekasi,cilengsi,bogor,jakarta,tangerang dan Setu Bekasi Utara), serta hujan asam yang sering turun adalah musuh alami logam. Jika tidak dirawat, pagar minimalis Anda yang dulunya cantik bisa berubah menjadi besi rongsokan yang penuh karat dalam hitungan bulan.
 
-Kabar baiknya, Anda tidak perlu mengganti pagar setiap tahun. Dengan perawatan yang tepat, pagar besi kesayangan Anda bisa bertahan hingga lebih dari 10 tahun. Tim **MITRAJAYA LAS Setu Bekasi** merangkum panduan tuntas mengatasinya.
+Kabar baiknya, Anda tidak perlu mengganti pagar setiap tahun. Dengan perawatan yang tepat, pagar besi kesayangan Anda bisa bertahan hingga lebih dari 10 tahun. Tim **MITRAJAYA LAS** merangkum panduan tuntas mengatasinya.
 
 ![Pagar Besi Minimalis Terawat Tampak Mewah di Setu Bekasi](/assets/products/pagar-plat-laser-cutting-cimahi-setu-bekasi.jpg)
 
@@ -63,7 +63,7 @@ Pelajari lebih lanjut tentang [**Cat Semprot vs Powder Coating**](/posts/2025-12
 
 Kondisi pagar Anda sudah terlanjur karatan parah? Atau roda pagar macet total dan tidak bisa digeser?
 
-Tim **MITRAJAYA LAS Setu Bekasi** melayani jasa perbaikan (service) dan cat ulang profesional di area Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, dan sekitarnya. Kami tidak hanya sekadar mengecat, tapi kami melakukan pengamplasan total, pemberian primer anti-karat bermutu tinggi, hingga finishing yang halus seperti baru.
+Tim **MITRAJAYA LAS** melayani jasa perbaikan (service) dan cat ulang profesional di area Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, dan sekitarnya. Kami tidak hanya sekadar mengecat, tapi kami melakukan pengamplasan total, pemberian primer anti-karat bermutu tinggi, hingga finishing yang halus seperti baru.
 
 **Layanan Service Kami:**
 *   Cat ulang total pagar, kanopi, dan tangga besi.

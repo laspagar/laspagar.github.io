@@ -4,7 +4,7 @@ title: "Panduan Ukuran Kanopi Carport Ideal: Standar Mobil Avanza hingga Alphard
 date: 2025-12-16 10:00:00 +0700
 categories: [Tips, Kanopi]
 tags: [Ukuran Kanopi Mobil, Kanopi Carport Setu Bekasi, Standar Ukuran Garasi, Jasa MITRAJAYA LAS, Renovasi Rumah Setu Bekasi, Dimensi Carport]
-author: "MITRAJAYA LAS Setu Bekasi"
+author: "MITRAJAYA LAS"
 image: /assets/products/kanopi-atap-spandek-termurah.jpeg
 description: "Jangan asal bangun! Ketahui standar ukuran ideal kanopi carport agar mobil terlindungi sempurna dari hujan angin Setu Bekasi. Panduan lengkap dimensi lebar, panjang, dan tinggi."
 ---
@@ -86,7 +86,7 @@ Untuk urusan keawetan di cuaca Setu Bekasi, kami sangat menyarankan sistem [fini
 Jangan sampai biaya jutaan rupiah yang Anda keluarkan untuk [pemasangan kanopi](/posts/2025-12-12-biaya-pasang-kanopi-estimasi-setu-bekasi) menjadi sia-sia karena salah dimensi. Konsultasikan denah rumah dan jenis mobil Anda kepada ahlinya.
 
 **Ingin Survey & Pengukuran Gratis?**
-Tim **MITRAJAYA LAS Setu Bekasi** siap meluncur ke lokasi Anda (Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, bekasi,cilengsi,bogor,jakarta,tangerang, bekasi,cilengsi,bogor,jakarta,tangerang) untuk memberikan solusi ukuran paling presisi dan desain paling proporsional.
+Tim **MITRAJAYA LAS** siap meluncur ke lokasi Anda (Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, bekasi,cilengsi,bogor,jakarta,tangerang, bekasi,cilengsi,bogor,jakarta,tangerang) untuk memberikan solusi ukuran paling presisi dan desain paling proporsional.
 
 📲 **Konsultasi WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
 📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320

@@ -11,7 +11,7 @@ description: "Jasa pembuatan kanopi mezzanine besi di Setu Bekasi, bekasi,cileng
 
 Apakah Anda merasa rumah Anda di Setu Bekasi mulai terasa sempit? Kebutuhan ruang terus bertambah, namun lahan yang tersedia terbatas? **Kanopi Mezzanine** atau lantai mezzanine besi bisa menjadi solusi cerdas dan efisien untuk Anda.
 
-Sebagai spesialis **[Jasa MITRAJAYA LAS Setu Bekasi](/)** yang berpengalaman lebih dari 10 tahun, kami sering mendapatkan pertanyaan tentang bagaimana cara menambah ruang fungsional tanpa harus membongkar atap atau melakukan renovasi sipil yang mahal. Jawabannya solusi hemat biaya: **Struktur Mezzanine Besi**.
+Sebagai spesialis **[Jasa MITRAJAYA LAS](/)** yang berpengalaman lebih dari 10 tahun, kami sering mendapatkan pertanyaan tentang bagaimana cara menambah ruang fungsional tanpa harus membongkar atap atau melakukan renovasi sipil yang mahal. Jawabannya solusi hemat biaya: **Struktur Mezzanine Besi**.
 
 ## Apa Itu Kanopi Mezzanine?
 
@@ -57,7 +57,7 @@ Harga pembuatan kanopi mezzanine di Setu Bekasi berkisar mulai dari **Rp 1.xxx.0
 
 ## Konsultasi & Survey Gratis!
 
-Jangan biarkan lahan terbatas membatasi kenyamanan keluarga Anda. Hubungi **MITRAJAYA LAS Setu Bekasi** hari ini. Kami siap datang ke lokasi Anda untuk **Survey & Konsultasi GRATIS**.
+Jangan biarkan lahan terbatas membatasi kenyamanan keluarga Anda. Hubungi **MITRAJAYA LAS** hari ini. Kami siap datang ke lokasi Anda untuk **Survey & Konsultasi GRATIS**.
 
 **[📞 Hubungi WhatsApp Kami Sekarang](https://wa.me/6285183099865?text=Halo%20Las%20Pagar,%20saya%20tertarik%20info%20Mezzanine)**
 

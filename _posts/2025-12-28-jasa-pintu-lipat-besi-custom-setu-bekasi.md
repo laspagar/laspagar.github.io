@@ -4,14 +4,14 @@ title: "Jasa Pembuatan Pintu Lipat Besi Custom di Setu Bekasi | Free Survey & Pa
 date: 2025-12-28 18:00:00 +0700
 categories: [Layanan, Jasa]
 tags: [Jasa Pintu Lipat Setu Bekasi, Bengkel Las Pintu Garasi, Folding Gate Custom Setu Bekasi, Tukang Pintu Besi, Pembuatan Pintu Ruko]
-author: "MITRAJAYA LAS Setu Bekasi"
+author: "MITRAJAYA LAS"
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGK3hl9vUiSL5F_7w_N0TCtHzLcm_LEMKZbuPfa_cWqCEgKFqbUGN2ydlCcJILya2tA8tY9_QUwaN6qes6wGXPXhsyJQ4mnoKBh6vXS4NFwsr72xezpbKthB6lO1ziUrkFCF106OG9A8M/s1600-rw/5.jpg
-description: "Ingin pintu garasi atau pintu toko yang pas dengan luas lahan dan gaya rumah Anda? MITRAJAYA LAS Setu Bekasi melayani jasa pembuatan pintu lipat besi custom dengan gratis survey dan pemasangan."
+description: "Ingin pintu garasi atau pintu toko yang pas dengan luas lahan dan gaya rumah Anda? MITRAJAYA LAS melayani jasa pembuatan pintu lipat besi custom dengan gratis survey dan pemasangan."
 ---
 
 Menemukan bengkel las yang bisa mengerjakan **Pintu Lipat Besi (Folding Gate)** dengan kualitas rapi dan harga transparan di Setu Bekasi bisa menjadi tantangan tersendiri. Banyak bengkel las amatir yang menawarkan harga murah, namun hasil akhirnya seringkali mengecewakan: pintu macet, cat cepat mengelupas, atau ukuran yang tidak presisi (miring).
 
-Di **MITRAJAYA LAS Setu Bekasi**, kami mengerti bahwa pintu garasi adalah investasi keamanan jangka panjang. Oleh karena itu, kami hadir memberikan layanan **Jasa Pembuatan Pintu Lipat Besi Custom** yang profesional, mengutamakan kualitas material, dan memberikan kemudahan layanan bagi warga Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, hingga bekasi,cilengsi,bogor,jakarta,tangerang.
+Di **MITRAJAYA LAS**, kami mengerti bahwa pintu garasi adalah investasi keamanan jangka panjang. Oleh karena itu, kami hadir memberikan layanan **Jasa Pembuatan Pintu Lipat Besi Custom** yang profesional, mengutamakan kualitas material, dan memberikan kemudahan layanan bagi warga Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, hingga bekasi,cilengsi,bogor,jakarta,tangerang.
 
 ![Layanan Jasa Pintu Lipat Besi Setu Bekasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGK3hl9vUiSL5F_7w_N0TCtHzLcm_LEMKZbuPfa_cWqCEgKFqbUGN2ydlCcJILya2tA8tY9_QUwaN6qes6wGXPXhsyJQ4mnoKBh6vXS4NFwsr72xezpbKthB6lO1ziUrkFCF106OG9A8M/s1600-rw/5.jpg)
 
@@ -43,7 +43,7 @@ Kami menerapkan prosedur yang sistematis untuk menjamin kepuasan klien:
 
 ![Detail Hasil Finishing MITRAJAYA LAS](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWxnm5zGwnVbX5DvYomC1P6OqRGJYp3ZwY68K225tXBw5rx6b2wlfw3KePqhu2bxK1P0KFwDwKX0hUoV7sGuqFNCEzVQGLLYvkqjQk3ZsajrQzzySLHpgxEvAVZrQ2fi7Skff5nqAR1d8g/s1600-rw/Desain-Cat-Pintu-Garasi.jpg)
 
-## Area Layanan MITRAJAYA LAS Setu Bekasi
+## Area Layanan MITRAJAYA LAS
 
 Kami melayani jasa pembuatan dan pemasangan pintu lipat besi di seluruh wilayah strategis:
 *   **Setu Bekasi Kota**: Antapani, Arcamanik, Buahbatu, Kopo, Dago, Setiabudi.
@@ -59,7 +59,7 @@ Kami melayani jasa pembuatan dan pemasangan pintu lipat besi di seluruh wilayah 
 
 ## Jadwalkan Survey Anda Sekarang!
 
-Jangan biarkan garasi atau toko Anda tanpa perlindungan yang maksimal. Hubungi **MITRAJAYA LAS Setu Bekasi** sekarang untuk mendapatkan penawaran harga terbaik.
+Jangan biarkan garasi atau toko Anda tanpa perlindungan yang maksimal. Hubungi **MITRAJAYA LAS** sekarang untuk mendapatkan penawaran harga terbaik.
 
 📲 **Konsultasi WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
 📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320

@@ -4,7 +4,7 @@ title: "Bongkar Rincian Harga Pintu Garasi Besi Per Meter di Setu Bekasi (Update
 date: 2025-12-28 17:30:00 +0700
 categories: [Harga, Pintu]
 tags: [Harga Pintu Besi, Biaya Ganti Pintu Garasi, Pagar Besi Murah Setu Bekasi, Pintu Garasi Setu Bekasi, Bengkel Las Setu Bekasi]
-author: "MITRAJAYA LAS Setu Bekasi"
+author: "MITRAJAYA LAS"
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWxnm5zGwnVbX5DvYomC1P6OqRGJYp3ZwY68K225tXBw5rx6b2wlfw3KePqhu2bxK1P0KFwDwKX0hUoV7sGuqFNCEzVQGLLYvkqjQk3ZsajrQzzySLHpgxEvAVZrQ2fi7Skff5nqAR1d8g/s1600-rw/Desain-Cat-Pintu-Garasi.jpg
 description: "Mau pasang pintu garasi tapi bingung hitung biayanya? Simak harga pintu garasi besi per meter lari atau per daun di Setu Bekasi. Transparan, lengkap, dan tanpa biaya siluman."
 ---
@@ -13,7 +13,7 @@ Banyak pemilik rumah di Setu Bekasi yang sedang melakukan renovasi seringkali be
 
 Jawabannya sebenarnya tidak sesederhana menyebut satu angka tunggal. Mengetahui harga pintu garasi sangat bergantung pada tiga hal utama: **Model Desain**, **Ketebalan Material**, dan **Sistem Rel** yang digunakan. 
 
-Sebagai bengkel las yang mengutamakan kejujuran dan transparansi, **MITRAJAYA LAS Setu Bekasi** ingin membedah rincian biaya ini secara mendalam agar Anda tidak terjebak dengan penawaran "murah" yang ujung-ujungnya berkualitas rendah atau memiliki banyak biaya siluman.
+Sebagai bengkel las yang mengutamakan kejujuran dan transparansi, **MITRAJAYA LAS** ingin membedah rincian biaya ini secara mendalam agar Anda tidak terjebak dengan penawaran "murah" yang ujung-ujungnya berkualitas rendah atau memiliki banyak biaya siluman.
 
 ![Detail Finishing Pintu Garasi Besi Setu Bekasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWxnm5zGwnVbX5DvYomC1P6OqRGJYp3ZwY68K225tXBw5rx6b2wlfw3KePqhu2bxK1P0KFwDwKX0hUoV7sGuqFNCEzVQGLLYvkqjQk3ZsajrQzzySLHpgxEvAVZrQ2fi7Skff5nqAR1d8g/s1600-rw/Desain-Cat-Pintu-Garasi.jpg)
 
@@ -81,7 +81,7 @@ Misalkan garasi Anda memiliki lebar 3 meter dan tinggi 2.3 meter (butuh sekitar 
 Jangan tergiur harga di bawah pasar yang tidak masuk akal. Seringkali penghematan dilakukan pada kualitas rel atau ketebalan besi. Kami sudah merangkum strateginya untuk Anda: [**Tips Rahasia Dapat Harga Pintu Garasi Murah**](/posts/2025-12-28-tips-hemat-pintu-garasi-murah).
 
 ## Siap Memasang Pintu Garasi Impian?
-Survey lokasi adalah langkah terbijak. Tim **MITRAJAYA LAS Setu Bekasi** siap datang ke rumah Anda untuk mengukur secara presisi dan memberikan saran teknis yang pas agar pintu garasi Anda awet puluhan tahun.
+Survey lokasi adalah langkah terbijak. Tim **MITRAJAYA LAS** siap datang ke rumah Anda untuk mengukur secara presisi dan memberikan saran teknis yang pas agar pintu garasi Anda awet puluhan tahun.
 
 **Jadwalkan Survey Gratis Sekarang:**
 📲 **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)

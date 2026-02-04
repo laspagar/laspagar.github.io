@@ -4,14 +4,14 @@ title: "Tren Desain Kanopi Minimalis Setu Bekasi 2025: Inovasi Material & Esteti
 date: 2025-12-22 10:00:00 +0700
 categories: [Tren, Desain]
 tags: [Tren Kanopi 2025, Desain Rumah Setu Bekasi, Kanopi Industrial, Pagar Modern, Kanopi Gantung, Smart Home Setu Bekasi]
-author: "MITRAJAYA LAS Setu Bekasi"
+author: "MITRAJAYA LAS"
 image: /assets/products/judul-kanopi-minimalis-cimahi-setu-bekasi-satu.png
 description: "Mau renovasi rumah di tahun 2025? Intip prediksi tren desain kanopi yang bakal booming di Setu Bekasi: mulai dari konsep Industrial Tropical hingga teknologi atap buka-tutup."
 ---
 
 Dunia arsitektur dan desain eksterior terus berevolusi. Apa yang dianggap modern dua tahun lalu mungkin sekarang sudah terasa biasa saja. Memasuki tahun 2025, tren kanopi di Setu Bekasi mengalami pergeseran signifikan. Warga Setu Bekasi yang dikenal kreatif dan berani dalam bereksperimen kini beralih ke desain yang lebih fungsional, berteknologi, namun tetap memiliki sentuhan alam yang kuat.
 
-Berdasarkan data pesanan yang masuk ke workshop **MITRAJAYA LAS Setu Bekasi** sepanjang kuartal akhir tahun ini, kami telah membedah apa saja yang akan menjadi tren besar di tahun depan. Jika Anda berencana merenovasi rumah, artikel ini adalah bacaan wajib agar investasi Anda tetap terlihat relevan dan kekinian hingga bertahun-tahun mendatang.
+Berdasarkan data pesanan yang masuk ke workshop **MITRAJAYA LAS** sepanjang kuartal akhir tahun ini, kami telah membedah apa saja yang akan menjadi tren besar di tahun depan. Jika Anda berencana merenovasi rumah, artikel ini adalah bacaan wajib agar investasi Anda tetap terlihat relevan dan kekinian hingga bertahun-tahun mendatang.
 
 ![Tren Kanopi Minimalis Modern 2025 di Setu Bekasi](/assets/products/judul-kanopi-minimalis-cimahi-setu-bekasi-satu.png)
 
@@ -59,7 +59,7 @@ Tahun 2025 bukan lagi soal spandek polosan. Warga Setu Bekasi lebih selektif mem
 
 Tren memang menggoda, namun yang paling utama adalah **fungsionalitas**. Sebelum memutuskan desain yang paling hits, pastikan Anda juga sudah menghitung estimasi budgetnya agar tidak terjadi pembengkakan biaya di tengah jalan. Anda bisa merujuk pada artikel [Estimasi Biaya Pasang Kanopi di Setu Bekasi 2025](/posts/2025-12-12-biaya-pasang-kanopi-estimasi-setu-bekasi) untuk gambaran harga terupdate.
 
-Kami di **MITRAJAYA LAS Setu Bekasi** siap menjadi mitra diskusi Anda. Tim desainer kami tidak hanya ahli dalam pengelasan, tapi juga paham estetika arsitural terbaru.
+Kami di **MITRAJAYA LAS** siap menjadi mitra diskusi Anda. Tim desainer kami tidak hanya ahli dalam pengelasan, tapi juga paham estetika arsitural terbaru.
 
 **Wujudkan Rumah Impian Anda Sekarang:**
 Konsultasi desain dan survey lokasi gratis untuk seluruh wilayah Setu Bekasi Raya.
