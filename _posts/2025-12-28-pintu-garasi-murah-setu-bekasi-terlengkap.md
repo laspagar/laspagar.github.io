@@ -160,7 +160,7 @@ Memiliki pintu garasi yang kokoh adalah salah satu bentuk kasih sayang Anda pada
 Jangan sampai pencuri masuk atau pintu garasi Anda ambruk karena karat. Lindungi rumah Anda dengan pintu besi terbaik dari ahlinya.
 
 📲 **Konsultasi WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Alamat Workshop**: Jl. Cigugur Girang, Parongpong, Setu Bekasi Barat.
+📍 **Alamat Workshop**: {NEWADDR}
 
 ---
 

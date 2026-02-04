@@ -74,6 +74,6 @@ Tim **MITRAJAYA LAS Setu Bekasi** melayani jasa perbaikan (service) dan cat ulan
 Kirim foto pagar Anda ke WhatsApp kami, tim kami akan memberikan perkiraan biayanya tanpa perlu repot.
 
 📲 **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Workshop**: Jl. Cigugur Girang, Parongpong.
+📍 **Workshop**: {NEWADDR}
 
 *Rawatlah pagar Anda sebelum karat merusaknya. Karena mencegah kerusakan jauh lebih murah daripada mengganti baru.*

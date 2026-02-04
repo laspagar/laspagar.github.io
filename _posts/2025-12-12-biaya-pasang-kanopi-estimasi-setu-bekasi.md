@@ -15,7 +15,7 @@ Pertanyaan ini terdengar sederhana, tapi jawabannya bisa sangat bervariasi. Ada 
 
 Sebagai bengkel las yang sudah 10+ tahun melayani warga Setu Bekasi (mulai dari perumahan subsidi hingga cluster elite di Dago), **MITRAJAYA LAS Setu Bekasi** ingin buka-bukaan soal struktur harga kanopi.
 
-Tujuannya satu: **Agar Anda tidak salah pilih.** Jangan sampai tergiur harga murah tapi 6 bulan kemudian ambruk kena angin Parongpong, atau bayar kemahalan padahal speknya biasa saja.
+Tujuannya satu: **Agar Anda tidak salah pilih.** Jangan sampai tergiur harga murah tapi 6 bulan kemudian ambruk kena angin {NEWADDR}, atau bayar kemahalan padahal speknya biasa saja.
 
 ![Pemasangan Kanopi Minimalis Plafon PVC di Setu Bekasi](/assets/products/kanopi-kordoba-plafon-pvc.jpg)
 
@@ -107,6 +107,6 @@ Beliau ingin yang adem dan tidak berisik (Pilih **Alderon**).
 Tim MITRAJAYA LAS Setu Bekasi siap survey gratis ke lokasi Anda untuk pengukuran presisi.
 
 📲 **WA Sales**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Area Layanan**: Kota Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, KBB (bekasi,cilengsi,bogor,jakarta,tangerang/Parongpong), Kab Setu Bekasi (Soreang/Banjaran).
+📍 **Area Layanan**: Kota Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, KBB (bekasi,cilengsi,bogor,jakarta,tangerang/{NEWADDR}), Kab Setu Bekasi (Soreang/Banjaran).
 
 *Jangan korbankan kualitas demi harga murah. Rumah adalah aset jangka panjang.*

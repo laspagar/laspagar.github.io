@@ -50,6 +50,6 @@ Tidak hanya menjual barang, kami memberikan solusi keamanan total:
 Hubungi tim ahli kami untuk mendapatkan penawaran spesial minggu ini.
 
 📲 **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Workshop**: Jl. Cigugur Girang No.X, Parongpong, Setu Bekasi Barat.
+📍 **Workshop**: {NEWADDR}
 
 [**Pelajari Jasa Pembuatan Pintu Lipat Custom Selengkapnya**](/posts/2025-12-28-jasa-pintu-lipat-besi-custom-setu-bekasi)

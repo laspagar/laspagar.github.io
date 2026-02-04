@@ -78,6 +78,6 @@ Terakhir, apapun pilihan finishing Anda, pastikan pengerjaannya dilakukan oleh t
 Tim **MITRAJAYA LAS Setu Bekasi** siap memberikan solusi terbaik yang sesuai dengan kebutuhan fungsional dan estetika rumah Anda.
 
 📲 **Konsultasi via WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Workshop**: Jl. Cigugur Girang, Parongpong.
+📍 **Workshop**: {NEWADDR}
 
 [**Lihat Portfolio Hasil Kerja Kami**](https://laspagar.github.io/products)

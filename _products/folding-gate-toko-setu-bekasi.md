@@ -29,4 +29,4 @@ Kami melayani pengiriman dan pemasangan untuk seluruh area Setu Bekasi Raya, ter
 
 **Hubungi MITRAJAYA LAS Setu Bekasi:**
 📲 [0851-8309-9865](https://wa.me/6285183099865)
-📍 Workshop: Parongpong, Setu Bekasi Barat.
+📍 Workshop: {NEWADDR}, Setu Bekasi Barat.

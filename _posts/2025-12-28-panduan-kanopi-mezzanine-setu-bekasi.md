@@ -48,11 +48,11 @@ Kami tidak main-main soal kualitas. Spesifikasi standar kami:
 
 Harga pembuatan kanopi mezzanine di Setu Bekasi berkisar mulai dari **Rp 1.xxx.000 per m²** (tergantung spesifikasi). 
 
-*Kenapa harga kami bersaing?* Karena kami punya workshop sendiri di Parongpong dan menyetok material langsung dari distributor.
+*Kenapa harga kami bersaing?* Karena kami punya workshop sendiri di {NEWADDR} dan menyetok material langsung dari distributor.
 
 **Area Layanan Kami:**
 *   Setu Bekasi Kota (Dago, Buahbatu, Antapani, dll)
-*   Setu Bekasi Barat (bekasi,cilengsi,bogor,jakarta,tangerang, bekasi,cilengsi,bogor,jakarta,tangerang, Parongpong)
+*   Setu Bekasi Barat (bekasi,cilengsi,bogor,jakarta,tangerang, bekasi,cilengsi,bogor,jakarta,tangerang, {NEWADDR})
 *   Setu Bekasi Kabupaten (Soreang, Banjaran)
 
 ## Konsultasi & Survey Gratis!

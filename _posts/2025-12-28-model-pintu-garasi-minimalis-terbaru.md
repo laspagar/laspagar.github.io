@@ -83,6 +83,6 @@ Masih bingung? Tim desain **MITRAJAYA LAS Setu Bekasi** siap datang ke lokasi An
 
 **Survey & Konsultasi Gratis:**
 📲 **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Workshop**: Jl. Cigugur Girang, Parongpong, Setu Bekasi Barat.
+📍 **Workshop**: {NEWADDR}
 
 [**Lihat Portfolio Pintu Garasi Kami Lainnya**](/products)

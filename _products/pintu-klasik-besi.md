@@ -28,6 +28,6 @@ Harga mulai **Rp 3.200.000 / daun pintu** (Ukuran standar 90x210 cm).
 *Termasuk kusen besi, engsel bubut, kunci, dan aksesoris handle mewah.*
 
 **Workshop MITRAJAYA LAS Setu Bekasi:**
-Jl. Cigugur Girang, Parongpong.
+{NEWADDR}
 
 **[Hubungi Kami untuk Katalog Motif](/cara-pemesanan)**

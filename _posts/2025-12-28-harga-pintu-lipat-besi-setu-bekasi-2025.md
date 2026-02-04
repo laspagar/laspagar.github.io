@@ -80,7 +80,7 @@ Banyak iklan di marketplace yang menawarkan harga Rp 300rb-an. Hati-hati! Sering
 1.  **Pilih Sistem Manual**: Jika budget mepet, hindari sistem otomatis/motorized. Pintu lipat manual berkualitas sudah sangat ringan dikelola.
 2.  **Order Kolektif**: Jika Anda tinggal di komplek perumahan, ajak tetangga untuk order bareng. Kami biasanya memberikan diskon volume besar.
 3.  **Survey Langsung**: Mintalah survey ke lokasi. Dengan survey, kami bisa memberikan rincian material yang paling efisien sesuai ukuran lubang pintu Anda.
-4.  **Cek Portfolio**: Pastikan bengkel yang Anda pilih punya workshop fisik yang asli. Anda bisa berkunjung ke workshop kami di Parongpong untuk melihat proses produksinya.
+4.  **Cek Portfolio**: Pastikan bengkel yang Anda pilih punya workshop fisik yang asli. Anda bisa berkunjung ke workshop kami di {NEWADDR} untuk melihat proses produksinya.
 
 Tabel [**Biaya Pasang Kanopi Setu Bekasi**](/posts/2025-12-12-biaya-pasang-kanopi-estimasi-setu-bekasi) juga bisa menjadi referensi jika Anda berencana melakukan renovasi eksterior rumah secara menyeluruh.
 

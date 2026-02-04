@@ -26,4 +26,4 @@ Ingin lihat inspirasi model lainnya? Baca artikel kami: [**10+ Model Pintu Garas
 
 **Kebutuhan Survey Lokasi? Gratis!**
 📲 WhatsApp: [0851-8309-9865](https://wa.me/6285183099865)
-📍 Lokasi: Jl. Cigugur Girang, Parongpong.
+📍 Lokasi: {NEWADDR}

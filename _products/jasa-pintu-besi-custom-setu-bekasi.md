@@ -26,4 +26,4 @@ Wujudkan pintu garasi atau pintu rahasia yang benar-benar pas dengan dimensi lah
 
 **Jadwalkan Survey Lokasi Anda Hari Ini:**
 📲 Hubungi Kami: [0851-8309-9865](https://wa.me/6285183099865)
-📍 Alamat: Jl. Cigugur Girang, Parongpong, Setu Bekasi Barat.
+📍 Alamat: {NEWADDR}

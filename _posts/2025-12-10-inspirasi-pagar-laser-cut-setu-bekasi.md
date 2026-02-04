@@ -32,7 +32,7 @@ Warga Setu Bekasi dikenal memiliki selera seni (estetika) yang tinggi. Inilah be
 
 ## Inspirasi Motif Terpopuler Tahun 2025
 
-Berdasarkan data pengerjaan kami di workshop Parongpong, berikut adalah 4 motif yang paling banyak dipesan tahun ini:
+Berdasarkan data pengerjaan kami di workshop {NEWADDR}, berikut adalah 4 motif yang paling banyak dipesan tahun ini:
 
 *   **Motif Geometris & Parametrik**: Pola garis, segitiga, atau hexagon yang berulang secara matematis. Memberikan kesan maskulin dan sangat modern.
 *   **Motif Floral & Organik**: Siluet dedaunan (seperti Monstera atau Palem) dan bunga. Sangat pas untuk rumah di area bekasi,cilengsi,bogor,jakarta,tangerang atau Setu Bekasi Utara yang ingin menyatu dengan alam.
@@ -56,7 +56,7 @@ Bagi Anda yang menyukai tampilan minimalis tapi ingin kesan lebih hangat, kombin
 
 ## Pesan Pagar Impian Anda di MITRAJAYA LAS Setu Bekasi
 
-Jangan serahkan pengerjaan laser cutting pada bengkel las amatir. Keselarasan antar panel dan detailing pada area sambungan (welding) adalah kunci kualitas. Tim kami di Parongpong memiliki pengalaman panjang menangani proyek-proyek arsitektural di Setu Bekasi Raya.
+Jangan serahkan pengerjaan laser cutting pada bengkel las amatir. Keselarasan antar panel dan detailing pada area sambungan (welding) adalah kunci kualitas. Tim kami di {NEWADDR} memiliki pengalaman panjang menangani proyek-proyek arsitektural di Setu Bekasi Raya.
 
 **Layanan Kami Meliputi:**
 *   Konsultasi Desain & Gambar 3D (Gratis untuk pengerjaan).
@@ -67,6 +67,6 @@ Jangan serahkan pengerjaan laser cutting pada bengkel las amatir. Keselarasan an
 Siap mengubah tampilan rumah Anda menjadi jauh lebih mewah hari ini?
 
 📲 **Hubungi Kami via WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Workshop**: Jl. Cigugur Girang, Parongpong, Setu Bekasi Barat.
+📍 **Workshop**: {NEWADDR}
 
 [**Lihat Katalog Produk Pagar Laser Cutting Kami**](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)

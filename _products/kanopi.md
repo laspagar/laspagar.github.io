@@ -37,7 +37,7 @@ Selamat datang di **MITRAJAYA LAS Setu Bekasi**, spesialis pembuatan kanopi nomo
 ## Area Layanan Survey Gratis:
 *   Setu Bekasi Kota (Buahbatu, Dago, Antapani, dll)
 *   bekasi,cilengsi,bogor,jakarta,tangerang & bekasi,cilengsi,bogor,jakarta,tangerang
-*   bekasi,cilengsi,bogor,jakarta,tangerang & Parongpong
+*   bekasi,cilengsi,bogor,jakarta,tangerang & {NEWADDR}
 *   Kabupaten Setu Bekasi (Soreang, Banjaran)
 
 **Konsultasi & Hitung RAB Gratis:**

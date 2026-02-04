@@ -65,6 +65,6 @@ Kami di **MITRAJAYA LAS Setu Bekasi** siap menjadi mitra diskusi Anda. Tim desai
 Konsultasi desain dan survey lokasi gratis untuk seluruh wilayah Setu Bekasi Raya.
 
 📲 **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Workshop**: Jl. Cigugur Girang, Parongpong.
+📍 **Workshop**: {NEWADDR}
 
 [**Kunjungi Portfolio Produk Kami**](https://laspagar.github.io/products)

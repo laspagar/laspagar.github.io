@@ -47,7 +47,7 @@ Kami menerapkan prosedur yang sistematis untuk menjamin kepuasan klien:
 
 Kami melayani jasa pembuatan dan pemasangan pintu lipat besi di seluruh wilayah strategis:
 *   **Setu Bekasi Kota**: Antapani, Arcamanik, Buahbatu, Kopo, Dago, Setiabudi.
-*   **Setu Bekasi Barat**: bekasi,cilengsi,bogor,jakarta,tangerang, Cimareme, Batujajar, Ngamprah, Parongpong, bekasi,cilengsi,bogor,jakarta,tangerang.
+*   **Setu Bekasi Barat**: bekasi,cilengsi,bogor,jakarta,tangerang, Cimareme, Batujajar, Ngamprah, {NEWADDR}, bekasi,cilengsi,bogor,jakarta,tangerang.
 *   **bekasi,cilengsi,bogor,jakarta,tangerang**: Seluruh kelurahan di bekasi,cilengsi,bogor,jakarta,tangerang Utara, Tengah, dan Selatan.
 *   **Kabupaten Setu Bekasi**: Soreang, Banjaran, Bojongsoang, Rancaekek (Syarat & Ketentuan Berlaku).
 
@@ -62,7 +62,7 @@ Kami melayani jasa pembuatan dan pemasangan pintu lipat besi di seluruh wilayah 
 Jangan biarkan garasi atau toko Anda tanpa perlindungan yang maksimal. Hubungi **MITRAJAYA LAS Setu Bekasi** sekarang untuk mendapatkan penawaran harga terbaik.
 
 📲 **Konsultasi WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Workshop**: Jl. Cigugur Girang No.X, Parongpong, Setu Bekasi Barat.
+📍 **Workshop**: {NEWADDR}
 🕒 **Jam Operasional**: Senin - Sabtu (08.00 - 17.00 WIB).
 
 [**Lihat Portfolio Hasil Pengerjaan Kami Lainnya**](https://laspagar.github.io/products)

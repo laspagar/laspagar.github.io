@@ -85,6 +85,6 @@ Survey lokasi adalah langkah terbijak. Tim **MITRAJAYA LAS Setu Bekasi** siap da
 
 **Jadwalkan Survey Gratis Sekarang:**
 📲 **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Workshop**: Jl. Cigugur Girang, Parongpong, Setu Bekasi Barat.
+📍 **Workshop**: {NEWADDR}
 
 [**Kembali ke Panduan Utama Pintu Garasi Setu Bekasi**](/posts/2025-12-28-pintu-garasi-murah-setu-bekasi-terlengkap)
