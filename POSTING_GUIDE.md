@@ -30,8 +30,8 @@ npm run post:article    # or npm run post:product
 
 ## ✨ Latest Product Added
 
-**Kanopi Spandek Termurah Bandung**
-- 📁 File: `_products/kanopi-spandek-termurah-bandung.md`
+**Kanopi Spandek Termurah Setu Bekasi**
+- 📁 File: `_products/kanopi-spandek-termurah-setu bekasi.md`
 - 💰 Price: Rp 550.000 / m²
 - 🏷️ Category: Kanopi
 - ✅ Status: Live on `/products/` page

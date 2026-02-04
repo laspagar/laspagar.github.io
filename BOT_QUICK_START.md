@@ -18,8 +18,8 @@ bot-posting/
 ```
 
 ### 2️⃣ 1 Produk Baru Ditambahkan
-**Produk:** Kanopi Spandek Termurah Bandung  
-**File:** `_products/kanopi-spandek-termurah-bandung.md`  
+**Produk:** Kanopi Spandek Termurah Setu Bekasi  
+**File:** `_products/kanopi-spandek-termurah-setu bekasi.md`  
 **Kategori:** Kanopi  
 **Harga:** Rp 550.000 / m²  
 **Status:** ✅ Live & Terintegrasi
@@ -88,7 +88,7 @@ npm run post:product
 
 ## 🆕 Detail Produk Baru
 
-### Kanopi Spandek Termurah Bandung
+### Kanopi Spandek Termurah Setu Bekasi
 
 **Fitur Unggulan:**
 - ✅ Harga paling terjangkau (Rp 550k/m²)
@@ -230,4 +230,4 @@ Setiap artikel/produk baru akan otomatis terintegrasi ke Jekyll site.
 ---
 
 *Last updated: 22 Dec 2025*  
-*Kharisma Steel - Bengkel Las Terbaik di Bandung*
+*Kharisma Steel - Bengkel Las Terbaik di Setu Bekasi*

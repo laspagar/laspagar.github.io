@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Garansi Resmi Las Pagar Bandung
+title: Garansi Resmi MITRAJAYA LAS Setu Bekasi
 permalink: /garansi/
 ---
 
 <div class="test2-theme">
     <div class="container py-12 max-w-4xl">
         <div class="text-center mb-12">
-            <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Garansi Resmi Las Pagar Bandung</h1>
-            <p class="text-lg text-slate-600">Komitmen kami untuk kualitas dan kepuasan pelanggan di Bandung Raya.</p>
+            <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Garansi Resmi MITRAJAYA LAS Setu Bekasi</h1>
+            <p class="text-lg text-slate-600">Komitmen kami untuk kualitas dan kepuasan pelanggan di Setu Bekasi Raya.</p>
         </div>
 
         <div class="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden mb-8">
@@ -23,7 +23,7 @@ permalink: /garansi/
                         </div>
                         <div>
                             <h3 class="text-lg font-bold text-slate-900 mb-1">Garansi Struktur (1 Tahun)</h3>
-                            <p class="text-slate-600">Menjamin kekuatan las dan struktur utama pagar/kanopi Anda aman dari kegagalan konstruksi. Klaim mudah karena workshop kami ada di Parongpong, Bandung.</p>
+                            <p class="text-slate-600">Menjamin kekuatan las dan struktur utama pagar/kanopi Anda aman dari kegagalan konstruksi. Klaim mudah karena workshop kami ada di Parongpong, Setu Bekasi.</p>
                         </div>
                     </div>
                     <div class="flex items-start">
@@ -64,7 +64,7 @@ permalink: /garansi/
         </div>
 
         <div class="text-center text-sm text-slate-500 bg-yellow-50 p-4 rounded-lg border border-yellow-100">
-            <p><i class="fas fa-info-circle mr-1"></i> <strong>Catatan:</strong> Garansi tidak berlaku untuk kerusakan akibat bencana alam (banjir/gempa), huru-hara, atau modifikasi yang dilakukan pihak lain selain Las Pagar.</p>
+            <p><i class="fas fa-info-circle mr-1"></i> <strong>Catatan:</strong> Garansi tidak berlaku untuk kerusakan akibat bencana alam (banjir/gempa), huru-hara, atau modifikasi yang dilakukan pihak lain selain MITRAJAYA LAS.</p>
         </div>
     </div>
 </div>

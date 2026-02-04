@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Cara Pemesanan Las Pagar Bandung
+title: Cara Pemesanan MITRAJAYA LAS Setu Bekasi
 permalink: /cara-pemesanan/
 ---
 
 <div class="test2-theme">
     <div class="container py-12 max-w-4xl">
         <div class="text-center mb-12">
-            <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Cara Pemesanan Jasa Las Bandung</h1>
-            <p class="text-lg text-slate-600">Proses mudah, transparan, dan amanah. Melayani Bandung, Cimahi, & Padalarang.</p>
+            <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Cara Pemesanan Jasa Las Setu Bekasi</h1>
+            <p class="text-lg text-slate-600">Proses mudah, transparan, dan amanah. Melayani Setu Bekasi, Cimahi, & Padalarang.</p>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
@@ -16,7 +16,7 @@ permalink: /cara-pemesanan/
             <div class="bg-white p-6 rounded-xl shadow-sm border border-slate-200 relative">
                 <div class="absolute -top-4 -left-4 w-10 h-10 bg-blue-600 text-white rounded-full flex items-center justify-center font-bold text-xl shadow-lg">1</div>
                 <h3 class="text-xl font-bold text-slate-900 mb-3 mt-2">Konsultasi & Survey Gratis</h3>
-                <p class="text-slate-600">Hubungi admin kami via WhatsApp. Kirimkan foto lokasi & ukuran kasar. Untuk area Bandung Raya, kami berikan layanan <strong>Survey Gratis</strong> ke lokasi Anda.</p>
+                <p class="text-slate-600">Hubungi admin kami via WhatsApp. Kirimkan foto lokasi & ukuran kasar. Untuk area Setu Bekasi Raya, kami berikan layanan <strong>Survey Gratis</strong> ke lokasi Anda.</p>
             </div>
 
             <!-- Step 2 -->

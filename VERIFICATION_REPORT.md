@@ -17,16 +17,16 @@
 **Perubahan:**
 ```
 BEFORE: "Pengerjaan Besi Presisi & Estetik"
-AFTER:  "Bengkel Las Terbaik di Bandung"
+AFTER:  "Bengkel Las Terbaik di Setu Bekasi"
 ```
 
 **File:** `_layouts/home.html` (Line 71)
 
 **Details:**
-- ✅ Title updated dengan keyword "Bengkel Las Terbaik di Bandung"
-- ✅ Description updated: "Jasa pembuatan kanopi minimalis bandung, pagar besi laser cutting, tangga besi..."
+- ✅ Title updated dengan keyword "Bengkel Las Terbaik di Setu Bekasi"
+- ✅ Description updated: "Jasa pembuatan kanopi minimalis setu bekasi, pagar besi laser cutting, tangga besi..."
 - ✅ Meta description optimized untuk SEO
-- ✅ Tagline: "Terpercaya 15+ Tahun di Parongpong, Bandung"
+- ✅ Tagline: "Terpercaya 15+ Tahun di Parongpong, Setu Bekasi"
 
 ---
 
@@ -128,7 +128,7 @@ AFTER:  "Layanan & Produk" → /products/ (direct link)
 
 **Current Image:**
 ```html
-<img src="/assets/products/judul-kanopi-minimalis-cimahi-bandung-satu.png" 
+<img src="/assets/products/judul-kanopi-minimalis-cimahi-setu bekasi-satu.png" 
      alt="Workshop Las Kharisma Steel" 
      class="w-full h-full object-cover" />
 ```
@@ -147,7 +147,7 @@ AFTER:  "Layanan & Produk" → /products/ (direct link)
 **Contoh:**
 ```html
 <!-- Current -->
-<img src="/assets/products/judul-kanopi-minimalis-cimahi-bandung-satu.png" />
+<img src="/assets/products/judul-kanopi-minimalis-cimahi-setu bekasi-satu.png" />
 
 <!-- Setelah diubah bisa jadi -->
 <img src="/assets/products/workshop-las-kharisma-steel.jpg" />
@@ -157,7 +157,7 @@ AFTER:  "Layanan & Produk" → /products/ (direct link)
 
 ## 🎯 CHECKLIST
 
-- [x] Hero title updated dengan "Bengkel Las Terbaik di Bandung"
+- [x] Hero title updated dengan "Bengkel Las Terbaik di Setu Bekasi"
 - [x] Footer categories added (5 kategori produk terbaik)
 - [x] Header navigation: "Layanan & Produk" → /products/
 - [x] Products page: Grid responsive + pagination

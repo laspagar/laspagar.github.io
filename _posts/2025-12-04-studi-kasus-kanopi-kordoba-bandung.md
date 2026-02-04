@@ -3,19 +3,19 @@ layout: post
 title: "Project Review: Transformasi Teras Rumah Dago Resort dengan Kanopi Kordoba (Anti Tampias & Mewah)"
 date: 2025-12-04 10:00:00 +0700
 categories: [Project, Kanopi, Studi Kasus]
-tags: [Kanopi Bandung, Kanopi Kordoba, Jasa Las Dago, Kanopi Rumah Cluster, Bengkel Las Bandung Utara, Kanopi Minimalis Modern]
-author: "Las Pagar Bandung"
+tags: [Kanopi Setu Bekasi, Kanopi Kordoba, Jasa Las Dago, Kanopi Rumah Cluster, Bengkel Las Setu Bekasi Utara, Kanopi Minimalis Modern]
+author: "MITRAJAYA LAS Setu Bekasi"
 image: /assets/posts/kanopi-kordoba.png
-description: "Intip proses makeover teras rumah di Dago Resort menggunakan Kanopi Kordoba Varian 2. Solusi atap carport yang tidak hanya kuat menahan hujan angin Bandung, tapi juga bikin rumah auto-mewah."
+description: "Intip proses makeover teras rumah di Dago Resort menggunakan Kanopi Kordoba Varian 2. Solusi atap carport yang tidak hanya kuat menahan hujan angin Setu Bekasi, tapi juga bikin rumah auto-mewah."
 ---
 
-Jika Anda tinggal di kawasan Bandung Utara (Dago, Setiabudi, Ciumbuleuit), Anda pasti paham betul karakter cuacanya. Sejuk memang, tapi kalau sudah hujan? Angin kencang dan tampias airnya bisa bikin teras rumah becek sampai ke pintu depan.
+Jika Anda tinggal di kawasan Setu Bekasi Utara (Dago, Setiabudi, Ciumbuleuit), Anda pasti paham betul karakter cuacanya. Sejuk memang, tapi kalau sudah hujan? Angin kencang dan tampias airnya bisa bikin teras rumah becek sampai ke pintu depan.
 
 Itulah masalah yang dihadapi Bapak Reka, klien kami yang tinggal di kawasan **Dago Resort**. 
 
 Beliau memiliki rumah bergaya minimalis modern yang cantik, namun area carport-nya masih terbuka. Setiap kali hujan turun (yang di Dago bisa terjadi hampir setiap sore), mobil kesayangannya jadi kotor terkena *water spot* hujan asam, dan lantai terasnya licin membahayakan anak-anak.
 
-Beliau menghubungi **Las Pagar Bandung** dengan satu request simpel tapi menantang:
+Beliau menghubungi **MITRAJAYA LAS Setu Bekasi** dengan satu request simpel tapi menantang:
 > *"Mas, saya mau kanopi yang kuat nahan angin Dago, tapi gak mau yang modelnya kuno. Harus nyambung sama fasad rumah saya yang modern. Oh iya, jangan berisik kalau hujan!"*
 
 Tantangan diterima! Inilah kisah bagaimana kami mewujudkannya.
@@ -61,7 +61,7 @@ Hasilnya bisa dilihat di foto. Kanopi tersebut terlihat seolah-olah memang bagia
 Testimoni Pak Reka:
 > *"Puas banget sama kerjanya rapi. Tukangnya sopan-sopan, dan harganya transparan dari awal. Gak ada biaya siluman. Recommended buat tetangga satu komplek!"*
 
-## Berapa Biaya Pasang Kanopi Kordoba di Bandung?
+## Berapa Biaya Pasang Kanopi Kordoba di Setu Bekasi?
 
 Anda mungkin berpikir kanopi se-mewah ini harganya mahal sekali. Padahal, jika dibandingkan dengan umur pakainya (bisa 15-20 tahun), ini investasi receh.
 
@@ -75,10 +75,10 @@ Kalau mau spek **Premium** seperti punya Pak Reka (Rangka Besar + Alderon + Cat 
 ### Rumah Anda Berikutnya?
 
 Jangan tunggu cat mobil rusak atau teras berlumut. Konsultasikan kebutuhan kanopi Anda dengan ahlinya.
-Kami melayani survey gratis ke seluruh area Bandung Raya (Dago, Setraduta, Kota Baru, Cimahi, Soreang).
+Kami melayani survey gratis ke seluruh area Setu Bekasi Raya (Dago, Setraduta, Kota Baru, Cimahi, Soreang).
 
 **Hubungi Kami Sekarang:**
 � **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Workshop**: Jl. Cigugur Girang, Parongpong, Bandung Barat.
+📍 **Workshop**: Jl. Cigugur Girang, Parongpong, Setu Bekasi Barat.
 
-*Las Pagar Bandung - Spesialis Kanopi, Pagar, dan Konstruksi Besi Terbaik.*
+*MITRAJAYA LAS Setu Bekasi - Spesialis Kanopi, Pagar, dan Konstruksi Besi Terbaik.*

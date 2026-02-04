@@ -37,7 +37,7 @@ Project conventions (concrete rules)
   title: "Judul Artikel"
   date: 2025-12-22 09:00:00 +0700
   categories: [kanopi, pagar]
-  tags: [bandung, harga]
+  tags: [setu bekasi, harga]
   ---
   ```
 - Product front matter must include: `title`, `price`, `category`, `image`, `keywords`.
@@ -48,7 +48,7 @@ Project conventions (concrete rules)
   price: "Rp 450rb/m²"
   category: Kanopi
   image: /assets/products/kanopi-kordoba.jpg
-  keywords: kanopi, bandung
+  keywords: kanopi, setu bekasi
   ---
   ```
 - Categories are defined in `_config.yml`; ensure product `category` matches available taxonomy.

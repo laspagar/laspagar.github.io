@@ -1,23 +1,23 @@
 ---
 layout: post
-title: "Bongkar Habis! Rincian Biaya Pasang Kanopi di Bandung 2025 (Plus Cara Hitung Sendiri)"
+title: "Bongkar Habis! Rincian Biaya Pasang Kanopi di Setu Bekasi 2025 (Plus Cara Hitung Sendiri)"
 date: 2025-12-12 10:00:00 +0700
 categories: [Panduan, Harga, Kanopi]
-tags: [Harga Kanopi Bandung 2025, Biaya Pasang Kanopi per Meter, Tukang Kanopi Murah Bandung, Kanopi Alderon Bandung, Hitung RAB Kanopi]
-author: "Las Pagar Bandung"
+tags: [Harga Kanopi Setu Bekasi 2025, Biaya Pasang Kanopi per Meter, Tukang Kanopi Murah Setu Bekasi, Kanopi Alderon Setu Bekasi, Hitung RAB Kanopi]
+author: "MITRAJAYA LAS Setu Bekasi"
 image: /assets/products/kanopi-kordoba-plafon-pvc.jpg
-description: "Jangan mau dibohongi harga! Simak panduan transparan biaya pasang kanopi di Bandung. Mulai dari spek rangka, jenis atap (Spandek vs Alderon vs Kaca), hingga biaya tersembunyi yang sering tidak dibilang tukang."
+description: "Jangan mau dibohongi harga! Simak panduan transparan biaya pasang kanopi di Setu Bekasi. Mulai dari spek rangka, jenis atap (Spandek vs Alderon vs Kaca), hingga biaya tersembunyi yang sering tidak dibilang tukang."
 ---
 
 "Kang, saya mau pasang kanopi carport ukuran 3x5 meter. Berapa duit?"
 
 Pertanyaan ini terdengar sederhana, tapi jawabannya bisa sangat bervariasi. Ada tukang yang jawab "Rp 3 Juta selesai", ada juga kontraktor yang jawab "Rp 15 Juta, Pak". *Lho, kok bisa beda jauh?*
 
-Sebagai bengkel las yang sudah 10+ tahun melayani warga Bandung (mulai dari perumahan subsidi hingga cluster elite di Dago), **Las Pagar Bandung** ingin buka-bukaan soal struktur harga kanopi.
+Sebagai bengkel las yang sudah 10+ tahun melayani warga Setu Bekasi (mulai dari perumahan subsidi hingga cluster elite di Dago), **MITRAJAYA LAS Setu Bekasi** ingin buka-bukaan soal struktur harga kanopi.
 
 Tujuannya satu: **Agar Anda tidak salah pilih.** Jangan sampai tergiur harga murah tapi 6 bulan kemudian ambruk kena angin Parongpong, atau bayar kemahalan padahal speknya biasa saja.
 
-![Pemasangan Kanopi Minimalis Plafon PVC di Bandung](/assets/products/kanopi-kordoba-plafon-pvc.jpg)
+![Pemasangan Kanopi Minimalis Plafon PVC di Setu Bekasi](/assets/products/kanopi-kordoba-plafon-pvc.jpg)
 
 ## Bagaimana Cara Menghitung Biaya Kanopi?
 
@@ -29,7 +29,7 @@ Tapi, "Harga Satuan" inilah kuncinya. Ia ditentukan oleh 3 faktor:
 2.  **Jenis Atap** (Penutup atas)
 3.  **Model/Desain** (Tingkat kesulitan)
 
-Mari kita bedah satu per satu harga pasarannya di Bandung tahun 2025.
+Mari kita bedah satu per satu harga pasarannya di Setu Bekasi tahun 2025.
 
 ---
 
@@ -41,15 +41,15 @@ Pilihan paling ekonomis. Terbuat dari zincalume tipis.
 *   **Kekurangan**: Berisik kalau hujan, panas kalau siang.
 *   **Harga Terpasang**: **Rp 400.000 - Rp 550.000 / m²**.
 *   *Cocok untuk: Garasi samping, gudang, rumah kontrakan.*
-*   [**Lihat Detail & Foto Kanopi Spandek Disini**](/products/kanopi-spandek-termurah-bandung)
+*   [**Lihat Detail & Foto Kanopi Spandek Disini**](/products/kanopi-spandek-termurah-setu bekasi)
 
 ### B. Kanopi Atap Alderon / UPVC (Best Seller)
-Atap berongga yang lagi hits di Bandung.
+Atap berongga yang lagi hits di Setu Bekasi.
 *   **Kelebihan**: Adem (rongga udara menahan panas), tidak berisik saat hujan, kokoh bisa diinjak.
 *   **Kekurangan**: Harga menengah ke atas.
 *   **Harga Terpasang**: **Rp 950.000 - Rp 1.200.000 / m²**.
 *   *Cocok untuk: Carport utama, teras santai.*
-*   [**Cek Promo Kanopi Alderon Bandung Disini**](/products/kanopi-alderon-murah-bandung)
+*   [**Cek Promo Kanopi Alderon Setu Bekasi Disini**](/products/kanopi-alderon-murah-setu bekasi)
 
 ### C. Kanopi Kaca Tempered (Luxury Option)
 Sultan punya selera. Menggunakan kaca tebal 8mm-12mm.
@@ -57,15 +57,15 @@ Sultan punya selera. Menggunakan kaca tebal 8mm-12mm.
 *   **Kekurangan**: Mahal, harus rajin dibersihkan dari kerak air.
 *   **Harga Terpasang**: **Rp 1.600.000 - Rp 2.500.000 / m²**.
 *   *Cocok untuk: Void belakang, pintu utama, cafe.*
-*   [**Review Lengkap Kanopi Kaca Ada Disini**](/posts/2025-12-28-kanopi-kaca-tempered-bandung)
+*   [**Review Lengkap Kanopi Kaca Ada Disini**](/posts/2025-12-28-kanopi-kaca-tempered-setu bekasi)
 
 ---
 
 ## 2. Biaya Rangka (Jangan Asal Murah!)
 
-Banyak yang jual kanopi murah tapi rangkanya pakai **Hollow Banci** (ketebalan 0.6mm - 0.8mm). Bahaya! Apalagi Bandung sering angin kencang.
+Banyak yang jual kanopi murah tapi rangkanya pakai **Hollow Banci** (ketebalan 0.6mm - 0.8mm). Bahaya! Apalagi Setu Bekasi sering angin kencang.
 
-Standar Las Pagar Bandung:
+Standar MITRAJAYA LAS Setu Bekasi:
 *   **Rangka Standar**: Hollow Galvanis 4x4 & 4x6 (Tebal 1.2mm - 1.4mm Full). Termasuk dalam harga paket standar.
 *   **Rangka Besar (Heavy Duty)**: Hollow 5x10 (Tebal 1.6mm - 2.0mm). Jika Anda pakai rangka ini, tambahkan biaya sekitar **Rp 150.000 - Rp 250.000 / m²** dari harga paket.
 *   **Rangka Baja WF**: Untuk bentang lebar tanpa tiang (> 6 meter). Tambahan biaya hitung per kg.
@@ -104,9 +104,9 @@ Beliau ingin yang adem dan tidak berisik (Pilih **Alderon**).
 3.  **Survey & Nego**: Jangan cuma tanya via WA. Minta tukang survey. Tukang biasanya lebih lunak ngasih diskon kalau sudah lihat lokasi dan ngobrol langsung.
 
 **Sudah siap menghitung budget Anda?**
-Tim Las Pagar Bandung siap survey gratis ke lokasi Anda untuk pengukuran presisi.
+Tim MITRAJAYA LAS Setu Bekasi siap survey gratis ke lokasi Anda untuk pengukuran presisi.
 
 📲 **WA Sales**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Area Layanan**: Kota Bandung, Cimahi, KBB (Lembang/Parongpong), Kab Bandung (Soreang/Banjaran).
+📍 **Area Layanan**: Kota Setu Bekasi, Cimahi, KBB (Lembang/Parongpong), Kab Setu Bekasi (Soreang/Banjaran).
 
 *Jangan korbankan kualitas demi harga murah. Rumah adalah aset jangka panjang.*

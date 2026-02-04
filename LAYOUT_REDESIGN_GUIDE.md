@@ -18,7 +18,7 @@
   - Pagination (Previous/Next + page numbers)
 - **Meta info**: Date + author
 
-### 3. Product Pages (`/products/kanopi-alderon-murah-bandung/` etc)
+### 3. Product Pages (`/products/kanopi-alderon-murah-setu bekasi/` etc)
 - **Layout**: 2-column marketplace design
 - **Left Column**: 
   - Sticky image (stays visible on scroll)
@@ -84,7 +84,7 @@
 |------|------------|
 | Homepage | `https://kharismasteel.github.io/` |
 | Archive | `https://kharismasteel.github.io/archive.html` |
-| Product | `https://kharismasteel.github.io/products/kanopi-alderon-murah-bandung/` |
+| Product | `https://kharismasteel.github.io/products/kanopi-alderon-murah-setu bekasi/` |
 | Blog Post | `https://kharismasteel.github.io/kanopi/desain/2025/12/22/trend-kanopi-minimalis-2025.html` |
 
 ## Build Status

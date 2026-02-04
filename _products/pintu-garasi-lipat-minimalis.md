@@ -1,20 +1,20 @@
 ---
 layout: product
-title: Pintu Garasi Lipat Minimalis Bandung: Mewah, Rapi & Hemat Ruang
+title: Pintu Garasi Lipat Minimalis Setu Bekasi: Mewah, Rapi & Hemat Ruang
 price: Rp 1.950.000 / daun
 category: Pintu
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIZnbNeInNb4rRP2e26HVts7AMMXICzOty_OA08y9EaD8LjS1lvj6lbCIVyDmw1RUCmj7XiorZo-M5EqnS0iyLbmmHSCHbCIIEwae2diMrYdBZP-__HrFKP35yA-WLriZt4C3QK8DsMZc0zBGCQgM_CNfELE1UnDIGx4TVbV98GxEE1mx6Q4JE0Jj4/w320-h180-rw/maxresdefault.jpg
-description: Upgrade fasad rumah Anda dengan Pintu Garasi Lipat Minimalis yang modern. Hemat ruang carport, operasional ringan, dan pilihan desain custom sesuai selera warga Bandung.
-keywords: pintu garasi minimalis bandung, pintu garasi lipat murah, jasa pintu garasi custom, bengkel las bandung, desain pintu garasi 2025
+description: Upgrade fasad rumah Anda dengan Pintu Garasi Lipat Minimalis yang modern. Hemat ruang carport, operasional ringan, dan pilihan desain custom sesuai selera warga Setu Bekasi.
+keywords: pintu garasi minimalis setu bekasi, pintu garasi lipat murah, jasa pintu garasi custom, bengkel las setu bekasi, desain pintu garasi 2025
 ---
 
-# Pintu Garasi Lipat Minimalis Bandung: Estetika Bertemu Keamanan
+# Pintu Garasi Lipat Minimalis Setu Bekasi: Estetika Bertemu Keamanan
 
-Untuk hunian modern di Bandung, pintu garasi bukan sekadar penutup, tapi bagian dari identitas rumah. **Pintu Garasi Lipat Minimalis** kami menawarkan perpaduan sempurna antara fungsi perlindungan dan keindahan arsitektural.
+Untuk hunian modern di Setu Bekasi, pintu garasi bukan sekadar penutup, tapi bagian dari identitas rumah. **Pintu Garasi Lipat Minimalis** kami menawarkan perpaduan sempurna antara fungsi perlindungan dan keindahan arsitektural.
 
 Dengan sistem lipat yang efisien, carport Anda akan terasa lebih lega tanpa terganggu ruang ayun pintu yang lebar. Sangat cocok untuk perumahan cluster dengan lahan terbatas.
 
-![Pintu Garasi Lipat Minimalis Bandung](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIZnbNeInNb4rRP2e26HVts7AMMXICzOty_OA08y9EaD8LjS1lvj6lbCIVyDmw1RUCmj7XiorZo-M5EqnS0iyLbmmHSCHbCIIEwae2diMrYdBZP-__HrFKP35yA-WLriZt4C3QK8DsMZc0zBGCQgM_CNfELE1UnDIGx4TVbV98GxEE1mx6Q4JE0Jj4/w320-h180-rw/maxresdefault.jpg)
+![Pintu Garasi Lipat Minimalis Setu Bekasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIZnbNeInNb4rRP2e26HVts7AMMXICzOty_OA08y9EaD8LjS1lvj6lbCIVyDmw1RUCmj7XiorZo-M5EqnS0iyLbmmHSCHbCIIEwae2diMrYdBZP-__HrFKP35yA-WLriZt4C3QK8DsMZc0zBGCQgM_CNfELE1UnDIGx4TVbV98GxEE1mx6Q4JE0Jj4/w320-h180-rw/maxresdefault.jpg)
 
 ## Keunggulan Produk Kami:
 *   **Desain Custom**: Pilih motif garis, laser cutting, atau kombinasi woodplank yang paling pas dengan gaya rumah Anda.

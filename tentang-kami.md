@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tentang Las Pagar Bandung
+title: Tentang MITRAJAYA LAS Setu Bekasi
 permalink: /tentang-kami/
 ---
 
@@ -9,9 +9,9 @@ permalink: /tentang-kami/
         <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16">
             <div>
                 <span class="text-blue-600 font-bold tracking-wider uppercase text-sm mb-2 block">Profil Perusahaan</span>
-                <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Bengkel Las Bandung Terpercaya & Berpengalaman</h1>
+                <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Bengkel Las Setu Bekasi Terpercaya & Berpengalaman</h1>
                 <p class="text-slate-600 mb-6 leading-relaxed">
-                    <strong>Las Pagar Bandung</strong> adalah penyedia jasa konstruksi besi dan baja ringan yang berbasis di Parongpong, Bandung Barat. Kami telah melayani ratusan warga Bandung, Cimahi, hingga Padalarang dalam mewujudkan rumah impian mereka.
+                    <strong>MITRAJAYA LAS Setu Bekasi</strong> adalah penyedia jasa konstruksi besi dan baja ringan yang berbasis di Parongpong, Setu Bekasi Barat. Kami telah melayani ratusan warga Setu Bekasi, Cimahi, hingga Padalarang dalam mewujudkan rumah impian mereka.
                 </p>
                 <p class="text-slate-600 mb-6 leading-relaxed">
                     Berawal dari bengkel las kecil, kini kami berkembang menjadi partner terpercaya untuk berbagai kebutuhan eksterior rumah mulai dari pagar minimalis, kanopi modern, hingga konstruksi baja berat. Keunggulan kami adalah transparansi harga dan kualitas material yang <strong>Full SNI</strong>.
@@ -23,12 +23,12 @@ permalink: /tentang-kami/
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg border border-blue-100">
                         <span class="block text-2xl font-bold text-blue-600 mb-1">500+</span>
-                        <span class="text-sm text-slate-600">Proyek Bandung</span>
+                        <span class="text-sm text-slate-600">Proyek Setu Bekasi</span>
                     </div>
                 </div>
             </div>
             <div class="rounded-xl overflow-hidden shadow-2xl skew-y-3 transform hover:skew-y-0 transition-transform duration-500">
-                <img src="/assets/products/kanopi-mezzanine-bandung.jpg" alt="Bengkel Las Pagar Bandung" class="w-full h-full object-cover">
+                <img src="/assets/products/kanopi-mezzanine-setu bekasi.jpg" alt="Bengkel MITRAJAYA LAS Setu Bekasi" class="w-full h-full object-cover">
             </div>
         </div>
 
@@ -37,7 +37,7 @@ permalink: /tentang-kami/
             <div class="bg-white p-8 rounded-xl shadow-sm border border-slate-100 hover:shadow-md transition-shadow">
                 <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-xl mb-4"><i class="fas fa-eye"></i></div>
                 <h3 class="text-xl font-bold text-slate-900 mb-3">Visi Kami</h3>
-                <p class="text-slate-600 text-sm leading-relaxed">Menjadi bengkel las rujukan utama di Kota Bandung yang dikenal karena kualitas, kejujuran, dan inovasi desain.</p>
+                <p class="text-slate-600 text-sm leading-relaxed">Menjadi bengkel las rujukan utama di Kota Setu Bekasi yang dikenal karena kualitas, kejujuran, dan inovasi desain.</p>
             </div>
             <div class="bg-white p-8 rounded-xl shadow-sm border border-slate-100 hover:shadow-md transition-shadow">
                 <div class="w-12 h-12 bg-indigo-100 text-indigo-600 rounded-lg flex items-center justify-center text-xl mb-4"><i class="fas fa-bullseye"></i></div>
@@ -51,7 +51,7 @@ permalink: /tentang-kami/
             <div class="bg-white p-8 rounded-xl shadow-sm border border-slate-100 hover:shadow-md transition-shadow">
                 <div class="w-12 h-12 bg-violet-100 text-violet-600 rounded-lg flex items-center justify-center text-xl mb-4"><i class="fas fa-heart"></i></div>
                 <h3 class="text-xl font-bold text-slate-900 mb-3">Nilai Kami</h3>
-                <p class="text-slate-600 text-sm leading-relaxed">Amanah, Rapi, Tepat Waktu. Tiga hal yang selalu kami pegang dalam setiap proyek pemasangan pagar atau kanopi di Bandung.</p>
+                <p class="text-slate-600 text-sm leading-relaxed">Amanah, Rapi, Tepat Waktu. Tiga hal yang selalu kami pegang dalam setiap proyek pemasangan pagar atau kanopi di Setu Bekasi.</p>
             </div>
         </div>
 
@@ -65,7 +65,7 @@ permalink: /tentang-kami/
             </div>
             <div class="relative z-10">
                 <h2 class="text-3xl font-bold mb-4">Siap Mempercantik Rumah Anda?</h2>
-                <p class="text-slate-300 mb-8 max-w-2xl mx-auto">Konsultasikan kebutuhan las pagar, kanopi, atau konstruksi Anda dengan tim ahli kami. Survey Gratis untuk area Bandung & Cimahi!</p>
+                <p class="text-slate-300 mb-8 max-w-2xl mx-auto">Konsultasikan kebutuhan las pagar, kanopi, atau konstruksi Anda dengan tim ahli kami. Survey Gratis untuk area Setu Bekasi & Cimahi!</p>
                 <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
                     <a href="https://wa.me/6285183099865" class="bg-green-500 hover:bg-green-600 text-white px-8 py-3 rounded-full font-bold transition-all shadow-lg hover:shadow-green-500/30 flex items-center">
                         <i class="fab fa-whatsapp mr-2"></i> Chat WhatsApp

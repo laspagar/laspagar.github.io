@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "Panduan Ukuran Kanopi Carport Ideal: Standar Mobil Avanza hingga Alphard (Edisi Bandung)"
+title: "Panduan Ukuran Kanopi Carport Ideal: Standar Mobil Avanza hingga Alphard (Edisi Setu Bekasi)"
 date: 2025-12-16 10:00:00 +0700
 categories: [Tips, Kanopi]
-tags: [Ukuran Kanopi Mobil, Kanopi Carport Bandung, Standar Ukuran Garasi, Jasa Las Pagar, Renovasi Rumah Bandung, Dimensi Carport]
-author: "Las Pagar Bandung"
+tags: [Ukuran Kanopi Mobil, Kanopi Carport Setu Bekasi, Standar Ukuran Garasi, Jasa MITRAJAYA LAS, Renovasi Rumah Setu Bekasi, Dimensi Carport]
+author: "MITRAJAYA LAS Setu Bekasi"
 image: /assets/products/kanopi-atap-spandek-termurah.jpeg
-description: "Jangan asal bangun! Ketahui standar ukuran ideal kanopi carport agar mobil terlindungi sempurna dari hujan angin Bandung. Panduan lengkap dimensi lebar, panjang, dan tinggi."
+description: "Jangan asal bangun! Ketahui standar ukuran ideal kanopi carport agar mobil terlindungi sempurna dari hujan angin Setu Bekasi. Panduan lengkap dimensi lebar, panjang, dan tinggi."
 ---
 
 Pernahkah Anda melihat kanopi yang sudah terpasang indah, tapi ternyata mobil di bawahnya masih basah kuyup saat hujan angin? Atau lebih parah lagi, pintu mobil tidak bisa dibuka penuh karena terbentur tiang kanopi?
 
-Sebagai bengkel las spesialis di Bandung, **Las Pagar** sering menemui kasus "salah ukur" seperti ini. Biasanya terjadi karena pemilik rumah hanya mengikuti luas lahan yang tersisa, tanpa memikirkan dimensi mobil dan ruang gerak manusia di sekitarnya.
+Sebagai bengkel las spesialis di Setu Bekasi, **MITRAJAYA LAS** sering menemui kasus "salah ukur" seperti ini. Biasanya terjadi karena pemilik rumah hanya mengikuti luas lahan yang tersisa, tanpa memikirkan dimensi mobil dan ruang gerak manusia di sekitarnya.
 
-Apalagi di Bandung, di mana intensitas hujan seringkali disertai angin kencang (terutama di area seperti Lembang, Parongpong, atau kawasan perbukitan Dago), ukuran kanopi harus dihitung dengan ekstra hati-hati agar fungsi aplikasinya tidak sia-sia.
+Apalagi di Setu Bekasi, di mana intensitas hujan seringkali disertai angin kencang (terutama di area seperti Lembang, Parongpong, atau kawasan perbukitan Dago), ukuran kanopi harus dihitung dengan ekstra hati-hati agar fungsi aplikasinya tidak sia-sia.
 
-![Kanopi Carport Minimalis Ukuran Ideal Pasang di Bandung](/assets/products/kanopi-atap-spandek-termurah.jpeg)
+![Kanopi Carport Minimalis Ukuran Ideal Pasang di Setu Bekasi](/assets/products/kanopi-atap-spandek-termurah.jpeg)
 
 ## Mengapa Ukuran Kanopi Sangat Krusial?
 
@@ -27,7 +27,7 @@ Apalagi di Bandung, di mana intensitas hujan seringkali disertai angin kencang (
 
 ## Standar Ukuran Kanopi Berdasarkan Jenis Mobil
 
-Setiap mobil memiliki dimensi yang berbeda. Berikut adalah panduan ukuran yang sering kami terapkan untuk klien perumahan di Bandung:
+Setiap mobil memiliki dimensi yang berbeda. Berikut adalah panduan ukuran yang sering kami terapkan untuk klien perumahan di Setu Bekasi:
 
 ### 1. Mobil Kecil (City Car / Hatchback)
 *Contoh: Honda Brio, Toyota Agya, Toyota Yaris.*
@@ -53,20 +53,20 @@ Setiap mobil memiliki dimensi yang berbeda. Berikut adalah panduan ukuran yang s
 
 ---
 
-## 3 Parameter Rahasia Pemasangan di Bandung
+## 3 Parameter Rahasia Pemasangan di Setu Bekasi
 
 Selain panjang dan lebar, ada tiga hal teknis yang sering diabaikan:
 
 ### 1. Aturan "Overstek" (Overhang)
-Karena Bandung sering hujan angin, jangan buat atap kanopi pas di atas tiang. Berikan kelebihan atap (overstek) sekitar **20-30cm** di sisi depan dan samping. Ini adalah "buffer" agar air hujan yang tertiup angin tidak langsung mengenai body mobil atau lantai carport.
+Karena Setu Bekasi sering hujan angin, jangan buat atap kanopi pas di atas tiang. Berikan kelebihan atap (overstek) sekitar **20-30cm** di sisi depan dan samping. Ini adalah "buffer" agar air hujan yang tertiup angin tidak langsung mengenai body mobil atau lantai carport.
 
 ### 2. Tinggi Tiang vs Kemiringan (Slope)
 *   **Tinggi Ideal**: 2.5 - 3 meter dari lantai. Jika terlalu tinggi, tampias air akan semakin lebar.
 *   **Kemiringan Atap**: Minimal 2-5 derajat agar air mengalir lancar ke talang. Untuk atap jenis **Alderon**, kemiringan yang tepat mencegah air menggenang di rongga-rongga atap. 
-*   [**Cek Harga Paket Kanopi Alderon Bandung Disini**](/products/kanopi-alderon-murah-bandung)
+*   [**Cek Harga Paket Kanopi Alderon Setu Bekasi Disini**](/products/kanopi-alderon-murah-setu bekasi)
 
 ### 3. Jarak Terhadap Pintu Garasi
-Jika rumah Anda memiliki [pintu garasi lipat atau sliding](/posts/2025-12-28-pintu-garasi-murah-bandung-terlengkap), pastikan tiang kanopi tidak menghalangi lintasan buka tutup pintu tersebut. Koordinasi antara tukang kanopi dan tukang pagar sangat penting di sini.
+Jika rumah Anda memiliki [pintu garasi lipat atau sliding](/posts/2025-12-28-pintu-garasi-murah-setu bekasi-terlengkap), pastikan tiang kanopi tidak menghalangi lintasan buka tutup pintu tersebut. Koordinasi antara tukang kanopi dan tukang pagar sangat penting di sini.
 
 ---
 
@@ -77,18 +77,18 @@ Semakin besar bentangan kanopi Anda, semakin kuat rangka yang dibutuhkan.
 *   **Bentang 4-6 meter**: Wajib menggunakan rangka double (cremona) atau hollow 5x10 tebal.
 *   **Bentang > 6 meter (Tanpa Tiang Tengah)**: Sangat disarankan menggunakan besi WF (Wide Flange) atau pipa tebal untuk keamanan struktural.
 
-Untuk urusan keawetan di cuaca Bandung, kami sangat menyarankan sistem [finishing powder coating](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-bandung) agar rangka tidak mudah keropos dan warna tetap *kinclong* meski sering terkena hujan.
+Untuk urusan keawetan di cuaca Setu Bekasi, kami sangat menyarankan sistem [finishing powder coating](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu bekasi) agar rangka tidak mudah keropos dan warna tetap *kinclong* meski sering terkena hujan.
 
 ---
 
 ## Kesimpulan: Ukur Dahulu, Bangun Kemudian
 
-Jangan sampai biaya jutaan rupiah yang Anda keluarkan untuk [pemasangan kanopi](/posts/2025-12-12-biaya-pasang-kanopi-estimasi-bandung) menjadi sia-sia karena salah dimensi. Konsultasikan denah rumah dan jenis mobil Anda kepada ahlinya.
+Jangan sampai biaya jutaan rupiah yang Anda keluarkan untuk [pemasangan kanopi](/posts/2025-12-12-biaya-pasang-kanopi-estimasi-setu bekasi) menjadi sia-sia karena salah dimensi. Konsultasikan denah rumah dan jenis mobil Anda kepada ahlinya.
 
 **Ingin Survey & Pengukuran Gratis?**
-Tim **Las Pagar Bandung** siap meluncur ke lokasi Anda (Bandung, Cimahi, Padalarang, Lembang) untuk memberikan solusi ukuran paling presisi dan desain paling proporsional.
+Tim **MITRAJAYA LAS Setu Bekasi** siap meluncur ke lokasi Anda (Setu Bekasi, Cimahi, Padalarang, Lembang) untuk memberikan solusi ukuran paling presisi dan desain paling proporsional.
 
 📲 **Konsultasi WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Workshop**: Jl. Cigugur Girang, Parongpong, Bandung Barat.
+📍 **Workshop**: Jl. Cigugur Girang, Parongpong, Setu Bekasi Barat.
 
 [**Lihat Portfolio Kanopi Terpasang Berdasarkan Ukuran**](https://laspagar.github.io/products)
