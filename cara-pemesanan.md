@@ -8,7 +8,7 @@ permalink: /cara-pemesanan/
     <div class="container py-12 max-w-4xl">
         <div class="text-center mb-12">
             <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Cara Pemesanan Jasa Las Setu Bekasi</h1>
-            <p class="text-lg text-slate-600">Proses mudah, transparan, dan amanah. Melayani Setu Bekasi, Cimahi, & Padalarang.</p>
+            <p class="text-lg text-slate-600">Proses mudah, transparan, dan amanah. Melayani bekasi,cilengsi,bogor,jakarta,tangerang.</p>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
@@ -30,7 +30,7 @@ permalink: /cara-pemesanan/
             <div class="bg-white p-6 rounded-xl shadow-sm border border-slate-200 relative">
                 <div class="absolute -top-4 -left-4 w-10 h-10 bg-blue-600 text-white rounded-full flex items-center justify-center font-bold text-xl shadow-lg">3</div>
                 <h3 class="text-xl font-bold text-slate-900 mb-3 mt-2">DP & Pengerjaan</h3>
-                <p class="text-slate-600">Deal harga? Cukup DP 30-50% sebagai tanda jadi. Tim kami langsung fabrikasi pesanan Anda di workshop Parongpong. Anda akan dapat update foto proses pengerjaan.</p>
+                <p class="text-slate-600">Deal harga? Cukup DP 30-50% sebagai tanda jadi. Tim kami langsung fabrikasi pesanan Anda di workshop Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320. Anda akan dapat update foto proses pengerjaan.</p>
             </div>
 
             <!-- Step 4 -->

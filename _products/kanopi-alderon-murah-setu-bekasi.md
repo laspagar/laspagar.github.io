@@ -24,6 +24,6 @@ Cuaca Setu Bekasi kadang panas menyengat di siang hari. **Kanopi Alderon** (uPVC
 
 *Harga sudah termasuk bahan & jasa pasang. Terima beres!*
 
-**Lokasi Layanan**: Setu Bekasi Kota, Cimahi, Lembang, Padalarang, Soreang.
+**Lokasi Layanan**: Setu Bekasi Kota, bekasi,cilengsi,bogor,jakarta,tangerang, bekasi,cilengsi,bogor,jakarta,tangerang, bekasi,cilengsi,bogor,jakarta,tangerang, Soreang.
 
 **[Lihat Perbandingan Material Kanopi Disini](/posts/2025-12-18-memilih-material-kanopi-setu bekasi)**

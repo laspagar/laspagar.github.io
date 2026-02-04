@@ -11,7 +11,7 @@ permalink: /tentang-kami/
                 <span class="text-blue-600 font-bold tracking-wider uppercase text-sm mb-2 block">Profil Perusahaan</span>
                 <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Bengkel Las Setu Bekasi Terpercaya & Berpengalaman</h1>
                 <p class="text-slate-600 mb-6 leading-relaxed">
-                    <strong>MITRAJAYA LAS Setu Bekasi</strong> adalah penyedia jasa konstruksi besi dan baja ringan yang berbasis di Parongpong, Setu Bekasi Barat. Kami telah melayani ratusan warga Setu Bekasi, Cimahi, hingga Padalarang dalam mewujudkan rumah impian mereka.
+                    <strong>MITRAJAYA LAS</strong> adalah penyedia jasa konstruksi besi dan baja ringan yang berbasis di Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320. Kami telah melayani ratusan warga bekasi,cilengsi,bogor,jakarta,tangerang dalam mewujudkan rumah impian mereka.
                 </p>
                 <p class="text-slate-600 mb-6 leading-relaxed">
                     Berawal dari bengkel las kecil, kini kami berkembang menjadi partner terpercaya untuk berbagai kebutuhan eksterior rumah mulai dari pagar minimalis, kanopi modern, hingga konstruksi baja berat. Keunggulan kami adalah transparansi harga dan kualitas material yang <strong>Full SNI</strong>.
@@ -65,7 +65,7 @@ permalink: /tentang-kami/
             </div>
             <div class="relative z-10">
                 <h2 class="text-3xl font-bold mb-4">Siap Mempercantik Rumah Anda?</h2>
-                <p class="text-slate-300 mb-8 max-w-2xl mx-auto">Konsultasikan kebutuhan las pagar, kanopi, atau konstruksi Anda dengan tim ahli kami. Survey Gratis untuk area Setu Bekasi & Cimahi!</p>
+                <p class="text-slate-300 mb-8 max-w-2xl mx-auto">Konsultasikan kebutuhan las pagar, kanopi, atau konstruksi Anda dengan tim ahli kami. Survey Gratis untuk area Setu Bekasi & bekasi,cilengsi,bogor,jakarta,tangerang!</p>
                 <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
                     <a href="https://wa.me/6285183099865" class="bg-green-500 hover:bg-green-600 text-white px-8 py-3 rounded-full font-bold transition-all shadow-lg hover:shadow-green-500/30 flex items-center">
                         <i class="fab fa-whatsapp mr-2"></i> Chat WhatsApp

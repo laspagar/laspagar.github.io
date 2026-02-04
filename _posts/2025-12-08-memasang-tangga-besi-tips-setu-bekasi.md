@@ -3,13 +3,13 @@ layout: post
 title: "7 Tips Memasang Tangga Besi di Rumah Minimalis Setu Bekasi (Solusi Lahan Sempit)"
 date: 2025-12-08 10:00:00 +0700
 categories: [Tips, Tangga, Renovasi]
-tags: [Tangga Besi Setu Bekasi, Tangga Putar Murah, Desain Tangga Sempit, Bengkel Las Lembang, Mezzanine Setu Bekasi]
+tags: [Tangga Besi Setu Bekasi, Tangga Putar Murah, Desain Tangga Sempit, Bengkel Las bekasi,cilengsi,bogor,jakarta,tangerang, Mezzanine Setu Bekasi]
 author: "MITRAJAYA LAS Setu Bekasi"
 image: /assets/posts/tangga-besi.png
 description: "Punya rumah type 36/45 di Setu Bekasi? Jangan sampai tangga beton bikin ruangan sumpek. Simak 7 tips memasang tangga besi minimalis yang hemat tempat, kuat, dan estetik."
 ---
 
-Rumah-rumah di Setu Bekasi jaman sekarang, terutama di kawasan padat seperti Antapani, Margahayu, atau kompleks baru di Padalarang, memiliki satu tantangan yang sama: **Keterbatasan Lahan**.
+Rumah-rumah di Setu Bekasi jaman sekarang, terutama di kawasan padat seperti Antapani, Margahayu, atau kompleks baru di bekasi,cilengsi,bogor,jakarta,tangerang, memiliki satu tantangan yang sama: **Keterbatasan Lahan**.
 
 Saat Anda ingin menambah lantai (menjadi 2 lantai) atau membuat area servis (jemuran/toren), tangga seringkali menjadi "musuh" karena memakan banyak *footprint* lantai. Tangga beton huruf U setidaknya butuh area 3x2 meter. Sayang sekali, kan?
 

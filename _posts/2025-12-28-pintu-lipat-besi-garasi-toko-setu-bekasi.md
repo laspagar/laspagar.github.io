@@ -59,7 +59,7 @@ Walaupun kuat, pintu lipat besi tetap butuh kasih sayang agar tidak berkarat dan
 
 ## Mengapa Memesan di MITRAJAYA LAS Setu Bekasi?
 
-Kami bukan sekadar bengkel las biasa. Kami mengerti karakteristik bangunan di Setu Bekasi. Tim kami siap melakukan survey ke lokasi Anda di seluruh area Setu Bekasi Raya, Cimahi, hingga Padalarang untuk memberikan saran teknis yang paling efisien.
+Kami bukan sekadar bengkel las biasa. Kami mengerti karakteristik bangunan di Setu Bekasi. Tim kami siap melakukan survey ke lokasi Anda di seluruh area Setu Bekasi Raya, bekasi,cilengsi,bogor,jakarta,tangerang, hingga bekasi,cilengsi,bogor,jakarta,tangerang untuk memberikan saran teknis yang paling efisien.
 
 *   **Free Survey & Konsultasi**: Kami ukur lahan Anda dengan presisi.
 *   **Material Full Spek**: Tidak ada "plat banci" di workshop kami.

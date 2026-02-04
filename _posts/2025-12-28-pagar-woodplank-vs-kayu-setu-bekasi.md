@@ -11,7 +11,7 @@ description: "Suka tampilan pagar kayu tapi takut lapuk kehujanan? Baca perbandi
 
 Setu Bekasi terkenal dengan udaranya yang sejuk tapi juga curah hujannya yang tinggi dan kelembapan yang ekstrem. Bagi pemilik rumah, ini berita buruk untuk elemen eksterior, terutama **Pagar**.
 
-Pagar kayu memang memberikan kesan mewah, hangat, dan natural. "Villa look" banget lah pokoknya. Tapi, banyak klien kami di Dago atau Lembang yang mengeluh: *"Baru pasang 2 tahun, pagar kayu saya sudah lapuk, berjamur, bahkan dimakan rayap!"*
+Pagar kayu memang memberikan kesan mewah, hangat, dan natural. "Villa look" banget lah pokoknya. Tapi, banyak klien kami di Dago atau bekasi,cilengsi,bogor,jakarta,tangerang yang mengeluh: *"Baru pasang 2 tahun, pagar kayu saya sudah lapuk, berjamur, bahkan dimakan rayap!"*
 
 Di tahun 2025 ini, teknologi material konstruksi sudah memberikan solusi: **Woodplank (Cornice/GRC Board)** atau **WPC (Wood Plastic Composite)**.
 

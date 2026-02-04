@@ -23,7 +23,7 @@ Secara teknis di industri las Setu Bekasi, ada dua cara penghitungan:
 1.  **Hitungan Per Daun**: Biasanya digunakan untuk pintu model *Press Plat* (seperti pabrikan Wina/Henderson). Ukuran standar satu daun biasanya memiliki lebar 60cm - 70cm dengan tinggi 2.2m - 2.4m.
 2.  **Hitungan Per Meter Persegi (m²)**: Biasanya digunakan untuk model minimalis hollow jari-jari atau model industrial expanded metal.
 
-Berikut adalah estimasi harga terbaru (Desember 2025) untuk wilayah Setu Bekasi, Cimahi, dan Padalarang.
+Berikut adalah estimasi harga terbaru (Desember 2025) untuk wilayah Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, dan bekasi,cilengsi,bogor,jakarta,tangerang.
 
 ---
 
@@ -42,7 +42,7 @@ Jika Anda memiliki budget terbatas, model hollow jari-jari adalah solusinya.
 *   Dapatkan inspirasi desainnya di artikel: [**7 Model Pintu Garasi Minimalis Terbaru**](/posts/2025-12-28-model-pintu-garasi-minimalis-terbaru).
 
 ## 3. Pintu Garasi Kombinasi Kayu / Woodplank (Industrial)
-Cocok untuk hunian bergaya tropis atau industrial di area Dago atau Lembang.
+Cocok untuk hunian bergaya tropis atau industrial di area Dago atau bekasi,cilengsi,bogor,jakarta,tangerang.
 *   **Rangka Besi + Isian GRC Woodplank**: Rp 1.500.000 - Rp 1.800.000 / daun.
 *   **Rangka Besi + Kayu Solid (Jati/Kamper)**: Rp 2.500.000++ / daun.
 

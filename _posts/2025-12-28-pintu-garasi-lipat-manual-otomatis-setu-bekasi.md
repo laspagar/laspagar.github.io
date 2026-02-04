@@ -73,6 +73,6 @@ Masih bingung menghitung kebutuhan ruang untuk lipatan pintunya? Atau ingin tahu
 Tim **MITRAJAYA LAS Setu Bekasi** siap melakukan survey teknis gratis ke lokasi Anda untuk memastikan pemasangan berjalan sempurna sesuai kondisi lapangan.
 
 📲 **Chat WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Layanan**: Setu Bekasi, Cimahi, Lembang, Soreang, Jatinangor.
+📍 **Layanan**: Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, bekasi,cilengsi,bogor,jakarta,tangerang, Soreang, Jatinangor.
 
 [**Lihat Inspirasi Model Pintu Garasi Terbaru**](/posts/2025-12-28-model-pintu-garasi-minimalis-terbaru)

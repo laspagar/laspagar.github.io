@@ -11,7 +11,7 @@ description: "Pagar besi mulai kusam atau karatan? Jangan buru-buru ganti! Simak
 
 Pagar adalah elemen pertama yang dilihat orang saat berkunjung ke rumah Anda. Ia adalah "wajah" sekaligus benteng pertahanan utama. Namun, posisinya yang berada di paling depan membuat pagar paling rentan terhadap serangan cuaca.
 
-Apalagi bagi Anda yang tinggal di Setu Bekasi. Udara sejuk Kota Kembang memang menyenangkan bagi manusia, namun kelembapan tinggi, kabut pagi (terutama di area Lembang dan Setu Bekasi Utara), serta hujan asam yang sering turun adalah musuh alami logam. Jika tidak dirawat, pagar minimalis Anda yang dulunya cantik bisa berubah menjadi besi rongsokan yang penuh karat dalam hitungan bulan.
+Apalagi bagi Anda yang tinggal di Setu Bekasi. Udara sejuk Kota Kembang memang menyenangkan bagi manusia, namun kelembapan tinggi, kabut pagi (terutama di area bekasi,cilengsi,bogor,jakarta,tangerang dan Setu Bekasi Utara), serta hujan asam yang sering turun adalah musuh alami logam. Jika tidak dirawat, pagar minimalis Anda yang dulunya cantik bisa berubah menjadi besi rongsokan yang penuh karat dalam hitungan bulan.
 
 Kabar baiknya, Anda tidak perlu mengganti pagar setiap tahun. Dengan perawatan yang tepat, pagar besi kesayangan Anda bisa bertahan hingga lebih dari 10 tahun. Tim **MITRAJAYA LAS Setu Bekasi** merangkum panduan tuntas mengatasinya.
 
@@ -63,7 +63,7 @@ Pelajari lebih lanjut tentang [**Cat Semprot vs Powder Coating**](/posts/2025-12
 
 Kondisi pagar Anda sudah terlanjur karatan parah? Atau roda pagar macet total dan tidak bisa digeser?
 
-Tim **MITRAJAYA LAS Setu Bekasi** melayani jasa perbaikan (service) dan cat ulang profesional di area Setu Bekasi, Cimahi, dan sekitarnya. Kami tidak hanya sekadar mengecat, tapi kami melakukan pengamplasan total, pemberian primer anti-karat bermutu tinggi, hingga finishing yang halus seperti baru.
+Tim **MITRAJAYA LAS Setu Bekasi** melayani jasa perbaikan (service) dan cat ulang profesional di area Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, dan sekitarnya. Kami tidak hanya sekadar mengecat, tapi kami melakukan pengamplasan total, pemberian primer anti-karat bermutu tinggi, hingga finishing yang halus seperti baru.
 
 **Layanan Service Kami:**
 *   Cat ulang total pagar, kanopi, dan tangga besi.

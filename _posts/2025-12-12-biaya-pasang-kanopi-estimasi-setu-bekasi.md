@@ -107,6 +107,6 @@ Beliau ingin yang adem dan tidak berisik (Pilih **Alderon**).
 Tim MITRAJAYA LAS Setu Bekasi siap survey gratis ke lokasi Anda untuk pengukuran presisi.
 
 📲 **WA Sales**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Area Layanan**: Kota Setu Bekasi, Cimahi, KBB (Lembang/Parongpong), Kab Setu Bekasi (Soreang/Banjaran).
+📍 **Area Layanan**: Kota Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, KBB (bekasi,cilengsi,bogor,jakarta,tangerang/Parongpong), Kab Setu Bekasi (Soreang/Banjaran).
 
 *Jangan korbankan kualitas demi harga murah. Rumah adalah aset jangka panjang.*

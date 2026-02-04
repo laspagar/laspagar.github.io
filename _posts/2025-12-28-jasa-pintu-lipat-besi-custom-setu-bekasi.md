@@ -11,7 +11,7 @@ description: "Ingin pintu garasi atau pintu toko yang pas dengan luas lahan dan 
 
 Menemukan bengkel las yang bisa mengerjakan **Pintu Lipat Besi (Folding Gate)** dengan kualitas rapi dan harga transparan di Setu Bekasi bisa menjadi tantangan tersendiri. Banyak bengkel las amatir yang menawarkan harga murah, namun hasil akhirnya seringkali mengecewakan: pintu macet, cat cepat mengelupas, atau ukuran yang tidak presisi (miring).
 
-Di **MITRAJAYA LAS Setu Bekasi**, kami mengerti bahwa pintu garasi adalah investasi keamanan jangka panjang. Oleh karena itu, kami hadir memberikan layanan **Jasa Pembuatan Pintu Lipat Besi Custom** yang profesional, mengutamakan kualitas material, dan memberikan kemudahan layanan bagi warga Setu Bekasi, Cimahi, hingga Padalarang.
+Di **MITRAJAYA LAS Setu Bekasi**, kami mengerti bahwa pintu garasi adalah investasi keamanan jangka panjang. Oleh karena itu, kami hadir memberikan layanan **Jasa Pembuatan Pintu Lipat Besi Custom** yang profesional, mengutamakan kualitas material, dan memberikan kemudahan layanan bagi warga Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, hingga bekasi,cilengsi,bogor,jakarta,tangerang.
 
 ![Layanan Jasa Pintu Lipat Besi Setu Bekasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGK3hl9vUiSL5F_7w_N0TCtHzLcm_LEMKZbuPfa_cWqCEgKFqbUGN2ydlCcJILya2tA8tY9_QUwaN6qes6wGXPXhsyJQ4mnoKBh6vXS4NFwsr72xezpbKthB6lO1ziUrkFCF106OG9A8M/s1600-rw/5.jpg)
 
@@ -47,8 +47,8 @@ Kami menerapkan prosedur yang sistematis untuk menjamin kepuasan klien:
 
 Kami melayani jasa pembuatan dan pemasangan pintu lipat besi di seluruh wilayah strategis:
 *   **Setu Bekasi Kota**: Antapani, Arcamanik, Buahbatu, Kopo, Dago, Setiabudi.
-*   **Setu Bekasi Barat**: Padalarang, Cimareme, Batujajar, Ngamprah, Parongpong, Lembang.
-*   **Cimahi**: Seluruh kelurahan di Cimahi Utara, Tengah, dan Selatan.
+*   **Setu Bekasi Barat**: bekasi,cilengsi,bogor,jakarta,tangerang, Cimareme, Batujajar, Ngamprah, Parongpong, bekasi,cilengsi,bogor,jakarta,tangerang.
+*   **bekasi,cilengsi,bogor,jakarta,tangerang**: Seluruh kelurahan di bekasi,cilengsi,bogor,jakarta,tangerang Utara, Tengah, dan Selatan.
 *   **Kabupaten Setu Bekasi**: Soreang, Banjaran, Bojongsoang, Rancaekek (Syarat & Ketentuan Berlaku).
 
 ## Mengapa Mempercayakan pada Kami?
