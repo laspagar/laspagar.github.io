@@ -26,7 +26,7 @@ AFTER:  "Bengkel Las Terbaik di Setu Bekasi"
 - ✅ Title updated dengan keyword "Bengkel Las Terbaik di Setu Bekasi"
 - ✅ Description updated: "Jasa pembuatan kanopi minimalis setu bekasi, pagar besi laser cutting, tangga besi..."
 - ✅ Meta description optimized untuk SEO
-- ✅ Tagline: "Terpercaya 15+ Tahun di Parongpong, Setu Bekasi"
+- ✅ Tagline: "Terpercaya 15+ Tahun di Setu Bekasi"
 
 ---
 

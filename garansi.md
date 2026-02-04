@@ -23,7 +23,7 @@ permalink: /garansi/
                         </div>
                         <div>
                             <h3 class="text-lg font-bold text-slate-900 mb-1">Garansi Struktur (1 Tahun)</h3>
-                            <p class="text-slate-600">Menjamin kekuatan las dan struktur utama pagar/kanopi Anda aman dari kegagalan konstruksi. Klaim mudah karena workshop kami ada di Parongpong, Setu Bekasi.</p>
+                            <p class="text-slate-600">Menjamin kekuatan las dan struktur utama pagar/kanopi Anda aman dari kegagalan konstruksi. Klaim mudah karena workshop kami ada di Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320.</p>
                         </div>
                     </div>
                     <div class="flex items-start">
