@@ -38,11 +38,11 @@ Karat itu seperti kanker; ia kecil di awal namun menyebar dengan cepat melalui s
 
 ### 3. Pelumasan Komponen Bergerak
 Pagar yang sering berbunyi "ngik-ngik" bukan hanya berisik, tapi itu tanda ada gesekan besi yang merusak rel.
-*   **Lakukan**: Berikan pelumas (WD-40 atau minyak pelumas) pada engsel pintu, rel roda bawah, dan mekanisme kunci. Ini sangat krusial untuk [**pintu garasi sliding (tikung)**](/posts/2025-12-28-pintu-garasi-murah-setu bekasi-terlengkap) agar roda tidak cepat aus atau macet.
+*   **Lakukan**: Berikan pelumas (WD-40 atau minyak pelumas) pada engsel pintu, rel roda bawah, dan mekanisme kunci. Ini sangat krusial untuk [**pintu garasi sliding (tikung)**](/posts/2025-12-28-pintu-garasi-murah-setu-bekasi-terlengkap) agar roda tidak cepat aus atau macet.
 
 ### 4. Perhatikan Kondisi Material Isian
 Jika pagar Anda dikombinasikan dengan material lain seperti kayu atau woodplank, perawatannya pun berbeda. Pastikan isian tersebut tidak goyang karena bisa membuat air masuk ke dalam pipa rangka besi.
-*   Cek artikel kami tentang [**Pagar Woodplank vs Kayu Asli**](/posts/2025-12-28-pagar-woodplank-vs-kayu-setu bekasi) untuk tips merawat material isian agar tidak rapuh dimakan cuaca Setu Bekasi.
+*   Cek artikel kami tentang [**Pagar Woodplank vs Kayu Asli**](/posts/2025-12-28-pagar-woodplank-vs-kayu-setu-bekasi) untuk tips merawat material isian agar tidak rapuh dimakan cuaca Setu Bekasi.
 
 ### 5. Repaint (Cat Ulang) Secara Berkala
 Idealnya, pagar besi perlu dicat ulang total setiap 3-5 tahun sekali. Hal ini bukan hanya soal warna yang pudar, tapi soal memperbaharui "perisai" pelindung besinya.
@@ -53,9 +53,9 @@ Idealnya, pagar besi perlu dicat ulang total setiap 3-5 tahun sekali. Hal ini bu
 
 Jika Anda merasa tidak punya waktu untuk melakukan perawatan rutin, solusi terbaik adalah memilih finishing yang tangguh sejak awal. Kami sangat menyarankan penggunaan teknik **Powder Coating**.
 
-Dibandingkan cat semprot biasa, powder coating jauh lebih tahan benturan dan tidak memiliki pori-pori mikro, sehingga air sulit masuk. Untuk [**Pagar Laser Cutting**](/posts/2025-12-10-inspirasi-pagar-laser-cut-setu bekasi) yang memiliki banyak detail potong kecil, powder coating adalah wajib hukumnya agar setiap sudut terlindungi sempurna.
+Dibandingkan cat semprot biasa, powder coating jauh lebih tahan benturan dan tidak memiliki pori-pori mikro, sehingga air sulit masuk. Untuk [**Pagar Laser Cutting**](/posts/2025-12-10-inspirasi-pagar-laser-cut-setu-bekasi) yang memiliki banyak detail potong kecil, powder coating adalah wajib hukumnya agar setiap sudut terlindungi sempurna.
 
-Pelajari lebih lanjut tentang [**Cat Semprot vs Powder Coating**](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu bekasi) untuk memahami mana investasi yang paling menguntungkan bagi rumah Anda.
+Pelajari lebih lanjut tentang [**Cat Semprot vs Powder Coating**](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu-bekasi) untuk memahami mana investasi yang paling menguntungkan bagi rumah Anda.
 
 ---
 

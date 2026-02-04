@@ -30,7 +30,7 @@ WPC adalah material campuran serbuk kayu dan plastik.
 
 **Harga Mulai Rp 1.500.000 / m² (Terima Beres)**
 
-**[Lihat Juga: Pagar Laser Cutting Custom](/products/pagar-plat-laser-cutting-cimahi-setu bekasi)**
+**[Lihat Juga: Pagar Laser Cutting Custom](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
 
 **Pesan Sekarang:**
 [0851-8309-9865](https://wa.me/6285183099865)

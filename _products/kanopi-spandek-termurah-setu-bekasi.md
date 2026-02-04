@@ -33,4 +33,4 @@ Bahannya terbuat dari lembaran Zincalume (Seng & Aluminium) yang ringan namun sa
 **Pesan Sekarang di WA:**
 [0851-8309-9865](https://wa.me/6285183099865)
 
-**[Mau yang Lebih Adem? Cek Kanopi Alderon](/products/kanopi-alderon-murah-setu bekasi)**
+**[Mau yang Lebih Adem? Cek Kanopi Alderon](/products/kanopi-alderon-murah-setu-bekasi)**

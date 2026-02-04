@@ -128,7 +128,7 @@ AFTER:  "Layanan & Produk" → /products/ (direct link)
 
 **Current Image:**
 ```html
-<img src="/assets/products/judul-kanopi-minimalis-cimahi-setu bekasi-satu.png" 
+<img src="/assets/products/judul-kanopi-minimalis-cimahi-setu-bekasi-satu.png" 
      alt="Workshop Las Kharisma Steel" 
      class="w-full h-full object-cover" />
 ```
@@ -147,7 +147,7 @@ AFTER:  "Layanan & Produk" → /products/ (direct link)
 **Contoh:**
 ```html
 <!-- Current -->
-<img src="/assets/products/judul-kanopi-minimalis-cimahi-setu bekasi-satu.png" />
+<img src="/assets/products/judul-kanopi-minimalis-cimahi-setu-bekasi-satu.png" />
 
 <!-- Setelah diubah bisa jadi -->
 <img src="/assets/products/workshop-las-kharisma-steel.jpg" />

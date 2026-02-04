@@ -41,7 +41,7 @@ Pilihan paling ekonomis. Terbuat dari zincalume tipis.
 *   **Kekurangan**: Berisik kalau hujan, panas kalau siang.
 *   **Harga Terpasang**: **Rp 400.000 - Rp 550.000 / m²**.
 *   *Cocok untuk: Garasi samping, gudang, rumah kontrakan.*
-*   [**Lihat Detail & Foto Kanopi Spandek Disini**](/products/kanopi-spandek-termurah-setu bekasi)
+*   [**Lihat Detail & Foto Kanopi Spandek Disini**](/products/kanopi-spandek-termurah-setu-bekasi)
 
 ### B. Kanopi Atap Alderon / UPVC (Best Seller)
 Atap berongga yang lagi hits di Setu Bekasi.
@@ -49,7 +49,7 @@ Atap berongga yang lagi hits di Setu Bekasi.
 *   **Kekurangan**: Harga menengah ke atas.
 *   **Harga Terpasang**: **Rp 950.000 - Rp 1.200.000 / m²**.
 *   *Cocok untuk: Carport utama, teras santai.*
-*   [**Cek Promo Kanopi Alderon Setu Bekasi Disini**](/products/kanopi-alderon-murah-setu bekasi)
+*   [**Cek Promo Kanopi Alderon Setu Bekasi Disini**](/products/kanopi-alderon-murah-setu-bekasi)
 
 ### C. Kanopi Kaca Tempered (Luxury Option)
 Sultan punya selera. Menggunakan kaca tebal 8mm-12mm.
@@ -57,7 +57,7 @@ Sultan punya selera. Menggunakan kaca tebal 8mm-12mm.
 *   **Kekurangan**: Mahal, harus rajin dibersihkan dari kerak air.
 *   **Harga Terpasang**: **Rp 1.600.000 - Rp 2.500.000 / m²**.
 *   *Cocok untuk: Void belakang, pintu utama, cafe.*
-*   [**Review Lengkap Kanopi Kaca Ada Disini**](/posts/2025-12-28-kanopi-kaca-tempered-setu bekasi)
+*   [**Review Lengkap Kanopi Kaca Ada Disini**](/posts/2025-12-28-kanopi-kaca-tempered-setu-bekasi)
 
 ---
 

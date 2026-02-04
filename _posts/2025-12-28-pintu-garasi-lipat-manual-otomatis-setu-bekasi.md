@@ -51,8 +51,8 @@ Menggunakan motor penggerak dan remote control (atau integrasi smartphone).
 Apapun pilihannya, kualitas konstruksi adalah kunci. Inilah standar yang kami terapkan:
 1.  **Rangka Hollow**: Menggunakan hollow minimal 1.4mm agar kaku dan tidak mudah mleyot.
 2.  **Sistem Rel**: Kami menggunakan rel merk premium (Wina/Henderson) agar gerakannya sunyi dan lancar. 
-3.  **Finishing**: Agar tidak cepat kusam, kami menyarankan [Finishing Powder Coating](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu bekasi) yang lebih tahan cuaca Setu Bekasi daripada cat semprot biasa.
-4.  **Material Dasar**: Menggunakan [Besi Galvanis Anti Karat](/posts/2025-12-28-folding-gate-besi-galvanis-setu bekasi) sebagai proteksi jangka panjang.
+3.  **Finishing**: Agar tidak cepat kusam, kami menyarankan [Finishing Powder Coating](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu-bekasi) yang lebih tahan cuaca Setu Bekasi daripada cat semprot biasa.
+4.  **Material Dasar**: Menggunakan [Besi Galvanis Anti Karat](/posts/2025-12-28-folding-gate-besi-galvanis-setu-bekasi) sebagai proteksi jangka panjang.
 
 ## Berapa Biaya Pasang Pintu Garasi Lipat di Setu Bekasi?
 
@@ -60,7 +60,7 @@ Biaya sangat bergantung pada luas dan model yang dipilih. Sebagai gambaran:
 *   **Pintu Lipat Manual**: Mulai dari Rp 900.000 / m².
 *   **Pintu Lipat Otomatis**: Mulai dari Rp 1.500.000 / m² (Belum termasuk biaya unit mesin motornya).
 
-Cek rincian harga selengkapnya di: [**Update Harga Pintu Lipat Besi 2025**](/posts/2025-12-28-harga-pintu-lipat-besi-setu bekasi-2025).
+Cek rincian harga selengkapnya di: [**Update Harga Pintu Lipat Besi 2025**](/posts/2025-12-28-harga-pintu-lipat-besi-setu-bekasi-2025).
 
 ## Kesimpulan: Mana yang Harus Anda Pilih?
 

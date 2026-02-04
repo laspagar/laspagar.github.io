@@ -55,7 +55,7 @@ Jangan tergiur dengan harga murah tanpa mengecek komponen dalamnya. Berikut adal
 Walaupun kuat, pintu lipat besi tetap butuh kasih sayang agar tidak berkarat dan macet:
 *   **Bersihkan Rel**: Debu dan kerikil kecil adalah musuh utama roda. Pastikan rel bawah selalu bersih.
 *   **Lumasi Engsel**: Berikan oli atau WD-40 pada bagian silangan dan roda setiap 3 bulan sekali.
-*   **Cat Ulang Berkala**: Jika cat mulai mengelupas, segera lakukan pengecatan ulang untuk menghindari karat merayap ke pori-besi. Anda bisa membaca panduan [Cara Merawat Pagar Besi](/posts/2025-12-20-cara-merawat-pagar-besi-setu bekasi) untuk tips lebih detail.
+*   **Cat Ulang Berkala**: Jika cat mulai mengelupas, segera lakukan pengecatan ulang untuk menghindari karat merayap ke pori-besi. Anda bisa membaca panduan [Cara Merawat Pagar Besi](/posts/2025-12-20-cara-merawat-pagar-besi-setu-bekasi) untuk tips lebih detail.
 
 ## Mengapa Memesan di MITRAJAYA LAS Setu Bekasi?
 

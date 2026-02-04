@@ -26,4 +26,4 @@ Cuaca Setu Bekasi kadang panas menyengat di siang hari. **Kanopi Alderon** (uPVC
 
 **Lokasi Layanan**: bekasi,cilengsi,bogor,jakarta,tangerang.
 
-**[Lihat Perbandingan Material Kanopi Disini](/posts/2025-12-18-memilih-material-kanopi-setu bekasi)**
+**[Lihat Perbandingan Material Kanopi Disini](/posts/2025-12-18-memilih-material-kanopi-setu-bekasi)**

@@ -25,7 +25,7 @@ Didesain dengan kerangka jari-jari silang yang rapat dan plat isian yang tebal, 
 ## Layanan Kami:
 Kami melayani pengiriman dan pemasangan untuk seluruh area Setu Bekasi Raya, termasuk kawasan komersial seperti Pasar Baru, Kosambi, dan Balubur. Tim kami siap survey ke lokasi untuk pengukuran presisi.
 
-[**Cek Harga Pintu Lipat Besi Per Meter Terbaru**](/posts/2025-12-28-harga-pintu-lipat-besi-setu bekasi-2025)
+[**Cek Harga Pintu Lipat Besi Per Meter Terbaru**](/posts/2025-12-28-harga-pintu-lipat-besi-setu-bekasi-2025)
 
 **Hubungi MITRAJAYA LAS Setu Bekasi:**
 📲 [0851-8309-9865](https://wa.me/6285183099865)

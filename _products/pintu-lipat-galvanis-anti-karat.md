@@ -22,7 +22,7 @@ Dengan lapisan pelindung Zinc, besi di dalamnya aman dari korosi meskipun sering
 *   **Struktur Kuat**: Tetap mempertahankan kekuatan baja aslinya namun dengan ketahanan korosi yang jauh lebih baik.
 *   **Low Maintenance**: Cukup dibersihkan secara rutin, tanpa perlu cat ulang setiap tahun.
 
-[**Pelajari Mengapa Besi Galvanis Lebih Unggul**](/posts/2025-12-28-folding-gate-besi-galvanis-setu bekasi)
+[**Pelajari Mengapa Besi Galvanis Lebih Unggul**](/posts/2025-12-28-folding-gate-besi-galvanis-setu-bekasi)
 
 Ganti pintu lama Anda yang sudah berkarat dengan solusi masa depan dari MITRAJAYA LAS Setu Bekasi.
 

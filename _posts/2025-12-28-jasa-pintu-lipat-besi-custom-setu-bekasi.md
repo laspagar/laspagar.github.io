@@ -29,7 +29,7 @@ Anda tidak perlu terbatas pada desain yang itu-itu saja. Anda bisa memesan:
 *   **Model Kombinasi**: Memadukan besi dengan material Woodplank agar fasad rumah terlihat lebih hangat.
 
 ### 3. Kendali Penuh pada Kualitas Material
-Kami memberikan Anda opsi untuk memilih sendiri ketebalan plat dan jenis besi yang digunakan. Kami selalu menyarankan penggunaan [**Besi Galvanis Anti Karat**](/posts/2025-12-28-folding-gate-besi-galvanis-setu bekasi) agar pintu Anda tetap kokoh meski Setu Bekasi diterjang hujan deras setiap hari.
+Kami memberikan Anda opsi untuk memilih sendiri ketebalan plat dan jenis besi yang digunakan. Kami selalu menyarankan penggunaan [**Besi Galvanis Anti Karat**](/posts/2025-12-28-folding-gate-besi-galvanis-setu-bekasi) agar pintu Anda tetap kokoh meski Setu Bekasi diterjang hujan deras setiap hari.
 
 ## Alur Kerja Kami: Dari Konsultasi Hingga Jadi
 
@@ -55,7 +55,7 @@ Kami melayani jasa pembuatan dan pemasangan pintu lipat besi di seluruh wilayah 
 
 *   **Amanah**: Kami menggunakan material persis seperti yang disepakati (tidak ganti spek di lapangan).
 *   **Bergaransi**: Kami memberikan garansi servis untuk roda dan engsel selama 6 bulan pasca pemasangan.
-*   **Harga Kompetitif**: Karena kami memiliki workshop sendiri, harga yang kami berikan adalah harga tangan pertama tanpa perantara. Cek [**Harga Pintu Lipat Besi Per Meter**](/posts/2025-12-28-harga-pintu-lipat-besi-setu bekasi-2025) untuk perbandingan.
+*   **Harga Kompetitif**: Karena kami memiliki workshop sendiri, harga yang kami berikan adalah harga tangan pertama tanpa perantara. Cek [**Harga Pintu Lipat Besi Per Meter**](/posts/2025-12-28-harga-pintu-lipat-besi-setu-bekasi-2025) untuk perbandingan.
 
 ## Jadwalkan Survey Anda Sekarang!
 

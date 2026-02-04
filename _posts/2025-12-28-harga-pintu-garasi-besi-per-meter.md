@@ -54,7 +54,7 @@ Kesلطan yang sering dilakukan pemula adalah melupakan biaya rel. Pintu garasi 
 *   **Set Rel Sliding Tikung (Lengkap)**: Rp 3.500.000 - Rp 5.500.000 (tergantung jumlah daun dan merk).
 *   **Set Rel Lipat (Folding)**: Rp 2.500.000 - Rp 4.000.000.
 
-Bingung memilih sistem bukanya? Baca komparasi lengkapnya di: [**Pintu Garasi Sliding vs Lipat: Mana yang Cocok?**](/posts/2025-12-28-pintu-garasi-sliding-vs-lipat-setu bekasi).
+Bingung memilih sistem bukanya? Baca komparasi lengkapnya di: [**Pintu Garasi Sliding vs Lipat: Mana yang Cocok?**](/posts/2025-12-28-pintu-garasi-sliding-vs-lipat-setu-bekasi).
 
 ---
 
@@ -75,7 +75,7 @@ Misalkan garasi Anda memiliki lebar 3 meter dan tinggi 2.3 meter (butuh sekitar 
 ## Faktor yang Membuat Harga Variatif di Setu Bekasi
 1.  **Jarak Pengerjaan**: Lokasi di area terpencil atau lantai 2 biasanya ada tambahan biaya angkut/mobilisasi.
 2.  **Ketebalan Plat Besi**: Kami selalu menggunakan plat **FULL**, bukan plat "banci" yang tipis dan mudah penyok.
-3.  **Teknik Pengecatan**: Kami menawarkan opsi [**Finishing Powder Coating**](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu bekasi) agar warna tahan banting dan anti gores bertahun-tahun.
+3.  **Teknik Pengecatan**: Kami menawarkan opsi [**Finishing Powder Coating**](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu-bekasi) agar warna tahan banting dan anti gores bertahun-tahun.
 
 ### Tips Dapat Harga Murah Namun Berkualitas
 Jangan tergiur harga di bawah pasar yang tidak masuk akal. Seringkali penghematan dilakukan pada kualitas rel atau ketebalan besi. Kami sudah merangkum strateginya untuk Anda: [**Tips Rahasia Dapat Harga Pintu Garasi Murah**](/posts/2025-12-28-tips-hemat-pintu-garasi-murah).
@@ -87,4 +87,4 @@ Survey lokasi adalah langkah terbijak. Tim **MITRAJAYA LAS Setu Bekasi** siap da
 📲 **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
 📍 **Workshop**: Jl. Cigugur Girang, Parongpong, Setu Bekasi Barat.
 
-[**Kembali ke Panduan Utama Pintu Garasi Setu Bekasi**](/posts/2025-12-28-pintu-garasi-murah-setu bekasi-terlengkap)
+[**Kembali ke Panduan Utama Pintu Garasi Setu Bekasi**](/posts/2025-12-28-pintu-garasi-murah-setu-bekasi-terlengkap)

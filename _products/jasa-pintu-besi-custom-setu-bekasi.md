@@ -22,7 +22,7 @@ Wujudkan pintu garasi atau pintu rahasia yang benar-benar pas dengan dimensi lah
 *   **Layanan All-in One**: Harga yang kami berikan sudah termasuk biaya fabrikasi, pengecatan, pengiriman, hingga setting di lokasi.
 *   **Garansi Kepuasan**: Kami memastikan pintu berfungsi 100% lancar sebelum pengerjaan dinyatakan selesai.
 
-[**Info Selengkapnya Jasa Pembuatan Pintu Lipat Custom**](/posts/2025-12-28-jasa-pintu-lipat-besi-custom-setu bekasi)
+[**Info Selengkapnya Jasa Pembuatan Pintu Lipat Custom**](/posts/2025-12-28-jasa-pintu-lipat-besi-custom-setu-bekasi)
 
 **Jadwalkan Survey Lokasi Anda Hari Ini:**
 📲 Hubungi Kami: [0851-8309-9865](https://wa.me/6285183099865)

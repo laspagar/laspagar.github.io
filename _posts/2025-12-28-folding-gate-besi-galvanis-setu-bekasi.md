@@ -33,10 +33,10 @@ Udara perkotaan Setu Bekasi yang padat kendaraan seringkali membawa partikel pol
 
 ### 3. Nilai Estetika yang Terjaga
 Karena tidak mudah karatan, bentuk pintu akan tetap utuh dan permukaannya tetap rata. Anda tidak akan melihat bintik-bintik karat "berjerawat" yang sering muncul pada pintu besi lama yang mengganggu pemandangan fasad rumah Anda.
-*   **Lihat Juga**: [Review Finishing Powder Coating untuk Besi](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu bekasi)
+*   **Lihat Juga**: [Review Finishing Powder Coating untuk Besi](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu-bekasi)
 
 ### 4. Perawatan yang Lebih Mudah (Low Maintenance)
-Anda tidak perlu setiap tahun melakukan pengerokan karat dan pengecatan ulang ("repaint"). Cukup bersihkan debu secara rutin menggunakan air sabun dan pastikan rel tetap bersih. Baca panduan lengkapnya di: [**Cara Merawat Pagar Besi**](/posts/2025-12-20-cara-merawat-pagar-besi-setu bekasi).
+Anda tidak perlu setiap tahun melakukan pengerokan karat dan pengecatan ulang ("repaint"). Cukup bersihkan debu secara rutin menggunakan air sabun dan pastikan rel tetap bersih. Baca panduan lengkapnya di: [**Cara Merawat Pagar Besi**](/posts/2025-12-20-cara-merawat-pagar-besi-setu-bekasi).
 
 ![Proses Pengecatan Pintu Garasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWxnm5zGwnVbX5DvYomC1P6OqRGJYp3ZwY68K225tXBw5rx6b2wlfw3KePqhu2bxK1P0YXwDwKX0hUoV7sGuqFNCEzVQGLLYvkqjQk3ZsajrQzzySLHpgxEvAVZrQ2fi7Skff5nqAR1d8g/s1600-rw/Desain-Cat-Pintu-Garasi.jpg)
 
@@ -56,7 +56,7 @@ Kami di **MITRAJAYA LAS Setu Bekasi** memiliki standar SOP pengecatan yang jelas
 | **Rangka (UNP)** | + Rp 75.000 / m² | Struktur tetap kaku puluhan tahun |
 | **Rel Bawah** | Tetap (Cor) | Kelancaran pintu terjaga |
 
-Memang di awal Anda akan merogoh kocek sedikit lebih dalam, namun dalam 5 tahun ke depan, Anda akan sadar bahwa Anda telah menghemat biaya pengecatan ulang dan penggantian pintu yang jauh lebih mahal. Cek rincian harga lengkapnya di: [**Harga Pintu Lipat Besi 2025**](/posts/2025-12-28-harga-pintu-lipat-besi-setu bekasi-2025).
+Memang di awal Anda akan merogoh kocek sedikit lebih dalam, namun dalam 5 tahun ke depan, Anda akan sadar bahwa Anda telah menghemat biaya pengecatan ulang dan penggantian pintu yang jauh lebih mahal. Cek rincian harga lengkapnya di: [**Harga Pintu Lipat Besi 2025**](/posts/2025-12-28-harga-pintu-lipat-besi-setu-bekasi-2025).
 
 ## Tips Membeli Folding Gate Galvanis di Setu Bekasi
 

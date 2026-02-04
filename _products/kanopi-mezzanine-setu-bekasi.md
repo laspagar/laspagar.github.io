@@ -32,4 +32,4 @@ Untuk fungsi beban berat (gudang/kamar), kami perlu hitung struktur dulu (GRATIS
 **Hubungi Engineering Kami:**
 [0851-8309-9865](https://wa.me/6285183099865)
 
-**[Baca Panduan Lengkap Mezzanine Disini](/posts/2025-12-28-panduan-kanopi-mezzanine-setu bekasi)**
+**[Baca Panduan Lengkap Mezzanine Disini](/posts/2025-12-28-panduan-kanopi-mezzanine-setu-bekasi)**

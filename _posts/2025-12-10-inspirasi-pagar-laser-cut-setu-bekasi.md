@@ -50,9 +50,9 @@ Untuk perbandingan, Anda juga bisa melihat [daftar harga pintu garasi besi](/pos
 
 ## Integrasi Desain Fasad Rumah
 
-Untuk hasil terbaik, banyak klien kami menyamakan motif pagar laser cutting dengan elemen eksterior lainnya. Misalnya, jika Anda juga berencana memasang kanopi, Anda bisa menggunakan motif yang senada untuk area samping atau sebagai aksen di bawah atap kaca. Silakan cek panduan kami mengenai [biaya pasang kanopi di Setu Bekasi](/posts/2025-12-12-biaya-pasang-kanopi-estimasi-setu bekasi) untuk menyesuaikan budget total renovasi Anda.
+Untuk hasil terbaik, banyak klien kami menyamakan motif pagar laser cutting dengan elemen eksterior lainnya. Misalnya, jika Anda juga berencana memasang kanopi, Anda bisa menggunakan motif yang senada untuk area samping atau sebagai aksen di bawah atap kaca. Silakan cek panduan kami mengenai [biaya pasang kanopi di Setu Bekasi](/posts/2025-12-12-biaya-pasang-kanopi-estimasi-setu-bekasi) untuk menyesuaikan budget total renovasi Anda.
 
-Bagi Anda yang menyukai tampilan minimalis tapi ingin kesan lebih hangat, kombinasi laser cutting dengan elemen kayu juga sangat menarik. Anda bisa membaca perbandingan antara [Pagar Woodplank vs Kayu Asli](/posts/2025-12-28-pagar-woodplank-vs-kayu-setu bekasi) sebagai referensi tambahan.
+Bagi Anda yang menyukai tampilan minimalis tapi ingin kesan lebih hangat, kombinasi laser cutting dengan elemen kayu juga sangat menarik. Anda bisa membaca perbandingan antara [Pagar Woodplank vs Kayu Asli](/posts/2025-12-28-pagar-woodplank-vs-kayu-setu-bekasi) sebagai referensi tambahan.
 
 ## Pesan Pagar Impian Anda di MITRAJAYA LAS Setu Bekasi
 
@@ -69,4 +69,4 @@ Siap mengubah tampilan rumah Anda menjadi jauh lebih mewah hari ini?
 📲 **Hubungi Kami via WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
 📍 **Workshop**: Jl. Cigugur Girang, Parongpong, Setu Bekasi Barat.
 
-[**Lihat Katalog Produk Pagar Laser Cutting Kami**](/products/pagar-plat-laser-cutting-cimahi-setu bekasi)
+[**Lihat Katalog Produk Pagar Laser Cutting Kami**](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)

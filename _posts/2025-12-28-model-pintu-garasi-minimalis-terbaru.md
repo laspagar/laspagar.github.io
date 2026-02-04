@@ -36,7 +36,7 @@ Menggunakan jaring besi (expanded mesh) yang memberikan kesan "mentah" dan kokoh
 
 ### 3. Woodplank & Iron Combo (Natural Warmth) 🪵
 Perpaduan rangka besi hitam dengan isian papan GRC motif kayu (woodplank). Memberikan kesan mewah seperti kayu asli namun tahan cuaca ekstrem Setu Bekasi.
-*   **Tips**: Sebelum memilih kayu asli, baca dulu komparasi [Pagar Woodplank vs Kayu Asli](/posts/2025-12-28-pagar-woodplank-vs-kayu-setu bekasi) agar tidak menyesal soal perawatan.
+*   **Tips**: Sebelum memilih kayu asli, baca dulu komparasi [Pagar Woodplank vs Kayu Asli](/posts/2025-12-28-pagar-woodplank-vs-kayu-setu-bekasi) agar tidak menyesal soal perawatan.
 
 ### 4. Horizontal Slats (The Space Expander) 📏
 Garis-garis besi atau woodplank yang disusun secara mendatar. Desain ini secara visual membuat garasi yang sempit terasa lebih lebar.
@@ -48,7 +48,7 @@ Menggunakan kaca tempered yang kuat dengan frame besi minimalis. Memberikan kesa
 
 ### 6. Model Press Plat Modern (The Classic Redefine) 🏢
 Model plat besi yang ditekuk dengan mesin (bending) membentuk pola kotak atau garis. Terlihat solid, aman, dan sangat privat.
-*   **Finishing**: Sangat disarankan menggunakan [Finishing Powder Coating](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu bekasi) agar warna tetap solid bertahun-tahun.
+*   **Finishing**: Sangat disarankan menggunakan [Finishing Powder Coating](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu-bekasi) agar warna tetap solid bertahun-tahun.
 
 ### 7. Sliding Tikung (The Space Saver) 🏎️
 Lebih ke sistem mekanisnya. Pintu didorong ke samping lalu "menikung" menyusuri dinding samping garasi.
@@ -62,7 +62,7 @@ Bukan cuma soal model, material menentukan keawetan. Di Setu Bekasi yang kelemba
 *   **Besi Galvanis**: Wajib hukumnya agar pintu tidak cepat keropos.
 *   **Komponen Rel Kualitas Tinggi**: Gunakan rel merk Wina atau Henderson agar pintu bisa didorong hanya dengan satu tangan (tidak berat).
 
-Ingin tahu paket harga lengkapnya? Silakan merujuk pada pilar content kami: [**Panduan Lengkap Pintu Garasi Murah Setu Bekasi**](/posts/2025-12-28-pintu-garasi-murah-setu bekasi-terlengkap).
+Ingin tahu paket harga lengkapnya? Silakan merujuk pada pilar content kami: [**Panduan Lengkap Pintu Garasi Murah Setu Bekasi**](/posts/2025-12-28-pintu-garasi-murah-setu-bekasi-terlengkap).
 
 ---
 
@@ -71,7 +71,7 @@ Ingin tahu paket harga lengkapnya? Silakan merujuk pada pilar content kami: [**P
 Agar model pintu yang sudah bagus tetap fungsional:
 1.  **Bersihkan Rel**: Debu dan kerikil kecil bisa merusak roda dan bikin pintu macet.
 2.  **Lumasi Engsel**: Gunakan oli atau penetran setiap 6 bulan sekali.
-3.  **Cek Cat**: Jika ada bintik karat kecil, segera amplas dan lakukan *touch-up*. Baca selengkapnya di [Cara Merawat Pagar Besi](/posts/2025-12-20-cara-merawat-pagar-besi-setu bekasi).
+3.  **Cek Cat**: Jika ada bintik karat kecil, segera amplas dan lakukan *touch-up*. Baca selengkapnya di [Cara Merawat Pagar Besi](/posts/2025-12-20-cara-merawat-pagar-besi-setu-bekasi).
 
 ---
 
