@@ -29,6 +29,6 @@ Sitemap: https://laskharisma.com/sitemap-products.xml
 Sitemap: https://laskharisma.com/sitemap-posts.xml
 
 # Copyright & Protection
-# © 2024 Las Pagar. All rights reserved.
+# © 2024 MITRAJAYA LAS. All rights reserved.
 # Unauthorized copying, reproduction, or distribution of content is prohibited.
 # Content is protected by copyright and intellectual property laws.

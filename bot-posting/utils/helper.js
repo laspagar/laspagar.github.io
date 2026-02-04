@@ -114,6 +114,6 @@ createProduct({
     category: 'Kanopi',
     description: 'Kanopi minimalis dengan plafon PVC tahan lama',
     image: '/assets/products/kanopi-pvc-minimalis.jpg',
-    keywords: 'kanopi, minimalis, pvc, bandung'
+    keywords: 'kanopi, minimalis, pvc, setu bekasi'
 });
 */
