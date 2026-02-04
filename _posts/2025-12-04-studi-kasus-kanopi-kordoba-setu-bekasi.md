@@ -75,7 +75,7 @@ Kalau mau spek **Premium** seperti punya Pak Reka (Rangka Besar + Alderon + Cat 
 ### Rumah Anda Berikutnya?
 
 Jangan tunggu cat mobil rusak atau teras berlumut. Konsultasikan kebutuhan kanopi Anda dengan ahlinya.
-Kami melayani survey gratis ke seluruh area Setu Bekasi Raya (Dago, Setraduta, Kota Baru, bekasi,cilengsi,bogor,jakarta,tangerang, Soreang).
+Kami melayani survey gratis ke area: bekasi,cilengsi,bogor,jakarta,tangerang.
 
 **Hubungi Kami Sekarang:**
 � **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
