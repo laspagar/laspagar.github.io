@@ -3,7 +3,7 @@ layout: product
 title: Jasa Pembuatan Kanopi Mezzanine Setu Bekasi (Lantai Tingkat)
 price: Rp 1.350.000 / m²
 category: Kanopi & Konstruksi Baja
-image: /assets/products/kanopi-mezzanine-setu bekasi.jpg
+image: /assets/products/kanopi-mezzanine-setu-bekasi.jpg
 description: Solusi nambah ruang tanpa cor beton! Jasa bikin Kanopi Mezzanine besi di Setu Bekasi. Kuat untuk balkon, jemuran, atau kamar tambahan.
 keywords: kanopi mezzanine setu bekasi, jasa mezzanine besi, lantai tingkat besi, balkon mezzanine, konstruksi baja ringan setu bekasi
 ---

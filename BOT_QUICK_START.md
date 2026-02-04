@@ -19,7 +19,7 @@ bot-posting/
 
 ### 2️⃣ 1 Produk Baru Ditambahkan
 **Produk:** Kanopi Spandek Termurah Setu Bekasi  
-**File:** `_products/kanopi-spandek-termurah-setu bekasi.md`  
+**File:** `_products/kanopi-spandek-termurah-setu-bekasi.md`  
 **Kategori:** Kanopi  
 **Harga:** Rp 550.000 / m²  
 **Status:** ✅ Live & Terintegrasi

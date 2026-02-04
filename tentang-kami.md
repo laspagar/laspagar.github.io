@@ -28,7 +28,7 @@ permalink: /tentang-kami/
                 </div>
             </div>
             <div class="rounded-xl overflow-hidden shadow-2xl skew-y-3 transform hover:skew-y-0 transition-transform duration-500">
-                <img src="/assets/products/kanopi-mezzanine-setu bekasi.jpg" alt="Bengkel MITRAJAYA LAS Setu Bekasi" class="w-full h-full object-cover">
+                <img src="/assets/products/kanopi-mezzanine-setu-bekasi.jpg" alt="Bengkel MITRAJAYA LAS Setu Bekasi" class="w-full h-full object-cover">
             </div>
         </div>
 

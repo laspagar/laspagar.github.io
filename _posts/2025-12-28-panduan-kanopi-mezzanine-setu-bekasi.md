@@ -5,7 +5,7 @@ date: 2025-12-28 10:00:00 +0700
 categories: [Konstruksi, Mezzanine]
 tags: [Mezzanine Setu Bekasi, Kanopi Mezzanine, Jasa Las Setu Bekasi, Tukang Las bekasi,cilengsi,bogor,jakarta,tangerang, Harga Mezzanine Per Meter]
 author: "MITRAJAYA LAS"
-image: /assets/products/kanopi-mezzanine-setu bekasi.jpg
+image: /assets/products/kanopi-mezzanine-setu-bekasi.jpg
 description: "Jasa pembuatan kanopi mezzanine besi di Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang & bekasi,cilengsi,bogor,jakarta,tangerang. Solusi nambah ruang tanpa renovasi mahal. Harga per meter bersaing, survey gratis!"
 ---
 
@@ -17,7 +17,7 @@ Sebagai spesialis **[Jasa MITRAJAYA LAS Setu Bekasi](/)** yang berpengalaman leb
 
 Mezzanine (atau sering disebut tingkat/balkon dalam ruangan) adalah lantai tambahan yang dibangun di antara lantai utama dan plafon. Dalam konteks eksterior atau semi-outdoor di perumahan Setu Bekasi yang padat, "Kanopi Mezzanine" sering merujuk pada struktur kanopi yang bagian atasnya dicor atau diberi plat besi sehingga kuat diinjak dan difungsikan sebagai balkon, area jemur, atau taman rooftop mini.
 
-![Jasa Pembuatan Kanopi Mezzanine Setu Bekasi](/assets/products/kanopi-mezzanine-setu bekasi.jpg)
+![Jasa Pembuatan Kanopi Mezzanine Setu Bekasi](/assets/products/kanopi-mezzanine-setu-bekasi.jpg)
 
 ## Mengapa Warga Setu Bekasi Memilih Mezzanine Besi?
 

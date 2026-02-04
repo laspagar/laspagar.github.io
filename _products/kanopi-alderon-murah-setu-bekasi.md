@@ -3,7 +3,7 @@ layout: product
 title: Pasang Kanopi Alderon Murah Setu Bekasi (Garansi Bocor)
 price: Rp 750.000 / m²
 category: Kanopi
-image: /assets/products/kanopi-alderon-murah-setu bekasi.jpg
+image: /assets/products/kanopi-alderon-murah-setu-bekasi.jpg
 description: Jasa pasang kanopi Alderon (uPVC) di Setu Bekasi. Adem, tidak berisik, dan awet. Garansi kebocoran 3 bulan. Survey Gratis!
 keywords: kanopi alderon setu bekasi, harga kanopi alderon per meter, pasang kanopi cimahi, atap alderon murah, bengkel las kanopi
 ---
@@ -24,6 +24,6 @@ Cuaca Setu Bekasi kadang panas menyengat di siang hari. **Kanopi Alderon** (uPVC
 
 *Harga sudah termasuk bahan & jasa pasang. Terima beres!*
 
-**Lokasi Layanan**: Setu Bekasi Kota, bekasi,cilengsi,bogor,jakarta,tangerang, bekasi,cilengsi,bogor,jakarta,tangerang, bekasi,cilengsi,bogor,jakarta,tangerang, Soreang.
+**Lokasi Layanan**: bekasi,cilengsi,bogor,jakarta,tangerang.
 
 **[Lihat Perbandingan Material Kanopi Disini](/posts/2025-12-18-memilih-material-kanopi-setu bekasi)**

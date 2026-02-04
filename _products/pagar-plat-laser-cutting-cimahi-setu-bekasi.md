@@ -3,7 +3,7 @@ layout: product
 title: Jasa Pagar Laser Cutting Setu Bekasi (Motif Custom Bebas)
 price: Rp 1.800.000 / m²
 category: Pagar
-image: /assets/products/pagar-plat-laser-cutting-cimahi-setu bekasi.jpg
+image: /assets/products/pagar-plat-laser-cutting-cimahi-setu-bekasi.jpg
 description: Bikin pagar plat cutting laser di Setu Bekasi & bekasi,cilengsi,bogor,jakarta,tangerang. Motif batik, minimalis, atau floral bisa custom sesuai request. Presisi CNC tinggi.
 keywords: pagar laser cutting setu bekasi, pagar plat cutting, pagar motif batik, pagar cnc metal, jasa laser cutting cimahi
 ---

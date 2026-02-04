@@ -5,7 +5,7 @@ date: 2025-12-20 10:00:00 +0700
 categories: [Tips, Maintenance]
 tags: [Perawatan Pagar Besi, Cat Ulang Pagar Setu Bekasi, Pagar Karatan, Tips Rumah Setu Bekasi, Bengkel Las Setu Bekasi]
 author: "MITRAJAYA LAS Setu Bekasi"
-image: /assets/products/pagar-plat-laser-cutting-cimahi-setu bekasi.jpg
+image: /assets/products/pagar-plat-laser-cutting-cimahi-setu-bekasi.jpg
 description: "Pagar besi mulai kusam atau karatan? Jangan buru-buru ganti! Simak panduan lengkap perawatan pagar besi di Setu Bekasi agar tetap kuat, aman, dan tampak mewah seperti baru."
 ---
 
@@ -15,7 +15,7 @@ Apalagi bagi Anda yang tinggal di Setu Bekasi. Udara sejuk Kota Kembang memang m
 
 Kabar baiknya, Anda tidak perlu mengganti pagar setiap tahun. Dengan perawatan yang tepat, pagar besi kesayangan Anda bisa bertahan hingga lebih dari 10 tahun. Tim **MITRAJAYA LAS Setu Bekasi** merangkum panduan tuntas mengatasinya.
 
-![Pagar Besi Minimalis Terawat Tampak Mewah di Setu Bekasi](/assets/products/pagar-plat-laser-cutting-cimahi-setu bekasi.jpg)
+![Pagar Besi Minimalis Terawat Tampak Mewah di Setu Bekasi](/assets/products/pagar-plat-laser-cutting-cimahi-setu-bekasi.jpg)
 
 ## Mengapa Pagar di Setu Bekasi Mudah Berkarat?
 
