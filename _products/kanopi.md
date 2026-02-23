@@ -37,7 +37,7 @@ Selamat datang di **Kinglas Tehnik**, spesialis pembuatan kanopi nomor 1 di Pria
 ## Area Layanan Survey Gratis:
 *   Priangan Timur Kota (Buahbatu, Dago, Antapani, dll)
 *   Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan & Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan
-*   Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan & Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
+*   Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan & Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 *   Kabupaten Priangan Timur (Soreang, Banjaran)
 
 **Konsultasi & Hitung RAB Gratis:**

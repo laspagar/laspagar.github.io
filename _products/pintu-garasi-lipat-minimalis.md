@@ -26,4 +26,4 @@ Ingin lihat inspirasi model lainnya? Baca artikel kami: [**10+ Model Pintu Garas
 
 **Kebutuhan Survey Lokasi? Gratis!**
 📲 WhatsApp: [0821-1816-8712](https://wa.me/6282118168712)
-📍 Lokasi: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
+📍 Lokasi: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252

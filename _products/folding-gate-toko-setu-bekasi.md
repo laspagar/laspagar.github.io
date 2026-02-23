@@ -29,4 +29,4 @@ Kami melayani pengiriman dan pemasangan untuk seluruh area Priangan Timur Raya, 
 
 **Hubungi Kinglas Tehnik:**
 📲 [0821-1816-8712](https://wa.me/6282118168712)
-📍 Workshop: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320, Priangan Timur Barat.
+📍 Workshop: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252, Priangan Timur Barat.

@@ -28,6 +28,6 @@ Harga mulai **Rp 3.200.000 / daun pintu** (Ukuran standar 90x210 cm).
 *Termasuk kusen besi, engsel bubut, kunci, dan aksesoris handle mewah.*
 
 **Workshop Kinglas Tehnik:**
-Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
+Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 
 **[Hubungi Kami untuk Katalog Motif](/cara-pemesanan)**
