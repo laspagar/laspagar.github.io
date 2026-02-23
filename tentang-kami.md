@@ -28,7 +28,7 @@ permalink: /tentang/
                 </div>
             </div>
             <div class="rounded-xl overflow-hidden shadow-2xl skew-y-3 transform hover:skew-y-0 transition-transform duration-500">
-                <img src="/assets/products/kanopi-mezzanine-setu-bekasi.jpg" alt="Bengkel Kinglas Tehnik" class="w-full h-full object-cover">
+                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4SXoF3pNxJYcS9Br6VkYM3CJDnfrwMWG0UV2Ssh8dVgM-F-uDUkdBic5oPDslQTygpZgWYmlVxST5H4iIeS9qgIwApzpfxGMn0wcx7HkL6mABA0OREGQwKcoYXLCHxNs1sWiNOfRGZHJFkIVJWX1vTpluSx4suCA-AkNhb89POm2ftZbFpag1h6uw/s320-rw/Mitraabadi%20kanopi%20atap%20karbonat.jpg" alt="Bengkel Kinglas Tehnik" class="w-full h-full object-cover">
             </div>
         </div>
 
