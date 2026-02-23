@@ -30,7 +30,7 @@ Struktur baja/besi memiliki kekuatan tarik yang tinggi. Artinya, untuk menahan b
 Rumah-rumah cluster di Priangan Timur (seperti di area Antapani, Arcamanik, atau Buahbatu) cenderung compact. Tangga besi dengan desain *open riser* (tanpa penutup anak tangga) membiarkan cahaya dan udara mengalir bebas. Ruangan 3x3 meter sekalipun tidak akan terasa sumpek.
 
 ### 3. Pemasangan Kilat & Bersih
-Tangga besi dipabrikasi di workshop kami (Kinglas Tehnik Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320). Di lokasi proyek, kami tinggal merakit (install).
+Tangga besi dipabrikasi di workshop kami (Kinglas Tehnik Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252). Di lokasi proyek, kami tinggal merakit (install).
 *   **Waktu**: 3-7 hari (vs Beton 3-4 minggu).
 *   **Kebersihan**: Minim debu semen dan sisa material.
 
@@ -130,6 +130,6 @@ Jangan biarkan lahan sempit membatasi kreativitas desain rumah Anda. Konsultasik
 
 **Hubungi Kami Sekarang:**
 *   **WA**: [0821-1816-8712](https://wa.me/6282118168712)
-*   **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320, Priangan Timur Barat.
+*   **Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252, Priangan Timur Barat.
 
 *Gratis Survey & 3D Design Preview untuk pemesanan tangga utama.*

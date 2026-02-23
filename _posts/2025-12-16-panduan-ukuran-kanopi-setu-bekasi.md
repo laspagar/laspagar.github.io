@@ -13,7 +13,7 @@ Pernahkah Anda melihat kanopi yang sudah terpasang indah, tapi ternyata mobil di
 
 Sebagai bengkel las spesialis di Priangan Timur, **Kinglas Tehnik** sering menemui kasus "salah ukur" seperti ini. Biasanya terjadi karena pemilik rumah hanya mengikuti luas lahan yang tersisa, tanpa memikirkan dimensi mobil dan ruang gerak manusia di sekitarnya.
 
-Apalagi di Priangan Timur, di mana intensitas hujan seringkali disertai angin kencang (terutama di area seperti Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320, atau kawasan perbukitan Dago), ukuran kanopi harus dihitung dengan ekstra hati-hati agar fungsi aplikasinya tidak sia-sia.
+Apalagi di Priangan Timur, di mana intensitas hujan seringkali disertai angin kencang (terutama di area seperti Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252, atau kawasan perbukitan Dago), ukuran kanopi harus dihitung dengan ekstra hati-hati agar fungsi aplikasinya tidak sia-sia.
 
 ![Kanopi Carport Minimalis Ukuran Ideal Pasang di Priangan Timur](/assets/products/kanopi-atap-spandek-termurah.jpeg)
 
@@ -89,6 +89,6 @@ Jangan sampai biaya jutaan rupiah yang Anda keluarkan untuk [pemasangan kanopi](
 Tim **Kinglas Tehnik** siap meluncur ke lokasi Anda (Priangan Timur, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan) untuk memberikan solusi ukuran paling presisi dan desain paling proporsional.
 
 📲 **Konsultasi WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
-📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
+📲 WhatsApp Kami: 0821-1816-8712 📍 Layanan: Priangan Timur, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Soreang, Jatinangor.
 
 [**Lihat Portfolio Kanopi Terpasang Berdasarkan Ukuran**](https://laspagar.github.io/products)

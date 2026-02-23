@@ -160,7 +160,7 @@ Memiliki pintu garasi yang kokoh adalah salah satu bentuk kasih sayang Anda pada
 Jangan sampai pencuri masuk atau pintu garasi Anda ambruk karena karat. Lindungi rumah Anda dengan pintu besi terbaik dari ahlinya.
 
 📲 **Konsultasi WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
-📍 **Alamat Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
+📍 **Alamat Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 
 ---
 

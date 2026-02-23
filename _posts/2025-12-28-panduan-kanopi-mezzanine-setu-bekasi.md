@@ -48,11 +48,11 @@ Kami tidak main-main soal kualitas. Spesifikasi standar kami:
 
 Harga pembuatan kanopi mezzanine di Priangan Timur berkisar mulai dari **Rp 1.xxx.000 per m²** (tergantung spesifikasi). 
 
-*Kenapa harga kami bersaing?* Karena kami punya workshop sendiri di Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320 dan menyetok material langsung dari distributor.
+*Kenapa harga kami bersaing?* Karena kami punya workshop sendiri di Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252 dan menyetok material langsung dari distributor.
 
 **Area Layanan Kami:**
 *   Priangan Timur Kota (Dago, Buahbatu, Antapani, dll)
-*   Priangan Timur Barat (Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320)
+*   Priangan Timur Barat (Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252)
 *   Priangan Timur Kabupaten (Soreang, Banjaran)
 
 ## Konsultasi & Survey Gratis!

@@ -46,7 +46,7 @@ Untuk proyek ini, kami tidak main-main dengan spek material:
 ## Proses Pengerjaan: Presisi adalah Kunci
 
 Pengerjaan memakan waktu total 7 hari kerja:
-1.  **Hari 1-3 (Fabrikasi di Workshop)**: Kami memotong dan mengelas rangka di bengkel kami di Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320 agar tidak mengotori rumah klien.
+1.  **Hari 1-3 (Fabrikasi di Workshop)**: Kami memotong dan mengelas rangka di bengkel kami di Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252 agar tidak mengotori rumah klien.
 2.  **Hari 4 (Setting Lokasi)**: Pemasangan tiang kolom dan balok utama menggunakan *dynabolt* beton heavy duty. Waterpass dicek berkali-kali untuk kemiringan drainase yang sempurna.
 3.  **Hari 5 (Atap & Finishing)**: Pemasangan lembaran Alderon dan pengecetan ulang (touch up) pada sambungan las.
 4.  **Hari 6 (Quality Control)**: Tes siram air untuk memastikan tidak ada bocor setetes pun.

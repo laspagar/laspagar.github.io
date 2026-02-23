@@ -15,7 +15,7 @@ Pertanyaan ini terdengar sederhana, tapi jawabannya bisa sangat bervariasi. Ada 
 
 Sebagai bengkel las yang sudah 10+ tahun melayani warga Priangan Timur (mulai dari perumahan subsidi hingga cluster elite di Dago), **Kinglas Tehnik** ingin buka-bukaan soal struktur harga kanopi.
 
-Tujuannya satu: **Agar Anda tidak salah pilih.** Jangan sampai tergiur harga murah tapi 6 bulan kemudian ambruk kena angin Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320, atau bayar kemahalan padahal speknya biasa saja.
+📲 WhatsApp Kami: 0821-1816-8712 📍 Layanan: Priangan Timur, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Soreang, Jatinangor.
 
 ![Pemasangan Kanopi Minimalis Plafon PVC di Priangan Timur](/assets/products/kanopi-kordoba-plafon-pvc.jpg)
 
@@ -107,6 +107,6 @@ Beliau ingin yang adem dan tidak berisik (Pilih **Alderon**).
 Tim Kinglas Tehnik siap survey gratis ke lokasi Anda untuk pengukuran presisi.
 
 📲 **WA Sales**: [0821-1816-8712](https://wa.me/6282118168712)
-📍 **Area Layanan**: Kota Priangan Timur, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, KBB (Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan/Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320), Kab Priangan Timur (Soreang/Banjaran).
+📍 **Area Layanan**: Kota Priangan Timur, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, KBB (Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan/Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252), Kab Priangan Timur (Soreang/Banjaran).
 
 *Jangan korbankan kualitas demi harga murah. Rumah adalah aset jangka panjang.*

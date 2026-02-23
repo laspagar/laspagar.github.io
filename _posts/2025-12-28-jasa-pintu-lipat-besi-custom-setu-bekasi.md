@@ -47,7 +47,7 @@ Kami menerapkan prosedur yang sistematis untuk menjamin kepuasan klien:
 
 Kami melayani jasa pembuatan dan pemasangan pintu lipat besi di seluruh wilayah strategis:
 *   **Priangan Timur Kota**: Antapani, Arcamanik, Buahbatu, Kopo, Dago, Setiabudi.
-*   **Priangan Timur Barat**: Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Cimareme, Batujajar, Ngamprah, Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan.
+*   **Priangan Timur Barat**: Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Cimareme, Batujajar, Ngamprah, Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan.
 *   **Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan**: Seluruh kelurahan di Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan Utara, Tengah, dan Selatan.
 *   **Kabupaten Priangan Timur**: Soreang, Banjaran, Bojongsoang, Rancaekek (Syarat & Ketentuan Berlaku).
 
@@ -62,7 +62,7 @@ Kami melayani jasa pembuatan dan pemasangan pintu lipat besi di seluruh wilayah 
 Jangan biarkan garasi atau toko Anda tanpa perlindungan yang maksimal. Hubungi **Kinglas Tehnik** sekarang untuk mendapatkan penawaran harga terbaik.
 
 📲 **Konsultasi WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
-📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
+📍 **Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 🕒 **Jam Operasional**: Senin - Sabtu (08.00 - 17.00 WIB).
 
 [**Lihat Portfolio Hasil Pengerjaan Kami Lainnya**](https://laspagar.github.io/products)

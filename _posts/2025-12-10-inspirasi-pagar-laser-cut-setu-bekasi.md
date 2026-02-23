@@ -32,7 +32,7 @@ Warga Priangan Timur dikenal memiliki selera seni (estetika) yang tinggi. Inilah
 
 ## Inspirasi Motif Terpopuler Tahun 2025
 
-Berdasarkan data pengerjaan kami di workshop Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320, berikut adalah 4 motif yang paling banyak dipesan tahun ini:
+Berdasarkan data pengerjaan kami di workshop Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252, berikut adalah 4 motif yang paling banyak dipesan tahun ini:
 
 *   **Motif Geometris & Parametrik**: Pola garis, segitiga, atau hexagon yang berulang secara matematis. Memberikan kesan maskulin dan sangat modern.
 *   **Motif Floral & Organik**: Siluet dedaunan (seperti Monstera atau Palem) dan bunga. Sangat pas untuk rumah di area Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan atau Priangan Timur Utara yang ingin menyatu dengan alam.
@@ -56,7 +56,19 @@ Bagi Anda yang menyukai tampilan minimalis tapi ingin kesan lebih hangat, kombin
 
 ## Pesan Pagar Impian Anda di Kinglas Tehnik
 
-Jangan serahkan pengerjaan laser cutting pada bengkel las amatir. Keselarasan antar panel dan detailing pada area sambungan (welding) adalah kunci kualitas. Tim kami di Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320 memiliki pengalaman panjang menangani proyek-proyek arsitektural di Priangan Timur Raya.
+🎯 Visi, Misi & Nilai
+
+Visi: Menjadi bengkel las rujukan utama di Priangan Timur
+Misi: Material SNI terbaik, garansi nyata, edukasi pelanggan
+Nilai: Amanah, Rapi, Tepat Waktu
+🗺️ Peta Lokasi
+
+Google Maps embedded untuk alamat workshop
+📞 Kontak & Layanan
+
+Telepon: 081316777302
+WhatsApp: +62 821-1816-8712
+Area Layanan: Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan
 
 **Layanan Kami Meliputi:**
 *   Konsultasi Desain & Gambar 3D (Gratis untuk pengerjaan).
@@ -67,6 +79,6 @@ Jangan serahkan pengerjaan laser cutting pada bengkel las amatir. Keselarasan an
 Siap mengubah tampilan rumah Anda menjadi jauh lebih mewah hari ini?
 
 📲 **Hubungi Kami via WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
-📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
+📍 **Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 
 [**Lihat Katalog Produk Pagar Laser Cutting Kami**](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)

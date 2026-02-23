@@ -78,6 +78,6 @@ Terakhir, apapun pilihan finishing Anda, pastikan pengerjaannya dilakukan oleh t
 Tim **Kinglas Tehnik** siap memberikan solusi terbaik yang sesuai dengan kebutuhan fungsional dan estetika rumah Anda.
 
 📲 **Konsultasi via WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
-📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
+📲 WhatsApp Kami: 0821-1816-8712 📍 Layanan: Priangan Timur, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Soreang, Jatinangor.
 
 [**Lihat Portfolio Hasil Kerja Kami**](https://laspagar.github.io/products)

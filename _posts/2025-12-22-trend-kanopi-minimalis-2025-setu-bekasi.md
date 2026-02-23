@@ -65,6 +65,6 @@ Kami di **Kinglas Tehnik** siap menjadi mitra diskusi Anda. Tim desainer kami ti
 Konsultasi desain dan survey lokasi gratis untuk seluruh wilayah Priangan Timur Raya.
 
 📲 **WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
-📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
+📍 **Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 
 [**Kunjungi Portfolio Produk Kami**](https://laspagar.github.io/products)

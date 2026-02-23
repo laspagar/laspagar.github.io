@@ -74,6 +74,6 @@ Tim **Kinglas Tehnik** melayani jasa perbaikan (service) dan cat ulang profesion
 Kirim foto pagar Anda ke WhatsApp kami, tim kami akan memberikan perkiraan biayanya tanpa perlu repot.
 
 📲 **WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
-📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
+📍 **Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 
 *Rawatlah pagar Anda sebelum karat merusaknya. Karena mencegah kerusakan jauh lebih murah daripada mengganti baru.*

@@ -83,6 +83,6 @@ Masih bingung? Tim desain **Kinglas Tehnik** siap datang ke lokasi Anda untuk me
 
 **Survey & Konsultasi Gratis:**
 📲 **WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
-📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
+📍 **Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 
 [**Lihat Portfolio Pintu Garasi Kami Lainnya**](/products)
