@@ -10,11 +10,11 @@ keywords: kanopi kaca priangan timur, kanopi tempered glass, rangka stainless st
 
 # Kanopi Kaca Stainless: Kemewahan Transparan untuk Hunian Modern
 
-Ingin tampilan rumah yang mewah dan modern? **Kanopi Kaca Tempered** dengan rangka **Stainless Steel** adalah pilihan premium warga elite Setu Bekasi. Memberikan pencahayaan alami maksimal namun tetap aman dari hujan.
+Ingin tampilan rumah yang mewah dan modern? **Kanopi Kaca Tempered** dengan rangka **Stainless Steel** adalah pilihan premium warga elite Priangan Timur. Memberikan pencahayaan alami maksimal namun tetap aman dari hujan.
 
 ## Keunggulan Kanopi Kaca Kami:
 *   **Kaca Tempered 10mm/12mm**: 5x lebih kuat dari kaca biasa. Jika pecah menjadi butiran jagung (safety glass).
-*   **Rangka Stainless Steel 304**: Anti karat seumur hidup, cocok untuk cuaca lembab Setu Bekasi Utara.
+*   **Rangka Stainless Steel 304**: Anti karat seumur hidup, cocok untuk cuaca lembab Priangan Timur Utara.
 *   **Tampilan Clean**: Sambungan rapi, sealant berkualitas anti bocor.
 
 ## Aplikasi Ideal:
@@ -27,6 +27,6 @@ Ingin tampilan rumah yang mewah dan modern? **Kanopi Kaca Tempered** dengan rang
 *   **Tinted (Rayben)**: Mengurangi silau matahari.
 *   **Laminated**: Dua lapis kaca dengan film PVB (extra safety).
 
-**Hubungi MITRAJAYA LAS** untuk konsultasi teknis dan estimasi harga proyek kanopi kaca Anda.
+**Hubungi Kinglas Tehnik** untuk konsultasi teknis dan estimasi harga proyek kanopi kaca Anda.
 
 **[Kembali ke Katalog Produk](/products)**

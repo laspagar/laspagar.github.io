@@ -1,23 +1,23 @@
 ---
 layout: post
-title: "Bongkar Habis! Rincian Biaya Pasang Kanopi di Setu Bekasi 2025 (Plus Cara Hitung Sendiri)"
+title: "Bongkar Habis! Rincian Biaya Pasang Kanopi di Priangan Timur 2025 (Plus Cara Hitung Sendiri)"
 date: 2025-12-12 10:00:00 +0700
 categories: [Panduan, Harga, Kanopi]
-tags: [Harga Kanopi Setu Bekasi 2025, Biaya Pasang Kanopi per Meter, Tukang Kanopi Murah Setu Bekasi, Kanopi Alderon Setu Bekasi, Hitung RAB Kanopi]
+tags: [Harga Kanopi Priangan Timur 2025, Biaya Pasang Kanopi per Meter, Tukang Kanopi Murah Priangan Timur, Kanopi Alderon Priangan Timur, Hitung RAB Kanopi]
 author: "Kinglas Tehnik"
 image: /assets/products/kanopi-kordoba-plafon-pvc.jpg
-description: "Jangan mau dibohongi harga! Simak panduan transparan biaya pasang kanopi di Setu Bekasi. Mulai dari spek rangka, jenis atap (Spandek vs Alderon vs Kaca), hingga biaya tersembunyi yang sering tidak dibilang tukang."
+description: "Jangan mau dibohongi harga! Simak panduan transparan biaya pasang kanopi di Priangan Timur. Mulai dari spek rangka, jenis atap (Spandek vs Alderon vs Kaca), hingga biaya tersembunyi yang sering tidak dibilang tukang."
 ---
 
 "Kang, saya mau pasang kanopi carport ukuran 3x5 meter. Berapa duit?"
 
 Pertanyaan ini terdengar sederhana, tapi jawabannya bisa sangat bervariasi. Ada tukang yang jawab "Rp 3 Juta selesai", ada juga kontraktor yang jawab "Rp 15 Juta, Pak". *Lho, kok bisa beda jauh?*
 
-Sebagai bengkel las yang sudah 10+ tahun melayani warga Setu Bekasi (mulai dari perumahan subsidi hingga cluster elite di Dago), **MITRAJAYA LAS** ingin buka-bukaan soal struktur harga kanopi.
+Sebagai bengkel las yang sudah 10+ tahun melayani warga Priangan Timur (mulai dari perumahan subsidi hingga cluster elite di Dago), **Kinglas Tehnik** ingin buka-bukaan soal struktur harga kanopi.
 
 Tujuannya satu: **Agar Anda tidak salah pilih.** Jangan sampai tergiur harga murah tapi 6 bulan kemudian ambruk kena angin Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320, atau bayar kemahalan padahal speknya biasa saja.
 
-![Pemasangan Kanopi Minimalis Plafon PVC di Setu Bekasi](/assets/products/kanopi-kordoba-plafon-pvc.jpg)
+![Pemasangan Kanopi Minimalis Plafon PVC di Priangan Timur](/assets/products/kanopi-kordoba-plafon-pvc.jpg)
 
 ## Bagaimana Cara Menghitung Biaya Kanopi?
 
@@ -29,7 +29,7 @@ Tapi, "Harga Satuan" inilah kuncinya. Ia ditentukan oleh 3 faktor:
 2.  **Jenis Atap** (Penutup atas)
 3.  **Model/Desain** (Tingkat kesulitan)
 
-Mari kita bedah satu per satu harga pasarannya di Setu Bekasi tahun 2025.
+Mari kita bedah satu per satu harga pasarannya di Priangan Timur tahun 2025.
 
 ---
 
@@ -44,12 +44,12 @@ Pilihan paling ekonomis. Terbuat dari zincalume tipis.
 *   [**Lihat Detail & Foto Kanopi Spandek Disini**](/products/kanopi-spandek-termurah-setu-bekasi)
 
 ### B. Kanopi Atap Alderon / UPVC (Best Seller)
-Atap berongga yang lagi hits di Setu Bekasi.
+Atap berongga yang lagi hits di Priangan Timur.
 *   **Kelebihan**: Adem (rongga udara menahan panas), tidak berisik saat hujan, kokoh bisa diinjak.
 *   **Kekurangan**: Harga menengah ke atas.
 *   **Harga Terpasang**: **Rp 950.000 - Rp 1.200.000 / m²**.
 *   *Cocok untuk: Carport utama, teras santai.*
-*   [**Cek Promo Kanopi Alderon Setu Bekasi Disini**](/products/kanopi-alderon-murah-setu-bekasi)
+*   [**Cek Promo Kanopi Alderon Priangan Timur Disini**](/products/kanopi-alderon-murah-setu-bekasi)
 
 ### C. Kanopi Kaca Tempered (Luxury Option)
 Sultan punya selera. Menggunakan kaca tebal 8mm-12mm.
@@ -63,9 +63,9 @@ Sultan punya selera. Menggunakan kaca tebal 8mm-12mm.
 
 ## 2. Biaya Rangka (Jangan Asal Murah!)
 
-Banyak yang jual kanopi murah tapi rangkanya pakai **Hollow Banci** (ketebalan 0.6mm - 0.8mm). Bahaya! Apalagi Setu Bekasi sering angin kencang.
+Banyak yang jual kanopi murah tapi rangkanya pakai **Hollow Banci** (ketebalan 0.6mm - 0.8mm). Bahaya! Apalagi Priangan Timur sering angin kencang.
 
-Standar MITRAJAYA LAS:
+Standar Kinglas Tehnik:
 *   **Rangka Standar**: Hollow Galvanis 4x4 & 4x6 (Tebal 1.2mm - 1.4mm Full). Termasuk dalam harga paket standar.
 *   **Rangka Besar (Heavy Duty)**: Hollow 5x10 (Tebal 1.6mm - 2.0mm). Jika Anda pakai rangka ini, tambahkan biaya sekitar **Rp 150.000 - Rp 250.000 / m²** dari harga paket.
 *   **Rangka Baja WF**: Untuk bentang lebar tanpa tiang (> 6 meter). Tambahan biaya hitung per kg.
@@ -104,9 +104,9 @@ Beliau ingin yang adem dan tidak berisik (Pilih **Alderon**).
 3.  **Survey & Nego**: Jangan cuma tanya via WA. Minta tukang survey. Tukang biasanya lebih lunak ngasih diskon kalau sudah lihat lokasi dan ngobrol langsung.
 
 **Sudah siap menghitung budget Anda?**
-Tim MITRAJAYA LAS siap survey gratis ke lokasi Anda untuk pengukuran presisi.
+Tim Kinglas Tehnik siap survey gratis ke lokasi Anda untuk pengukuran presisi.
 
-📲 **WA Sales**: [0851-8309-9865](https://wa.me/6285183099865)
-📍 **Area Layanan**: Kota Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, KBB (bekasi,cilengsi,bogor,jakarta,tangerang/Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320), Kab Setu Bekasi (Soreang/Banjaran).
+📲 **WA Sales**: [0821-1816-8712](https://wa.me/6282118168712)
+📍 **Area Layanan**: Kota Priangan Timur, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, KBB (Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan/Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320), Kab Priangan Timur (Soreang/Banjaran).
 
 *Jangan korbankan kualitas demi harga murah. Rumah adalah aset jangka panjang.*

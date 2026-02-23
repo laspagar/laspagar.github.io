@@ -1,26 +1,26 @@
 ---
 layout: post
-title: "Cara Merawat Pagar Besi Agar Awet 10 Tahun (Panduan Khusus Cuaca Setu Bekasi)"
+title: "Cara Merawat Pagar Besi Agar Awet 10 Tahun (Panduan Khusus Cuaca Priangan Timur)"
 date: 2025-12-20 10:00:00 +0700
 categories: [Tips, Maintenance]
-tags: [Perawatan Pagar Besi, Cat Ulang Pagar Setu Bekasi, Pagar Karatan, Tips Rumah Setu Bekasi, Bengkel Las Setu Bekasi]
+tags: [Perawatan Pagar Besi, Cat Ulang Pagar Priangan Timur, Pagar Karatan, Tips Rumah Priangan Timur, Bengkel Las Priangan Timur]
 author: "Kinglas Tehnik"
 image: /assets/products/pagar-plat-laser-cutting-cimahi-setu-bekasi.jpg
-description: "Pagar besi mulai kusam atau karatan? Jangan buru-buru ganti! Simak panduan lengkap perawatan pagar besi di Setu Bekasi agar tetap kuat, aman, dan tampak mewah seperti baru."
+description: "Pagar besi mulai kusam atau karatan? Jangan buru-buru ganti! Simak panduan lengkap perawatan pagar besi di Priangan Timur agar tetap kuat, aman, dan tampak mewah seperti baru."
 ---
 
 Pagar adalah elemen pertama yang dilihat orang saat berkunjung ke rumah Anda. Ia adalah "wajah" sekaligus benteng pertahanan utama. Namun, posisinya yang berada di paling depan membuat pagar paling rentan terhadap serangan cuaca.
 
-Apalagi bagi Anda yang tinggal di Setu Bekasi. Udara sejuk Kota Kembang memang menyenangkan bagi manusia, namun kelembapan tinggi, kabut pagi (terutama di area bekasi,cilengsi,bogor,jakarta,tangerang dan Setu Bekasi Utara), serta hujan asam yang sering turun adalah musuh alami logam. Jika tidak dirawat, pagar minimalis Anda yang dulunya cantik bisa berubah menjadi besi rongsokan yang penuh karat dalam hitungan bulan.
+Apalagi bagi Anda yang tinggal di Priangan Timur. Udara sejuk Kota Kembang memang menyenangkan bagi manusia, namun kelembapan tinggi, kabut pagi (terutama di area Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan dan Priangan Timur Utara), serta hujan asam yang sering turun adalah musuh alami logam. Jika tidak dirawat, pagar minimalis Anda yang dulunya cantik bisa berubah menjadi besi rongsokan yang penuh karat dalam hitungan bulan.
 
-Kabar baiknya, Anda tidak perlu mengganti pagar setiap tahun. Dengan perawatan yang tepat, pagar besi kesayangan Anda bisa bertahan hingga lebih dari 10 tahun. Tim **MITRAJAYA LAS** merangkum panduan tuntas mengatasinya.
+Kabar baiknya, Anda tidak perlu mengganti pagar setiap tahun. Dengan perawatan yang tepat, pagar besi kesayangan Anda bisa bertahan hingga lebih dari 10 tahun. Tim **Kinglas Tehnik** merangkum panduan tuntas mengatasinya.
 
-![Pagar Besi Minimalis Terawat Tampak Mewah di Setu Bekasi](/assets/products/pagar-plat-laser-cutting-cimahi-setu-bekasi.jpg)
+![Pagar Besi Minimalis Terawat Tampak Mewah di Priangan Timur](/assets/products/pagar-plat-laser-cutting-cimahi-setu-bekasi.jpg)
 
-## Mengapa Pagar di Setu Bekasi Mudah Berkarat?
+## Mengapa Pagar di Priangan Timur Mudah Berkarat?
 
-Besi (logam) bereaksi dengan oksigen dan air membentuk oksida besi—yang kita kenal sebagai karat. Di Setu Bekasi, proses oksidasi ini dipercepat oleh:
-1.  **Kelembapan Tinggi**: Air yang "menggantung" di udara Setu Bekasi menempel pada pori-pori cat.
+Besi (logam) bereaksi dengan oksigen dan air membentuk oksida besi—yang kita kenal sebagai karat. Di Priangan Timur, proses oksidasi ini dipercepat oleh:
+1.  **Kelembapan Tinggi**: Air yang "menggantung" di udara Priangan Timur menempel pada pori-pori cat.
 2.  **Hujan Asam**: Emisi kendaraan di perkotaan membuat air hujan bersifat korosif.
 3.  **Lumpur Jalanan**: Debu dan lumpur yang menempel mengandung zat kimia yang bisa merusak lapisan pelindung besi.
 
@@ -42,7 +42,7 @@ Pagar yang sering berbunyi "ngik-ngik" bukan hanya berisik, tapi itu tanda ada g
 
 ### 4. Perhatikan Kondisi Material Isian
 Jika pagar Anda dikombinasikan dengan material lain seperti kayu atau woodplank, perawatannya pun berbeda. Pastikan isian tersebut tidak goyang karena bisa membuat air masuk ke dalam pipa rangka besi.
-*   Cek artikel kami tentang [**Pagar Woodplank vs Kayu Asli**](/posts/2025-12-28-pagar-woodplank-vs-kayu-setu-bekasi) untuk tips merawat material isian agar tidak rapuh dimakan cuaca Setu Bekasi.
+*   Cek artikel kami tentang [**Pagar Woodplank vs Kayu Asli**](/posts/2025-12-28-pagar-woodplank-vs-kayu-setu-bekasi) untuk tips merawat material isian agar tidak rapuh dimakan cuaca Priangan Timur.
 
 ### 5. Repaint (Cat Ulang) Secara Berkala
 Idealnya, pagar besi perlu dicat ulang total setiap 3-5 tahun sekali. Hal ini bukan hanya soal warna yang pudar, tapi soal memperbaharui "perisai" pelindung besinya.
@@ -59,11 +59,11 @@ Pelajari lebih lanjut tentang [**Cat Semprot vs Powder Coating**](/posts/2025-12
 
 ---
 
-## Jasa Service & Cat Pagar Setu Bekasi
+## Jasa Service & Cat Pagar Priangan Timur
 
 Kondisi pagar Anda sudah terlanjur karatan parah? Atau roda pagar macet total dan tidak bisa digeser?
 
-Tim **MITRAJAYA LAS** melayani jasa perbaikan (service) dan cat ulang profesional di area Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang, dan sekitarnya. Kami tidak hanya sekadar mengecat, tapi kami melakukan pengamplasan total, pemberian primer anti-karat bermutu tinggi, hingga finishing yang halus seperti baru.
+Tim **Kinglas Tehnik** melayani jasa perbaikan (service) dan cat ulang profesional di area Priangan Timur, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, dan sekitarnya. Kami tidak hanya sekadar mengecat, tapi kami melakukan pengamplasan total, pemberian primer anti-karat bermutu tinggi, hingga finishing yang halus seperti baru.
 
 **Layanan Service Kami:**
 *   Cat ulang total pagar, kanopi, dan tangga besi.
@@ -73,7 +73,7 @@ Tim **MITRAJAYA LAS** melayani jasa perbaikan (service) dan cat ulang profesiona
 **Minta Estimasi Biaya Service:**
 Kirim foto pagar Anda ke WhatsApp kami, tim kami akan memberikan perkiraan biayanya tanpa perlu repot.
 
-📲 **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
+📲 **WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
 📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
 
 *Rawatlah pagar Anda sebelum karat merusaknya. Karena mencegah kerusakan jauh lebih murah daripada mengganti baru.*

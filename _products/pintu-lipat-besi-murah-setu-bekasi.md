@@ -14,7 +14,7 @@ Siapa bilang pintu besi berkualitas harus mahal? Kami di **Kinglas Tehnik** meny
 
 Dapatkan perlindungan maksimal untuk aset Anda dengan budget yang tetap terjaga. Kami transparan dalam memberikan rincian material sehingga Anda tahu persis apa yang Anda bayar.
 
-![Harga Pintu Lipat Besi Murah Setu Bekasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWxnm5zGwnVbX5DvYomC1P6OqRGJYp3ZwY68K225tXBw5rx6b2wlfw3KePqhu2bxK1P0KFwDwKX0hUoV7sGuqFNCEzVQGLLYvkqjQk3ZsajrQzzySLHpgxEvAVZrQ2fi7Skff5nqAR1d8g/s1600-rw/Desain-Cat-Pintu-Garasi.jpg)
+![Harga Pintu Lipat Besi Murah Priangan Timur](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWxnm5zGwnVbX5DvYomC1P6OqRGJYp3ZwY68K225tXBw5rx6b2wlfw3KePqhu2bxK1P0KFwDwKX0hUoV7sGuqFNCEzVQGLLYvkqjQk3ZsajrQzzySLHpgxEvAVZrQ2fi7Skff5nqAR1d8g/s1600-rw/Desain-Cat-Pintu-Garasi.jpg)
 
 ## Mengapa Kami Bisa Lebih Murah?
 1.  **Produksi Sendiri**: Kami bukan agen atau reseller.

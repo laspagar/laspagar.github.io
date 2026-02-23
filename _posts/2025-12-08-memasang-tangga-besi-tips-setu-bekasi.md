@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "7 Tips Memasang Tangga Besi di Rumah Minimalis Setu Bekasi (Solusi Lahan Sempit)"
+title: "7 Tips Memasang Tangga Besi di Rumah Minimalis Priangan Timur (Solusi Lahan Sempit)"
 date: 2025-12-08 10:00:00 +0700
 categories: [Tips, Tangga, Renovasi]
-tags: [Tangga Besi Setu Bekasi, Tangga Putar Murah, Desain Tangga Sempit, Bengkel Las bekasi,cilengsi,bogor,jakarta,tangerang, Mezzanine Setu Bekasi]
+tags: [Tangga Besi Priangan Timur, Tangga Putar Murah, Desain Tangga Sempit, Bengkel Las Tasik, Mezzanine Priangan Timur]
 author: "Kinglas Tehnik"
 image: /assets/posts/tangga-besi.png
-description: "Punya rumah type 36/45 di Setu Bekasi? Jangan sampai tangga beton bikin ruangan sumpek. Simak 7 tips memasang tangga besi minimalis yang hemat tempat, kuat, dan estetik."
+description: "Punya rumah type 36/45 di Priangan Timur? Jangan sampai tangga beton bikin ruangan sumpek. Simak 7 tips memasang tangga besi minimalis yang hemat tempat, kuat, dan estetik."
 ---
 
-Rumah-rumah di Setu Bekasi jaman sekarang, terutama di kawasan padat seperti Antapani, Margahayu, atau kompleks baru di bekasi,cilengsi,bogor,jakarta,tangerang, memiliki satu tantangan yang sama: **Keterbatasan Lahan**.
+Rumah-rumah di Priangan Timur jaman sekarang, terutama di kawasan padat, memiliki satu tantangan yang sama: **Keterbatasan Lahan**.
 
 Saat Anda ingin menambah lantai (menjadi 2 lantai) atau membuat area servis (jemuran/toren), tangga seringkali menjadi "musuh" karena memakan banyak *footprint* lantai. Tangga beton huruf U setidaknya butuh area 3x2 meter. Sayang sekali, kan?
 
-Di artikel ini, tim **MITRAJAYA LAS** akan membedah strategi memasang **Tangga Besi** yang cerdas, hemat ruang, tapi tetap aman untuk lansia dan anak-anak.
+Di artikel ini, tim **Kinglas Tehnik** akan membedah strategi memasang **Tangga Besi** yang cerdas, hemat ruang, tapi tetap aman untuk lansia dan anak-anak.
 
 ![Tangga Besi Industrial Modern Hemat Ruang](/assets/posts/tangga-besi.png)
 
@@ -56,7 +56,7 @@ Tangga indoor rentan lecet karena gesekan kaki. Gunakan cat jenis *Synthetic Ena
 
 ---
 
-## Estimasi Harga Pembuatan (Setu Bekasi 2025)
+## Estimasi Harga Pembuatan (Priangan Timur 2025)
 
 Jangan kaget, tangga besi biasanya lebih murah dari tangga beton + keramik + railing stainless.
 
@@ -71,9 +71,9 @@ Jangan kaget, tangga besi biasanya lebih murah dari tangga beton + keramik + rai
 ### Konsultasikan Denah Rumah Anda
 
 Bingung apakah tangga model A atau B yang muat di rumah Anda?
-Kirim foto lokasi atau denah kasar ke WA kami. Tim **MITRAJAYA LAS** akan bantu sketsakan solusinya.
+Kirim foto lokasi atau denah kasar ke WA kami. Tim **Kinglas Tehnik** akan bantu sketsakan solusinya.
 
 **Gratis Konsultasi via WhatsApp:**
-[0851-8309-9865](https://wa.me/6285183099865)
+[0821-1816-8712](https://wa.me/6282118168712)
 
 [**Lihat Katalog Produk Tangga Minimalis**](/products/desain-tangga-besi-minimalis)

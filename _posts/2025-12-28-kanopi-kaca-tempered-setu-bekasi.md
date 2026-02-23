@@ -3,13 +3,13 @@ layout: post
 title: "Kanopi Kaca Tempered: Investasi Kemewahan atau Pemborosan? (Review Jujur 2025)"
 date: 2025-12-28 16:00:00 +0700
 categories: [Review, Luxury, Kanopi]
-tags: [Kanopi Kaca Setu Bekasi, Harga Kanopi Kaca Tempered, Skylight Setu Bekasi, Kanopi Mewah, Atap Kaca Aman]
+tags: [Kanopi Kaca Priangan Timur, Harga Kanopi Kaca Tempered, Skylight Priangan Timur, Kanopi Mewah, Atap Kaca Aman]
 author: "Kinglas Tehnik"
 image: /assets/products/kanopi-kaca-stainless.jpg
 description: "Ingin pasang kanopi kaca tapi takut pecah atau panas? Simak ulasan teknis tentang Kanopi Kaca Tempered & Laminated. Bahas keamanan, jenis kaca, hingga cara meredam panas matahari."
 ---
 
-Jika Anda melintas di kawasan perumahan elite Setu Bekasi seperti Setra Duta, Kota Baru Parahyangan, atau Dago Pakar, Anda akan melihat satu kesamaan pada fasad rumah-rumah mewahnya: **Kanopi Kaca**.
+Jika Anda melintas di kawasan perumahan elite Priangan Timur seperti Setra Duta, Kota Baru Parahyangan, atau Dago Pakar, Anda akan melihat satu kesamaan pada fasad rumah-rumah mewahnya: **Kanopi Kaca**.
 
 Lupakan spandek yang berisik atau polycarbonate yang lama-lama menguning. Kanopi Kaca (Glass Canopy) adalah kasta tertinggi dalam dunia atap carport dan teras.
 
@@ -23,7 +23,7 @@ Artikel ini akan menjawab keraguan Anda secara teknis namun mudah dipahami.
 
 ### Mitos 1: "Bahaya! Kalau pecah bisa melukai orang."
 **Fakta**: TIDAK, jika Anda menggunakan jenis kaca yang tepat.
-Kami di MITRAJAYA LAS hanya menggunakan **Tempered Glass**.
+Kami di Kinglas Tehnik hanya menggunakan **Tempered Glass**.
 *   Kaca biasa (Raw Glass) jika pecah akan menjadi kepingan tajam seperti pisau. Sangat berbahaya.
 *   **Tempered Glass** diproses dengan pemanasan ekstrem 700°C lalu didinginkan cepat. Kekuatannya 5x lipat kaca biasa. Jika pecah (amit-amit terbentur benda sangat keras), ia akan hancur menjadi **butiran kristal tumpul** (seperti jagung). Tidak akan menyayat kulit.
 *   **Laminated Glass**: Untuk keamanan ekstra, kami menyarankan kaca Laminated (2 lapis kaca direkatkan dengan film PVB di tengah). Jika pecah, butiran kaca **tetap menempel pada film**, tidak akan jatuh ke bawah sama sekali. Ini standar keamanan mall dan bandara.
@@ -82,9 +82,9 @@ Jadi, untuk jangka panjang, Kanopi Kaca sebenarnya **tidak mahal**.
 
 ---
 
-## Harga Kanopi Kaca di Setu Bekasi (2025)
+## Harga Kanopi Kaca di Priangan Timur (2025)
 
-Harga sangat bergantung pada spek rangka dan ketebalan kaca. Berikut estimasi dari MITRAJAYA LAS:
+Harga sangat bergantung pada spek rangka dan ketebalan kaca. Berikut estimasi dari Kinglas Tehnik:
 
 1.  **Ekonomis (Rangka Besi + Kaca Tempered 8mm)**
     *   Mulai **Rp 1.600.000 / m²**.
@@ -104,11 +104,11 @@ Harga sangat bergantung pada spek rangka dan ketebalan kaca. Berikut estimasi da
 
 Jangan serahkan pemasangan kaca pada tukang las biasa. Pemasangan kaca butuh teknik khusus (*sealant* structural, *spider fitting*, *expansion gap*) agar kaca tidak pecah sendiri karena pemuaian.
 
-Tim **MITRAJAYA LAS** memiliki divisi khusus kaca yang berpengalaman.
+Tim **Kinglas Tehnik** memiliki divisi khusus kaca yang berpengalaman.
 
 **Konsultasi & Cek Sampel Kaca Gratis:**
 *   Lihat seberapa tebal kaca 10mm?
 *   Tes ketahanan pukul (kami punya sampel kaca tempered untuk didemonstrasikan).
 
 Hubungi kami:
-[0851-8309-9865](https://wa.me/6285183099865)
+[0821-1816-8712](https://wa.me/6282118168712)

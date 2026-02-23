@@ -9,7 +9,7 @@ image: /assets/posts/kanopi-kordoba.png
 description: "Intip proses makeover teras rumah menggunakan Kanopi Kordoba Varian 2. Solusi atap carport yang tidak hanya kuat menahan hujan angin Priangan Timur, tapi juga bikin rumah auto-mewah."
 ---
 
-Jika Anda tinggal di kawasan Setu Bekasi Utara (Dago, Setiabudi, Ciumbuleuit), Anda pasti paham betul karakter cuacanya. Sejuk memang, tapi kalau sudah hujan? Angin kencang dan tampias airnya bisa bikin teras rumah becek sampai ke pintu depan.
+Jika Anda tinggal di kawasan Priangan Timur Utara (Dago, Setiabudi, Ciumbuleuit), Anda pasti paham betul karakter cuacanya. Sejuk memang, tapi kalau sudah hujan? Angin kencang dan tampias airnya bisa bikin teras rumah becek sampai ke pintu depan.
 
 Itulah masalah yang dihadapi Bapak Reka, klien kami yang tinggal di kawasan **Dago Resort**. 
 
@@ -61,7 +61,7 @@ Hasilnya bisa dilihat di foto. Kanopi tersebut terlihat seolah-olah memang bagia
 Testimoni Pak Reka:
 > *"Puas banget sama kerjanya rapi. Tukangnya sopan-sopan, dan harganya transparan dari awal. Gak ada biaya siluman. Recommended buat tetangga satu komplek!"*
 
-## Berapa Biaya Pasang Kanopi Kordoba di Setu Bekasi?
+## Berapa Biaya Pasang Kanopi Kordoba di Priangan Timur?
 
 Anda mungkin berpikir kanopi se-mewah ini harganya mahal sekali. Padahal, jika dibandingkan dengan umur pakainya (bisa 15-20 tahun), ini investasi receh.
 
@@ -78,7 +78,7 @@ Jangan tunggu cat mobil rusak atau teras berlumut. Konsultasikan kebutuhan kanop
 Kami melayani survey gratis ke area: Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan.
 
 **Hubungi Kami Sekarang:**
-� **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
+� **WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
 📍 **Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 
-*MITRAJAYA LAS - Spesialis Kanopi, Pagar, dan Konstruksi Besi Terbaik.*
+*Kinglas Tehnik - Spesialis Kanopi, Pagar, dan Konstruksi Besi Terbaik.*

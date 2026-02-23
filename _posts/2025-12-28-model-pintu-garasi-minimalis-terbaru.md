@@ -1,25 +1,25 @@
 ---
 layout: post
-title: "10+ Model Pintu Garasi Minimalis Terbaru 2025: Inspirasi Mewah untuk Rumah di Setu Bekasi"
+title: "10+ Model Pintu Garasi Minimalis Terbaru 2025: Inspirasi Mewah untuk Rumah di Priangan Timur"
 date: 2025-12-28 18:00:00 +0700
 categories: [Inspirasi, Desain]
-tags: [Model Pintu Garasi, Garasi Minimalis, Desain Rumah Setu Bekasi, Pintu Garasi Modern, Pintu Lipat Besi, Pintu Sliding Setu Bekasi]
+tags: [Model Pintu Garasi, Garasi Minimalis, Desain Rumah Priangan Timur, Pintu Garasi Modern, Pintu Lipat Besi, Pintu Sliding Priangan Timur]
 author: "Kinglas Tehnik"
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIZnbNeInNb4rRP2e26HVts7AMMXICzOty_OA08y9EaD8LjS1lvj6lbCIVyDmw1RUCmj7XiorZo-M5EqnS0iyLbmmHSCHbCIIEwae2diMrYdBZP-__HrFKP35yA-WLriZt4C3QK8DsMZc0zBGCQgM_CNfELE1UnDIGx4TVbV98GxEE1mx6Q4JE0Jj4/w320-h180-rw/maxresdefault.jpg
-description: "Bingung pilih model pintu garasi? Simak 10+ inspirasi model pintu garasi minimalis terbaru 2025 di Setu Bekasi. Mulai dari gaya Industrial, Laser Cutting, hingga Woodplank premium."
+description: "Bingung pilih model pintu garasi? Simak 10+ inspirasi model pintu garasi minimalis terbaru 2025 di Priangan Timur. Mulai dari gaya Industrial, Laser Cutting, hingga Woodplank premium."
 ---
 
-Seringkali kita terlalu fokus pada desain interior atau warna cat dinding, sampai lupa bahwa **Pintu Garasi** adalah salah satu elemen visual terbesar pada fasad rumah. Bagi warga Setu Bekasi yang tinggal di perumahan modern atau cluster minimalis, pintu garasi bukan sekadar penutup area parkir, melainkan pernyataan gaya hidup (*lifestyle statement*).
+Seringkali kita terlalu fokus pada desain interior atau warna cat dinding, sampai lupa bahwa **Pintu Garasi** adalah salah satu elemen visual terbesar pada fasad rumah. Bagi warga Priangan Timur yang tinggal di perumahan modern atau cluster minimalis, pintu garasi bukan sekadar penutup area parkir, melainkan pernyataan gaya hidup (*lifestyle statement*).
 
 Bayangkan Anda tinggal di kawasan Dago, Antapani, atau Arcamanik. Rumah Anda sudah didesain apik oleh arsitek, namun jika pintu garasinya masih model plat besi "jadul" yang berisik dan berat, tentu estetika rumah akan langsung drop.
 
-Tahun 2025 ini, tren pintu garasi di Setu Bekasi bergeser dari sekadar fungsional menjadi elemen dekoratif yang cerdas. Tim **MITRAJAYA LAS** merangkum 10+ model pintu garasi minimalis terbaru yang sedang *hype* di Kota Kembang.
+Tahun 2025 ini, tren pintu garasi di Priangan Timur bergeser dari sekadar fungsional menjadi elemen dekoratif yang cerdas. Tim **Kinglas Tehnik** merangkum 10+ model pintu garasi minimalis terbaru yang sedang *hype* di Kota Kembang.
 
-![Model Pintu Garasi Minimalis Terbaru Setu Bekasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIZnbNeInNb4rRP2e26HVts7AMMXICzOty_OA08y9EaD8LjS1lvj6lbCIVyDmw1RUCmj7XiorZo-M5EqnS0iyLbmmHSCHbCIIEwae2diMrYdBZP-__HrFKP35yA-WLriZt4C3QK8DsMZc0zBGCQgM_CNfELE1UnDIGx4TVbV98GxEE1mx6Q4JE0Jj4/w320-h180-rw/maxresdefault.jpg)
+![Model Pintu Garasi Minimalis Terbaru Priangan Timur](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIZnbNeInNb4rRP2e26HVts7AMMXICzOty_OA08y9EaD8LjS1lvj6lbCIVyDmw1RUCmj7XiorZo-M5EqnS0iyLbmmHSCHbCIIEwae2diMrYdBZP-__HrFKP35yA-WLriZt4C3QK8DsMZc0zBGCQgM_CNfELE1UnDIGx4TVbV98GxEE1mx6Q4JE0Jj4/w320-h180-rw/maxresdefault.jpg)
 
 ## Kenapa Harus Pilih Model Minimalis?
 
-Gaya minimalis populer karena mengutamakan **garis bersih**, **warna monokrom**, dan **kemudahan perawatan**. Di lahan Setu Bekasi yang terbatas, model minimalis memberikan kesan luas dan rapi. Selain itu, pintu garasi model terbaru biasanya sudah dilengkapi dengan sistem mekanik yang jauh lebih ringan dibanding model lama.
+Gaya minimalis populer karena mengutamakan **garis bersih**, **warna monokrom**, dan **kemudahan perawatan**. Di lahan Priangan Timur yang terbatas, model minimalis memberikan kesan luas dan rapi. Selain itu, pintu garasi model terbaru biasanya sudah dilengkapi dengan sistem mekanik yang jauh lebih ringan dibanding model lama.
 
 ---
 
@@ -35,7 +35,7 @@ Menggunakan jaring besi (expanded mesh) yang memberikan kesan "mentah" dan kokoh
 *   **Keunggulan**: Sirkulasi udara 100% lancar, garasi tidak akan pengap walau mobil baru saja masuk dalam kondisi panas.
 
 ### 3. Woodplank & Iron Combo (Natural Warmth) 🪵
-Perpaduan rangka besi hitam dengan isian papan GRC motif kayu (woodplank). Memberikan kesan mewah seperti kayu asli namun tahan cuaca ekstrem Setu Bekasi.
+Perpaduan rangka besi hitam dengan isian papan GRC motif kayu (woodplank). Memberikan kesan mewah seperti kayu asli namun tahan cuaca ekstrem Priangan Timur.
 *   **Tips**: Sebelum memilih kayu asli, baca dulu komparasi [Pagar Woodplank vs Kayu Asli](/posts/2025-12-28-pagar-woodplank-vs-kayu-setu-bekasi) agar tidak menyesal soal perawatan.
 
 ### 4. Horizontal Slats (The Space Expander) 📏
@@ -52,17 +52,17 @@ Model plat besi yang ditekuk dengan mesin (bending) membentuk pola kotak atau ga
 
 ### 7. Sliding Tikung (The Space Saver) 🏎️
 Lebih ke sistem mekanisnya. Pintu didorong ke samping lalu "menikung" menyusuri dinding samping garasi.
-*   **Keunggulan**: Tidak memakan area carport saat dibuka. Sangat krusial untuk perumahan di Setu Bekasi yang lahan carport-nya terbatas.
+*   **Keunggulan**: Tidak memakan area carport saat dibuka. Sangat krusial untuk perumahan di Priangan Timur yang lahan carport-nya terbatas.
 
 ---
 
 ## Memilih Material yang Tepat
 
-Bukan cuma soal model, material menentukan keawetan. Di Setu Bekasi yang kelembapannya tinggi, kami menyarankan:
+Bukan cuma soal model, material menentukan keawetan. Di Priangan Timur yang kelembapannya tinggi, kami menyarankan:
 *   **Besi Galvanis**: Wajib hukumnya agar pintu tidak cepat keropos.
 *   **Komponen Rel Kualitas Tinggi**: Gunakan rel merk Wina atau Henderson agar pintu bisa didorong hanya dengan satu tangan (tidak berat).
 
-Ingin tahu paket harga lengkapnya? Silakan merujuk pada pilar content kami: [**Panduan Lengkap Pintu Garasi Murah Setu Bekasi**](/posts/2025-12-28-pintu-garasi-murah-setu-bekasi-terlengkap).
+Ingin tahu paket harga lengkapnya? Silakan merujuk pada pilar content kami: [**Panduan Lengkap Pintu Garasi Murah Priangan Timur**](/posts/2025-12-28-pintu-garasi-murah-setu-bekasi-terlengkap).
 
 ---
 
@@ -79,10 +79,10 @@ Agar model pintu yang sudah bagus tetap fungsional:
 
 Memilih model pintu garasi harus menyesuaikan dengan **fasad rumah** dan **fungsi utama**. Jika Anda butuh sirkulasi udara, pilih *Expanded* atau *Laser Cutting*. Jika butuh privasi total, pilih *Press Plat*.
 
-Masih bingung? Tim desain **MITRAJAYA LAS** siap datang ke lokasi Anda untuk melakukan survey dan memberikan saran model yang paling proporsional untuk rumah Anda.
+Masih bingung? Tim desain **Kinglas Tehnik** siap datang ke lokasi Anda untuk melakukan survey dan memberikan saran model yang paling proporsional untuk rumah Anda.
 
 **Survey & Konsultasi Gratis:**
-📲 **WhatsApp**: [0851-8309-9865](https://wa.me/6285183099865)
+📲 **WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
 📍 **Workshop**: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
 
 [**Lihat Portfolio Pintu Garasi Kami Lainnya**](/products)

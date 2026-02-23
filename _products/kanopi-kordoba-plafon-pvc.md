@@ -23,10 +23,10 @@ Ini adalah model kanopi **paling laris** di Priangan Timur tahun ini. Menggabung
 *   **Plafon Bawah**: PVC Board (Motif Putih / Kayu).
 *   **Finishing**: Cat Semprot Kompresor (Bukan Kuas).
 
-### Harga Terpasang di Setu Bekasi Raya:
+### Harga Terpasang di Priangan Timur Raya:
 Mulai dari **Rp 1.100.000 / m²** (Terima beres termasuk bahan, jasa, dan cat).
 
 **Mau yang lebih mewah? Cek [Varian 2 Double Frame](/products/kanopi-kordoba-plafon-pvc-2)**.
 
 **Konsultasi Gratis via WA:**
-[0851-8309-9865](https://wa.me/6285183099865)
+[0821-1816-8712](https://wa.me/6282118168712)

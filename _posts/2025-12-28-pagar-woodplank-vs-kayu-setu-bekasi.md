@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Pagar Woodplank (GRC) vs Kayu Asli: Mana yang Tahan Cuaca Setu Bekasi? (Review 2025)"
+title: "Pagar Woodplank (GRC) vs Kayu Asli: Mana yang Tahan Cuaca Priangan Timur? (Review 2025)"
 date: 2025-12-28 15:00:00 +0700
 categories: [Review, Material, Pagar]
-tags: [Pagar Woodplank Setu Bekasi, Pagar GRC Motif Kayu, Pagar Kayu Minimalis, Harga Pagar Setu Bekasi, Pagar Anti Rayap]
+tags: [Pagar Woodplank Priangan Timur, Pagar GRC Motif Kayu, Pagar Kayu Minimalis, Harga Pagar Priangan Timur, Pagar Anti Rayap]
 author: "Kinglas Tehnik"
 image: /assets/products/pagar-besi-grc-woodplang-motif-kayu.jpg
 description: "Suka tampilan pagar kayu tapi takut lapuk kehujanan? Baca perbandingan lengkap antara Pagar Kayu Asli vs Woodplank (GRC/WPC). Hitungan biaya, keawetan, dan estetika dikupas tuntas. "
 ---
 
-Setu Bekasi terkenal dengan udaranya yang sejuk tapi juga curah hujannya yang tinggi dan kelembapan yang ekstrem. Bagi pemilik rumah, ini berita buruk untuk elemen eksterior, terutama **Pagar**.
+Priangan Timur terkenal dengan udaranya yang sejuk tapi juga curah hujannya yang tinggi dan kelembapan yang ekstrem. Bagi pemilik rumah, ini berita buruk untuk elemen eksterior, terutama **Pagar**.
 
-Pagar kayu memang memberikan kesan mewah, hangat, dan natural. "Villa look" banget lah pokoknya. Tapi, banyak klien kami di Dago atau bekasi,cilengsi,bogor,jakarta,tangerang yang mengeluh: *"Baru pasang 2 tahun, pagar kayu saya sudah lapuk, berjamur, bahkan dimakan rayap!"*
+Pagar kayu memang memberikan kesan mewah, hangat, dan natural. "Villa look" banget lah pokoknya. Tapi, banyak klien kami di Dago atau Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan yang mengeluh: *"Baru pasang 2 tahun, pagar kayu saya sudah lapuk, berjamur, bahkan dimakan rayap!"*
 
 Di tahun 2025 ini, teknologi material konstruksi sudah memberikan solusi: **Woodplank (Cornice/GRC Board)** atau **WPC (Wood Plastic Composite)**.
 
@@ -23,13 +23,13 @@ Apakah material imitasi ini benar-benar bisa menggantikan kayu asli? Mari kita b
 
 **Kayu Asli (Jati, Merbau, Bengkirai)**
 *   Kayu solid memang kuat, tapi ia adalah material organik. Sifatnya *higroskopis* (menyerap air).
-*   Di cuaca Setu Bekasi yang paginya panas terik, sorenya hujan deras, kayu akan mengalami kembang-susut (expansion & contraction) yang ekstrem.
+*   Di cuaca Priangan Timur yang paginya panas terik, sorenya hujan deras, kayu akan mengalami kembang-susut (expansion & contraction) yang ekstrem.
 *   **Akibatnya**: Kayu bisa melengkung (warping), retak rambut, dan cat/vernisnya cepat mengelupas. Jika air masuk ke pori-pori, jamur dan lapuk akan menyerang.
 
 **Woodplank / GRC (Semen Fiber)**
 *   Terbuat dari campuran semen, pasir silika, dan serat selulosa. Ini adalah material anorganik.
 *   **Sifat**: Tahan air 100%, tahan api, dan dimensi stabil (tidak memuai/menyusut).
-*   **Vonis**: Untuk outdoor di Setu Bekasi, Woodplank menang telak. Ia tidak peduli mau hujan badai atau panas terik.
+*   **Vonis**: Untuk outdoor di Priangan Timur, Woodplank menang telak. Ia tidak peduli mau hujan badai atau panas terik.
 
 ## Ronde 2: Ancaman Rayap
 
@@ -79,7 +79,7 @@ Mari kita hitung estimasi biaya per m² (termasuk rangka besi hollow galvanis):
 
 ---
 
-## Tips Memilih Pagar Woodplank ala MITRAJAYA LAS
+## Tips Memilih Pagar Woodplank ala Kinglas Tehnik
 
 Jika Anda memutuskan beralih ke Woodplank, perhatikan 3 tips ini agar tidak terlihat "murahan":
 
@@ -105,13 +105,13 @@ Karena Woodplank itu berat (semen padat), rangka besi harus kuat.
 
 ---
 
-## Konsultasi Gratis di Setu Bekasi
+## Konsultasi Gratis di Priangan Timur
 
 Masih ragu? Ingin pegang langsung sampel material Woodplank yang kami gunakan?
 
-Tim **MITRAJAYA LAS** siap membawakan sampel potongan Woodplank, WPC, dan Kayu saat survey ke rumah Anda. Bandingkan sendiri dan pilih yang paling pas di hati.
+Tim **Kinglas Tehnik** siap membawakan sampel potongan Woodplank, WPC, dan Kayu saat survey ke rumah Anda. Bandingkan sendiri dan pilih yang paling pas di hati.
 
 **Jadwalkan Survey Gratis Sekarang:**
-Klik: [Wa.me/6285183099865](https://wa.me/6285183099865)
+Klik: [Wa.me/6282118168712](https://wa.me/6282118168712)
 
 *Bikin pagar sekali, awetnya berkali-kali.*

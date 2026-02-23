@@ -10,11 +10,11 @@ keywords: jasa pintu besi priangan timur, pintu besi custom murah, tukang las pi
 
 # Jasa Pembuatan Pintu Besi Custom Priangan Timur: Solusi Fleksibel untuk Rumah Anda
 
-Tidak semua garasi memiliki ukuran yang standar pabrikan. Itulah sebabnya layanan **Jasa Pintu Besi Custom** sangat dibutuhkan. Kami di MITRAJAYA LAS spesialis mengerjakan pintu-pintu dengan tantangan khusus: lahan miring, area sempit, atau permintaan desain arsitektural yang unik.
+Tidak semua garasi memiliki ukuran yang standar pabrikan. Itulah sebabnya layanan **Jasa Pintu Besi Custom** sangat dibutuhkan. Kami di Kinglas Tehnik spesialis mengerjakan pintu-pintu dengan tantangan khusus: lahan miring, area sempit, atau permintaan desain arsitektural yang unik.
 
 Wujudkan pintu garasi atau pintu rahasia yang benar-benar pas dengan dimensi lahan dan keinginan estetika Anda.
 
-![Jasa Pintu Besi Custom Setu Bekasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO2Y4XapOBejwpT1BGntlPZRD7VP8yQM_hx3QTiHBssYluvSkQM3L6lMWFrqj7AsNkK6YdDzuWY4bIWV-SW7uvz6d_dQPa2QnJpabNRKpYjnp2b4mEKpESY2Mmq1ihWZW01Hn1bMGPQuRg/s1600-rw/Desain-Pintu-Garasi-Kayu-768x576.jpg)
+![Jasa Pintu Besi Custom Priangan Timur](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO2Y4XapOBejwpT1BGntlPZRD7VP8yQM_hx3QTiHBssYluvSkQM3L6lMWFrqj7AsNkK6YdDzuWY4bIWV-SW7uvz6d_dQPa2QnJpabNRKpYjnp2b4mEKpESY2Mmq1ihWZW01Hn1bMGPQuRg/s1600-rw/Desain-Pintu-Garasi-Kayu-768x576.jpg)
 
 ## Keunggulan Layanan Custom Kami:
 *   **Measurement Accuracy**: Kami melakukan survey langsung dengan alat ukur presisi untuk memastikan tidak ada celah miring saat pemasangan.
@@ -25,5 +25,5 @@ Wujudkan pintu garasi atau pintu rahasia yang benar-benar pas dengan dimensi lah
 [**Info Selengkapnya Jasa Pembuatan Pintu Lipat Custom**](/posts/2025-12-28-jasa-pintu-lipat-besi-custom-setu-bekasi)
 
 **Jadwalkan Survey Lokasi Anda Hari Ini:**
-📲 Hubungi Kami: [0851-8309-9865](https://wa.me/6285183099865)
+📲 Hubungi Kami: [0821-1816-8712](https://wa.me/6282118168712)
 📍 Alamat: Taman Rahayu, Kecmatan setu kampung serang, RT.01/RW.04, Taman Rahayu, Kec. Setu, Kabupaten Bekasi, Jawa Barat 17320
