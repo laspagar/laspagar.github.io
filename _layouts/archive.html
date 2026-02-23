@@ -10,7 +10,12 @@ layout: default
 
 <!-- Blog Grid - 7 posts per page -->
 <div class="grid md:grid-cols-2 lg:grid-cols-1 gap-8 mb-16">
-  {% for post in paginator.posts %}
+  {% if paginator.posts %}
+  {% assign posts_to_show = paginator.posts %}
+{% else %}
+  {% assign posts_to_show = site.posts %}
+{% endif %}
+  {% for post in posts_to_show %}
   <article class="group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-lg hover:border-purple-200 transition">
     <div class="grid md:grid-cols-3 gap-6 items-center p-6">
       <!-- Image -->
