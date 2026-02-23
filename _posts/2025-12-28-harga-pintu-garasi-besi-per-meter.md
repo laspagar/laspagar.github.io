@@ -4,7 +4,7 @@ title: "Bongkar Rincian Harga Pintu Garasi Besi Per Meter di Setu Bekasi (Update
 date: 2025-12-28 17:30:00 +0700
 categories: [Harga, Pintu]
 tags: [Harga Pintu Besi, Biaya Ganti Pintu Garasi, Pagar Besi Murah Setu Bekasi, Pintu Garasi Setu Bekasi, Bengkel Las Setu Bekasi]
-author: "MITRAJAYA LAS"
+author: "Kinglas Tehnik"
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWxnm5zGwnVbX5DvYomC1P6OqRGJYp3ZwY68K225tXBw5rx6b2wlfw3KePqhu2bxK1P0KFwDwKX0hUoV7sGuqFNCEzVQGLLYvkqjQk3ZsajrQzzySLHpgxEvAVZrQ2fi7Skff5nqAR1d8g/s1600-rw/Desain-Cat-Pintu-Garasi.jpg
 description: "Mau pasang pintu garasi tapi bingung hitung biayanya? Simak harga pintu garasi besi per meter lari atau per daun di Setu Bekasi. Transparan, lengkap, dan tanpa biaya siluman."
 ---

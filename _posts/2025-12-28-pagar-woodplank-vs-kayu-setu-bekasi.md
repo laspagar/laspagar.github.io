@@ -4,7 +4,7 @@ title: "Pagar Woodplank (GRC) vs Kayu Asli: Mana yang Tahan Cuaca Setu Bekasi? (
 date: 2025-12-28 15:00:00 +0700
 categories: [Review, Material, Pagar]
 tags: [Pagar Woodplank Setu Bekasi, Pagar GRC Motif Kayu, Pagar Kayu Minimalis, Harga Pagar Setu Bekasi, Pagar Anti Rayap]
-author: "MITRAJAYA LAS"
+author: "Kinglas Tehnik"
 image: /assets/products/pagar-besi-grc-woodplang-motif-kayu.jpg
 description: "Suka tampilan pagar kayu tapi takut lapuk kehujanan? Baca perbandingan lengkap antara Pagar Kayu Asli vs Woodplank (GRC/WPC). Hitungan biaya, keawetan, dan estetika dikupas tuntas. "
 ---

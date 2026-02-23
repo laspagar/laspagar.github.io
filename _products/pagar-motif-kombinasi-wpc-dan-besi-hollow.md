@@ -1,20 +1,20 @@
 ---
 layout: product
-title: Pagar Motif Kayu WPC & Besi Hollow Setu Bekasi
+title: Pagar Motif Kayu WPC & Besi Hollow Priangan Timur
 price: Rp 1.500.000 / m²
 category: Pagar
 image: /assets/products/pagar-motif-kombinasi-wpc-dan-besi-hollow.jpg
-description: Pagar kombinasi besi hollow galvanis dan WPC (Wood Plastic Composite) di Setu Bekasi. Tampilan kayu natural tapi anti rayap dan tahan hujan.
-keywords: pagar wpc setu bekasi, pagar motif kayu, pagar woodplank, pagar minimalis modern, pagar grc motif kayu
+description: Pagar kombinasi besi hollow galvanis dan WPC (Wood Plastic Composite) di Priangan Timur. Tampilan kayu natural tapi anti rayap dan tahan hujan.
+keywords: pagar wpc priangan timur, pagar motif kayu, pagar woodplank, pagar minimalis modern, pagar grc motif kayu
 ---
 
-# Pagar WPC Setu Bekasi: Nuansa Kayu, Kekuatan Besi
+# Pagar WPC Priangan Timur: Nuansa Kayu, Kekuatan Besi
 
-Ingin tampilan pagar kayu yang alami tapi takut lapuk dan dimakan rayap? **Pagar Kombinasi WPC (Wood Plastic Composite)** adalah solusinya. Ini adalah tren pagar modern di perumahan Setu Bekasi yang menggabungkan estetika villa dengan durabilitas tinggi.
+Ingin tampilan pagar kayu yang alami tapi takut lapuk dan dimakan rayap? **Pagar Kombinasi WPC (Wood Plastic Composite)** adalah solusinya. Ini adalah tren pagar modern di perumahan Priangan Timur yang menggabungkan estetika villa dengan durabilitas tinggi.
 
 ## Apa itu WPC?
 WPC adalah material campuran serbuk kayu dan plastik.
-*   **Tahan Air**: Tidak akan lapuk meski kena hujan deras Setu Bekasi tiap hari.
+*   **Tahan Air**: Tidak akan lapuk meski kena hujan deras Priangan Timur tiap hari.
 *   **Anti Rayap**: Rayap tidak suka material plastik.
 *   **Tampilan Natural**: Memiliki serat dan tekstur persis kayu asli.
 
@@ -33,4 +33,4 @@ WPC adalah material campuran serbuk kayu dan plastik.
 **[Lihat Juga: Pagar Laser Cutting Custom](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
 
 **Pesan Sekarang:**
-[0851-8309-9865](https://wa.me/6285183099865)
+[0821-1816-8712](https://wa.me/6282118168712)

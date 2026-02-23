@@ -4,7 +4,7 @@ title: "Kanopi Kaca Tempered: Investasi Kemewahan atau Pemborosan? (Review Jujur
 date: 2025-12-28 16:00:00 +0700
 categories: [Review, Luxury, Kanopi]
 tags: [Kanopi Kaca Setu Bekasi, Harga Kanopi Kaca Tempered, Skylight Setu Bekasi, Kanopi Mewah, Atap Kaca Aman]
-author: "MITRAJAYA LAS"
+author: "Kinglas Tehnik"
 image: /assets/products/kanopi-kaca-stainless.jpg
 description: "Ingin pasang kanopi kaca tapi takut pecah atau panas? Simak ulasan teknis tentang Kanopi Kaca Tempered & Laminated. Bahas keamanan, jenis kaca, hingga cara meredam panas matahari."
 ---

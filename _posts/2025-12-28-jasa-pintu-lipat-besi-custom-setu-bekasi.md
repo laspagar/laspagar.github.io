@@ -4,7 +4,7 @@ title: "Jasa Pembuatan Pintu Lipat Besi Custom di Setu Bekasi | Free Survey & Pa
 date: 2025-12-28 18:00:00 +0700
 categories: [Layanan, Jasa]
 tags: [Jasa Pintu Lipat Setu Bekasi, Bengkel Las Pintu Garasi, Folding Gate Custom Setu Bekasi, Tukang Pintu Besi, Pembuatan Pintu Ruko]
-author: "MITRAJAYA LAS"
+author: "Kinglas Tehnik"
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGK3hl9vUiSL5F_7w_N0TCtHzLcm_LEMKZbuPfa_cWqCEgKFqbUGN2ydlCcJILya2tA8tY9_QUwaN6qes6wGXPXhsyJQ4mnoKBh6vXS4NFwsr72xezpbKthB6lO1ziUrkFCF106OG9A8M/s1600-rw/5.jpg
 description: "Ingin pintu garasi atau pintu toko yang pas dengan luas lahan dan gaya rumah Anda? MITRAJAYA LAS melayani jasa pembuatan pintu lipat besi custom dengan gratis survey dan pemasangan."
 ---

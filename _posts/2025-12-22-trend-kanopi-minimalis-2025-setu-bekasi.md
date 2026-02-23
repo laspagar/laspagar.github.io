@@ -4,7 +4,7 @@ title: "Tren Desain Kanopi Minimalis Setu Bekasi 2025: Inovasi Material & Esteti
 date: 2025-12-22 10:00:00 +0700
 categories: [Tren, Desain]
 tags: [Tren Kanopi 2025, Desain Rumah Setu Bekasi, Kanopi Industrial, Pagar Modern, Kanopi Gantung, Smart Home Setu Bekasi]
-author: "MITRAJAYA LAS"
+author: "Kinglas Tehnik"
 image: /assets/products/judul-kanopi-minimalis-cimahi-setu-bekasi-satu.png
 description: "Mau renovasi rumah di tahun 2025? Intip prediksi tren desain kanopi yang bakal booming di Setu Bekasi: mulai dari konsep Industrial Tropical hingga teknologi atap buka-tutup."
 ---

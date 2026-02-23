@@ -4,7 +4,7 @@ title: "Jasa Kanopi Mezzanine Setu Bekasi Murah & Bergaransi (2025) | MITRAJAYA 
 date: 2025-12-28 10:00:00 +0700
 categories: [Konstruksi, Mezzanine]
 tags: [Mezzanine Setu Bekasi, Kanopi Mezzanine, Jasa Las Setu Bekasi, Tukang Las bekasi,cilengsi,bogor,jakarta,tangerang, Harga Mezzanine Per Meter]
-author: "MITRAJAYA LAS"
+author: "Kinglas Tehnik"
 image: /assets/products/kanopi-mezzanine-setu-bekasi.jpg
 description: "Jasa pembuatan kanopi mezzanine besi di Setu Bekasi, bekasi,cilengsi,bogor,jakarta,tangerang & bekasi,cilengsi,bogor,jakarta,tangerang. Solusi nambah ruang tanpa renovasi mahal. Harga per meter bersaing, survey gratis!"
 ---

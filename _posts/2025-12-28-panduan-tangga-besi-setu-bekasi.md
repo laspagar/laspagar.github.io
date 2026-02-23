@@ -4,7 +4,7 @@ title: "Panduan Lengkap 2025: Desain Tangga Besi Minimalis & Industrial untuk Ru
 date: 2025-12-28 14:00:00 +0700
 categories: [Panduan, Interior, Tangga]
 tags: [Tangga Besi Setu Bekasi, Desain Tangga Sempit, Tangga Industrial, Harga Tangga Besi, Inspirasi Rumah Setu Bekasi]
-author: "MITRAJAYA LAS"
+author: "Kinglas Tehnik"
 image: /assets/products/desain-tangga-besi-dan-kayu.jpg
 description: "Bingung bikin tangga di lahan sempit? Simak panduan lengkap memilih desain tangga besi (Monyet, Putar, Rebah) yang hemat ruang, kuat, dan estetik. Lengkap dengan estimasi biaya!"
 ---

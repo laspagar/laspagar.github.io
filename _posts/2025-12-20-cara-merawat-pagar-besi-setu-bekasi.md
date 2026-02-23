@@ -4,7 +4,7 @@ title: "Cara Merawat Pagar Besi Agar Awet 10 Tahun (Panduan Khusus Cuaca Setu Be
 date: 2025-12-20 10:00:00 +0700
 categories: [Tips, Maintenance]
 tags: [Perawatan Pagar Besi, Cat Ulang Pagar Setu Bekasi, Pagar Karatan, Tips Rumah Setu Bekasi, Bengkel Las Setu Bekasi]
-author: "MITRAJAYA LAS"
+author: "Kinglas Tehnik"
 image: /assets/products/pagar-plat-laser-cutting-cimahi-setu-bekasi.jpg
 description: "Pagar besi mulai kusam atau karatan? Jangan buru-buru ganti! Simak panduan lengkap perawatan pagar besi di Setu Bekasi agar tetap kuat, aman, dan tampak mewah seperti baru."
 ---

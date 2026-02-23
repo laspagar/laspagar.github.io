@@ -1,11 +1,11 @@
 ---
 layout: product
-title: Spesialis Kanopi Kaca Stainless Setu Bekasi (Tempered Glass)
+title: Spesialis Kanopi Kaca Stainless Priangan Timur (Tempered Glass)
 price: Rp 2.500.000 / m²
 category: Kanopi
 image: /assets/products/kanopi-kaca-stainless.jpg
-description: Jasa pembuatan kanopi kaca tempered dengan rangka stainless steel di Setu Bekasi. Mewah, modern, dan pencahayaan maksimal.
-keywords: kanopi kaca setu bekasi, kanopi tempered glass, rangka stainless steel, skylight setu bekasi, kanopi mewah
+description: Jasa pembuatan kanopi kaca tempered dengan rangka stainless steel di Priangan Timur. Mewah, modern, dan pencahayaan maksimal.
+keywords: kanopi kaca priangan timur, kanopi tempered glass, rangka stainless steel, skylight priangan timur, kanopi mewah
 ---
 
 # Kanopi Kaca Stainless: Kemewahan Transparan untuk Hunian Modern
@@ -20,7 +20,7 @@ Ingin tampilan rumah yang mewah dan modern? **Kanopi Kaca Tempered** dengan rang
 ## Aplikasi Ideal:
 *   Carport rumah mewah.
 *   Skylight void belakang / ruang jemur.
-*   Canopy cafe / resto di Setu Bekasi.
+*   Canopy cafe / resto di Priangan Timur.
 
 ## Pilihan Kaca:
 *   **Clear (Bening)**: Cahaya masuk 100%.

@@ -4,7 +4,7 @@ title: "10+ Model Pintu Garasi Minimalis Terbaru 2025: Inspirasi Mewah untuk Rum
 date: 2025-12-28 18:00:00 +0700
 categories: [Inspirasi, Desain]
 tags: [Model Pintu Garasi, Garasi Minimalis, Desain Rumah Setu Bekasi, Pintu Garasi Modern, Pintu Lipat Besi, Pintu Sliding Setu Bekasi]
-author: "MITRAJAYA LAS"
+author: "Kinglas Tehnik"
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIZnbNeInNb4rRP2e26HVts7AMMXICzOty_OA08y9EaD8LjS1lvj6lbCIVyDmw1RUCmj7XiorZo-M5EqnS0iyLbmmHSCHbCIIEwae2diMrYdBZP-__HrFKP35yA-WLriZt4C3QK8DsMZc0zBGCQgM_CNfELE1UnDIGx4TVbV98GxEE1mx6Q4JE0Jj4/w320-h180-rw/maxresdefault.jpg
 description: "Bingung pilih model pintu garasi? Simak 10+ inspirasi model pintu garasi minimalis terbaru 2025 di Setu Bekasi. Mulai dari gaya Industrial, Laser Cutting, hingga Woodplank premium."
 ---

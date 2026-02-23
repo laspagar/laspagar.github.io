@@ -4,7 +4,7 @@ title: "Bongkar Habis! Rincian Biaya Pasang Kanopi di Setu Bekasi 2025 (Plus Car
 date: 2025-12-12 10:00:00 +0700
 categories: [Panduan, Harga, Kanopi]
 tags: [Harga Kanopi Setu Bekasi 2025, Biaya Pasang Kanopi per Meter, Tukang Kanopi Murah Setu Bekasi, Kanopi Alderon Setu Bekasi, Hitung RAB Kanopi]
-author: "MITRAJAYA LAS"
+author: "Kinglas Tehnik"
 image: /assets/products/kanopi-kordoba-plafon-pvc.jpg
 description: "Jangan mau dibohongi harga! Simak panduan transparan biaya pasang kanopi di Setu Bekasi. Mulai dari spek rangka, jenis atap (Spandek vs Alderon vs Kaca), hingga biaya tersembunyi yang sering tidak dibilang tukang."
 ---

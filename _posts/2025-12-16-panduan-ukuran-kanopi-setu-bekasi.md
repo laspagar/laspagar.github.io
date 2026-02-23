@@ -4,7 +4,7 @@ title: "Panduan Ukuran Kanopi Carport Ideal: Standar Mobil Avanza hingga Alphard
 date: 2025-12-16 10:00:00 +0700
 categories: [Tips, Kanopi]
 tags: [Ukuran Kanopi Mobil, Kanopi Carport Setu Bekasi, Standar Ukuran Garasi, Jasa MITRAJAYA LAS, Renovasi Rumah Setu Bekasi, Dimensi Carport]
-author: "MITRAJAYA LAS"
+author: "Kinglas Tehnik"
 image: /assets/products/kanopi-atap-spandek-termurah.jpeg
 description: "Jangan asal bangun! Ketahui standar ukuran ideal kanopi carport agar mobil terlindungi sempurna dari hujan angin Setu Bekasi. Panduan lengkap dimensi lebar, panjang, dan tinggi."
 ---

@@ -4,7 +4,7 @@ title: "Pintu Garasi Murah Setu Bekasi: Panduan Lengkap 2025 (Harga, Model, & Ti
 date: 2025-12-28 17:00:00 +0700
 categories: [Pillar, Pintu]
 tags: [Pintu Garasi Setu Bekasi, Pintu Garasi Murah, Pintu Lipat Besi, Pintu Sliding Setu Bekasi, Harga Pintu Garasi, Folding Gate Setu Bekasi]
-author: "MITRAJAYA LAS"
+author: "Kinglas Tehnik"
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGK3hl9vUiSL5F_7w_N0TCtHzLcm_LEMKZbuPfa_cWqCEgKFqbUGN2ydlCcJILya2tA8tY9_QUwaN6qes6wGXPXhsyJQ4mnoKBh6vXS4NFwsr72xezpbKthB6lO1ziUrkFCF106OG9A8M/s1600-rw/5.jpg
 description: "Mencari pintu garasi murah di Setu Bekasi? Simak panduan terlengkap 3000 kata ini: Bandingkan pintu sliding vs lipat, besi vs kayu, spek rel wina, dan daftar harga terbaru 2025."
 ---

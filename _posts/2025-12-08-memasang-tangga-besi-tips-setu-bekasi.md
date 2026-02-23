@@ -4,7 +4,7 @@ title: "7 Tips Memasang Tangga Besi di Rumah Minimalis Setu Bekasi (Solusi Lahan
 date: 2025-12-08 10:00:00 +0700
 categories: [Tips, Tangga, Renovasi]
 tags: [Tangga Besi Setu Bekasi, Tangga Putar Murah, Desain Tangga Sempit, Bengkel Las bekasi,cilengsi,bogor,jakarta,tangerang, Mezzanine Setu Bekasi]
-author: "MITRAJAYA LAS"
+author: "Kinglas Tehnik"
 image: /assets/posts/tangga-besi.png
 description: "Punya rumah type 36/45 di Setu Bekasi? Jangan sampai tangga beton bikin ruangan sumpek. Simak 7 tips memasang tangga besi minimalis yang hemat tempat, kuat, dan estetik."
 ---

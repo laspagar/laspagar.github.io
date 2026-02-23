@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Cara Pemesanan MITRAJAYA LAS
+title: Cara Pemesanan Kinglas Tehnik
 permalink: /cara-pemesanan/
 ---
 
 <div class="test2-theme">
     <div class="container py-12 max-w-4xl">
         <div class="text-center mb-12">
-            <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Cara Pemesanan Jasa Las Setu Bekasi</h1>
+            <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Cara Pemesanan Jasa Las Priangan Timur</h1>
             <p class="text-lg text-slate-600">Proses mudah, transparan, dan amanah. Melayani bekasi,cilengsi,bogor,jakarta,tangerang.</p>
         </div>
 
@@ -16,7 +16,7 @@ permalink: /cara-pemesanan/
             <div class="bg-white p-6 rounded-xl shadow-sm border border-slate-200 relative">
                 <div class="absolute -top-4 -left-4 w-10 h-10 bg-blue-600 text-white rounded-full flex items-center justify-center font-bold text-xl shadow-lg">1</div>
                 <h3 class="text-xl font-bold text-slate-900 mb-3 mt-2">Konsultasi & Survey Gratis</h3>
-                <p class="text-slate-600">Hubungi admin kami via WhatsApp. Kirimkan foto lokasi & ukuran kasar. Untuk area Setu Bekasi Raya, kami berikan layanan <strong>Survey Gratis</strong> ke lokasi Anda.</p>
+                <p class="text-slate-600">Hubungi admin kami via WhatsApp. Kirimkan foto lokasi & ukuran kasar. Untuk area Priangan Timur Raya, kami berikan layanan <strong>Survey Gratis</strong> ke lokasi Anda.</p>
             </div>
 
             <!-- Step 2 -->
@@ -44,7 +44,7 @@ permalink: /cara-pemesanan/
         <div class="bg-blue-50 rounded-xl p-8 text-center border border-blue-100">
             <h2 class="text-2xl font-bold text-slate-900 mb-4">Siap Memesan?</h2>
             <p class="text-slate-600 mb-6">Jangan ragu bertanya, konsultasi 100% GRATIS tanpa kewajiban memesan.</p>
-            <a href="https://wa.me/6285183099865?text=Halo%20Las%20Pagar,%20saya%20mau%20tanya%20harga%20untuk%20pembuatan..." class="inline-flex items-center bg-blue-600 text-white px-8 py-4 rounded-full font-bold shadow-lg hover:bg-blue-700 transition-colors">
+            <a href="https://wa.me/6282118168712?text=Halo%20Las%20Pagar,%20saya%20mau%20tanya%20harga%20untuk%20pembuatan..." class="inline-flex items-center bg-blue-600 text-white px-8 py-4 rounded-full font-bold shadow-lg hover:bg-blue-700 transition-colors">
                 <i class="fab fa-whatsapp text-2xl mr-3"></i> Hubungi Kami Sekarang
             </a>
             <div class="mt-4 text-sm text-slate-500">

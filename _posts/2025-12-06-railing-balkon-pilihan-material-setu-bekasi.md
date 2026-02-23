@@ -4,7 +4,7 @@ title: "Panduan Memilih Railing Balkon Rumah Setu Bekasi: Material, Keamanan & H
 date: 2025-12-06 10:00:00 +0700
 categories: [Panduan, Railing, Eksterior]
 tags: [Railing Balkon Setu Bekasi, Pagar Balkon Minimalis, Bengkel Las bekasi,cilengsi,bogor,jakarta,tangerang, Harga Railing Per Meter, Balkon Safety, Laser Cutting Setu Bekasi]
-author: "MITRAJAYA LAS"
+author: "Kinglas Tehnik"
 image: /assets/posts/railing-balkon.png
 description: "Jangan salah pilih railing balkon! Simak panduan lengkap memilih material tahan cuaca Setu Bekasi (Besi, Kaca, Stainless), standar keamanan tinggi railing, dan estimasi harga terbaru."
 ---

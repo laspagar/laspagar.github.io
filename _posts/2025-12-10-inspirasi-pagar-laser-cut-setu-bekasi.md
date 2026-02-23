@@ -4,7 +4,7 @@ title: "Tren Pagar Laser Cutting di Setu Bekasi: Mewah, Artistik & Solusi Privas
 date: 2025-12-10 10:00:00 +0700
 categories: [Inspirasi, Pagar]
 tags: [Pagar Laser Cutting Setu Bekasi, Pagar Cutting bekasi,cilengsi,bogor,jakarta,tangerang, Jasa Laser Cutting Metal, Pagar Rumah Mewah Setu Bekasi, Desain Pagar Custom]
-author: "MITRAJAYA LAS"
+author: "Kinglas Tehnik"
 image: /assets/posts/pagar-laser-cut.png
 description: "Ingin fasad rumah tampil beda dan eksklusif? Pagar Laser Cutting adalah tren terbaru di Setu Bekasi yang menawarkan keindahan artistik tanpa batas. Simak keunggulan, harga, dan inspirasi desainnya di sini."
 ---

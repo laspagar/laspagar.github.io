@@ -4,7 +4,7 @@ title: "Cat Semprot vs Powder Coating: Mana Finishing Terbaik untuk Pagar & Kano
 date: 2025-12-14 10:00:00 +0700
 categories: [Tips, Finishing]
 tags: [Powder Coating Setu Bekasi, Jasa Cat Pagar Setu Bekasi, Pagar Anti Karat, Bengkel Las Premium, Finishing Besi Setu Bekasi]
-author: "MITRAJAYA LAS"
+author: "Kinglas Tehnik"
 image: /assets/products/pagar-besi-grc-woodplang-motif-kayu.jpg
 description: "Mencari finishing besi yang tahan lama di cuaca lembab Setu Bekasi? Pelajari perbedaan mendalam antara Cat Semprot (Duco) dan Powder Coating (Oven) agar pagar Anda tidak cepat berkarat."
 ---
