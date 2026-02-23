@@ -24,9 +24,9 @@ User-agent: CCBot
 Disallow: /
 
 # Sitemaps - PERBAIKI INI!
-Sitemap: https://laskharisma.com/sitemap.xml
-Sitemap: https://laskharisma.com/sitemap-products.xml
-Sitemap: https://laskharisma.com/sitemap-posts.xml
+Sitemap: https://kinglastehnik.com/sitemap.xml
+Sitemap: https://kinglastehnik.com/sitemap-products.xml
+Sitemap: https://kinglastehnik.com/sitemap-posts.xml
 
 # Copyright & Protection
 # © 2024 MITRAJAYA LAS. All rights reserved.
