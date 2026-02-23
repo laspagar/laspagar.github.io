@@ -8,43 +8,43 @@ layout: default
   <p class="text-slate-500 text-lg">Semua artikel blog kami. Total {{ site.posts | size }} artikel tersedia.</p>
 </div>
 
-<!-- Blog Grid - 7 posts per page -->
-<div class="grid md:grid-cols-2 lg:grid-cols-1 gap-8 mb-16">
-  {% if paginator.posts %}
-  {% assign posts_to_show = paginator.posts %}
-{% else %}
-  {% assign posts_to_show = site.posts %}
-{% endif %}
-  {% for post in posts_to_show %}
-  <article class="group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-lg hover:border-purple-200 transition">
+<!-- Blog Grid (all posts rendered, JS handles pagination) -->
+<div id="archive-posts" class="grid md:grid-cols-2 lg:grid-cols-1 gap-8 mb-16">
+  {% for post in site.posts %}
+  <article
+    class="post-item group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-lg hover:border-purple-200 transition"
+    style="display:none;">
     <div class="grid md:grid-cols-3 gap-6 items-center p-6">
       <!-- Image -->
       {% if post.image %}
       <div class="md:col-span-1">
         <div class="aspect-square rounded-xl overflow-hidden bg-slate-100">
           <a href="{{ post.url }}">
-            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="w-full h-full object-cover group-hover:scale-105 transition" />
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}"
+              class="w-full h-full object-cover group-hover:scale-105 transition" />
           </a>
         </div>
       </div>
       {% endif %}
-      
+
       <!-- Content -->
       <div class="{% if post.image %}md:col-span-2{% else %}col-span-full{% endif %}">
         <!-- Categories -->
         {% if post.categories %}
         <div class="flex flex-wrap gap-2 mb-3">
           {% for cat in post.categories limit: 2 %}
-          <span class="inline-block px-2.5 py-1 rounded-full bg-purple-100 text-purple-700 text-xs font-bold uppercase">{{ cat }}</span>
+          <span
+            class="inline-block px-2.5 py-1 rounded-full bg-purple-100 text-purple-700 text-xs font-bold uppercase">{{
+            cat }}</span>
           {% endfor %}
         </div>
         {% endif %}
-        
+
         <!-- Title -->
         <h2 class="text-xl md:text-2xl font-bold text-slate-900 group-hover:text-purple-600 mb-3 line-clamp-2">
           <a href="{{ post.url }}">{{ post.title }}</a>
         </h2>
-        
+
         <!-- Meta -->
         <div class="flex items-center gap-4 text-sm text-slate-500 mb-3">
           <span>📅 {{ post.date | date: "%d %B %Y" }}</span>
@@ -52,14 +52,15 @@ layout: default
           <span>🏷️ {{ post.tags | join: ", " }}</span>
           {% endif %}
         </div>
-        
+
         <!-- Excerpt -->
         <p class="text-slate-600 text-sm leading-relaxed line-clamp-2 mb-4">
           {{ post.excerpt | strip_html | truncate: 150 }}
         </p>
-        
+
         <!-- Read More -->
-        <a href="{{ post.url }}" class="inline-flex items-center gap-2 text-purple-600 hover:text-purple-700 font-bold text-sm">
+        <a href="{{ post.url }}"
+          class="inline-flex items-center gap-2 text-purple-600 hover:text-purple-700 font-bold text-sm">
           Baca Selengkapnya →
         </a>
       </div>
@@ -68,23 +69,80 @@ layout: default
   {% endfor %}
 </div>
 
-<!-- Pagination -->
-{% if paginator.total_pages > 1 %}
-<div class="pagination flex justify-center items-center gap-2 mt-12 border-t pt-8">
-  {% if paginator.previous_page %}
-  <a href="{{ paginator.previous_page_path }}" class="px-4 py-2 rounded-lg border border-slate-200 hover:bg-purple-50 hover:border-purple-300 text-sm font-semibold">← Sebelumnya</a>
-  {% endif %}
-  
-  {% for page_num in (1..paginator.total_pages) %}
-    {% if page_num == paginator.page %}
-    <span class="px-4 py-2 rounded-lg bg-purple-600 text-white text-sm font-semibold">{{ page_num }}</span>
-    {% else %}
-    <a href="{% if page_num == 1 %}{{ '/archive/' | relative_url }}{% else %}/archive/page/{{ page_num }}/{% endif %}" class="px-4 py-2 rounded-lg border border-slate-200 hover:bg-purple-50 text-sm font-semibold">{{ page_num }}</a>
-    {% endif %}
-  {% endfor %}
-  
-  {% if paginator.next_page %}
-  <a href="{{ paginator.next_page_path }}" class="px-4 py-2 rounded-lg border border-slate-200 hover:bg-purple-50 hover:border-purple-300 text-sm font-semibold">Berikutnya →</a>
-  {% endif %}
-</div>
-{% endif %}
+<!-- Pagination Controls -->
+<div id="archive-pagination" class="flex justify-center items-center gap-2 mt-12 border-t pt-8"></div>
+
+<script>
+  (function () {
+    var PER_PAGE = 7;
+    var posts = document.querySelectorAll('.post-item');
+    var total = posts.length;
+    var totalPages = Math.ceil(total / PER_PAGE);
+    var currentPage = 1;
+
+    // Read page from URL hash e.g. #page=2
+    var hash = window.location.hash;
+    if (hash && hash.indexOf('#page=') === 0) {
+      var p = parseInt(hash.replace('#page=', ''), 10);
+      if (!isNaN(p) && p >= 1 && p <= totalPages) currentPage = p;
+    }
+
+    function showPage(page) {
+      currentPage = page;
+      window.location.hash = 'page=' + page;
+      var start = (page - 1) * PER_PAGE;
+      var end = start + PER_PAGE;
+      posts.forEach(function (el, i) {
+        el.style.display = (i >= start && i < end) ? '' : 'none';
+      });
+      renderPagination();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function renderPagination() {
+      var container = document.getElementById('archive-pagination');
+      if (totalPages <= 1) { container.style.display = 'none'; return; }
+      container.innerHTML = '';
+
+      // Prev
+      if (currentPage > 1) {
+        var prev = document.createElement('a');
+        prev.href = '#page=' + (currentPage - 1);
+        prev.className = 'px-4 py-2 rounded-lg border border-slate-200 hover:bg-purple-50 hover:border-purple-300 text-sm font-semibold';
+        prev.textContent = '← Sebelumnya';
+        prev.onclick = function (e) { e.preventDefault(); showPage(currentPage - 1); };
+        container.appendChild(prev);
+      }
+
+      // Pages
+      for (var i = 1; i <= totalPages; i++) {
+        (function (num) {
+          var el;
+          if (num === currentPage) {
+            el = document.createElement('span');
+            el.className = 'px-4 py-2 rounded-lg bg-purple-600 text-white text-sm font-semibold';
+          } else {
+            el = document.createElement('a');
+            el.href = '#page=' + num;
+            el.className = 'px-4 py-2 rounded-lg border border-slate-200 hover:bg-purple-50 text-sm font-semibold';
+            el.onclick = function (e) { e.preventDefault(); showPage(num); };
+          }
+          el.textContent = num;
+          container.appendChild(el);
+        })(i);
+      }
+
+      // Next
+      if (currentPage < totalPages) {
+        var next = document.createElement('a');
+        next.href = '#page=' + (currentPage + 1);
+        next.className = 'px-4 py-2 rounded-lg border border-slate-200 hover:bg-purple-50 hover:border-purple-300 text-sm font-semibold';
+        next.textContent = 'Berikutnya →';
+        next.onclick = function (e) { e.preventDefault(); showPage(currentPage + 1); };
+        container.appendChild(next);
+      }
+    }
+
+    showPage(currentPage);
+  })();
+</script>
