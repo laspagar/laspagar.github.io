@@ -4,17 +4,17 @@ RewriteEngine On
 # 1. Redirect HTTP www ke HTTPS non-www
 RewriteCond %{HTTPS} off
 RewriteCond %{HTTP_HOST} ^www\.laskharisma\.com$ [NC]
-RewriteRule ^(.*)$ https://laskharisma.com/$1 [R=301,L]
+RewriteRule ^(.*)$ kinglastehnik.com/$1 [R=301,L]
 
 # 2. Redirect HTTPS www ke HTTPS non-www
 RewriteCond %{HTTPS} on
 RewriteCond %{HTTP_HOST} ^www\.laskharisma\.com$ [NC]
-RewriteRule ^(.*)$ https://laskharisma.com/$1 [R=301,L]
+RewriteRule ^(.*)$ kinglastehnik.com/$1 [R=301,L]
 
 # 3. Force HTTPS untuk non-www (opsional)
 RewriteCond %{HTTPS} off
 RewriteCond %{HTTP_HOST} ^laskharisma\.com$ [NC]
-RewriteRule ^(.*)$ https://laskharisma.com/$1 [R=301,L]
+RewriteRule ^(.*)$ kinglastehnik.com/$1 [R=301,L]
 
 # 4. Redirect archive.html to /archive/
 RewriteRule ^archive\.html$ /archive/ [R=301,L]
