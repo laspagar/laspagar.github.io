@@ -528,3 +528,54 @@ div[itemprop="articleBody"] img,
   max-width: 100%;
   vertical-align: middle;
 }
+
+/* About Section Styles */
+.test2-theme .about-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  align-items: center;
+}
+
+.test2-theme .about-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.test2-theme .about-content {
+  padding: 20px 0;
+}
+
+.test2-theme .about-content p {
+  margin-bottom: 16px;
+  line-height: 1.6;
+}
+
+.test2-theme .about-features {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.test2-theme .about-feature {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 16px;
+  background: #f8fafc;
+  border-radius: 50px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #374151;
+  border: 1px solid #e5e7eb;
+}
+
+@media (max-width: 768px) {
+  .test2-theme .about-grid {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+}

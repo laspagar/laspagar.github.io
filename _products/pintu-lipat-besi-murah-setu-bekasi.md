@@ -1,11 +1,11 @@
 ---
 layout: product
-title: Harga Pintu Lipat Besi Priangan Timur Termurah 2025: Mulai 450rb/m²
-price: Rp 450.000 / m²
+title: "Harga Pintu Lipat Besi Priangan Timur Termurah 2025: Mulai 450rb/m²"
+price: "Rp 450.000 / m²"
 category: Pintu
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWxnm5zGwnVbX5DvYomC1P6OqRGJYp3ZwY68K225tXBw5rx6b2wlfw3KePqhu2bxK1P0KFwDwKX0hUoV7sGuqFNCEzVQGLLYvkqjQk3ZsajrQzzySLHpgxEvAVZrQ2fi7Skff5nqAR1d8g/s1600-rw/Desain-Cat-Pintu-Garasi.jpg
-description: Cari pintu lipat besi murah di Priangan Timur tanpa mengorbankan kualitas? Kami berikan harga transparan mulai Rp 450.000/m². Cek penawaran terbaik dan RAB gratis disini!
-keywords: pintu lipat besi murah priangan timur, harga folding gate termurah, biaya pasang pintu garasi, bengkel las murah priangan timur, pintu besi ruko
+description: "Cari pintu lipat besi murah di Priangan Timur tanpa mengorbankan kualitas? Kami berikan harga transparan mulai Rp 450.000/m². Cek penawaran terbaik dan RAB gratis disini!"
+keywords: "pintu lipat besi murah priangan timur, harga folding gate termurah, biaya pasang pintu garasi, bengkel las murah priangan timur, pintu besi ruko"
 ---
 
 # Harga Pintu Lipat Besi Priangan Timur Termurah: Berkualitas & Terjangkau

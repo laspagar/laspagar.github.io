@@ -1,11 +1,11 @@
 ---
 layout: product
-title: Folding Gate Priangan Timur: Pintu Lipat Besi Ruko & Toko (Anti Bobol)
-price: Rp 550.000 / m²
+title: "Folding Gate Priangan Timur: Pintu Lipat Besi Ruko & Toko (Anti Bobol)"
+price: "Rp 550.000 / m²"
 category: Pintu
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGK3hl9vUiSL5F_7w_N0TCtHzLcm_LEMKZbuPfa_cWqCEgKFqbUGN2ydlCcJILya2tA8tY9_QUwaN6qes6wGXPXhsyJQ4mnoKBh6vXS4NFwsr72xezpbKthB6lO1ziUrkFCF106OG9A8M/s1600-rw/5.jpg
-description: Spesialis pengamanan toko dan ruko di Priangan Timur dengan Folding Gate besi baja pilihan. Sistem kunci ganda, plat silang tebal, dan jaminan keamanan maksimal. Survey gratis!
-keywords: folding gate setu bekasi, pintu lipat ruko setu bekasi, pintu toko besi, jasa las pintu ruko, harga folding gate 2024
+description: "Spesialis pengamanan toko dan ruko di Priangan Timur dengan Folding Gate besi baja pilihan. Sistem kunci ganda, plat silang tebal, dan jaminan keamanan maksimal. Survey gratis!"
+keywords: "folding gate setu bekasi, pintu lipat ruko setu bekasi, pintu toko besi, jasa las pintu ruko, harga folding gate 2024"
 ---
 
 # Folding Gate Priangan Timur: Proteksi Maksimal untuk Toko & Ruko Anda

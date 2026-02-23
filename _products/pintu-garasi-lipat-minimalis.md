@@ -1,11 +1,11 @@
 ---
 layout: product
-title: Pintu Garasi Lipat Minimalis Priangan Timur: Mewah, Rapi & Hemat Ruang
-price: Rp 1.950.000 / daun
+title: "Pintu Garasi Lipat Minimalis Priangan Timur: Mewah, Rapi & Hemat Ruang"
+price: "Rp 1.950.000 / daun"
 category: Pintu
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIZnbNeInNb4rRP2e26HVts7AMMXICzOty_OA08y9EaD8LjS1lvj6lbCIVyDmw1RUCmj7XiorZo-M5EqnS0iyLbmmHSCHbCIIEwae2diMrYdBZP-__HrFKP35yA-WLriZt4C3QK8DsMZc0zBGCQgM_CNfELE1UnDIGx4TVbV98GxEE1mx6Q4JE0Jj4/w320-h180-rw/maxresdefault.jpg
-description: Upgrade fasad rumah Anda dengan Pintu Garasi Lipat Minimalis yang modern. Hemat ruang carport, operasional ringan, dan pilihan desain custom sesuai selera warga Priangan Timur.
-keywords: pintu garasi minimalis setu bekasi, pintu garasi lipat murah, jasa pintu garasi custom, bengkel las setu bekasi, desain pintu garasi 2025
+description: "Upgrade fasad rumah Anda dengan Pintu Garasi Lipat Minimalis yang modern. Hemat ruang carport, operasional ringan, dan pilihan desain custom sesuai selera warga Priangan Timur."
+keywords: "pintu garasi minimalis setu bekasi, pintu garasi lipat murah, jasa pintu garasi custom, bengkel las setu bekasi, desain pintu garasi 2025"
 ---
 
 # Pintu Garasi Lipat Minimalis Priangan Timur: Estetika Bertemu Keamanan
