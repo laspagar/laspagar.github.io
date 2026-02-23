@@ -1,9 +1,9 @@
 ---
 layout: product
 title: Pasang Kanopi Alderon Murah Priangan Timur (Garansi Bocor)
-price: Rp 750.000 / m²
+price: Rp 550.000 / m²
 category: Kanopi
-image: /assets/products/kanopi-alderon-murah-setu-bekasi.jpg
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqujv9LzTNFt99BRfN8SqmJGk_pr0QSQiZ7f8GWJzc3wkLAZ5NHrpqVwSiNAJh3N6qEx6jpt59iSVcj0ngaDKMvo5WuVldjj8NoSGh-2dtf5cG_2QxBEV0YVjIyuhepqcmWNxIaw2lOTiP/s640-rw/image.png
 description: Jasa pasang kanopi Alderon (uPVC) di Priangan Timur. Adem, tidak berisik, dan awet. Garansi kebocoran 3 bulan. Survey Gratis!
 keywords: kanopi alderon priangan timur, harga kanopi alderon per meter, pasang kanopi ciamis, atap alderon murah, bengkel las kanopi
 ---

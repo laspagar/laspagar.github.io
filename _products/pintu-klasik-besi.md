@@ -1,7 +1,7 @@
 ---
 layout: product
 title: Pintu Klasik Besi Tempa Priangan Timur (Mewah & Kokoh)
-price: Rp 3.200.000 / set
+price: Rp 3.000.000 / set
 category: Pintu
 image: /assets/products/pintu-klasik-besi.jpg
 description: Spesialis pintu besi klasik (Classic Iron Door) di Priangan Timur. Model pintu kawat nyamuk besi tempa mewah, anti maling, finishing gold/tembaga.

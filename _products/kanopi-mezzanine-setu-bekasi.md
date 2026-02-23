@@ -1,7 +1,7 @@
 ---
 layout: product
 title: Jasa Pembuatan Kanopi Mezzanine Priangan Timur (Lantai Tingkat)
-price: Rp 1.350.000 / m²
+price: Rp 1.250.000 / m²
 category: Kanopi & Konstruksi Baja
 image: /assets/products/kanopi-mezzanine-setu-bekasi.jpg
 description: Solusi nambah ruang tanpa cor beton! Jasa bikin Kanopi Mezzanine besi di Priangan Timur. Kuat untuk balkon, jemuran, atau kamar tambahan.

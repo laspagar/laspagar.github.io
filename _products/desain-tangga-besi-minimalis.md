@@ -1,7 +1,7 @@
 ---
 layout: product
 title: Jasa Pembuatan Tangga Besi Minimalis Priangan Timur
-price: Rp 1.500.000 / m
+price: Rp 900.000 / m
 category: Tangga
 image: /assets/products/desain-tangga-besi-minimalis.jpg
 description: Jasa bikin tangga besi minimalis, tangga putar, dan tangga rebah di Priangan Timur & Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan. Hemat ruang, kuat, dan modern.

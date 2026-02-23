@@ -1,7 +1,7 @@
 ---
 layout: product
 title: Spesialis Kanopi Kaca Stainless Priangan Timur (Tempered Glass)
-price: Rp 2.500.000 / m²
+price: Rp 1.500.000 / m²
 category: Kanopi
 image: /assets/products/kanopi-kaca-stainless.jpg
 description: Jasa pembuatan kanopi kaca tempered dengan rangka stainless steel di Priangan Timur. Mewah, modern, dan pencahayaan maksimal.

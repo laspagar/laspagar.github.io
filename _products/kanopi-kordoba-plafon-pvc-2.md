@@ -1,7 +1,7 @@
 ---
 layout: product
 title: Kanopi Kordoba Varian 2 (Double Frame) - Priangan Timur Premium
-price: Rp 1.500.000 / m²
+price: Rp 850.000 / m²
 category: Kanopi
 image: /assets/products/kanopi-kordoba-plafon-pvc-2.jpg
 description: Kanopi Kordoba Varian 2 dengan rangka double frame & plafon PVC. Pilihan premium warga Priangan Timur untuk carport mewah dan kokoh lama.

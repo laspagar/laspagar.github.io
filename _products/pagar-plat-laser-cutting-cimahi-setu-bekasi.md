@@ -1,7 +1,7 @@
 ---
 layout: product
 title: Jasa Pagar Laser Cutting Priangan Timur (Motif Custom Bebas)
-price: Rp 1.800.000 / m²
+price: Rp 1.200.000 / m²
 category: Pagar
 image: /assets/products/pagar-plat-laser-cutting-cimahi-setu-bekasi.jpg
 description: Bikin pagar plat cutting laser di Priangan Timur & Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan. Motif batik, minimalis, atau floral bisa custom sesuai request. Presisi CNC tinggi.

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: Pagar Motif Kayu WPC & Besi Hollow Priangan Timur
-price: Rp 1.500.000 / m²
+price: Rp 500.000 / m²
 category: Pagar
 image: /assets/products/pagar-motif-kombinasi-wpc-dan-besi-hollow.jpg
 description: Pagar kombinasi besi hollow galvanis dan WPC (Wood Plastic Composite) di Priangan Timur. Tampilan kayu natural tapi anti rayap dan tahan hujan.

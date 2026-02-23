@@ -19,7 +19,8 @@ layout: default
         <!-- Products Grid -->
         <div class="md:col-span-3">
             <div class="grid grid-cols-2 md:grid-cols-3 gap-6 mb-12">
-                {% for p in paginator.posts %}
+                {% assign all_products = site.products | sort: 'title' %}
+                {% for p in all_products %}
                     <div class="product-card rounded-2xl overflow-hidden bg-white border border-slate-100 hover:border-purple-300 hover:shadow-lg transition-all">
                         <div class="relative aspect-square overflow-hidden bg-slate-100 group">
                             {% if p.image %}
@@ -40,27 +41,6 @@ layout: default
                     </div>
                 {% endfor %}
             </div>
-
-            <!-- Pagination -->
-            {% if paginator.total_pages > 1 %}
-            <div class="flex justify-center items-center gap-2 mt-12 border-t pt-8">
-                {% if paginator.previous_page %}
-                    <a href="{{ paginator.previous_page_path }}" class="px-4 py-2 rounded-lg border border-slate-200 hover:bg-purple-50 hover:border-purple-300 text-sm font-semibold">← Sebelumnya</a>
-                {% endif %}
-
-                {% for page_num in (1..paginator.total_pages) %}
-                    {% if page_num == paginator.page %}
-                        <span class="px-4 py-2 rounded-lg bg-purple-600 text-white text-sm font-semibold">{{ page_num }}</span>
-                    {% else %}
-                        <a href="{% if page_num == 1 %}{{ '/products/' | relative_url }}{% else %}{{ site.paginate_path | replace: ':num', page_num | relative_url }}{% endif %}" class="px-4 py-2 rounded-lg border border-slate-200 hover:bg-purple-50 text-sm font-semibold">{{ page_num }}</a>
-                    {% endif %}
-                {% endfor %}
-
-                {% if paginator.next_page %}
-                    <a href="{{ paginator.next_page_path }}" class="px-4 py-2 rounded-lg border border-slate-200 hover:bg-purple-50 hover:border-purple-300 text-sm font-semibold">Selanjutnya →</a>
-                {% endif %}
-            </div>
-            {% endif %}
         </div>
     </div>
 </div>

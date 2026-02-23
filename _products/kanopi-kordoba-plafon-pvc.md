@@ -1,7 +1,7 @@
 ---
 layout: product
 title: Kanopi Kordoba (Plafon PVC) Priangan Timur - Best Seller
-price: Rp 1.100.000 / m²
+price: Rp 900.000 / m²
 category: Kanopi
 image: /assets/products/kanopi-kordoba-plafon-pvc.jpg
 description: Kanopi minimalis dengan plafon PVC rapi. Solusi teras adem dan mewah di Priangan Timur. Harga ekonomis, kualitas SNI.

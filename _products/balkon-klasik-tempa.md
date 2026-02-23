@@ -1,7 +1,7 @@
 ---
 layout: product
 title: Jasa Pembuatan Balkon Klasik Tempa Priangan Timur
-price: Rp 950.000 / m
+price: Rp 750.000 / m
 category: Railing
 image: /assets/products/balkon-klasik-tempa.jpg
 description: Spesialis railing balkon tempa klasik di Priangan Timur. Desain mewah, ornamen detail, cocok untuk rumah gaya Eropa/Classic.

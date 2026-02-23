@@ -1,7 +1,7 @@
 ---
 layout: product
 title: Jasa Pembuatan Kanopi Priangan Timur (Terlengkap & Termurah)
-price: Mulai Rp 450rb/m²
+price: Mulai Rp 400rb/m²
 category: Kanopi
 image: /assets/products/kanopi-kordoba-plafon-pvc.jpg
 description: Pusat jasa pasang kanopi di Priangan Timur. Tersedia kanopi Alderon, Spandek, Polycarbonate, Kaca, hingga Solarflat. Garansi kebocoran & struktur.
