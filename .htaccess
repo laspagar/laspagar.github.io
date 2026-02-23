@@ -3,24 +3,15 @@ RewriteEngine On
 
 # 1. Redirect HTTP www ke HTTPS non-www
 RewriteCond %{HTTPS} off
-RewriteCond %{HTTP_HOST} ^www\.laskharisma\.com$ [NC]
+RewriteCond %{HTTP_HOST} ^www\.kinglastehnik\.com$ [NC]
 RewriteRule ^(.*)$ kinglastehnik.com/$1 [R=301,L]
 
 # 2. Redirect HTTPS www ke HTTPS non-www
 RewriteCond %{HTTPS} on
-RewriteCond %{HTTP_HOST} ^www\.laskharisma\.com$ [NC]
+RewriteCond %{HTTP_HOST} ^www\.kinglastehnik\.com$ [NC]
 RewriteRule ^(.*)$ kinglastehnik.com/$1 [R=301,L]
 
 # 3. Force HTTPS untuk non-www (opsional)
 RewriteCond %{HTTPS} off
-RewriteCond %{HTTP_HOST} ^laskharisma\.com$ [NC]
+RewriteCond %{HTTP_HOST} ^kinglastehnik\.com$ [NC]
 RewriteRule ^(.*)$ kinglastehnik.com/$1 [R=301,L]
-
-# 4. Redirect archive.html to /archive/
-RewriteRule ^archive\.html$ /archive/ [R=301,L]
-
-# 5. Redirect old query parameter pagination to path-based
-RewriteCond %{QUERY_STRING} page=([0-9]+)
-RewriteRule ^(products)/?$ /$1/page/%1/ [R=301,L]
-RewriteCond %{QUERY_STRING} page=([0-9]+)
-RewriteRule ^(archive)/?$ /$1/page/%1/ [R=301,L]
