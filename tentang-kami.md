@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tentang Kinglas Tehnik
-permalink: /tentang-kami/
+permalink: /tentang/
 ---
 
 <div class="test2-theme">
