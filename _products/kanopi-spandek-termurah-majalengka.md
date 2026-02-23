@@ -3,7 +3,7 @@ layout: product
 title: Pasang Kanopi Spandek Murah Priangan Timur (Mulai 550rb)
 price: Rp 350.000 / m²
 category: Kanopi
-image: /assets/products/kanopi-atap-spandek-termurah.jpeg
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBJGF-XkxplhVU93GAc_49FxQTZYGEjMzzDg5jjgI_9oCJD3ZWSaRujl_MUnPkeLZCawxU_gu10K3aYfLwh1MAEI7L6Ey7p7m9TvlayGC0v1wCTVV06Vtyxj645b_ha7ODBa5nNEfs-N4/s320-rw/1.jpg
 description: Cari kanopi murah di Priangan Timur? Kanopi atap Spandek Zincalume pilihannya. Awet, anti karat, dan harga paling ekonomis. Pengerjaan cepat!
 keywords: kanopi spandek setu bekasi, kanopi murah cimahi, harga kanopi per meter, atap zincalume, bengkel las murah setu bekasi
 ---
