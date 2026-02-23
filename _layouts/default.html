@@ -5,7 +5,7 @@
   {% include header.html %}
 
   <main class="pt-20">
-    <div class="{% if page.layout == 'home' %}max-w-7xl{% else %}max-w-7xl lg:grid lg:grid-cols-4 lg:gap-8{% endif %} mx-auto px-6 {% if page.layout != 'home' %}grid{% endif %}">
+    <div class="{% if page.layout == 'home' %}max-w-7xl{% else %}max-w-7xl lg:grid lg:grid-cols-4 lg:gap-8{% endif %} mx-auto px-6 {% if page.layout != 'home' %}lg:grid{% endif %}">
       <div class="{% if page.layout == 'home' %}w-full{% else %}lg:col-span-3{% endif %}">
         {{ content }}
       </div>
