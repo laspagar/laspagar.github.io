@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Cara Pemesanan Kinglas Tehnik
 permalink: /cara-pemesanan/
 ---

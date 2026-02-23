@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Tentang Kinglas Tehnik
 permalink: /tentang/
 ---

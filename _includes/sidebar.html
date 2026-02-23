@@ -1,12 +1,12 @@
 <div class="sticky top-24 bg-white p-6 rounded-xl border">
   <h4 class="font-bold mb-4">Kategori Produk</h4>
   <ul class="space-y-2 text-sm">
-    <li><a href="{{ '/products/' | relative_url }}" class="text-slate-600 hover:text-indigo-600">Semua Produk</a></li>
-    <li><a href="{{ '/products/' | relative_url }}?category=kanopi" class="text-slate-600 hover:text-indigo-600">Kanopi</a></li>
-    <li><a href="{{ '/products/' | relative_url }}?category=pagar" class="text-slate-600 hover:text-indigo-600">Pagar Besi</a></li>
-    <li><a href="{{ '/products/' | relative_url }}?category=tangga" class="text-slate-600 hover:text-indigo-600">Tangga Besi</a></li>
-    <li><a href="{{ '/products/' | relative_url }}?category=railing" class="text-slate-600 hover:text-indigo-600">Railing</a></li>
-    <li><a href="{{ '/products/' | relative_url }}?category=pintu" class="text-slate-600 hover:text-indigo-600">Pintu Besi</a></li>
+    <li><a href="{{ '/products/' | relative_url }}" class="text-slate-600 hover:text-purple-600">Semua Produk</a></li>
+    <li><a href="{{ '/products/' | relative_url }}?category=kanopi" class="text-slate-600 hover:text-purple-600">Kanopi</a></li>
+    <li><a href="{{ '/products/' | relative_url }}?category=pagar" class="text-slate-600 hover:text-purple-600">Pagar Besi</a></li>
+    <li><a href="{{ '/products/' | relative_url }}?category=tangga" class="text-slate-600 hover:text-purple-600">Tangga Besi</a></li>
+    <li><a href="{{ '/products/' | relative_url }}?category=railing" class="text-slate-600 hover:text-purple-600">Railing</a></li>
+    <li><a href="{{ '/products/' | relative_url }}?category=pintu" class="text-slate-600 hover:text-purple-600">Pintu Besi</a></li>
   </ul>
 
   <hr class="my-4" />
@@ -14,7 +14,7 @@
   <h4 class="font-bold mb-4">Artikel Terbaru</h4>
   <ul class="space-y-3 text-sm">
     {% for p in site.posts limit:5 %}
-      <li><a href="{{ p.url }}" class="text-slate-600 hover:text-indigo-600">{{ p.title | truncate:50 }}</a></li>
+      <li><a href="{{ p.url }}" class="text-slate-600 hover:text-purple-600">{{ p.title | truncate:50 }}</a></li>
     {% endfor %}
   </ul>
 </div>

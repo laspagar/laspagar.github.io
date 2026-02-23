@@ -29,6 +29,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate-v2
 
 # Collections
 collections:
@@ -52,3 +53,24 @@ defaults:
       type: products
     values:
       layout: product
+
+pagination:
+  enabled: true
+  per_page: 7
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_reverse: true
+  trail: 
+    before: 2
+    after: 2
+
+# Pagination for products
+products_pagination:
+  enabled: true
+  collection: 'products'
+  per_page: 9
+  permalink: '/products/page/:num/'
+  title: ':title - page :num of :max'
+  sort_field: 'title'
+  sort_reverse: false

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Garansi Resmi MITRAJAYA LAS
 permalink: /garansi/
 ---

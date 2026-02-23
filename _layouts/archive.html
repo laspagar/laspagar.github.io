@@ -10,11 +10,8 @@ layout: default
 
 <!-- Blog Grid - 7 posts per page -->
 <div class="grid md:grid-cols-2 lg:grid-cols-1 gap-8 mb-16">
-  {% assign posts_per_page = 7 %}
-  {% assign offset = page.paginate.page | default: 1 | minus: 1 | times: posts_per_page %}
-  
-  {% for post in site.posts limit: posts_per_page offset: offset %}
-  <article class="group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-lg hover:border-indigo-200 transition">
+  {% for post in paginator.posts %}
+  <article class="group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-lg hover:border-purple-200 transition">
     <div class="grid md:grid-cols-3 gap-6 items-center p-6">
       <!-- Image -->
       {% if post.image %}
@@ -33,13 +30,13 @@ layout: default
         {% if post.categories %}
         <div class="flex flex-wrap gap-2 mb-3">
           {% for cat in post.categories limit: 2 %}
-          <span class="inline-block px-2.5 py-1 rounded-full bg-indigo-100 text-indigo-700 text-xs font-bold uppercase">{{ cat }}</span>
+          <span class="inline-block px-2.5 py-1 rounded-full bg-purple-100 text-purple-700 text-xs font-bold uppercase">{{ cat }}</span>
           {% endfor %}
         </div>
         {% endif %}
         
         <!-- Title -->
-        <h2 class="text-xl md:text-2xl font-bold text-slate-900 group-hover:text-indigo-600 mb-3 line-clamp-2">
+        <h2 class="text-xl md:text-2xl font-bold text-slate-900 group-hover:text-purple-600 mb-3 line-clamp-2">
           <a href="{{ post.url }}">{{ post.title }}</a>
         </h2>
         
@@ -57,7 +54,7 @@ layout: default
         </p>
         
         <!-- Read More -->
-        <a href="{{ post.url }}" class="inline-flex items-center gap-2 text-indigo-600 hover:text-indigo-700 font-bold text-sm">
+        <a href="{{ post.url }}" class="inline-flex items-center gap-2 text-purple-600 hover:text-purple-700 font-bold text-sm">
           Baca Selengkapnya →
         </a>
       </div>
@@ -67,34 +64,22 @@ layout: default
 </div>
 
 <!-- Pagination -->
-<div class="pagination">
-  {% assign total_posts = site.posts | size %}
-  {% assign posts_per_page = 7 %}
-  {% assign total_pages = total_posts | divided_by: posts_per_page | ceil %}
-  {% assign current_page = page.paginate.page | default: 1 %}
-  
-  <!-- Previous Page -->
-  {% if current_page > 1 %}
-  <a href="{% if current_page == 2 %}/archive.html{% else %}/archive/page{{ current_page | minus: 1 }}/{% endif %}" class="px-4 py-2 rounded-lg bg-slate-100 hover:bg-indigo-600 text-slate-600 hover:text-white transition font-medium">← Sebelumnya</a>
-  {% else %}
-  <span class="px-4 py-2 rounded-lg bg-slate-50 text-slate-400 opacity-50 cursor-not-allowed font-medium">← Sebelumnya</span>
+{% if paginator.total_pages > 1 %}
+<div class="pagination flex justify-center items-center gap-2 mt-12 border-t pt-8">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path }}" class="px-4 py-2 rounded-lg border border-slate-200 hover:bg-purple-50 hover:border-purple-300 text-sm font-semibold">← Sebelumnya</a>
   {% endif %}
   
-  <!-- Page Numbers -->
-  <div class="flex gap-2">
-    {% for page_num in (1..total_pages) %}
-      {% if page_num == current_page %}
-      <span class="px-4 py-2 rounded-lg bg-indigo-600 text-white font-medium">{{ page_num }}</span>
-      {% else %}
-      <a href="{% if page_num == 1 %}/archive.html{% else %}/archive/page{{ page_num }}/{% endif %}" class="px-4 py-2 rounded-lg bg-slate-100 hover:bg-indigo-600 text-slate-600 hover:text-white transition font-medium">{{ page_num }}</a>
-      {% endif %}
-    {% endfor %}
-  </div>
+  {% for page_num in (1..paginator.total_pages) %}
+    {% if page_num == paginator.page %}
+    <span class="px-4 py-2 rounded-lg bg-purple-600 text-white text-sm font-semibold">{{ page_num }}</span>
+    {% else %}
+    <a href="{% if page_num == 1 %}{{ '/archive/' | relative_url }}{% else %}/archive/page/{{ page_num }}/{% endif %}" class="px-4 py-2 rounded-lg border border-slate-200 hover:bg-purple-50 text-sm font-semibold">{{ page_num }}</a>
+    {% endif %}
+  {% endfor %}
   
-  <!-- Next Page -->
-  {% if current_page < total_pages %}
-  <a href="/archive/page{{ current_page | plus: 1 }}/" class="px-4 py-2 rounded-lg bg-slate-100 hover:bg-indigo-600 text-slate-600 hover:text-white transition font-medium">Berikutnya →</a>
-  {% else %}
-  <span class="px-4 py-2 rounded-lg bg-slate-50 text-slate-400 opacity-50 cursor-not-allowed font-medium">Berikutnya →</span>
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path }}" class="px-4 py-2 rounded-lg border border-slate-200 hover:bg-purple-50 hover:border-purple-300 text-sm font-semibold">Berikutnya →</a>
   {% endif %}
 </div>
+{% endif %}
