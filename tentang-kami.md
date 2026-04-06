@@ -9,9 +9,9 @@ permalink: /tentang/
         <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16">
             <div>
                 <span class="text-blue-600 font-bold tracking-wider uppercase text-sm mb-2 block">Profil Perusahaan</span>
-                <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Bengkel Las Priangan Timur Terpercaya & Berpengalaman</h1>
+                <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Bengkel Las Pemalang Terpercaya & Berpengalaman</h1>
                 <p class="text-slate-600 mb-6 leading-relaxed">
-                    <strong>Kinglas Tehnik</strong> adalah penyedia jasa konstruksi besi dan baja ringan yang dipimpin oleh <strong>Tedi Lesmana</strong>. Kami berbasis di Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252. Kami telah melayani ratusan warga dari Tasikmalaya, Ciamis, Pangandaran, Cirebon, Majalengka, dan Kuningan dalam mewujudkan rumah impian mereka.
+                    <strong>Kinglas Tehnik</strong> adalah penyedia jasa konstruksi besi dan baja ringan yang dipimpin oleh <strong>Tedi Lesmana</strong>. Kami berbasis di Jl. Gatot Subroto No.94, RT.01, Bojongbata, Kec. Pemalang, Kabupaten Pemalang, Jawa Tengah 52319. Kami telah melayani ratusan warga dari Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, dan Purwekerto dalam mewujudkan rumah impian mereka.
                 </p>
                 <p class="text-slate-600 mb-6 leading-relaxed">
                     Berawal dari bengkel las kecil, kini kami berkembang menjadi partner terpercaya untuk berbagai kebutuhan eksterior rumah mulai dari pagar minimalis, kanopi modern, hingga konstruksi baja berat. Keunggulan kami adalah transparansi harga dan kualitas material yang <strong>Full SNI</strong>.
@@ -23,7 +23,7 @@ permalink: /tentang/
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg border border-blue-100">
                         <span class="block text-2xl font-bold text-blue-600 mb-1">500+</span>
-                        <span class="text-sm text-slate-600">Proyek Priangan Timur</span>
+                        <span class="text-sm text-slate-600">Proyek Pemalang</span>
                     </div>
                 </div>
             </div>
@@ -37,7 +37,7 @@ permalink: /tentang/
             <div class="bg-white p-8 rounded-xl shadow-sm border border-slate-100 hover:shadow-md transition-shadow">
                 <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-xl mb-4"><i class="fas fa-eye"></i></div>
                 <h3 class="text-xl font-bold text-slate-900 mb-3">Visi Kami</h3>
-                <p class="text-slate-600 text-sm leading-relaxed">Menjadi bengkel las rujukan utama di Priangan Timur yang dikenal karena kualitas, kejujuran, dan inovasi desain.</p>
+                <p class="text-slate-600 text-sm leading-relaxed">Menjadi bengkel las rujukan utama di Pemalang yang dikenal karena kualitas, kejujuran, dan inovasi desain.</p>
             </div>
             <div class="bg-white p-8 rounded-xl shadow-sm border border-slate-100 hover:shadow-md transition-shadow">
                 <div class="w-12 h-12 bg-indigo-100 text-indigo-600 rounded-lg flex items-center justify-center text-xl mb-4"><i class="fas fa-bullseye"></i></div>
@@ -51,13 +51,20 @@ permalink: /tentang/
             <div class="bg-white p-8 rounded-xl shadow-sm border border-slate-100 hover:shadow-md transition-shadow">
                 <div class="w-12 h-12 bg-violet-100 text-violet-600 rounded-lg flex items-center justify-center text-xl mb-4"><i class="fas fa-heart"></i></div>
                 <h3 class="text-xl font-bold text-slate-900 mb-3">Nilai Kami</h3>
-                <p class="text-slate-600 text-sm leading-relaxed">Amanah, Rapi, Tepat Waktu. Tiga hal yang selalu kami pegang dalam setiap proyek pemasangan pagar atau kanopi di Priangan Timur.</p>
+                <p class="text-slate-600 text-sm leading-relaxed">Amanah, Rapi, Tepat Waktu. Tiga hal yang selalu kami pegang dalam setiap proyek pemasangan pagar atau kanopi di Pemalang.</p>
             </div>
         </div>
 
         <!-- Location Map -->
         <div class="mb-16 rounded-2xl overflow-hidden shadow-lg">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d494.74386194718727!2d108.38287806248336!3d-7.246429058658915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f5d00070d6bc7%3A0x823b3a9281eda9a4!2sBengkel%20las%20listrik%20pagar%20kanopi%20tralis%20mezzanine%20proyek%20minimalis%20tempa%20harga%20murah!5e0!3m2!1sid!2sid!4v1771823394046!5m2!1sid!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <a href="https://maps.app.goo.gl/75Qr3sf5oeHsuUso9" target="_blank" class="block w-full h-96 flex items-center justify-center bg-gradient-to-br from-blue-50 to-slate-100 hover:from-blue-100 hover:to-slate-200 transition-colors">
+                <div class="text-center">
+                    <div class="text-6xl mb-4">📍</div>
+                    <h3 class="text-2xl font-bold text-slate-900 mb-2">Kunjungi Lokasi Kami</h3>
+                    <p class="text-slate-600 mb-4">Jl. Gatot Subroto No.94, Pemalang</p>
+                    <span class="inline-block bg-blue-600 text-white px-8 py-3 rounded-full font-bold">Buka di Google Maps</span>
+                </div>
+            </a>
         </div>
 
         <!-- Contact Section -->
@@ -70,7 +77,7 @@ permalink: /tentang/
             </div>
             <div class="relative z-10">
                 <h2 class="text-3xl font-bold mb-4">Siap Mempercantik Rumah Anda?</h2>
-                <p class="text-slate-300 mb-8 max-w-2xl mx-auto">Konsultasikan kebutuhan las pagar, kanopi, atau konstruksi Anda dengan tim ahli kami. Survey Gratis untuk area Priangan Timur (Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan)!</p>
+                <p class="text-slate-300 mb-8 max-w-2xl mx-auto">Konsultasikan kebutuhan las pagar, kanopi, atau konstruksi Anda dengan tim ahli kami. Survey Gratis untuk area Pemalang (Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto)!</p>
                 <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
                     <a href="https://wa.me/6282118168712" class="bg-green-500 hover:bg-green-600 text-white px-8 py-3 rounded-full font-bold transition-all shadow-lg hover:shadow-green-500/30 flex items-center">
                         <i class="fab fa-whatsapp mr-2"></i> Chat WhatsApp

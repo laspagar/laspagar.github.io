@@ -1,14 +1,14 @@
 ---
 layout: product
-title: "Folding Gate Priangan Timur: Pintu Lipat Besi Ruko & Toko (Anti Bobol)"
+title: "Folding Gate Pemalang: Pintu Lipat Besi Ruko & Toko (Anti Bobol)"
 price: "Rp 450.000 / m²"
 category: Pintu
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGK3hl9vUiSL5F_7w_N0TCtHzLcm_LEMKZbuPfa_cWqCEgKFqbUGN2ydlCcJILya2tA8tY9_QUwaN6qes6wGXPXhsyJQ4mnoKBh6vXS4NFwsr72xezpbKthB6lO1ziUrkFCF106OG9A8M/s1600-rw/5.jpg
-description: "Spesialis pengamanan toko dan ruko di Priangan Timur dengan Folding Gate besi baja pilihan. Sistem kunci ganda, plat silang tebal, dan jaminan keamanan maksimal. Survey gratis!"
+description: "Spesialis pengamanan toko dan ruko di Pemalang dengan Folding Gate besi baja pilihan. Sistem kunci ganda, plat silang tebal, dan jaminan keamanan maksimal. Survey gratis!"
 keywords: "folding gate setu bekasi, pintu lipat ruko setu bekasi, pintu toko besi, jasa las pintu ruko, harga folding gate 2024"
 ---
 
-# Folding Gate Priangan Timur: Proteksi Maksimal untuk Toko & Ruko Anda
+# Folding Gate Pemalang: Proteksi Maksimal untuk Toko & Ruko Anda
 
 Keamanan aset usaha adalah investasi yang tidak bisa ditawar. Kami menyediakan **Folding Gate Priangan Timur** dengan standar keamanan tinggi untuk melindungi ruko, toko, atau gudang Anda dari tindak kriminalitas.
 
@@ -29,4 +29,4 @@ Kami melayani pengiriman dan pemasangan untuk seluruh area Priangan Timur Raya, 
 
 **Hubungi Kinglas Tehnik:**
 📲 [0821-1816-8712](https://wa.me/6282118168712)
-📍 Workshop: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252, Priangan Timur Barat.
+📍 Workshop: Jl. Gatot Subroto No.94, RT.01, Bojongbata, Kec. Pemalang, Kabupaten Pemalang, Jawa Tengah 52319, Pemalang Barat.

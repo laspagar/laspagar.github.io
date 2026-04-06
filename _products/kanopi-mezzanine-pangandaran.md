@@ -1,16 +1,16 @@
 ---
 layout: product
-title: Jasa Pembuatan Kanopi Mezzanine Priangan Timur (Lantai Tingkat)
+title: Jasa Pembuatan Kanopi Mezzanine Pemalang (Lantai Tingkat)
 price: Rp 1.250.000 / m²
 category: Kanopi & Konstruksi Baja
 image: https://blogger.googleusercontent.com/img/a/AVvXsEiLV8MRs7hyaDculjNEDBzZkjTzKClisrcRX5VKAEz1dUdEQMN8OqSllv3TM643Lg8Sx8ZnGlaVAQvpMxF5iOMVImoz910bMEWByUwuL3qMSV5EcU2LlhKTvzAjoAxmeZrNWA5YqTjTC6N_fNIciN0CRTS_HfOXrn98GFufHUDnHdAU-Mk2ZiVzi061=w640-h360-rw
-description: Solusi nambah ruang tanpa cor beton! Jasa bikin Kanopi Mezzanine besi di Priangan Timur. Kuat untuk balkon, jemuran, atau kamar tambahan.
+description: Solusi nambah ruang tanpa cor beton! Jasa bikin Kanopi Mezzanine besi di Pemalang. Kuat untuk balkon, jemuran, atau kamar tambahan.
 keywords: kanopi mezzanine setu bekasi, jasa mezzanine besi, lantai tingkat besi, balkon mezzanine, konstruksi baja ringan setu bekasi
 ---
 
-# Kanopi Mezzanine Priangan Timur: Tambah Lantai Tanpa Cor Beton
+# Kanopi Mezzanine Pemalang: Tambah Lantai Tanpa Cor Beton
 
-Lahan rumah di Priangan Timur makin sempit dan mahal? Solusinya jangan pindah rumah, tapi **tambah lantai ke atas** menggunakan **Kanopi Mezzanine**. 
+Lahan rumah di Pemalang makin sempit dan mahal? Solusinya jangan pindah rumah, tapi **tambah lantai ke atas** menggunakan **Kanopi Mezzanine**. 
 
 Struktur rangka besi yang dirancang khusus agar **kuat diinjak**, bisa difungsikan sebagai balkon santai, area jemur, gudang, bahkan kamar tidur tambahan di atas carport Anda.
 
@@ -25,7 +25,7 @@ Struktur rangka besi yang dirancang khusus agar **kuat diinjak**, bisa difungsik
 *   **Alas Lantai**: Plat Bordes / KalsiFloor 20mm / Decking Kayu.
 *   **Pagar Railing**: Besi Hollow Minimalis (Safety first).
 
-## Harga Paket Priangan Timur:
+## Harga Paket Pemalang:
 Mulai **Rp 1.350.000 / m²** (Konstruksi standar balkon jemuran). 
 Untuk fungsi beban berat (gudang/kamar), kami perlu hitung struktur dulu (GRATIS konsultasi).
 

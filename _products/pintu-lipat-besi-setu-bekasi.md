@@ -50,6 +50,6 @@ Tidak hanya menjual barang, kami memberikan solusi keamanan total:
 Hubungi tim ahli kami untuk mendapatkan penawaran spesial minggu ini.
 
 📲 **WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
-📍 **Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
+📍 **Workshop**: Jl. Gatot Subroto No.94, RT.01, Bojongbata, Kec. Pemalang, Kabupaten Pemalang, Jawa Tengah 52319
 
 [**Pelajari Jasa Pembuatan Pintu Lipat Custom Selengkapnya**](/posts/2025-12-28-jasa-pintu-lipat-besi-custom-setu-bekasi)

@@ -1,23 +1,23 @@
 ---
 layout: post
-title: "Bongkar Habis! Rincian Biaya Pasang Kanopi di Priangan Timur 2025 (Plus Cara Hitung Sendiri)"
+title: "Bongkar Habis! Rincian Biaya Pasang Kanopi di Pemalang 2025 (Plus Cara Hitung Sendiri)"
 date: 2025-12-12 10:00:00 +0700
 categories: [Panduan, Harga, Kanopi]
-tags: [Harga Kanopi Priangan Timur 2025, Biaya Pasang Kanopi per Meter, Tukang Kanopi Murah Priangan Timur, Kanopi Alderon Priangan Timur, Hitung RAB Kanopi]
+tags: [Harga Kanopi Pemalang 2025, Biaya Pasang Kanopi per Meter, Tukang Kanopi Murah Pemalang, Kanopi Alderon Pemalang, Hitung RAB Kanopi]
 author: "Kinglas Tehnik"
 image: /assets/products/kanopi-kordoba-plafon-pvc.jpg
-description: "Jangan mau dibohongi harga! Simak panduan transparan biaya pasang kanopi di Priangan Timur. Mulai dari spek rangka, jenis atap (Spandek vs Alderon vs Kaca), hingga biaya tersembunyi yang sering tidak dibilang tukang."
+description: "Jangan mau dibohongi harga! Simak panduan transparan biaya pasang kanopi di Pemalang. Mulai dari spek rangka, jenis atap (Spandek vs Alderon vs Kaca), hingga biaya tersembunyi yang sering tidak dibilang tukang."
 ---
 
 "Kang, saya mau pasang kanopi carport ukuran 3x5 meter. Berapa duit?"
 
 Pertanyaan ini terdengar sederhana, tapi jawabannya bisa sangat bervariasi. Ada tukang yang jawab "Rp 3 Juta selesai", ada juga kontraktor yang jawab "Rp 15 Juta, Pak". *Lho, kok bisa beda jauh?*
 
-Sebagai bengkel las yang sudah 10+ tahun melayani warga Priangan Timur (mulai dari perumahan subsidi hingga cluster elite di Dago), **Kinglas Tehnik** ingin buka-bukaan soal struktur harga kanopi.
+Sebagai bengkel las yang sudah 10+ tahun melayani warga Pemalang (mulai dari perumahan subsidi hingga cluster elite di Dago), **Kinglas Tehnik** ingin buka-bukaan soal struktur harga kanopi.
 
-📲 WhatsApp Kami: 0821-1816-8712 📍 Layanan: Priangan Timur, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Soreang, Jatinangor.
+📒 WhatsApp Kami: 0821-1816-8712 📍 Layanan: Pemalang, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Soreang, Jatinangor.
 
-![Pemasangan Kanopi Minimalis Plafon PVC di Priangan Timur](/assets/products/kanopi-kordoba-plafon-pvc.jpg)
+![Pemasangan Kanopi Minimalis Plafon PVC di Pemalang](/assets/products/kanopi-kordoba-plafon-pvc.jpg)
 
 ## Bagaimana Cara Menghitung Biaya Kanopi?
 
@@ -29,7 +29,7 @@ Tapi, "Harga Satuan" inilah kuncinya. Ia ditentukan oleh 3 faktor:
 2.  **Jenis Atap** (Penutup atas)
 3.  **Model/Desain** (Tingkat kesulitan)
 
-Mari kita bedah satu per satu harga pasarannya di Priangan Timur tahun 2025.
+Mari kita bedah satu per satu harga pasarannya di Pemalang tahun 2025.
 
 ---
 
@@ -44,12 +44,12 @@ Pilihan paling ekonomis. Terbuat dari zincalume tipis.
 *   [**Lihat Detail & Foto Kanopi Spandek Disini**](/products/kanopi-spandek-termurah-setu-bekasi)
 
 ### B. Kanopi Atap Alderon / UPVC (Best Seller)
-Atap berongga yang lagi hits di Priangan Timur.
+Atap berongga yang lagi hits di Pemalang.
 *   **Kelebihan**: Adem (rongga udara menahan panas), tidak berisik saat hujan, kokoh bisa diinjak.
 *   **Kekurangan**: Harga menengah ke atas.
 *   **Harga Terpasang**: **Rp 950.000 - Rp 1.200.000 / m²**.
 *   *Cocok untuk: Carport utama, teras santai.*
-*   [**Cek Promo Kanopi Alderon Priangan Timur Disini**](/products/kanopi-alderon-murah-setu-bekasi)
+*   [**Cek Promo Kanopi Alderon Pemalang Disini**](/products/kanopi-alderon-murah-setu-bekasi)
 
 ### C. Kanopi Kaca Tempered (Luxury Option)
 Sultan punya selera. Menggunakan kaca tebal 8mm-12mm.
@@ -63,7 +63,7 @@ Sultan punya selera. Menggunakan kaca tebal 8mm-12mm.
 
 ## 2. Biaya Rangka (Jangan Asal Murah!)
 
-Banyak yang jual kanopi murah tapi rangkanya pakai **Hollow Banci** (ketebalan 0.6mm - 0.8mm). Bahaya! Apalagi Priangan Timur sering angin kencang.
+Banyak yang jual kanopi murah tapi rangkanya pakai **Hollow Banci** (ketebalan 0.6mm - 0.8mm). Bahaya! Apalagi Pemalang sering angin kencang.
 
 Standar Kinglas Tehnik:
 *   **Rangka Standar**: Hollow Galvanis 4x4 & 4x6 (Tebal 1.2mm - 1.4mm Full). Termasuk dalam harga paket standar.
@@ -107,6 +107,6 @@ Beliau ingin yang adem dan tidak berisik (Pilih **Alderon**).
 Tim Kinglas Tehnik siap survey gratis ke lokasi Anda untuk pengukuran presisi.
 
 📲 **WA Sales**: [0821-1816-8712](https://wa.me/6282118168712)
-📍 **Area Layanan**: Kota Priangan Timur, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, KBB (Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan/Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252), Kab Priangan Timur (Soreang/Banjaran).
+📍 **Area Layanan**: Kota Pemalang, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, KBB (Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto/Jl. Gatot Subroto No.94, RT.01, Bojongbata, Kec. Pemalang, Kabupaten Pemalang, Jawa Tengah 52319), Kab Pemalang (Soreang/Banjaran).
 
 *Jangan korbankan kualitas demi harga murah. Rumah adalah aset jangka panjang.*

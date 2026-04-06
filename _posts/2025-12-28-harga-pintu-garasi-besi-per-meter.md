@@ -1,34 +1,34 @@
 ---
 layout: post
-title: "Bongkar Rincian Harga Pintu Garasi Besi Per Meter di Priangan Timur (Update 2025)"
+title: "Bongkar Rincian Harga Pintu Garasi Besi Per Meter di Pemalang (Update 2025)"
 date: 2025-12-28 17:30:00 +0700
 categories: [Harga, Pintu]
-tags: [Harga Pintu Besi, Biaya Ganti Pintu Garasi, Pagar Besi Murah Priangan Timur, Pintu Garasi Priangan Timur, Bengkel Las Priangan Timur]
+tags: [Harga Pintu Besi, Biaya Ganti Pintu Garasi, Pagar Besi Murah Pemalang, Pintu Garasi Pemalang, Bengkel Las Pemalang]
 author: "Kinglas Tehnik"
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWxnm5zGwnVbX5DvYomC1P6OqRGJYp3ZwY68K225tXBw5rx6b2wlfw3KePqhu2bxK1P0KFwDwKX0hUoV7sGuqFNCEzVQGLLYvkqjQk3ZsajrQzzySLHpgxEvAVZrQ2fi7Skff5nqAR1d8g/s1600-rw/Desain-Cat-Pintu-Garasi.jpg
-description: "Mau pasang pintu garasi tapi bingung hitung biayanya? Simak harga pintu garasi besi per meter lari atau per daun di Priangan Timur. Transparan, lengkap, dan tanpa biaya siluman."
+description: "Mau pasang pintu garasi tapi bingung hitung biayanya? Simak harga pintu garasi besi per meter lari atau per daun di Pemalang. Transparan, lengkap, dan tanpa biaya siluman."
 ---
 
-Banyak pemilik rumah di Priangan Timur yang sedang melakukan renovasi seringkali bertanya melalui WhatsApp kami, *"Kang, berapa sih harga pintu garasi besi per meter sekarang?"*
+Banyak pemilik rumah di Pemalang yang sedang melakukan renovasi seringkali bertanya melalui WhatsApp kami, *"Kang, berapa sih harga pintu garasi besi per meter sekarang?"*
 
 Jawabannya sebenarnya tidak sesederhana menyebut satu angka tunggal. Mengetahui harga pintu garasi sangat bergantung pada tiga hal utama: **Model Desain**, **Ketebalan Material**, dan **Sistem Rel** yang digunakan. 
 
 Sebagai bengkel las yang mengutamakan kejujuran dan transparansi, **Kinglas Tehnik** ingin membedah rincian biaya ini secara mendalam agar Anda tidak terjebak dengan penawaran "murah" yang ujung-ujungnya berkualitas rendah atau memiliki banyak biaya siluman.
 
-![Detail Finishing Pintu Garasi Besi Priangan Timur](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWxnm5zGwnVbX5DvYomC1P6OqRGJYp3ZwY68K225tXBw5rx6b2wlfw3KePqhu2bxK1P0KFwDwKX0hUoV7sGuqFNCEzVQGLLYvkqjQk3ZsajrQzzySLHpgxEvAVZrQ2fi7Skff5nqAR1d8g/s1600-rw/Desain-Cat-Pintu-Garasi.jpg)
+![Detail Finishing Pintu Garasi Besi Pemalang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWxnm5zGwnVbX5DvYomC1P6OqRGJYp3ZwY68K225tXBw5rx6b2wlfw3KePqhu2bxK1P0KFwDwKX0hUoV7sGuqFNCEzVQGLLYvkqjQk3ZsajrQzzySLHpgxEvAVZrQ2fi7Skff5nqAR1d8g/s1600-rw/Desain-Cat-Pintu-Garasi.jpg)
 
 ## Mengapa Harga Pintu Garasi Dihitung "Per Daun" atau "Per Meter"?
 
-Secara teknis di industri las Priangan Timur, ada dua cara penghitungan:
+Secara teknis di industri las Pemalang, ada dua cara penghitungan:
 1.  **Hitungan Per Daun**: Biasanya digunakan untuk pintu model *Press Plat* (seperti pabrikan Wina/Henderson). Ukuran standar satu daun biasanya memiliki lebar 60cm - 70cm dengan tinggi 2.2m - 2.4m.
 2.  **Hitungan Per Meter Persegi (m²)**: Biasanya digunakan untuk model minimalis hollow jari-jari atau model industrial expanded metal.
 
-Berikut adalah estimasi harga terbaru (Desember 2025) untuk wilayah Priangan Timur, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, dan Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan.
+Berikut adalah estimasi harga terbaru (Desember 2025) untuk wilayah Pemalang, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, dan Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto.
 
 ---
 
 ## 1. Pintu Garasi Besi Plat Press (Premium & Kuat)
-Ini adalah model yang paling banyak digunakan di perumahan cluster Priangan Timur. Daun pintu dibuat dari plat besi yang ditekuk menggunakan mesin bending khusus, sehingga sangat kokoh dan terlihat rapi tanpa banyak terlihat sambungan las.
+Ini adalah model yang paling banyak digunakan di perumahan cluster Pemalang. Daun pintu dibuat dari plat besi yang ditekuk menggunakan mesin bending khusus, sehingga sangat kokoh dan terlihat rapi tanpa banyak terlihat sambungan las.
 
 *   **Spek Plat 1.2mm**: Rp 1.800.000 - Rp 2.000.000 / daun.
 *   **Spek Plat 1.5mm / 2.0mm**: Rp 2.200.000 - Rp 2.600.000 / daun.
@@ -42,7 +42,7 @@ Jika Anda memiliki budget terbatas, model hollow jari-jari adalah solusinya.
 *   Dapatkan inspirasi desainnya di artikel: [**7 Model Pintu Garasi Minimalis Terbaru**](/posts/2025-12-28-model-pintu-garasi-minimalis-terbaru).
 
 ## 3. Pintu Garasi Kombinasi Kayu / Woodplank (Industrial)
-Cocok untuk hunian bergaya tropis atau industrial di area Dago atau Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan.
+Cocok untuk hunian bergaya tropis atau industrial di area Dago atau Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto.
 *   **Rangka Besi + Isian GRC Woodplank**: Rp 1.500.000 - Rp 1.800.000 / daun.
 *   **Rangka Besi + Kayu Solid (Jati/Kamper)**: Rp 2.500.000++ / daun.
 
@@ -72,7 +72,7 @@ Misalkan garasi Anda memiliki lebar 3 meter dan tinggi 2.3 meter (butuh sekitar 
 
 ---
 
-## Faktor yang Membuat Harga Variatif di Priangan Timur
+## Faktor yang Membuat Harga Variatif di Pemalang
 1.  **Jarak Pengerjaan**: Lokasi di area terpencil atau lantai 2 biasanya ada tambahan biaya angkut/mobilisasi.
 2.  **Ketebalan Plat Besi**: Kami selalu menggunakan plat **FULL**, bukan plat "banci" yang tipis dan mudah penyok.
 3.  **Teknik Pengecatan**: Kami menawarkan opsi [**Finishing Powder Coating**](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu-bekasi) agar warna tahan banting dan anti gores bertahun-tahun.
@@ -85,6 +85,6 @@ Survey lokasi adalah langkah terbijak. Tim **Kinglas Tehnik** siap datang ke rum
 
 **Jadwalkan Survey Gratis Sekarang:**
 📲 **WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
-📍 **Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
+📍 **Workshop**: Jl. Gatot Subroto No.94, RT.01, Bojongbata, Kec. Pemalang, Kabupaten Pemalang, Jawa Tengah 52319
 
-[**Kembali ke Panduan Utama Pintu Garasi Priangan Timur**](/posts/2025-12-28-pintu-garasi-murah-setu-bekasi-terlengkap)
+[**Kembali ke Panduan Utama Pintu Garasi Pemalang**](/posts/2025-12-28-pintu-garasi-murah-setu-bekasi-terlengkap)

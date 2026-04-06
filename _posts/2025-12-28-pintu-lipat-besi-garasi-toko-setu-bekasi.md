@@ -59,7 +59,7 @@ Walaupun kuat, pintu lipat besi tetap butuh kasih sayang agar tidak berkarat dan
 
 ## Mengapa Memesan di Kinglas Tehnik?
 
-Kami bukan sekadar bengkel las biasa. Kami mengerti karakteristik bangunan di Priangan Timur. Tim kami siap melakukan survey ke lokasi Anda di seluruh area Priangan Timur Raya, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, hingga Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan untuk memberikan saran teknis yang paling efisien.
+Kami bukan sekadar bengkel las biasa. Kami mengerti karakteristik bangunan di Pemalang. Tim kami siap melakukan survey ke lokasi Anda di seluruh area Pemalang Raya, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, hingga Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto untuk memberikan saran teknis yang paling efisien.
 
 *   **Free Survey & Konsultasi**: Kami ukur lahan Anda dengan presisi.
 *   **Material Full Spek**: Tidak ada "plat banci" di workshop kami.

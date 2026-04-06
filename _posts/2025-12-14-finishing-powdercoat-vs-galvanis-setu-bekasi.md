@@ -13,7 +13,7 @@ Warga Priangan Timur pasti sudah sangat akrab dengan udara yang sejuk namun lemb
 
 Masalah paling klasik yang sering ditemui adalah **karat**. Banyak orang merasa sudah memilih warna cat yang bagus, namun setelah 1-2 tahun, bintik karat mulai muncul dan merusak estetika rumah. Mengapa hal ini terjadi? Jawabannya seringkali terletak pada kualitas **finishing**.
 
-Di **Kinglas Tehnik**, kami sering mendapatkan pertanyaan dari klien di area Dago, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, hingga Buahbatu: *"Mana yang lebih baik, cat semprot biasa atau powder coating?"* Artikel ini akan membedah keduanya secara jujur agar Anda tidak salah investasi.
+Di **Kinglas Tehnik**, kami sering mendapatkan pertanyaan dari klien di area Dago, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, hingga Buahbatu: *"Mana yang lebih baik, cat semprot biasa atau powder coating?"* Artikel ini akan membedah keduanya secara jujur agar Anda tidak salah investasi.
 
 ![Contoh Pagar Besi dengan Finishing Rapi dan Awet](/assets/products/pagar-besi-grc-woodplang-motif-kayu.jpg)
 
@@ -78,6 +78,6 @@ Terakhir, apapun pilihan finishing Anda, pastikan pengerjaannya dilakukan oleh t
 Tim **Kinglas Tehnik** siap memberikan solusi terbaik yang sesuai dengan kebutuhan fungsional dan estetika rumah Anda.
 
 📲 **Konsultasi via WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
-📲 WhatsApp Kami: 0821-1816-8712 📍 Layanan: Priangan Timur, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Tasik, Ciamis, Pangandaran, Cirebon, Majalengka, Kuningan, Soreang, Jatinangor.
+📒 WhatsApp Kami: 0821-1816-8712 📍 Layanan: Pemalang, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Soreang, Jatinangor.
 
 [**Lihat Portfolio Hasil Kerja Kami**](https://laspagar.github.io/products)

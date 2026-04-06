@@ -1,20 +1,20 @@
 ---
 layout: product
-title: Kanopi Kordoba (Plafon PVC) Priangan Timur - Best Seller
+title: Kanopi Kordoba (Plafon PVC) Pemalang - Best Seller
 price: Rp 900.000 / m²
 category: Kanopi
 image: /assets/products/kanopi-kordoba-plafon-pvc.jpg
-description: Kanopi minimalis dengan plafon PVC rapi. Solusi teras adem dan mewah di Priangan Timur. Harga ekonomis, kualitas SNI.
-keywords: kanopi kordoba priangan timur, kanopi plafon pvc, harga kanopi priangan timur, kanopi minimalis modern, atap alderon plafon
+description: Kanopi minimalis dengan plafon PVC rapi. Solusi teras adem dan mewah di Pemalang. Harga ekonomis, kualitas SNI.
+keywords: kanopi kordoba pemalang, kanopi plafon pvc, harga kanopi pemalang, kanopi minimalis modern, atap alderon plafon
 ---
 
 # Kanopi Kordoba (Plafon PVC): Teras Rasa Ruang Tamu
 
-Ini adalah model kanopi **paling laris** di Priangan Timur tahun ini. Menggabungkan ketahanan atap UPVC/Spandek dengan kerapian **Plafon PVC**, membuat teras atau carport Anda terasa seperti "ruangan" sungguhan. Tidak ada lagi rangka besi telanjang yang terlihat kotor atau bersarang laba-laba.
+Ini adalah model kanopi **paling laris** di Pemalang tahun ini. Menggabungkan ketahanan atap UPVC/Spandek dengan kerapian **Plafon PVC**, membuat teras atau carport Anda terasa seperti "ruangan" sungguhan. Tidak ada lagi rangka besi telanjang yang terlihat kotor atau bersarang laba-laba.
 
 ## Keunggulan Kanopi Kordoba
 *   **Rapi & Bersih**: Bagian bawah plafon rata, kabel lampu tersembunyi.
-*   **Adem Maksimal**: Rongga antara atap dan plafon berfungsi sebagai insulator panas terbaik. Sangat cocok untuk sirkulasi udara Priangan Timur.
+*   **Adem Maksimal**: Rongga antara atap dan plafon berfungsi sebagai insulator panas terbaik. Sangat cocok untuk sirkulasi udara Pemalang.
 *   **Tahan Air**: Plafon PVC tahan bocor dan tidak akan lapuk kena rembesan air (beda dengan Gypsum/GRC).
 
 ## Spesifikasi Standar Kinglas Tehnik:
@@ -23,7 +23,7 @@ Ini adalah model kanopi **paling laris** di Priangan Timur tahun ini. Menggabung
 *   **Plafon Bawah**: PVC Board (Motif Putih / Kayu).
 *   **Finishing**: Cat Semprot Kompresor (Bukan Kuas).
 
-### Harga Terpasang di Priangan Timur Raya:
+### Harga Terpasang di Pemalang Raya:
 Mulai dari **Rp 1.100.000 / m²** (Terima beres termasuk bahan, jasa, dan cat).
 
 **Mau yang lebih mewah? Cek [Varian 2 Double Frame](/products/kanopi-kordoba-plafon-pvc-2)**.

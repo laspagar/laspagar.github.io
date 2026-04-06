@@ -1,19 +1,19 @@
 ---
 layout: product
-title: Jasa Pembuatan Balkon Klasik Tempa Priangan Timur
+title: Jasa Pembuatan Balkon Klasik Tempa Pemalang
 price: Rp 750.000 / m
 category: Railing
 image: /assets/products/balkon-klasik-tempa.jpg
-description: Spesialis railing balkon tempa klasik di Priangan Timur. Desain mewah, ornamen detail, cocok untuk rumah gaya Eropa/Classic.
-keywords: balkon tempa priangan timur, railing klasik ciamis, balkon besi tempa, pagar balkon mewah, jasa las tempa priangan timur
+description: Spesialis railing balkon tempa klasik di Pemalang. Desain mewah, ornamen detail, cocok untuk rumah gaya Eropa/Classic.
+keywords: balkon tempa pemalang, railing klasik brebes, balkon besi tempa, pagar balkon mewah, jasa las tempa pemalang
 ---
 
-# Balkon Klasik Tempa Priangan Timur: Kemewahan Abadi untuk Hunian Elite
+# Balkon Klasik Tempa Pemalang: Kemewahan Abadi untuk Hunian Elite
 
 Railing atau pagar balkon bukan hanya sekadar pengaman, melainkan elemen estetika yang menentukan karakter fasad rumah. **Balkon Klasik Tempa** dari **Kinglas Tehnik** menghadirkan keanggunan abadi, cocok untuk rumah-rumah dengan gaya Classic atau Mediterranean.
 
 ## Keunggulan Balkon Tempa Kami
-*   **Handmade Quality**: Dikerjakan oleh pengrajin besi tempa berpengalaman di Priangan Timur.
+*   **Handmade Quality**: Dikerjakan oleh pengrajin besi tempa berpengalaman di Pemalang.
 *   **Ornamen Detail**: Motif sulur, daun, atau bunga dibuat presisi dan artistik.
 *   **Finishing Premium**: Cat anti karat + finishing warna klasik (Hitam, Gold, Tembaga).
 
