@@ -1,4 +1,4 @@
----
+﻿---
 layout: product
 title: Jasa Pembuatan Kanopi Priangan Timur (Terlengkap & Termurah)
 price: Mulai Rp 400rb/m²
@@ -41,4 +41,4 @@ Selamat datang di **Kinglas Tehnik**, spesialis pembuatan kanopi nomor 1 di Pria
 *   Kabupaten Priangan Timur (Soreang, Banjaran)
 
 **Konsultasi & Hitung RAB Gratis:**
-[0821-1816-8712](https://wa.me/6282118168712)
+[0821-2062-9736](https://wa.me/6282120629736)

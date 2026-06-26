@@ -1,4 +1,4 @@
----
+﻿---
 layout: product
 title: "Folding Gate Pemalang: Pintu Lipat Besi Ruko & Toko (Anti Bobol)"
 price: "Rp 450.000 / m²"
@@ -28,5 +28,5 @@ Kami melayani pengiriman dan pemasangan untuk seluruh area Priangan Timur Raya, 
 [**Cek Harga Pintu Lipat Besi Per Meter Terbaru**](/posts/2025-12-28-harga-pintu-lipat-besi-setu-bekasi-2025)
 
 **Hubungi Kinglas Tehnik:**
-📲 [0821-1816-8712](https://wa.me/6282118168712)
+📲 [0821-2062-9736](https://wa.me/6282120629736)
 📍 Workshop: Jl. Gatot Subroto No.94, RT.01, Bojongbata, Kec. Pemalang, Kabupaten Pemalang, Jawa Tengah 52319, Pemalang Barat.

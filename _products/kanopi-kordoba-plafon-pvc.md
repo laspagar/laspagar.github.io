@@ -1,4 +1,4 @@
----
+﻿---
 layout: product
 title: Kanopi Kordoba (Plafon PVC) Pemalang - Best Seller
 price: Rp 900.000 / m²
@@ -29,4 +29,4 @@ Mulai dari **Rp 1.100.000 / m²** (Terima beres termasuk bahan, jasa, dan cat).
 **Mau yang lebih mewah? Cek [Varian 2 Double Frame](/products/kanopi-kordoba-plafon-pvc-2)**.
 
 **Konsultasi Gratis via WA:**
-[0821-1816-8712](https://wa.me/6282118168712)
+[0821-2062-9736](https://wa.me/6282120629736)

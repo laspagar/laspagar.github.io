@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Panduan Memilih Railing Balkon Rumah Pemalang: Material, Keamanan & Harga (Update 2025)"
 date: 2025-12-06 10:00:00 +0700
@@ -91,6 +91,6 @@ Konsultasikan kebutuhan Anda dengan **Kinglas Tehnik**. Kami menjamin:
 
 **Jadwalkan Survey & Pengukuran Gratis:**
 Klik tombol WA di bawah ini.
-[0821-1816-8712](https://wa.me/6282118168712)
+[0821-2062-9736](https://wa.me/6282120629736)
 
 *Melayani: Pemalang Kota, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Kab Pemalang Barat, Jatinangor.*

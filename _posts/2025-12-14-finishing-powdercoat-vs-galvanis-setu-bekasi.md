@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Cat Semprot vs Powder Coating: Mana Finishing Terbaik untuk Pagar & Kanopi di Priangan Timur?"
 date: 2025-12-14 10:00:00 +0700
@@ -77,7 +77,7 @@ Terakhir, apapun pilihan finishing Anda, pastikan pengerjaannya dilakukan oleh t
 **Ingin konsultasi jenis finishing yang pas untuk budget Anda?**
 Tim **Kinglas Tehnik** siap memberikan solusi terbaik yang sesuai dengan kebutuhan fungsional dan estetika rumah Anda.
 
-📲 **Konsultasi via WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
-📒 WhatsApp Kami: 0821-1816-8712 📍 Layanan: Pemalang, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Soreang, Jatinangor.
+📲 **Konsultasi via WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)
+📒 WhatsApp Kami: 0821-2062-9736 📍 Layanan: Pemalang, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Soreang, Jatinangor.
 
 [**Lihat Portfolio Hasil Kerja Kami**](https://laspagar.github.io/products)

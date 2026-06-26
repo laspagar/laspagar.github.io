@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Panduan Memilih Material Atap Kanopi Paling Adem & Awet untuk Rumah di Priangan Timur"
 date: 2025-12-18 10:00:00 +0700
@@ -80,7 +80,7 @@ Masih bingung menghitung total biayanya? Silakan baca artikel kami tentang [**es
 **Konsultasi Material Gratis:**
 Kami siap membawakan sampel material (potongan Alderon, Kaca, Spandek) saat survey ke rumah Anda agar Anda bisa memegang dan melihat kualitasnya secara langsung.
 
-📲 **Hubungi Kami via WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
+📲 **Hubungi Kami via WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)
 📍 **Kinglas Tehnik**: Spesialis Kanopi, Pagar, Tangga & Konstruksi Besi.
 
 [**Lihat Portfolio Pemasangan Kanopi Kami**](https://laspagar.github.io/products)

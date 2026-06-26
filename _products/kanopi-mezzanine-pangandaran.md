@@ -1,4 +1,4 @@
----
+﻿---
 layout: product
 title: Jasa Pembuatan Kanopi Mezzanine Pemalang (Lantai Tingkat)
 price: Rp 1.250.000 / m²
@@ -30,6 +30,6 @@ Mulai **Rp 1.350.000 / m²** (Konstruksi standar balkon jemuran).
 Untuk fungsi beban berat (gudang/kamar), kami perlu hitung struktur dulu (GRATIS konsultasi).
 
 **Hubungi Engineering Kami:**
-[0821-1816-8712](https://wa.me/6282118168712)
+[0821-2062-9736](https://wa.me/6282120629736)
 
 **[Baca Panduan Lengkap Mezzanine Disini](/posts/2025-12-28-panduan-kanopi-mezzanine-setu-bekasi)**

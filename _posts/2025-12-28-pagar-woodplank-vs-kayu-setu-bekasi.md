@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Pagar Woodplank (GRC) vs Kayu Asli: Mana yang Tahan Cuaca Priangan Timur? (Review 2025)"
 date: 2025-12-28 15:00:00 +0700
@@ -112,6 +112,6 @@ Masih ragu? Ingin pegang langsung sampel material Woodplank yang kami gunakan?
 Tim **Kinglas Tehnik** siap membawakan sampel potongan Woodplank, WPC, dan Kayu saat survey ke rumah Anda. Bandingkan sendiri dan pilih yang paling pas di hati.
 
 **Jadwalkan Survey Gratis Sekarang:**
-Klik: [Wa.me/6282118168712](https://wa.me/6282118168712)
+Klik: [Wa.me/6282120629736](https://wa.me/6282120629736)
 
 *Bikin pagar sekali, awetnya berkali-kali.*

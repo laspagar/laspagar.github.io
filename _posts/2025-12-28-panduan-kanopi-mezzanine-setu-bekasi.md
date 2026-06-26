@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Jasa Kanopi Mezzanine Pemalang Murah & Bergaransi (2025) | Kinglas Tehnik"
 date: 2025-12-28 10:00:00 +0700
@@ -59,7 +59,7 @@ Harga pembuatan kanopi mezzanine di Pemalang berkisar mulai dari **Rp 1.xxx.000 
 
 Jangan biarkan lahan terbatas membatasi kenyamanan keluarga Anda. Hubungi **Kinglas Tehnik** hari ini. Kami siap datang ke lokasi Anda untuk **Survey & Konsultasi GRATIS**.
 
-**[📞 Hubungi WhatsApp Kami Sekarang](https://wa.me/6282118168712?text=Halo%20Las%20Pagar,%20saya%20tertarik%20info%20Mezzanine)**
+**[📞 Hubungi WhatsApp Kami Sekarang](https://wa.me/6282120629736?text=Halo%20Las%20Pagar,%20saya%20tertarik%20info%20Mezzanine)**
 
 [**Kembali ke Halaman Utama**](/)
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Kanopi Kaca Tempered: Investasi Kemewahan atau Pemborosan? (Review Jujur 2025)"
 date: 2025-12-28 16:00:00 +0700
@@ -111,4 +111,4 @@ Tim **Kinglas Tehnik** memiliki divisi khusus kaca yang berpengalaman.
 *   Tes ketahanan pukul (kami punya sampel kaca tempered untuk didemonstrasikan).
 
 Hubungi kami:
-[0821-1816-8712](https://wa.me/6282118168712)
+[0821-2062-9736](https://wa.me/6282120629736)

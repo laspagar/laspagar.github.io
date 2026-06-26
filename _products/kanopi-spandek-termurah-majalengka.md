@@ -1,4 +1,4 @@
----
+﻿---
 layout: product
 title: Pasang Kanopi Spandek Murah Pemalang (Mulai 550rb)
 price: Rp 350.000 / m²
@@ -31,6 +31,6 @@ Bahannya terbuat dari lembaran Zincalume (Seng & Aluminium) yang ringan namun sa
 *Minimal order 15m². Di bawah itu ada penyesuaian harga.*
 
 **Pesan Sekarang di WA:**
-[0821-1816-8712](https://wa.me/6282118168712)
+[0821-2062-9736](https://wa.me/6282120629736)
 
 **[Mau yang Lebih Adem? Cek Kanopi Alderon](/products/kanopi-alderon-murah-setu-bekasi)**

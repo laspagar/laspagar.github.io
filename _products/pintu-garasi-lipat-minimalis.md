@@ -1,4 +1,4 @@
----
+﻿---
 layout: product
 title: "Pintu Garasi Lipat Minimalis Priangan Timur: Mewah, Rapi & Hemat Ruang"
 price: "Rp 750.000 / daun"
@@ -25,5 +25,5 @@ Dengan sistem lipat yang efisien, carport Anda akan terasa lebih lega tanpa terg
 Ingin lihat inspirasi model lainnya? Baca artikel kami: [**10+ Model Pintu Garasi Minimalis Terbaru**](/posts/2025-12-28-model-pintu-garasi-minimalis-terbaru).
 
 **Kebutuhan Survey Lokasi? Gratis!**
-📲 WhatsApp: [0821-1816-8712](https://wa.me/6282118168712)
+📲 WhatsApp: [0821-2062-9736](https://wa.me/6282120629736)
 📍 Lokasi: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252

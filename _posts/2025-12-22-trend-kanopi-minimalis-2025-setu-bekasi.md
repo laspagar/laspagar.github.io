@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Tren Desain Kanopi Minimalis Priangan Timur 2025: Inovasi Material & Estetika Masa Kini"
 date: 2025-12-22 10:00:00 +0700
@@ -64,7 +64,7 @@ Kami di **Kinglas Tehnik** siap menjadi mitra diskusi Anda. Tim desainer kami ti
 **Wujudkan Rumah Impian Anda Sekarang:**
 Konsultasi desain dan survey lokasi gratis untuk seluruh wilayah Priangan Timur Raya.
 
-📲 **WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
+📲 **WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)
 📍 **Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 
 [**Kunjungi Portfolio Produk Kami**](https://laspagar.github.io/products)

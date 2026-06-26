@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Tentang Kinglas Tehnik
 permalink: /tentang/
@@ -79,7 +79,7 @@ permalink: /tentang/
                 <h2 class="text-3xl font-bold mb-4">Siap Mempercantik Rumah Anda?</h2>
                 <p class="text-slate-300 mb-8 max-w-2xl mx-auto">Konsultasikan kebutuhan las pagar, kanopi, atau konstruksi Anda dengan tim ahli kami. Survey Gratis untuk area Pemalang (Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto)!</p>
                 <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                    <a href="https://wa.me/6282118168712" class="bg-green-500 hover:bg-green-600 text-white px-8 py-3 rounded-full font-bold transition-all shadow-lg hover:shadow-green-500/30 flex items-center">
+                    <a href="https://wa.me/6282120629736" class="bg-green-500 hover:bg-green-600 text-white px-8 py-3 rounded-full font-bold transition-all shadow-lg hover:shadow-green-500/30 flex items-center">
                         <i class="fab fa-whatsapp mr-2"></i> Chat WhatsApp
                     </a>
                     <div class="text-slate-400 text-sm sm:mx-2">atau</div>
@@ -94,7 +94,7 @@ permalink: /tentang/
                     </div>
                     <div class="bg-slate-800 p-4 rounded-lg">
                         <p class="text-green-400 font-bold mb-2">💬 WhatsApp</p>
-                        <p class="text-gray-200"><a href="https://wa.me/6282118168712" class="hover:text-green-400">+62 821-1816-8712</a></p>
+                        <p class="text-gray-200"><a href="https://wa.me/6282120629736" class="hover:text-green-400">+62 821-2062-9736</a></p>
                     </div>
                     <div class="bg-slate-800 p-4 rounded-lg">
                         <p class="text-blue-400 font-bold mb-2">📍 Google Business</p>

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Bongkar Habis! Rincian Biaya Pasang Kanopi di Pemalang 2025 (Plus Cara Hitung Sendiri)"
 date: 2025-12-12 10:00:00 +0700
@@ -15,7 +15,7 @@ Pertanyaan ini terdengar sederhana, tapi jawabannya bisa sangat bervariasi. Ada 
 
 Sebagai bengkel las yang sudah 10+ tahun melayani warga Pemalang (mulai dari perumahan subsidi hingga cluster elite di Dago), **Kinglas Tehnik** ingin buka-bukaan soal struktur harga kanopi.
 
-📒 WhatsApp Kami: 0821-1816-8712 📍 Layanan: Pemalang, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Soreang, Jatinangor.
+📒 WhatsApp Kami: 0821-2062-9736 📍 Layanan: Pemalang, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Soreang, Jatinangor.
 
 ![Pemasangan Kanopi Minimalis Plafon PVC di Pemalang](/assets/products/kanopi-kordoba-plafon-pvc.jpg)
 
@@ -106,7 +106,7 @@ Beliau ingin yang adem dan tidak berisik (Pilih **Alderon**).
 **Sudah siap menghitung budget Anda?**
 Tim Kinglas Tehnik siap survey gratis ke lokasi Anda untuk pengukuran presisi.
 
-📲 **WA Sales**: [0821-1816-8712](https://wa.me/6282118168712)
+📲 **WA Sales**: [0821-2062-9736](https://wa.me/6282120629736)
 📍 **Area Layanan**: Kota Pemalang, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, KBB (Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto/Jl. Gatot Subroto No.94, RT.01, Bojongbata, Kec. Pemalang, Kabupaten Pemalang, Jawa Tengah 52319), Kab Pemalang (Soreang/Banjaran).
 
 *Jangan korbankan kualitas demi harga murah. Rumah adalah aset jangka panjang.*

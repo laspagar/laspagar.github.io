@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Cara Merawat Pagar Besi Agar Awet 10 Tahun (Panduan Khusus Cuaca Pemalang)"
 date: 2025-12-20 10:00:00 +0700
@@ -73,7 +73,7 @@ Tim **Kinglas Tehnik** melayani jasa perbaikan (service) dan cat ulang profesion
 **Minta Estimasi Biaya Service:**
 Kirim foto pagar Anda ke WhatsApp kami, tim kami akan memberikan perkiraan biayanya tanpa perlu repot.
 
-📲 **WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
+📲 **WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)
 📍 **Workshop**: Jl. Gatot Subroto No.94, RT.01, Bojongbata, Kec. Pemalang, Kabupaten Pemalang, Jawa Tengah 52319
 
 *Rawatlah pagar Anda sebelum karat merusaknya. Karena mencegah kerusakan jauh lebih murah daripada mengganti baru.*

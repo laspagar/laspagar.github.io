@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Project Review: Transformasi Teras Rumah Dago Resort dengan Kanopi Kordoba (Anti Tampias & Mewah)"
 date: 2025-12-04 10:00:00 +0700
@@ -78,7 +78,7 @@ Jangan tunggu cat mobil rusak atau teras berlumut. Konsultasikan kebutuhan kanop
 Kami melayani survey gratis ke area: Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto.
 
 **Hubungi Kami Sekarang:**
-� **WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
+� **WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)
 📍 **Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 
 *Kinglas Tehnik - Spesialis Kanopi, Pagar, dan Konstruksi Besi Terbaik.*

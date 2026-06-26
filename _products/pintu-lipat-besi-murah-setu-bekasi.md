@@ -1,4 +1,4 @@
----
+﻿---
 layout: product
 title: "Harga Pintu Lipat Besi Pemalang Termurah 2025: Mulai 450rb/m²"
 price: "Rp 450.000 / m²"
@@ -25,5 +25,5 @@ Dapatkan perlindungan maksimal untuk aset Anda dengan budget yang tetap terjaga.
 Jangan sampai salah kalkulasi! Baca panduan kami: [**Tips Rahasia Dapat Harga Pintu Garasi Murah**](/posts/2025-12-28-tips-hemat-pintu-garasi-murah).
 
 **Konsultasi Budget Anda Sekarang:**
-📲 WhatsApp: [0821-1816-8712](https://wa.me/6282118168712)
+📲 WhatsApp: [0821-2062-9736](https://wa.me/6282120629736)
 📍 Workshop: Pemalang & Sekitarnya.

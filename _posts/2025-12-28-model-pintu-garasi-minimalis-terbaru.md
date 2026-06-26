@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "10+ Model Pintu Garasi Minimalis Terbaru 2025: Inspirasi Mewah untuk Rumah di Priangan Timur"
 date: 2025-12-28 18:00:00 +0700
@@ -82,7 +82,7 @@ Memilih model pintu garasi harus menyesuaikan dengan **fasad rumah** dan **fungs
 Masih bingung? Tim desain **Kinglas Tehnik** siap datang ke lokasi Anda untuk melakukan survey dan memberikan saran model yang paling proporsional untuk rumah Anda.
 
 **Survey & Konsultasi Gratis:**
-📲 **WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
+📲 **WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)
 📍 **Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 
 [**Lihat Portfolio Pintu Garasi Kami Lainnya**](/products)

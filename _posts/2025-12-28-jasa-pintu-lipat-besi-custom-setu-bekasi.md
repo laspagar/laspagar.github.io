@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Jasa Pembuatan Pintu Lipat Besi Custom di Pemalang | Free Survey & Pasang"
 date: 2025-12-28 18:00:00 +0700
@@ -61,7 +61,7 @@ Kami melayani jasa pembuatan dan pemasangan pintu lipat besi di seluruh wilayah 
 
 Jangan biarkan garasi atau toko Anda tanpa perlindungan yang maksimal. Hubungi **Kinglas Tehnik** sekarang untuk mendapatkan penawaran harga terbaik.
 
-📲 **Konsultasi WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
+📲 **Konsultasi WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)
 📍 **Workshop**: Jl. Gatot Subroto No.94, RT.01, Bojongbata, Kec. Pemalang, Kabupaten Pemalang, Jawa Tengah 52319
 🕒 **Jam Operasional**: Senin - Sabtu (08.00 - 17.00 WIB).
 

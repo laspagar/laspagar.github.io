@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Panduan Lengkap 2025: Desain Tangga Besi Minimalis & Industrial untuk Rumah Mungil di Priangan Timur"
 date: 2025-12-28 14:00:00 +0700
@@ -129,7 +129,7 @@ Jangan biarkan lahan sempit membatasi kreativitas desain rumah Anda. Konsultasik
 *   Desain railing yang aman untuk anak-anak (child-safety).
 
 **Hubungi Kami Sekarang:**
-*   **WA**: [0821-1816-8712](https://wa.me/6282118168712)
+*   **WA**: [0821-2062-9736](https://wa.me/6282120629736)
 *   **Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252, Priangan Timur Barat.
 
 *Gratis Survey & 3D Design Preview untuk pemesanan tangga utama.*

@@ -1,4 +1,4 @@
----
+﻿---
 layout: product
 title: "Pintu Lipat Besi Galvanis Pemalang: Solusi Pintu Awet Anti Karat"
 price: "Rp 750.000 / m²"
@@ -27,5 +27,5 @@ Dengan lapisan pelindung Zinc, besi di dalamnya aman dari korosi meskipun sering
 Ganti pintu lama Anda yang sudah berkarat dengan solusi masa depan dari Kinglas Tehnik.
 
 **Tanya Spek Material Gratis:**
-📲 WhatsApp: [0821-1816-8712](https://wa.me/6282118168712)
+📲 WhatsApp: [0821-2062-9736](https://wa.me/6282120629736)
 📍 Layanan: Pemalang, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto.

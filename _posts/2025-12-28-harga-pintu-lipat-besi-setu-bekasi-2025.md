@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Harga Pintu Lipat Besi Per Meter 2025 di Priangan Timur | Model Minimalis & Toko"
 date: 2025-12-28 17:15:00 +0700
@@ -97,7 +97,7 @@ A: Tentu saja! Kami memiliki katalog warna primer hingga warna modern seperti ab
 
 Ingin mendapatkan hitungan RAB yang lebih akurat dan detail sesuai ukuran pintu Anda? Kirimkan foto lokasi Anda sekarang juga melalu WhatsApp.
 
-📲 **Hubungi Tim Sales**: [0821-1816-8712](https://wa.me/6282118168712)
+📲 **Hubungi Tim Sales**: [0821-2062-9736](https://wa.me/6282120629736)
 📍 **Kinglas Tehnik**: Amanah, Berkualitas, & Bergaransi.
 
 [**Kembali ke Artikel Utama Pintu Garasi**](/posts/2025-12-28-pintu-garasi-murah-setu-bekasi-terlengkap)

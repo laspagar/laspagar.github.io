@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Cara Pemesanan Kinglas Tehnik
 permalink: /cara-pemesanan/
@@ -44,7 +44,7 @@ permalink: /cara-pemesanan/
         <div class="bg-blue-50 rounded-xl p-8 text-center border border-blue-100">
             <h2 class="text-2xl font-bold text-slate-900 mb-4">Siap Memesan?</h2>
             <p class="text-slate-600 mb-6">Jangan ragu bertanya, konsultasi 100% GRATIS tanpa kewajiban memesan.</p>
-            <a href="https://wa.me/6282118168712?text=Halo%20Las%20Pagar,%20saya%20mau%20tanya%20harga%20untuk%20pembuatan..." class="inline-flex items-center bg-blue-600 text-white px-8 py-4 rounded-full font-bold shadow-lg hover:bg-blue-700 transition-colors">
+            <a href="https://wa.me/6282120629736?text=Halo%20Las%20Pagar,%20saya%20mau%20tanya%20harga%20untuk%20pembuatan..." class="inline-flex items-center bg-blue-600 text-white px-8 py-4 rounded-full font-bold shadow-lg hover:bg-blue-700 transition-colors">
                 <i class="fab fa-whatsapp text-2xl mr-3"></i> Hubungi Kami Sekarang
             </a>
             <div class="mt-4 text-sm text-slate-500">

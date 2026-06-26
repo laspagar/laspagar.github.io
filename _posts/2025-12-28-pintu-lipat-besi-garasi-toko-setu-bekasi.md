@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Pintu Lipat Besi (Folding Gate) untuk Garasi & Toko di Priangan Timur | Kuat & Aman"
 date: 2025-12-28 17:00:00 +0700
@@ -68,7 +68,7 @@ Kami bukan sekadar bengkel las biasa. Kami mengerti karakteristik bangunan di Pe
 Tingkatkan keamanan properti Anda sekarang dengan Pintu Lipat Besi berkualitas dari ahlinya.
 
 **Hubungi Kami Segera:**
-📲 **WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
+📲 **WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)
 📍 **Lokasi**: Priangan Timur Raya & Sekitarnya.
 
 [**Kembali ke Halaman Utama**](/)

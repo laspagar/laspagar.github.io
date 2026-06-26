@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Pintu Garasi Murah Priangan Timur: Panduan Lengkap 2025 (Harga, Model, & Tips)"
 date: 2025-12-28 17:00:00 +0700
@@ -159,7 +159,7 @@ Memiliki pintu garasi yang kokoh adalah salah satu bentuk kasih sayang Anda pada
 
 Jangan sampai pencuri masuk atau pintu garasi Anda ambruk karena karat. Lindungi rumah Anda dengan pintu besi terbaik dari ahlinya.
 
-📲 **Konsultasi WhatsApp**: [0821-1816-8712](https://wa.me/6282118168712)
+📲 **Konsultasi WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)
 📍 **Alamat Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 
 ---

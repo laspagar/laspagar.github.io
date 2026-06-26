@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Folding Gate Pintu Lipat Besi Galvanis di Pemalang | Anti Karat & Tahan Lama"
 date: 2025-12-28 17:30:00 +0700
@@ -66,7 +66,7 @@ Memang di awal Anda akan merogoh kocek sedikit lebih dalam, namun dalam 5 tahun 
 
 Keamanan rumah Anda layak mendapatkan material terbaik. Jangan korbankan ketenangan pikiran demi harga yang beda tipis. Ganti pintu lama Anda dengan **Folding Gate Galvanis** yang lebih tangguh sekarang juga!
 
-📲 **WhatsApp Kami**: [0821-1816-8712](https://wa.me/6282118168712)
+📲 **WhatsApp Kami**: [0821-2062-9736](https://wa.me/6282120629736)
 📍 **Layanan**: Pemalang, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Soreang, Jatinangor.
 
 [**Kunjungi Portfolio Pintu Garasi Kami**](https://laspagar.github.io/products)

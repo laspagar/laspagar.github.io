@@ -1,4 +1,4 @@
----
+﻿---
 layout: product
 title: Pagar Motif Kayu WPC & Besi Hollow Pemalang
 price: Rp 500.000 / m²
@@ -33,4 +33,4 @@ WPC adalah material campuran serbuk kayu dan plastik.
 **[Lihat Juga: Pagar Laser Cutting Custom](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
 
 **Pesan Sekarang:**
-[0821-1816-8712](https://wa.me/6282118168712)
+[0821-2062-9736](https://wa.me/6282120629736)
