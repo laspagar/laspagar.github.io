@@ -116,8 +116,8 @@ description: "Hubungi bengkel las Kinglas Tehnik Priangan Timur untuk konsultasi
                             </div>
                         </div>
 
-                        <div class="rounded-xl overflow-hidden h-48 border border-slate-200">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253246.54911145217!2d108.06733230489953!3d-7.332398418045558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f56e08c5c56d7%3A0xd9953d61bcbb258b!2sTasikmalaya%2C%20Jawa%20Barat!5e0!3m2!1sid!2sid!4v1782440847974!5m2!1sid!2sid" class="w-full h-full border-0" allowfullscreen="" loading="lazy" title="Peta Priangan Timur"></iframe>
+                        <div class="rounded-xl overflow-hidden h-64 border border-slate-200 shadow-sm">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1143.2092541896116!2d108.38291925000846!3d-7.245665928248182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f5d00070d6bc7%3A0x823b3a9281eda9a4!2sBengkel%20las%20listrik%20pagar%20kanopi%20tralis%20mezzanine%20proyek%20minimalis%20tempa%20harga%20murah!5e0!3m2!1sid!2sid!4v1788686501375!5m2!1sid!2sid" class="w-full h-full border-0" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" title="Peta Lokasi Bengkel Las Kinglas Tehnik"></iframe>
                         </div>
                     </div>
                 </div>
