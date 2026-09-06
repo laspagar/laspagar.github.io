@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "Panduan Ukuran Kanopi Carport Ideal: Standar Mobil Avanza hingga Alphard (Edisi Priangan Timur)"
+title: "Panduan Menghitung Ukuran Rangka Kanopi Carport Rumah Minimalis"
 date: 2025-12-16 10:00:00 +0700
 categories: [Tips, Kanopi]
 tags: [Ukuran Kanopi Mobil, Kanopi Carport Priangan Timur, Standar Ukuran Garasi, Jasa Kinglas Tehnik, Renovasi Rumah Priangan Timur, Dimensi Carport]
@@ -63,10 +63,10 @@ Karena Priangan Timur sering hujan angin, jangan buat atap kanopi pas di atas ti
 ### 2. Tinggi Tiang vs Kemiringan (Slope)
 *   **Tinggi Ideal**: 2.5 - 3 meter dari lantai. Jika terlalu tinggi, tampias air akan semakin lebar.
 *   **Kemiringan Atap**: Minimal 2-5 derajat agar air mengalir lancar ke talang. Untuk atap jenis **Alderon**, kemiringan yang tepat mencegah air menggenang di rongga-rongga atap. 
-*   [**Cek Harga Paket Kanopi Alderon Priangan Timur Disini**](/products/kanopi-alderon-murah-setu-bekasi)
+*   [**Cek Harga Paket Kanopi Alderon Priangan Timur Disini**](/products/kanopi-alderon-murah-setu-Priangan Timur)
 
 ### 3. Jarak Terhadap Pintu Garasi
-Jika rumah Anda memiliki [pintu garasi lipat atau sliding](/posts/2025-12-28-pintu-garasi-murah-setu-bekasi-terlengkap), pastikan tiang kanopi tidak menghalangi lintasan buka tutup pintu tersebut. Koordinasi antara tukang kanopi dan tukang pagar sangat penting di sini.
+Jika rumah Anda memiliki [pintu garasi lipat atau sliding](/posts/2025-12-28-pintu-garasi-murah-setu-Priangan Timur-terlengkap), pastikan tiang kanopi tidak menghalangi lintasan buka tutup pintu tersebut. Koordinasi antara tukang kanopi dan tukang pagar sangat penting di sini.
 
 ---
 
@@ -77,13 +77,13 @@ Semakin besar bentangan kanopi Anda, semakin kuat rangka yang dibutuhkan.
 *   **Bentang 4-6 meter**: Wajib menggunakan rangka double (cremona) atau hollow 5x10 tebal.
 *   **Bentang > 6 meter (Tanpa Tiang Tengah)**: Sangat disarankan menggunakan besi WF (Wide Flange) atau pipa tebal untuk keamanan struktural.
 
-Untuk urusan keawetan di cuaca Priangan Timur, kami sangat menyarankan sistem [finishing powder coating](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu-bekasi) agar rangka tidak mudah keropos dan warna tetap *kinclong* meski sering terkena hujan.
+Untuk urusan keawetan di cuaca Priangan Timur, kami sangat menyarankan sistem [finishing powder coating](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu-Priangan Timur) agar rangka tidak mudah keropos dan warna tetap *kinclong* meski sering terkena hujan.
 
 ---
 
 ## Kesimpulan: Ukur Dahulu, Bangun Kemudian
 
-Jangan sampai biaya jutaan rupiah yang Anda keluarkan untuk [pemasangan kanopi](/posts/2025-12-12-biaya-pasang-kanopi-estimasi-setu-bekasi) menjadi sia-sia karena salah dimensi. Konsultasikan denah rumah dan jenis mobil Anda kepada ahlinya.
+Jangan sampai biaya jutaan rupiah yang Anda keluarkan untuk [pemasangan kanopi](/posts/2025-12-12-biaya-pasang-kanopi-estimasi-setu-Priangan Timur) menjadi sia-sia karena salah dimensi. Konsultasikan denah rumah dan jenis mobil Anda kepada ahlinya.
 
 **Ingin Survey & Pengukuran Gratis?**
 Tim **Kinglas Tehnik** siap meluncur ke lokasi Anda (Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut) untuk memberikan solusi ukuran paling presisi dan desain paling proporsional.
@@ -92,3 +92,20 @@ Tim **Kinglas Tehnik** siap meluncur ke lokasi Anda (Tasikmalaya, Banjar, Ciamis
 📒 WhatsApp Kami: 0821-2062-9736 📍 Layanan: Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Soreang, Jatinangor.
 
 [**Lihat Portfolio Kanopi Terpasang Berdasarkan Ukuran**](https://laspagar.github.io/products)
+
+
+---
+
+### 🛍️ Rekomendasi Produk & Katalog Terkait Kinglas Tehnik
+
+Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi biaya pembuatan secara mendalam, jelajahi katalog produk resmi kami:
+
+- 🏠 **[Katalog Lengkap 1.000+ Produk Kinglas Tehnik](/products/)**
+- ☀️ **[Pasang Kanopi Alderon Double Layer & Kaca Tempered](/products/kanopi-alderon-murah-cirebon)**
+- 🚪 **[Pintu Lipat Besi Galvanis Anti Karat untuk Garasi & Toko](/products/pintu-lipat-galvanis-anti-karat)**
+- 🪜 **[Desain Tangga Besi Minimalis & Mezzanine](/products/desain-tangga-besi-minimalis)**
+- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
+
+📲 **Konsultasi & Survey Lokasi Gratis:**
+Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0821-2062-9736](https://wa.me/6282120629736).
+

@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "Project Review: Transformasi Teras Rumah Dago Resort dengan Kanopi Kordoba (Anti Tampias & Mewah)"
+title: "Studi Kasus Pemasangan Kanopi Kordoba Minimalis Tahan Cuaca"
 date: 2025-12-04 10:00:00 +0700
 categories: [Project, Kanopi, Studi Kasus]
 tags: [Kanopi Priangan Timur, Kanopi Kordoba, Jasa Las Ciamis, Kanopi Rumah Cluster, Bengkel Las Priangan Timur, Kanopi Minimalis Modern]
@@ -82,3 +82,20 @@ Kami melayani survey gratis ke area: Tasikmalaya, Banjar, Ciamis, Cirebon, Panga
 📍 **Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 
 *Kinglas Tehnik - Spesialis Kanopi, Pagar, dan Konstruksi Besi Terbaik.*
+
+
+---
+
+### 🛍️ Rekomendasi Produk & Katalog Terkait Kinglas Tehnik
+
+Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi biaya pembuatan secara mendalam, jelajahi katalog produk resmi kami:
+
+- 🏠 **[Katalog Lengkap 1.000+ Produk Kinglas Tehnik](/products/)**
+- ☀️ **[Pasang Kanopi Alderon Double Layer & Kaca Tempered](/products/kanopi-alderon-murah-cirebon)**
+- 🚪 **[Pintu Lipat Besi Galvanis Anti Karat untuk Garasi & Toko](/products/pintu-lipat-galvanis-anti-karat)**
+- 🪜 **[Desain Tangga Besi Minimalis & Mezzanine](/products/desain-tangga-besi-minimalis)**
+- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
+
+📲 **Konsultasi & Survey Lokasi Gratis:**
+Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0821-2062-9736](https://wa.me/6282120629736).
+
