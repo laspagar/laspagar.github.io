@@ -5,8 +5,8 @@
   {% include header.html %}
 
   <main class="pt-20 pb-16 flex-grow">
-    <div class="max-w-7xl mx-auto px-6">
-      {% if page.layout == 'home' %}
+    <div class="max-w-7xl mx-auto px-3 sm:px-6">
+      {% if page.layout == 'home' or page.layout == 'products' or page.layout == 'archive' or page.layout == 'product' %}
         <div class="w-full">
           {{ content }}
         </div>
