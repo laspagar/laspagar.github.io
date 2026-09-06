@@ -2,147 +2,253 @@
 layout: default
 ---
 
-<!-- Archive Header -->
-<div class="mb-12">
-  <h1 class="text-4xl md:text-5xl font-black text-slate-900 mb-4">{{ page.title }}</h1>
-  <p class="text-slate-500 text-lg">Semua artikel blog kami. Total {{ site.posts | size }} artikel tersedia.</p>
-</div>
+<div class="bg-slate-50 min-h-screen py-12">
+  <div class="max-w-7xl mx-auto px-6">
+    
+    <!-- Archive Header -->
+    <div class="mb-10 text-center max-w-3xl mx-auto">
+      <span class="text-blue-600 font-extrabold text-xs uppercase tracking-widest block mb-2">Pusat Edukasi & Informasi</span>
+      <h1 class="text-3xl md:text-5xl font-black text-slate-900 mb-4 tracking-tight">{{ page.title | default: "Artikel, Tips & Panduan Konstruksi" }}</h1>
+      <p class="text-slate-500 text-sm md:text-base leading-relaxed">
+        Panduan lengkap seputar pembuatan kanopi, pagar besi, tangga mezzanine, dan tips perawatan eksterior rumah. Total <span id="total-article-count" class="font-bold text-blue-600">{{ site.posts | size }}</span> artikel gratis siap dibaca.
+      </p>
+    </div>
 
-<!-- Blog Grid (all posts rendered, JS handles pagination) -->
-<div id="archive-posts" class="grid md:grid-cols-2 lg:grid-cols-1 gap-8 mb-16">
-  {% for post in site.posts %}
-  <article
-    class="post-item group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-lg hover:border-purple-200 transition"
-    style="display:none;">
-    <div class="grid md:grid-cols-3 gap-6 items-center p-6">
-      <!-- Image -->
-      {% if post.image %}
-      <div class="md:col-span-1">
-        <div class="aspect-square rounded-xl overflow-hidden bg-slate-100">
-          <a href="{{ post.url }}">
-            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}"
-              class="w-full h-full object-cover group-hover:scale-105 transition" />
-          </a>
-        </div>
+    <!-- Search & Category Filters Bar -->
+    <div class="bg-white p-4 md:p-6 rounded-2xl shadow-sm border border-slate-200/80 mb-10 space-y-4">
+      <!-- Search Input -->
+      <div class="relative max-w-xl mx-auto">
+        <svg class="w-5 h-5 text-slate-400 absolute left-4 top-1/2 -translate-y-1/2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+        </svg>
+        <input type="text" id="article-search-input" onkeyup="handleArticleSearch()" placeholder="Cari topik artikel (contoh: biaya kanopi, merawat pagar, tangga putar)..." class="w-full bg-slate-50 border border-slate-200 rounded-xl pl-12 pr-4 py-3 text-sm font-medium text-slate-800 focus:outline-none focus:border-blue-600 focus:bg-white transition" />
       </div>
-      {% endif %}
 
-      <!-- Content -->
-      <div class="{% if post.image %}md:col-span-2{% else %}col-span-full{% endif %}">
-        <!-- Categories -->
-        {% if post.categories %}
-        <div class="flex flex-wrap gap-2 mb-3">
-          {% for cat in post.categories limit: 2 %}
-          <span
-            class="inline-block px-2.5 py-1 rounded-full bg-purple-100 text-purple-700 text-xs font-bold uppercase">{{
-            cat }}</span>
-          {% endfor %}
-        </div>
-        {% endif %}
-
-        <!-- Title -->
-        <h2 class="text-xl md:text-2xl font-bold text-slate-900 group-hover:text-purple-600 mb-3 line-clamp-2">
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </h2>
-
-        <!-- Meta -->
-        <div class="flex items-center gap-4 text-sm text-slate-500 mb-3">
-          <span>📅 {{ post.date | date: "%d %B %Y" }}</span>
-          {% if post.tags %}
-          <span>🏷️ {{ post.tags | join: ", " }}</span>
-          {% endif %}
-        </div>
-
-        <!-- Excerpt -->
-        <p class="text-slate-600 text-sm leading-relaxed line-clamp-2 mb-4">
-          {{ post.excerpt | strip_html | truncate: 150 }}
-        </p>
-
-        <!-- Read More -->
-        <a href="{{ post.url }}"
-          class="inline-flex items-center gap-2 text-purple-600 hover:text-purple-700 font-bold text-sm">
-          Baca Selengkapnya →
-        </a>
+      <!-- Category Filter Pills -->
+      <div class="flex flex-wrap justify-center gap-2 pt-2 border-t border-slate-100">
+        <button onclick="filterArticles('all')" id="abtn-all" class="acat-btn active px-4 py-2 rounded-xl text-xs font-bold bg-blue-600 text-white transition shadow-sm">📰 Semua Artikel</button>
+        <button onclick="filterArticles('kanopi')" id="abtn-kanopi" class="acat-btn px-4 py-2 rounded-xl text-xs font-bold bg-slate-100 text-slate-700 hover:bg-blue-50 hover:text-blue-600 transition">☀️ Kanopi & Atap</button>
+        <button onclick="filterArticles('pagar')" id="abtn-pagar" class="acat-btn px-4 py-2 rounded-xl text-xs font-bold bg-slate-100 text-slate-700 hover:bg-blue-50 hover:text-blue-600 transition">🏠 Pagar Besi</button>
+        <button onclick="filterArticles('tangga')" id="abtn-tangga" class="acat-btn px-4 py-2 rounded-xl text-xs font-bold bg-slate-100 text-slate-700 hover:bg-blue-50 hover:text-blue-600 transition">🪜 Tangga & Mezzanine</button>
+        <button onclick="filterArticles('pintu')" id="abtn-pintu" class="acat-btn px-4 py-2 rounded-xl text-xs font-bold bg-slate-100 text-slate-700 hover:bg-blue-50 hover:text-blue-600 transition">🚪 Pintu Garasi</button>
+        <button onclick="filterArticles('panduan')" id="abtn-panduan" class="acat-btn px-4 py-2 rounded-xl text-xs font-bold bg-slate-100 text-slate-700 hover:bg-blue-50 hover:text-blue-600 transition">💡 Tips & Perawatan</button>
       </div>
     </div>
-  </article>
-  {% endfor %}
-</div>
 
-<!-- Pagination Controls -->
-<div id="archive-pagination" class="flex justify-center items-center gap-2 mt-12 border-t pt-8"></div>
+    <!-- Active Counters -->
+    <div class="flex flex-col sm:flex-row justify-between items-center mb-6 text-xs font-semibold text-slate-500 gap-2">
+      <div id="article-filter-info">Menampilkan semua artikel</div>
+      <div id="article-page-counter">Halaman 1</div>
+    </div>
+
+    <!-- Articles Grid Container (3 Columns Editorial Magazine Grid) -->
+    <div id="archive-posts" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+      {% for post in site.posts %}
+      <article class="article-card-item bg-white rounded-2xl border border-slate-200/80 overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col group hover:-translate-y-1"
+               data-category="{% if post.categories %}{{ post.categories | join: ' ' | downcase }}{% else %}umum{% endif %}"
+               data-title="{{ post.title | downcase }} {{ post.tags | default: '' | join: ' ' | downcase }}"
+               style="display:none;">
+        
+        <!-- Post Featured Image -->
+        {% if post.image %}
+        <div class="aspect-[16/10] overflow-hidden bg-slate-100 relative">
+          <a href="{{ post.url }}">
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+          </a>
+          {% if post.categories %}
+          <div class="absolute top-3 left-3 flex flex-wrap gap-1">
+            <span class="bg-blue-600 text-white text-[10px] font-black px-2.5 py-1 rounded-md shadow-md uppercase tracking-wider">
+              {{ post.categories | first }}
+            </span>
+          </div>
+          {% endif %}
+        </div>
+        {% else %}
+        <div class="aspect-[16/10] bg-slate-100 flex items-center justify-center text-4xl text-slate-300">📰</div>
+        {% endif %}
+
+        <!-- Post Content -->
+        <div class="p-6 flex-grow flex flex-col justify-between">
+          <div>
+            <div class="flex items-center justify-between text-[11px] text-slate-400 font-semibold mb-2">
+              <span>📅 {{ post.date | date: "%d %b %Y" }}</span>
+              <span>✍️ {{ post.author | default: "Kinglas Tehnik" }}</span>
+            </div>
+            
+            <h2 class="font-extrabold text-slate-900 text-base mb-3 group-hover:text-blue-600 transition leading-snug line-clamp-2">
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </h2>
+
+            <p class="text-xs text-slate-500 line-clamp-3 leading-relaxed mb-4">
+              {{ post.excerpt | strip_html | truncate: 140 }}
+            </p>
+          </div>
+
+          <div class="pt-4 border-t border-slate-100 flex items-center justify-between">
+            <a href="{{ post.url }}" class="text-xs font-bold text-blue-600 hover:text-blue-700 transition inline-flex items-center gap-1">
+              <span>Baca Selengkapnya</span> →
+            </a>
+            <span class="text-[10px] text-slate-400 font-medium">5 mnt baca</span>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+
+    <!-- No Articles Fallback -->
+    <div id="no-articles-notice" class="hidden text-center py-16 bg-white rounded-2xl border border-slate-200 mb-12">
+      <div class="text-4xl mb-3">🔍</div>
+      <h3 class="font-bold text-slate-900 text-lg mb-1">Artikel Tidak Ditemukan</h3>
+      <p class="text-slate-500 text-xs max-w-md mx-auto mb-4">Coba cari dengan kata kunci lain atau pilih kategori artikel yang tersedia di atas.</p>
+      <button onclick="resetArticleFilters()" class="bg-blue-600 text-white font-bold text-xs px-5 py-2.5 rounded-xl">Lihat Semua Artikel</button>
+    </div>
+
+    <!-- AdSense Banner Container -->
+    <div class="my-12 p-4 bg-white rounded-2xl border border-slate-200 text-center">
+      <span class="text-[10px] text-slate-400 font-bold uppercase tracking-wider block mb-2">Iklan / Sponsor</span>
+      <ins class="adsbygoogle"
+           style="display:block"
+           data-ad-client="ca-pub-5150783451833930"
+           data-ad-slot="1234567890"
+           data-ad-format="auto"
+           data-full-width-responsive="true"></ins>
+      <script>
+           (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </div>
+
+    <!-- Fast Client-Side Pagination Controls for 1.000+ Articles -->
+    <div id="archive-pagination" class="flex flex-wrap justify-center items-center gap-2 border-t border-slate-200/80 pt-8"></div>
+  </div>
+</div>
 
 <script>
   (function () {
-    var PER_PAGE = 7;
-    var posts = document.querySelectorAll('.post-item');
-    var total = posts.length;
-    var totalPages = Math.ceil(total / PER_PAGE);
+    var PER_PAGE = 12; // 12 Artikel per halaman agar sangat cepat walau ada 1.000+ artikel!
+    var currentFilter = 'all';
+    var searchQuery = '';
     var currentPage = 1;
 
-    // Read page from URL hash e.g. #page=2
-    var hash = window.location.hash;
-    if (hash && hash.indexOf('#page=') === 0) {
-      var p = parseInt(hash.replace('#page=', ''), 10);
-      if (!isNaN(p) && p >= 1 && p <= totalPages) currentPage = p;
+    var allArticles = Array.from(document.querySelectorAll('.article-card-item'));
+
+    function getFiltered() {
+      return allArticles.filter(function (el) {
+        var catMatch = (currentFilter === 'all') || (el.dataset.category && el.dataset.category.indexOf(currentFilter) !== -1);
+        var searchMatch = !searchQuery || (el.dataset.title && el.dataset.title.indexOf(searchQuery) !== -1);
+        return catMatch && searchMatch;
+      });
     }
 
     function showPage(page) {
       currentPage = page;
-      window.location.hash = 'page=' + page;
-      var start = (page - 1) * PER_PAGE;
+      var filtered = getFiltered();
+      var total = filtered.length;
+      var totalPages = Math.ceil(total / PER_PAGE) || 1;
+      if (currentPage > totalPages) currentPage = 1;
+
+      var start = (currentPage - 1) * PER_PAGE;
       var end = start + PER_PAGE;
-      posts.forEach(function (el, i) {
+
+      // Sembunyikan semua
+      allArticles.forEach(function (el) { el.style.display = 'none'; });
+
+      // Tampilkan hanya 12 artikel untuk halaman aktif
+      filtered.forEach(function (el, i) {
         el.style.display = (i >= start && i < end) ? '' : 'none';
       });
-      renderPagination();
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+
+      // Toggle no articles notice
+      var noNotice = document.getElementById('no-articles-notice');
+      if (noNotice) {
+        noNotice.classList.toggle('hidden', total > 0);
+      }
+
+      // Update counters text
+      var filterText = document.getElementById('article-filter-info');
+      var counterText = document.getElementById('article-page-counter');
+      if (filterText) {
+        var showingEnd = Math.min(end, total);
+        var showingStart = total === 0 ? 0 : start + 1;
+        filterText.textContent = 'Menampilkan ' + showingStart + ' - ' + showingEnd + ' dari ' + total + ' artikel';
+      }
+      if (counterText) {
+        counterText.textContent = 'Halaman ' + currentPage + ' dari ' + totalPages;
+      }
+
+      renderPagination(totalPages);
     }
 
-    function renderPagination() {
+    function renderPagination(totalPages) {
       var container = document.getElementById('archive-pagination');
-      if (totalPages <= 1) { container.style.display = 'none'; return; }
+      if (!container) return;
       container.innerHTML = '';
+      if (totalPages <= 1) return;
 
-      // Prev
+      function createBtn(label, page, isActive) {
+        var el = document.createElement('button');
+        el.textContent = label;
+        el.className = isActive
+          ? 'px-4 py-2.5 rounded-xl bg-blue-600 text-white text-xs font-bold shadow-md'
+          : 'px-4 py-2.5 rounded-xl bg-white border border-slate-200 hover:bg-blue-50 hover:border-blue-300 text-slate-700 text-xs font-bold cursor-pointer transition';
+        if (!isActive) {
+          el.onclick = function () {
+            showPage(page);
+            window.scrollTo({ top: 300, behavior: 'smooth' });
+          };
+        }
+        return el;
+      }
+
       if (currentPage > 1) {
-        var prev = document.createElement('a');
-        prev.href = '#page=' + (currentPage - 1);
-        prev.className = 'px-4 py-2 rounded-lg border border-slate-200 hover:bg-purple-50 hover:border-purple-300 text-sm font-semibold';
-        prev.textContent = '← Sebelumnya';
-        prev.onclick = function (e) { e.preventDefault(); showPage(currentPage - 1); };
-        container.appendChild(prev);
+        container.appendChild(createBtn('← Prev', currentPage - 1, false));
       }
 
-      // Pages
-      for (var i = 1; i <= totalPages; i++) {
-        (function (num) {
-          var el;
-          if (num === currentPage) {
-            el = document.createElement('span');
-            el.className = 'px-4 py-2 rounded-lg bg-purple-600 text-white text-sm font-semibold';
-          } else {
-            el = document.createElement('a');
-            el.href = '#page=' + num;
-            el.className = 'px-4 py-2 rounded-lg border border-slate-200 hover:bg-purple-50 text-sm font-semibold';
-            el.onclick = function (e) { e.preventDefault(); showPage(num); };
-          }
-          el.textContent = num;
-          container.appendChild(el);
-        })(i);
+      // Smart range pagination (max 7 buttons visible)
+      var startP = Math.max(1, currentPage - 2);
+      var endP = Math.min(totalPages, startP + 4);
+      if (endP - startP < 4) startP = Math.max(1, endP - 4);
+
+      for (var i = startP; i <= endP; i++) {
+        container.appendChild(createBtn(i, i, i === currentPage));
       }
 
-      // Next
       if (currentPage < totalPages) {
-        var next = document.createElement('a');
-        next.href = '#page=' + (currentPage + 1);
-        next.className = 'px-4 py-2 rounded-lg border border-slate-200 hover:bg-purple-50 hover:border-purple-300 text-sm font-semibold';
-        next.textContent = 'Berikutnya →';
-        next.onclick = function (e) { e.preventDefault(); showPage(currentPage + 1); };
-        container.appendChild(next);
+        container.appendChild(createBtn('Next →', currentPage + 1, false));
       }
     }
 
-    showPage(currentPage);
+    window.filterArticles = function (cat) {
+      currentFilter = cat;
+      currentPage = 1;
+
+      document.querySelectorAll('.acat-btn').forEach(function (b) {
+        b.classList.remove('bg-blue-600', 'text-white', 'shadow-sm');
+        b.classList.add('bg-slate-100', 'text-slate-700');
+      });
+      var activeBtn = document.getElementById('abtn-' + cat);
+      if (activeBtn) {
+        activeBtn.classList.add('bg-blue-600', 'text-white', 'shadow-sm');
+        activeBtn.classList.remove('bg-slate-100', 'text-slate-700');
+      }
+
+      showPage(1);
+    };
+
+    window.handleArticleSearch = function () {
+      var input = document.getElementById('article-search-input');
+      if (input) {
+        searchQuery = input.value.trim().toLowerCase();
+        showPage(1);
+      }
+    };
+
+    window.resetArticleFilters = function () {
+      var input = document.getElementById('article-search-input');
+      if (input) input.value = '';
+      searchQuery = '';
+      filterArticles('all');
+    };
+
+    showPage(1);
   })();
 </script>
