@@ -36,8 +36,8 @@ Selamat datang di **Kinglas Tehnik**, spesialis pembuatan kanopi nomor 1 di Pria
 
 ## Area Layanan Survey Gratis:
 *   Priangan Timur Kota (Buahbatu, Dago, Antapani, dll)
-*   Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto & Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto
-*   Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto & Jl. Gatot Subroto No.94, RT.01, Bojongbata, Kec. Pemalang, Kabupaten Pemalang, Jawa Tengah 52319
+*   Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut & Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut
+*   Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut & Area Layanan Utama: Priangan Timur (Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut)
 *   Kabupaten Priangan Timur (Soreang, Banjaran)
 
 **Konsultasi & Hitung RAB Gratis:**

@@ -1,22 +1,26 @@
 <!DOCTYPE html>
 <html lang="id">
 {% include head.html %}
-<body>
+<body class="bg-slate-50 text-slate-800 font-sans antialiased min-h-screen flex flex-col justify-between">
   {% include header.html %}
 
-  <main class="pt-20">
-    <div class="{% if page.layout == 'home' %}max-w-7xl{% else %}max-w-7xl lg:grid lg:grid-cols-4 lg:gap-8{% endif %} mx-auto px-6 {% if page.layout != 'home' %}lg:grid{% endif %}">
-      <div class="{% if page.layout == 'home' %}w-full{% else %}lg:col-span-3{% endif %}">
-        {{ content }}
-      </div>
-      {% if page.layout != 'home' %}
-      <aside class="hidden lg:block">
-        {% include sidebar.html %}
-      </aside>
+  <main class="pt-20 pb-16 flex-grow">
+    <div class="max-w-7xl mx-auto px-6">
+      {% if page.layout == 'home' %}
+        <div class="w-full">
+          {{ content }}
+        </div>
+      {% else %}
+        <div class="grid grid-cols-1 lg:grid-cols-4 gap-8">
+          <div class="lg:col-span-3">
+            {{ content }}
+          </div>
+          <aside class="lg:col-span-1">
+            {% include sidebar.html %}
+          </aside>
+        </div>
       {% endif %}
     </div>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5150783451833930"
-     crossorigin="anonymous"></script>
   </main>
 
   {% include footer.html %}

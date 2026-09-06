@@ -1,27 +1,26 @@
-﻿<nav class="fixed w-full z-50 glass-nav">
+<nav class="fixed w-full z-50 bg-white/95 backdrop-blur-md border-b border-slate-100 top-0 left-0">
     <div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
         <div class="flex items-center">
             <a href="{{ '/' | relative_url }}" title="Kinglas Tehnik - Spesialis Jasa Las & Konstruksi Besi">
                 <img src="{{ '/assets/kinglas-logo.png' | relative_url }}"
-                    alt="Kinglas Tehnik - Spesialis Jasa Las & Konstruksi Besi Pemalang" width="160" height="40"
+                    alt="Kinglas Tehnik - Spesialis Jasa Las & Konstruksi Besi Priangan Timur" width="160" height="40"
                     loading="eager" fetchpriority="high" class="h-10 w-auto object-contain" />
             </a>
         </div>
 
-        <div
-            class="hidden md:flex items-center gap-8 text-[13px] font-semibold text-slate-500 uppercase tracking-wider">
-            <a href="{{ '/products/' | relative_url }}" class="hover:text-purple-600">Layanan & Produk</a>
-            <a href="{{ '/tentang/' | relative_url }}" class="hover:text-purple-600">Tentang</a>
-            <a href="{{ '/cara-pemesanan/' | relative_url }}" class="hover:text-purple-600">Cara Pemesanan</a>
-            <a href="{{ '/garansi/' | relative_url }}" class="hover:text-purple-600">Kebijakan Garansi &
-                Pengembalian</a>
-            <a href="#blog" class="hover:text-purple-600">Blog</a>
-            <a href="https://wa.me/6282120629736" class="bg-purple-600 text-white px-5 py-2 rounded-full">Hubungi</a>
+        <div class="hidden lg:flex items-center gap-7 text-[13px] font-bold text-slate-600 uppercase tracking-wider">
+            <a href="{{ '/products/' | relative_url }}" class="hover:text-blue-600 transition">Layanan & Produk</a>
+            <a href="{{ '/tentang/' | relative_url }}" class="hover:text-blue-600 transition">Tentang</a>
+            <a href="{{ '/archive.html' | relative_url }}" class="hover:text-blue-600 transition">Blog & Artikel</a>
+            <a href="{{ '/cara-pemesanan/' | relative_url }}" class="hover:text-blue-600 transition">Cara Pemesanan</a>
+            <a href="{{ '/garansi/' | relative_url }}" class="hover:text-blue-600 transition">Garansi</a>
+            <a href="{{ '/kontak/' | relative_url }}" class="hover:text-blue-600 transition">Kontak</a>
+            <a href="https://wa.me/6282120629736" class="bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded-full transition shadow-md shadow-blue-600/20">Hubungi</a>
         </div>
 
         <!-- Mobile menu button -->
-        <div class="md:hidden">
-            <button id="mobile-menu-toggle" aria-label="Toggle menu" class="p-2 rounded-md bg-white/60">
+        <div class="lg:hidden">
+            <button id="mobile-menu-toggle" aria-label="Toggle navigation menu" class="p-2 rounded-lg bg-slate-100 text-slate-700 hover:bg-slate-200 focus:outline-none">
                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16">
                     </path>
@@ -31,14 +30,16 @@
     </div>
 
     <!-- Mobile nav (hidden by default) -->
-    <div id="mobile-menu" class="hidden md:hidden bg-white/95 border-t">
-        <div class="px-6 py-4 flex flex-col gap-3">
-            <a href="{{ '/products/' | relative_url }}" class="font-semibold">Layanan & Produk</a>
-            <a href="{{ '/tentang/' | relative_url }}" class="font-semibold">Tentang</a>
-            <a href="{{ '/cara-pemesanan/' | relative_url }}" class="font-semibold">Cara Pemesanan</a>
-            <a href="#blog" class="font-semibold">Blog</a>
-            <a href="{{ '/garansi/' | relative_url }}" class="hover:text-indigo-600">Kebijakan Garansi &
-                Pengembalian</a>
+    <div id="mobile-menu" class="hidden lg:hidden bg-white border-b border-slate-200">
+        <div class="px-6 py-4 flex flex-col gap-3 font-semibold text-sm text-slate-700">
+            <a href="{{ '/' | relative_url }}" class="py-1 hover:text-blue-600">Beranda</a>
+            <a href="{{ '/products/' | relative_url }}" class="py-1 hover:text-blue-600">Layanan & Produk</a>
+            <a href="{{ '/tentang/' | relative_url }}" class="py-1 hover:text-blue-600">Tentang Kami</a>
+            <a href="{{ '/archive.html' | relative_url }}" class="py-1 hover:text-blue-600">Blog & Artikel</a>
+            <a href="{{ '/cara-pemesanan/' | relative_url }}" class="py-1 hover:text-blue-600">Cara Pemesanan</a>
+            <a href="{{ '/garansi/' | relative_url }}" class="py-1 hover:text-blue-600">Kebijakan Garansi</a>
+            <a href="{{ '/kontak/' | relative_url }}" class="py-1 hover:text-blue-600">Kontak Kami</a>
+            <a href="https://wa.me/6282120629736" class="mt-2 bg-green-500 text-white text-center py-2.5 rounded-lg font-bold">Konsultasi WhatsApp</a>
         </div>
     </div>
 

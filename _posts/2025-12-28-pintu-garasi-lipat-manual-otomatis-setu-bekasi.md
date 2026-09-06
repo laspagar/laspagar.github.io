@@ -73,6 +73,6 @@ Masih bingung menghitung kebutuhan ruang untuk lipatan pintunya? Atau ingin tahu
 Tim **Kinglas Tehnik** siap melakukan survey teknis gratis ke lokasi Anda untuk memastikan pemasangan berjalan sempurna sesuai kondisi lapangan.
 
 📲 **Chat WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)
-📍 **Layanan**: Pemalang, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto, Soreang, Jatinangor.
+📍 **Layanan**: Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Soreang, Jatinangor.
 
 [**Lihat Inspirasi Model Pintu Garasi Terbaru**](/posts/2025-12-28-model-pintu-garasi-minimalis-terbaru)

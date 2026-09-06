@@ -75,7 +75,7 @@ Kalau mau spek **Premium** seperti punya Pak Reka (Rangka Besar + Alderon + Cat 
 ### Rumah Anda Berikutnya?
 
 Jangan tunggu cat mobil rusak atau teras berlumut. Konsultasikan kebutuhan kanopi Anda dengan ahlinya.
-Kami melayani survey gratis ke area: Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto.
+Kami melayani survey gratis ke area: Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut.
 
 **Hubungi Kami Sekarang:**
 � **WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)

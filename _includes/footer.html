@@ -1,98 +1,83 @@
-﻿<footer class="py-16 px-6 bg-gradient-to-b from-gray-900 to-slate-950 text-white">
+<footer class="py-16 px-6 bg-slate-950 text-white border-t border-slate-800">
     <div class="max-w-7xl mx-auto">
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
-            <div class="md:col-span-2">
-                <div class="flex items-center gap-2 mb-6">
-                    <div class="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center text-white font-bold">K
-                    </div>
-                    <span class="font-black tracking-tighter text-lg uppercase text-white">Kinglas Tehnik</span>
-                </div>
-                <p class="text-gray-300 text-sm max-w-sm mb-6">
-                    Jasa las pagar, kanopi, dan konstruksi besi terpercaya. Area layanan: Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto. Kami mengutamakan
-                    kualitas material SNI dan kerapihan pengerjaan.
-                </p>
-            </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mb-12">
+            <!-- Col 1: Brand & Profile -->
             <div>
-                <h4 class="font-bold text-white text-sm mb-6 uppercase tracking-widest">Produk</h4>
-                <ul class="text-gray-300 text-xs space-y-4 font-semibold uppercase tracking-wider">
-                    <li><a href="{{ '/products/' | relative_url }}" class="hover:text-blue-400 transition">Kanopi
-                            Pemalang</a>
-                    </li>
-                    <li><a href="{{ '/products/' | relative_url }}" class="hover:text-blue-400 transition">Pagar
-                            Besi</a></li>
-                    <li><a href="{{ '/products/' | relative_url }}" class="hover:text-blue-400 transition">Tangga
-                            Besi</a></li>
-                    <li><a href="{{ '/products/' | relative_url }}" class="hover:text-blue-400 transition">Railing</a>
-                    </li>
-                    <li><a href="{{ '/products/' | relative_url }}" class="hover:text-blue-400 transition">Pintu
-                            Besi</a></li>
+                <div class="flex items-center gap-3 mb-5">
+                    <div class="w-10 h-10 bg-blue-600 rounded-xl flex items-center justify-center text-white font-black text-xl shadow-lg shadow-blue-600/30">
+                        K
+                    </div>
+                    <span class="font-black tracking-tight text-xl uppercase text-white">Kinglas Tehnik</span>
+                </div>
+                <p class="text-slate-400 text-sm leading-relaxed mb-6">
+                    Spesialis bengkel las kanopi, pagar besi, tangga, dan konstruksi baja profesional di Priangan Timur (Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut). Menggunakan material Full SNI dengan pengerjaan rapi dan bergaransi.
+                </p>
+                <div class="flex items-center gap-3 text-sm text-slate-400">
+                    <span class="text-green-400 font-bold">●</span> Online & Ready Survey Area Priangan Timur
+                </div>
+            </div>
+
+            <!-- Col 2: Navigasi Utama -->
+            <div>
+                <h4 class="font-bold text-white text-sm mb-5 uppercase tracking-wider text-blue-400">Navigasi Utama</h4>
+                <ul class="text-slate-300 text-sm space-y-3 font-medium">
+                    <li><a href="{{ '/' | relative_url }}" class="hover:text-blue-400 transition flex items-center gap-2"><span class="text-slate-500">›</span> Beranda</a></li>
+                    <li><a href="{{ '/tentang/' | relative_url }}" class="hover:text-blue-400 transition flex items-center gap-2"><span class="text-slate-500">›</span> Tentang Kami</a></li>
+                    <li><a href="{{ '/products/' | relative_url }}" class="hover:text-blue-400 transition flex items-center gap-2"><span class="text-slate-500">›</span> Layanan & Produk</a></li>
+                    <li><a href="{{ '/archive.html' | relative_url }}" class="hover:text-blue-400 transition flex items-center gap-2"><span class="text-slate-500">›</span> Artikel & Blog</a></li>
+                    <li><a href="{{ '/cara-pemesanan/' | relative_url }}" class="hover:text-blue-400 transition flex items-center gap-2"><span class="text-slate-500">›</span> Cara Pemesanan</a></li>
+                    <li><a href="{{ '/kontak/' | relative_url }}" class="hover:text-blue-400 transition flex items-center gap-2"><span class="text-slate-500">›</span> Kontak Kami</a></li>
                 </ul>
             </div>
+
+            <!-- Col 3: Legalitas & Kebijakan -->
             <div>
-                <h4 class="font-bold text-white text-sm mb-6 uppercase tracking-widest">Lokasi</h4>
-                <p class="text-gray-300 text-xs leading-loose font-semibold">
-                    Jl. Gatot Subroto No.94, RT.01, Bojongbata, Kec. Pemalang, Kabupaten Pemalang, Jawa Tengah 52319.<br>
-                    <strong>(Area: Tegal, Pekalongan, Purbalingga, Brebes, Banjarnegara, Purwekerto)</strong><br>
-                    081316777302 | <a href="https://wa.me/6282120629736" class="hover:text-blue-400">+62 821-2062-9736</a>
-                </p>
+                <h4 class="font-bold text-white text-sm mb-5 uppercase tracking-wider text-blue-400">Legalitas & Kebijakan</h4>
+                <ul class="text-slate-300 text-sm space-y-3 font-medium">
+                    <li><a href="{{ '/kebijakan-privasi/' | relative_url }}" class="hover:text-blue-400 transition flex items-center gap-2"><span class="text-slate-500">›</span> Kebijakan Privasi</a></li>
+                    <li><a href="{{ '/syarat-ketentuan/' | relative_url }}" class="hover:text-blue-400 transition flex items-center gap-2"><span class="text-slate-500">›</span> Syarat & Ketentuan</a></li>
+                    <li><a href="{{ '/disclaimer/' | relative_url }}" class="hover:text-blue-400 transition flex items-center gap-2"><span class="text-slate-500">›</span> Disclaimer</a></li>
+                    <li><a href="{{ '/garansi/' | relative_url }}" class="hover:text-blue-400 transition flex items-center gap-2"><span class="text-slate-500">›</span> Kebijakan Garansi</a></li>
+                </ul>
             </div>
-        </div>
-        <div
-            class="pt-8 border-t border-gray-700 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] font-black text-gray-400 uppercase tracking-widest">
-            <p>© 2024 Kinglas Tehnik. All Rights Reserved. | <a href="/robots.txt"
-                    class="hover:text-gray-200 transition">Copyright Policy</a></p>
-            <div class="flex gap-6">
-                <a href="#" class="hover:text-gray-200 transition">Instagram</a>
-                <a href="#" class="hover:text-gray-200 transition">Facebook</a>
+
+            <!-- Col 4: Alamat & Kontak -->
+            <div>
+                <h4 class="font-bold text-white text-sm mb-5 uppercase tracking-wider text-blue-400">Area Layanan & Kontak</h4>
+                <p class="text-slate-300 text-sm leading-relaxed mb-4">
+                    Melayani seluruh wilayah <strong>Priangan Timur & Sekitarnya</strong>: Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, Kuningan.
+                </p>
+                <div class="space-y-2 text-sm text-slate-300">
+                    <p class="flex items-center gap-2">📞 <a href="tel:+6281316777302" class="hover:text-blue-400 font-semibold">081316777302</a></p>
+                    <p class="flex items-center gap-2">💬 <a href="https://wa.me/6282120629736" class="hover:text-green-400 font-semibold">+62 821-2062-9736</a></p>
+                    <p class="flex items-center gap-2">✉️ <a href="mailto:admin@kinglastehnik.com" class="hover:text-blue-400">admin@kinglastehnik.com</a></p>
+                </div>
             </div>
         </div>
 
-        <!-- Copyright Protection Notice -->
-        <div class="text-center mt-6 pt-6 border-t border-gray-700">
-            <p class="text-[8px] text-gray-500">
-                © 2024 Kinglas Tehnik. Konten dilindungi oleh hukum copyright dan intellectual property.
-                Dilarang menyalin, mendistribusikan, atau menggunakan kembali konten tanpa izin tertulis.
-            </p>
+        <div class="pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-slate-400">
+            <p>© 2026 Kinglas Tehnik. Hak Cipta Dilindungi Undang-Undang.</p>
+            <div class="flex flex-wrap gap-6 font-medium">
+                <a href="{{ '/kebijakan-privasi/' | relative_url }}" class="hover:text-slate-200 transition">Kebijakan Privasi</a>
+                <a href="{{ '/syarat-ketentuan/' | relative_url }}" class="hover:text-slate-200 transition">Syarat & Ketentuan</a>
+                <a href="{{ '/disclaimer/' | relative_url }}" class="hover:text-slate-200 transition">Disclaimer</a>
+                <a href="{{ '/kontak/' | relative_url }}" class="hover:text-slate-200 transition">Kontak</a>
+            </div>
         </div>
     </div>
 </footer>
 
-<!-- WhatsApp Floating - Text Always Visible -->
-<a href="https://wa.me/6282120629736" class="fixed bottom-6 right-6 z-50 flex items-center gap-3 group" target="_blank"
-    rel="noopener noreferrer" aria-label="Hubungi WhatsApp">
-
-    <!-- Text Label (Always Visible) -->
-    <div class="bg-white text-gray-800 text-sm font-medium px-4 py-3 rounded-xl shadow-lg">
+<!-- Floating WhatsApp Button -->
+<a href="https://wa.me/6282120629736?text=Halo%20Kinglas%20Tehnik,%20saya%20ingin%20konsultasi%20pembuatan%20kanopi/pagar" class="fixed bottom-6 right-6 z-50 flex items-center gap-3 group" target="_blank" rel="noopener noreferrer" aria-label="Hubungi WhatsApp">
+    <div class="hidden sm:block bg-white text-slate-800 text-xs font-bold px-4 py-2.5 rounded-full shadow-xl border border-slate-100">
         <div class="flex items-center gap-2">
-            <span class="w-2 h-2 bg-green-400 rounded-full animate-pulse"></span>
-            Online - Chat Sekarang
-        </div>
-        <div
-            class="absolute right-[-6px] top-1/2 -translate-y-1/2 border-l-8 border-l-white border-y-4 border-y-transparent">
+            <span class="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span>
+            Konsultasi / Survey Gratis
         </div>
     </div>
-
-    <!-- Floating Button -->
-    <div class="relative">
-        <!-- Background Glow -->
-        <div
-            class="absolute inset-0 bg-green-400 rounded-full blur-md opacity-30 group-hover:opacity-50 transition-opacity duration-300">
-        </div>
-
-        <!-- Button -->
-        <button
-            class="relative flex items-center justify-center w-16 h-16 bg-green-500 rounded-full shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-110 group-hover:bg-green-600">
-            <!-- WhatsApp Icon -->
-            <svg class="w-8 h-8 text-white" fill="currentColor" viewBox="0 0 24 24">
-                <path
-                    d="M17.5 14.5c-.3-.1-1.8-.9-2.1-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-1 1.2-.2.2-.4.2-.7.1-.3-.1-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.1-.2.2-.3.3-.5.1-.2 0-.4-.1-.5-.1-.1-.7-1.6-1-2.2-.2-.5-.5-.5-.7-.5-.2 0-.4 0-.6 0-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5 0 1.5 1.1 2.9 1.2 3.1.1.2 2.1 3.2 5.2 4.6.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.2-.7.2-1.3.2-1.4 0-.1-.3-.2-.6-.3z" />
-            </svg>
-
-            <!-- Online Status Dot -->
-            <span
-                class="absolute top-0 right-0 w-3 h-3 bg-green-300 border-2 border-white rounded-full animate-pulse"></span>
-        </button>
+    <div class="flex items-center justify-center w-14 h-14 bg-green-500 hover:bg-green-600 text-white rounded-full shadow-2xl transition-transform transform group-hover:scale-105">
+        <svg class="w-7 h-7 fill-current" viewBox="0 0 24 24">
+            <path d="M17.5 14.5c-.3-.1-1.8-.9-2.1-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-1 1.2-.2.2-.4.2-.7.1-.3-.1-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.1-.2.2-.3.3-.5.1-.2 0-.4-.1-.5-.1-.1-.7-1.6-1-2.2-.2-.5-.5-.5-.7-.5-.2 0-.4 0-.6 0-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5 0 1.5 1.1 2.9 1.2 3.1.1.2 2.1 3.2 5.2 4.6.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.2-.7.2-1.3.2-1.4 0-.1-.3-.2-.6-.3z" />
+        </svg>
     </div>
 </a>
-<!-- test2 scripts -->
-<script type="text/javascript" src="/js/test2.js"></script>

@@ -1,20 +1,62 @@
-<div class="sticky top-24 bg-white p-6 rounded-xl border">
-  <h4 class="font-bold mb-4">Kategori Produk</h4>
-  <ul class="space-y-2 text-sm">
-    <li><a href="{{ '/products/' | relative_url }}" class="text-slate-600 hover:text-purple-600">Semua Produk</a></li>
-    <li><a href="{{ '/products/' | relative_url }}?category=kanopi" class="text-slate-600 hover:text-purple-600">Kanopi</a></li>
-    <li><a href="{{ '/products/' | relative_url }}?category=pagar" class="text-slate-600 hover:text-purple-600">Pagar Besi</a></li>
-    <li><a href="{{ '/products/' | relative_url }}?category=tangga" class="text-slate-600 hover:text-purple-600">Tangga Besi</a></li>
-    <li><a href="{{ '/products/' | relative_url }}?category=railing" class="text-slate-600 hover:text-purple-600">Railing</a></li>
-    <li><a href="{{ '/products/' | relative_url }}?category=pintu" class="text-slate-600 hover:text-purple-600">Pintu Besi</a></li>
-  </ul>
+<div class="sticky top-24 space-y-6">
+  <!-- AdSense Responsive Sidebar Banner / Slot Container -->
+  <div class="bg-slate-50 p-4 rounded-2xl border border-slate-200 text-center">
+    <span class="text-[10px] text-slate-400 font-bold uppercase tracking-wider block mb-2">Iklan / Sponsor</span>
+    <!-- Google AdSense Unit Block -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-5150783451833930"
+         data-ad-slot="1234567890"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
 
-  <hr class="my-4" />
+  <!-- Product Categories -->
+  <div class="bg-white p-6 rounded-2xl border border-slate-100 shadow-sm">
+    <h4 class="font-bold text-slate-900 mb-4 pb-2 border-b border-slate-100 flex items-center justify-between">
+      <span>Kategori Layanan</span>
+      <span class="text-xs text-blue-600 font-semibold">Kinglas</span>
+    </h4>
+    <ul class="space-y-2.5 text-sm font-medium">
+      <li><a href="{{ '/products/' | relative_url }}" class="text-slate-600 hover:text-blue-600 transition flex items-center justify-between"><span>Semua Produk</span> <span class="text-slate-400">›</span></a></li>
+      <li><a href="{{ '/products/' | relative_url }}?category=kanopi" class="text-slate-600 hover:text-blue-600 transition flex items-center justify-between"><span>Kanopi Minimalis</span> <span class="text-slate-400">›</span></a></li>
+      <li><a href="{{ '/products/' | relative_url }}?category=pagar" class="text-slate-600 hover:text-blue-600 transition flex items-center justify-between"><span>Pagar Besi SNI</span> <span class="text-slate-400">›</span></a></li>
+      <li><a href="{{ '/products/' | relative_url }}?category=tangga" class="text-slate-600 hover:text-blue-600 transition flex items-center justify-between"><span>Tangga & Mezzanine</span> <span class="text-slate-400">›</span></a></li>
+      <li><a href="{{ '/products/' | relative_url }}?category=railing" class="text-slate-600 hover:text-blue-600 transition flex items-center justify-between"><span>Railing Balkon</span> <span class="text-slate-400">›</span></a></li>
+      <li><a href="{{ '/products/' | relative_url }}?category=pintu" class="text-slate-600 hover:text-blue-600 transition flex items-center justify-between"><span>Pintu Garasi & Lipat</span> <span class="text-slate-400">›</span></a></li>
+    </ul>
+  </div>
 
-  <h4 class="font-bold mb-4">Artikel Terbaru</h4>
-  <ul class="space-y-3 text-sm">
-    {% for p in site.posts limit:5 %}
-      <li><a href="{{ p.url }}" class="text-slate-600 hover:text-purple-600">{{ p.title | truncate:50 }}</a></li>
-    {% endfor %}
-  </ul>
+  <!-- Recent Articles -->
+  <div class="bg-white p-6 rounded-2xl border border-slate-100 shadow-sm">
+    <h4 class="font-bold text-slate-900 mb-4 pb-2 border-b border-slate-100">Artikel & Tips Terbaru</h4>
+    <ul class="space-y-3.5 text-sm">
+      {% for p in site.posts limit:5 %}
+        <li>
+          <a href="{{ p.url }}" class="text-slate-700 font-semibold hover:text-blue-600 transition line-clamp-2 leading-snug">
+            {{ p.title }}
+          </a>
+          <span class="text-[11px] text-slate-400 block mt-1">📅 {{ p.date | date: "%d %b %Y" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+    <div class="mt-4 pt-3 border-t border-slate-100 text-center">
+      <a href="{{ '/archive.html' | relative_url }}" class="text-xs font-bold text-blue-600 hover:underline">Lihat Semua Artikel →</a>
+    </div>
+  </div>
+
+  <!-- Service Guarantee Box -->
+  <div class="bg-gradient-to-br from-blue-600 to-indigo-700 p-6 rounded-2xl text-white shadow-lg shadow-blue-600/20">
+    <div class="text-2xl mb-2">🛡️</div>
+    <h4 class="font-bold text-base mb-2">Garansi Pengerjaan SNI</h4>
+    <p class="text-xs text-blue-100 leading-relaxed mb-4">
+      Setiap pemasangan kanopi dan pagar dilindungi garansi resmi. Survey gratis tanpa biaya untuk Priangan Timur (Tasikmalaya, Banjar, Ciamis, Cirebon & sekitarnya).
+    </p>
+    <a href="https://wa.me/6282120629736" class="inline-block w-full text-center bg-white text-blue-600 font-bold text-xs py-2.5 rounded-xl hover:bg-blue-50 transition">
+      Konsultasi Gratis
+    </a>
+  </div>
 </div>
