@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<article class="product-page py-4 md:py-12 bg-white sm:bg-slate-50 min-h-screen pb-28 lg:pb-12">
-  <div class="max-w-7xl mx-auto px-2 sm:px-6">
+<article class="product-page bg-white sm:bg-slate-50 min-h-screen pb-28 lg:pb-12">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-6 lg:py-10">
     
-    <!-- Breadcrumb -->
-    <nav class="flex items-center text-xs font-semibold text-slate-400 mb-6 flex-wrap gap-1.5 px-2 sm:px-0">
+    <!-- Breadcrumb Nav -->
+    <nav class="flex items-center text-xs font-semibold text-slate-400 mb-6 flex-wrap gap-2">
       <a href="/" class="hover:text-blue-600 transition">Beranda</a>
       <span>/</span>
       <a href="/products/" class="hover:text-blue-600 transition">Katalog Produk</a>
@@ -14,14 +14,14 @@ layout: default
       <span class="text-slate-700 font-bold line-clamp-1">{{ page.title }}</span>
     </nav>
 
-    <!-- Main Product Section Grid -->
-    <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 lg:gap-12 mb-12">
+    <!-- Main Product Showcase Grid -->
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 mb-12">
       
-      <!-- Left Column: Product Image & Highlights -->
+      <!-- Left Column: Media & Trust Showcase -->
       <div class="lg:col-span-6">
-        <div class="lg:sticky lg:top-24 space-y-4">
+        <div class="lg:sticky lg:top-24 space-y-5">
           <!-- Main Hero Image -->
-          <div class="relative aspect-[4/3] rounded-2xl md:rounded-3xl overflow-hidden bg-white border-0 sm:border sm:border-slate-200/80 shadow-none sm:shadow-md">
+          <div class="relative aspect-[4/3] rounded-2xl sm:rounded-3xl overflow-hidden bg-white border border-slate-200/80 shadow-md">
             {% if page.image %}
             <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="w-full h-full object-cover" />
             {% else %}
@@ -32,57 +32,57 @@ layout: default
             {% endif %}
             
             <div class="absolute top-3 left-3">
-              <span class="bg-blue-600/90 backdrop-blur-md text-white text-[11px] font-black px-2.5 py-1 rounded-lg shadow-sm uppercase tracking-wide">
-                Full SNI & Anti-Karat
+              <span class="bg-blue-600/90 backdrop-blur-md text-white text-[11px] font-black px-3 py-1 rounded-lg shadow-sm uppercase tracking-wide">
+                Garansi SNI 100%
               </span>
             </div>
             <div class="absolute top-3 right-3">
-              <span class="bg-slate-900/85 backdrop-blur-md text-yellow-400 text-[11px] font-extrabold px-2.5 py-1 rounded-lg shadow-sm flex items-center gap-1">
-                ★ 4.9 (500+ Proyek)
+              <span class="bg-slate-900/85 backdrop-blur-md text-yellow-400 text-[11px] font-extrabold px-3 py-1 rounded-lg shadow-sm flex items-center gap-1">
+                ★ 4.9 Rating Pelanggan
               </span>
             </div>
           </div>
 
-          <!-- Trust Cards Row (Mobile Friendly Grid) -->
+          <!-- Trust Cards Row (4 Grid Badges) -->
           <div class="grid grid-cols-2 sm:grid-cols-4 gap-2.5 text-center text-xs">
-            <div class="bg-slate-50 sm:bg-white p-3 rounded-xl border-0 sm:border sm:border-slate-200/80 shadow-none sm:shadow-sm">
-              <span class="text-lg block mb-0.5">📐</span>
+            <div class="bg-slate-50 sm:bg-white p-3 rounded-xl border border-slate-200/70 shadow-sm">
+              <span class="text-xl block mb-1">📐</span>
               <span class="font-bold text-slate-800 block text-[11px]">Survey Gratis</span>
-              <span class="text-[10px] text-slate-400">Tanpa Biaya</span>
+              <span class="text-[10px] text-slate-400">Tanpa Biaya Admin</span>
             </div>
-            <div class="bg-slate-50 sm:bg-white p-3 rounded-xl border-0 sm:border sm:border-slate-200/80 shadow-none sm:shadow-sm">
-              <span class="text-lg block mb-0.5">🛡️</span>
+            <div class="bg-slate-50 sm:bg-white p-3 rounded-xl border border-slate-200/70 shadow-sm">
+              <span class="text-xl block mb-1">🛡️</span>
               <span class="font-bold text-slate-800 block text-[11px]">Garansi 1 Tahun</span>
-              <span class="text-[10px] text-slate-400">Struktur & Bocor</span>
+              <span class="text-[10px] text-slate-400">Fisik & Structure</span>
             </div>
-            <div class="bg-slate-50 sm:bg-white p-3 rounded-xl border-0 sm:border sm:border-slate-200/80 shadow-none sm:shadow-sm">
-              <span class="text-lg block mb-0.5">⚡</span>
+            <div class="bg-slate-50 sm:bg-white p-3 rounded-xl border border-slate-200/70 shadow-sm">
+              <span class="text-xl block mb-1">⚡</span>
               <span class="font-bold text-slate-800 block text-[11px]">Pengerjaan Cepat</span>
-              <span class="text-[10px] text-slate-400">Teknisi Ahli</span>
+              <span class="text-[10px] text-slate-400">Teknisi berpengalaman</span>
             </div>
-            <div class="bg-slate-50 sm:bg-white p-3 rounded-xl border-0 sm:border sm:border-slate-200/80 shadow-none sm:shadow-sm">
-              <span class="text-lg block mb-0.5">🤝</span>
+            <div class="bg-slate-50 sm:bg-white p-3 rounded-xl border border-slate-200/70 shadow-sm">
+              <span class="text-xl block mb-1">🤝</span>
               <span class="font-bold text-slate-800 block text-[11px]">Harga Nego</span>
               <span class="text-[10px] text-slate-400">Sesuai Budget</span>
             </div>
           </div>
 
-          <!-- Coverage Badge Bar -->
-          <div class="bg-blue-50/70 p-3.5 rounded-xl border-0 sm:border sm:border-blue-100/80 text-xs">
-            <div class="flex items-center gap-2 mb-1.5 text-blue-900 font-extrabold text-[11px] uppercase tracking-wider">
+          <!-- Service Coverage Info Box -->
+          <div class="bg-blue-50/80 p-4 rounded-xl border border-blue-100 text-xs">
+            <div class="flex items-center gap-2 mb-1 text-blue-900 font-extrabold uppercase tracking-wider text-[11px]">
               <span>📍 Area Layanan Priangan Timur & Cirebon:</span>
             </div>
-            <p class="text-[11px] text-slate-600 leading-snug">
-              Melayani survei & pemasangan langsung ke lokasi di <span class="font-semibold text-slate-800">Tasikmalaya, Ciamis, Banjar, Cirebon, Garut, Pangandaran, Kuningan, Majalengka, dan Sumedang</span>.
+            <p class="text-slate-600 text-[11px] leading-relaxed">
+              Tim teknisi kami siap datang ke rumah Anda di <span class="font-semibold text-slate-800">Tasikmalaya, Ciamis, Banjar, Cirebon, Garut, Pangandaran, Kuningan, Majalengka, dan Sumedang</span>.
             </p>
           </div>
         </div>
       </div>
 
-      <!-- Right Column: Specs & Order Callout -->
-      <div class="lg:col-span-6 flex flex-col justify-between px-2 sm:px-0">
+      <!-- Right Column: Details & Pricing -->
+      <div class="lg:col-span-6 flex flex-col justify-between space-y-6">
         <div>
-          <!-- Category & Badge -->
+          <!-- Category Pill -->
           <div class="flex items-center gap-2.5 mb-3 flex-wrap">
             <span class="px-3 py-1 rounded-full bg-blue-100 text-blue-700 text-xs font-black uppercase tracking-wider">
               {{ page.category | default: "Konstruksi Besi" }}
@@ -92,52 +92,52 @@ layout: default
             </span>
           </div>
 
-          <!-- Title -->
-          <h1 class="text-2xl sm:text-3xl md:text-4xl font-black text-slate-900 mb-4 leading-tight">
+          <!-- Product Title -->
+          <h1 class="text-2xl sm:text-3xl lg:text-4xl font-black text-slate-900 mb-4 leading-tight">
             {{ page.title }}
           </h1>
 
-          <!-- Price & Estimation Box -->
-          <div class="bg-slate-50/70 sm:bg-white p-4 sm:p-6 rounded-2xl border-0 sm:border sm:border-slate-200/80 shadow-none sm:shadow-sm mb-6">
+          <!-- Price & Estimasi Box -->
+          <div class="bg-gradient-to-br from-blue-50/80 via-white to-slate-50 p-5 sm:p-6 rounded-2xl border border-blue-100 shadow-sm mb-6">
             <span class="text-[11px] text-slate-400 font-bold uppercase tracking-wider block mb-1">Estimasi Biaya Pengerjaan</span>
-            <div class="flex items-baseline gap-2 flex-wrap">
-              <span class="text-2xl sm:text-3xl md:text-4xl font-black text-blue-600">
+            <div class="flex items-baseline gap-2 flex-wrap mb-2">
+              <span class="text-3xl sm:text-4xl font-black text-blue-600">
                 {{ page.price | default: "Hubungi Admin" }}
               </span>
               <span class="text-xs text-slate-500 font-medium">*Termasuk Material SNI + Jasa Pasang</span>
             </div>
-            <p class="text-xs text-slate-400 mt-2">
-              💡 Harga bersifat fleksibel tergantung ketebalan besi, pilihan jenis atap, dan luas volume meter persegi (m²).
+            <p class="text-xs text-slate-500 leading-relaxed">
+              💡 Biaya menyesuaikan ketebalan besi hollow/wf, pilihan atap, dan volume pengukuran meter persegi (m²).
             </p>
           </div>
 
-          <!-- Technical Specs Card -->
-          <div class="bg-slate-50/70 sm:bg-white rounded-2xl border-0 sm:border sm:border-slate-200/80 p-4 sm:p-6 shadow-none sm:shadow-sm mb-6">
-            <h3 class="font-extrabold text-slate-900 text-xs mb-3 pb-2 border-b border-slate-200/60 uppercase tracking-wider text-blue-600 flex items-center gap-1.5">
-              <span>⚙️</span> Spesifikasi Teknis & Layanan
+          <!-- Technical Specs Table -->
+          <div class="bg-white rounded-2xl border border-slate-200/80 p-5 sm:p-6 shadow-sm mb-6">
+            <h3 class="font-extrabold text-slate-900 text-xs mb-3 pb-2 border-b border-slate-100 uppercase tracking-wider text-blue-600 flex items-center gap-1.5">
+              <span>⚙️</span> Spesifikasi Material & Garansi
             </h3>
             <div class="space-y-2.5 text-xs text-slate-700 font-medium">
-              <div class="flex justify-between py-1 border-b border-slate-100 gap-2">
-                <span class="text-slate-400 shrink-0">Material Rangka</span>
+              <div class="flex justify-between py-1 border-b border-slate-50 gap-2">
+                <span class="text-slate-400 shrink-0">Bahan Rangka</span>
                 <span class="font-bold text-slate-900 text-right">Besi Hollow Galvanis Anti Karat SNI</span>
               </div>
-              <div class="flex justify-between py-1 border-b border-slate-100 gap-2">
+              <div class="flex justify-between py-1 border-b border-slate-50 gap-2">
                 <span class="text-slate-400 shrink-0">Finishing Cat</span>
-                <span class="font-bold text-slate-900 text-right">Primer Anti-Karat + Cat Top Coat</span>
+                <span class="font-bold text-slate-900 text-right">Epoxy Anti-Karat + Cat Color Top Coat</span>
               </div>
-              <div class="flex justify-between py-1 border-b border-slate-100 gap-2">
+              <div class="flex justify-between py-1 border-b border-slate-50 gap-2">
                 <span class="text-slate-400 shrink-0">Layanan Survey</span>
                 <span class="font-bold text-green-600 text-right">GRATIS (Tanpa Biaya Admin)</span>
               </div>
               <div class="flex justify-between py-1 gap-2">
-                <span class="text-slate-400 shrink-0">Garansi Pengerjaan</span>
-                <span class="font-bold text-slate-900 text-right">1 Tahun Garansi Resmi Fisik</span>
+                <span class="text-slate-400 shrink-0">Jaminan Garansi</span>
+                <span class="font-bold text-slate-900 text-right">1 Tahun Garansi Kebocoran & Struktur</span>
               </div>
             </div>
           </div>
 
-          <!-- Description Prose -->
-          <div class="bg-white sm:bg-white rounded-2xl border-0 sm:border sm:border-slate-200/80 p-0 sm:p-6 shadow-none sm:shadow-sm mb-6">
+          <!-- Product Description Content -->
+          <div class="bg-white rounded-2xl border border-slate-200/80 p-5 sm:p-6 shadow-sm mb-6">
             <h3 class="font-extrabold text-slate-900 text-xs mb-3 pb-2 border-b border-slate-100 uppercase tracking-wider text-blue-600">
               Deskripsi & Keunggulan Produk
             </h3>
@@ -145,15 +145,26 @@ layout: default
               {{ content }}
             </div>
           </div>
+
+          <!-- How to Order Guide -->
+          <div class="bg-slate-50 p-5 sm:p-6 rounded-2xl border border-slate-200/80 text-xs mb-6">
+            <h4 class="font-extrabold text-slate-900 uppercase tracking-wider mb-3 text-blue-600">Alur Pemesanan Mudah</h4>
+            <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 text-center font-semibold text-slate-700">
+              <div class="bg-white p-2.5 rounded-xl border border-slate-200/60">1. Konsultasi WA</div>
+              <div class="bg-white p-2.5 rounded-xl border border-slate-200/60">2. Survey Lokasi</div>
+              <div class="bg-white p-2.5 rounded-xl border border-slate-200/60">3. RAB & DP</div>
+              <div class="bg-white p-2.5 rounded-xl border border-slate-200/60">4. Pasang & Garansi</div>
+            </div>
+          </div>
         </div>
 
-        <!-- Desktop Action Buttons (Hidden on small screens, visible lg+) -->
+        <!-- Desktop Direct Order Buttons -->
         <div class="hidden lg:block space-y-3 pt-2">
           <a href="https://wa.me/6282120629736?text=Halo%20Kinglas%20Tehnik,%20saya%20tertarik%20dengan%20produk%20{{ page.title | url_encode }}%20dan%20ingin%20jadwalkan%20survey%20lokasi" 
              target="_blank" rel="noopener noreferrer"
              class="w-full bg-green-500 hover:bg-green-600 text-white font-black text-sm py-4 px-6 rounded-2xl flex items-center justify-center gap-3 shadow-lg shadow-green-500/25 transition transform hover:-translate-y-0.5">
-            <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24">
-              <path d="M17.5 14.5c-.3-.1-1.8-.9-2.1-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-1 1.2-.2.2-.4.2-.7.1-.3-.1-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.1-.22.2-.3.3-.5.1-.2 0-.4-.1-.5-.1-.1-.7-1.6-1-2.2-.2-.5-.5-.5-.7-.5-.2 0-.4 0-.6 0-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5 0 1.5 1.1 2.9 1.2 3.1.1.2 2.1 3.2 5.2 4.6.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.2-.7.2-1.3.2-1.4 0-.1-.3-.2-.6-.3z" />
+            <svg class="w-6 h-6 fill-current shrink-0" viewBox="0 0 24 24">
+              <path d="M17.5 14.5c-.3-.1-1.8-.9-2.1-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-1 1.2-.2.2-.4.2-.7.1-.3-.1-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.1-.2.2-.3.3-.5.1-.2 0-.4-.1-.5-.1-.1-.7-1.6-1-2.2-.2-.5-.5-.5-.7-.5-.2 0-.4 0-.6 0-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5 0 1.5 1.1 2.9 1.2 3.1.1.2 2.1 3.2 5.2 4.6.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.2-.7.2-1.3.2-1.4 0-.1-.3-.2-.6-.3z" />
             </svg>
             <span>Konsultasi & Survey Gratis via WhatsApp</span>
           </a>
@@ -165,12 +176,12 @@ layout: default
       </div>
     </div>
 
-    <!-- Related Products Grid -->
-    <div class="mt-8 sm:mt-12 pt-8 sm:pt-10 border-t border-slate-100 sm:border-slate-200 px-2 sm:px-0">
+    <!-- Related Products Showcase Grid -->
+    <div class="mt-12 pt-10 border-t border-slate-200">
       <div class="flex justify-between items-end mb-6">
         <div>
           <h2 class="text-xl sm:text-2xl font-black text-slate-900">Produk Terkait Lainnya</h2>
-          <p class="text-xs text-slate-400">Pilihan produk besi terbaik Kinglas Tehnik di Priangan Timur</p>
+          <p class="text-xs text-slate-400">Pilihan konstruksi besi terbaik Kinglas Tehnik di Priangan Timur</p>
         </div>
         <a href="/products/" class="text-xs font-bold text-blue-600 hover:underline shrink-0">Lihat Semua Katalog →</a>
       </div>
