@@ -148,7 +148,7 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
-Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0821-2062-9736](https://wa.me/6282120629736).
+Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).
 
 
 ## Kesimpulan
@@ -160,7 +160,7 @@ Sebagai bengkel las spesialis di Priangan Timur, **Kinglas Tehnik** siap menjadi
 **Jangan biarkan siswa dan fasilitas sekolah rusak karena cuaca!** Konsultasikan rencana pembuatan kanopi sekolah Anda bersama kami SEKARANG JUGA. 
 
 **Hubungi Kami:**
-📲 **WhatsApp/Telepon**: [0821-2062-9736](https://wa.me/6282120629736)
+📲 **WhatsApp/Telepon**: [0851-8181-4469](https://wa.me/6285181814469)
 🏢 **Alamat Workshop**: Area Layanan Utama: Priangan Timur (Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut)
 🌐 **Website**: [kinglastehnik.com](https://kinglastehnik.com)
 

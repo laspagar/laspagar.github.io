@@ -77,8 +77,8 @@ Terakhir, apapun pilihan finishing Anda, pastikan pengerjaannya dilakukan oleh t
 **Ingin konsultasi jenis finishing yang pas untuk budget Anda?**
 Tim **Kinglas Tehnik** siap memberikan solusi terbaik yang sesuai dengan kebutuhan fungsional dan estetika rumah Anda.
 
-📲 **Konsultasi via WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)
-📒 WhatsApp Kami: 0821-2062-9736 📍 Layanan: Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Soreang, Jatinangor.
+📲 **Konsultasi via WhatsApp**: [0851-8181-4469](https://wa.me/6285181814469)
+📒 WhatsApp Kami: 0851-8181-4469 📍 Layanan: Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Soreang, Jatinangor.
 
 [**Lihat Portfolio Hasil Kerja Kami**](https://laspagar.github.io/products)
 
@@ -96,5 +96,5 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
-Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0821-2062-9736](https://wa.me/6282120629736).
+Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).
 

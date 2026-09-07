@@ -97,7 +97,7 @@ A: Tentu saja! Kami memiliki katalog warna primer hingga warna modern seperti ab
 
 Ingin mendapatkan hitungan RAB yang lebih akurat dan detail sesuai ukuran pintu Anda? Kirimkan foto lokasi Anda sekarang juga melalu WhatsApp.
 
-📲 **Hubungi Tim Sales**: [0821-2062-9736](https://wa.me/6282120629736)
+📲 **Hubungi Tim Sales**: [0851-8181-4469](https://wa.me/6285181814469)
 📍 **Kinglas Tehnik**: Amanah, Berkualitas, & Bergaransi.
 
 [**Kembali ke Artikel Utama Pintu Garasi**](/posts/2025-12-28-pintu-garasi-murah-setu-Priangan Timur-terlengkap)
@@ -116,5 +116,5 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
-Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0821-2062-9736](https://wa.me/6282120629736).
+Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).
 

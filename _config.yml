@@ -21,6 +21,9 @@ linkedin_username: "linkedinuser"
 #########################################################################################
 # theme: "minima"  # Using custom layouts instead
 
+# Mengaktifkan pembuatan halaman untuk tanggal terjadwal (mencegah error 404 di GitHub Pages)
+future: true
+
 rss: rss
 
 kramdown:

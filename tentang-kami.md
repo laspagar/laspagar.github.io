@@ -61,11 +61,11 @@ permalink: /tentang/
                 <h2 class="text-3xl font-bold mb-4">Siap Mempercantik Rumah Anda?</h2>
                 <p class="text-slate-300 mb-8 max-w-2xl mx-auto">Konsultasikan kebutuhan las pagar, kanopi, atau konstruksi Anda dengan tim ahli kami. Survey Gratis untuk area Priangan Timur (Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut)!</p>
                 <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                    <a href="https://wa.me/6282120629736" class="bg-green-500 hover:bg-green-600 text-white px-8 py-3 rounded-full font-bold transition-all shadow-lg hover:shadow-green-500/30 flex items-center">
+                    <a href="https://wa.me/6285181814469" class="bg-green-500 hover:bg-green-600 text-white px-8 py-3 rounded-full font-bold transition-all shadow-lg hover:shadow-green-500/30 flex items-center">
                         <i class="fab fa-whatsapp mr-2"></i> Chat WhatsApp
                     </a>
                     <div class="text-slate-400 text-sm sm:mx-2">atau</div>
-                    <span class="text-xl font-bold font-mono text-blue-400">081316777302</span>
+                    <span class="text-xl font-bold font-mono text-blue-400">0851-8181-4469</span>
                 </div>
             </div>
         </div>

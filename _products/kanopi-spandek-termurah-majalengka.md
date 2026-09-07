@@ -31,6 +31,6 @@ Bahannya terbuat dari lembaran Zincalume (Seng & Aluminium) yang ringan namun sa
 *Minimal order 15m². Di bawah itu ada penyesuaian harga.*
 
 **Pesan Sekarang di WA:**
-[0821-2062-9736](https://wa.me/6282120629736)
+[0851-8181-4469](https://wa.me/6285181814469)
 
 **[Mau yang Lebih Adem? Cek Kanopi Alderon](/products/kanopi-alderon-murah-setu-bekasi)**

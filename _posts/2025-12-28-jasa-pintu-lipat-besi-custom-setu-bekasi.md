@@ -61,7 +61,7 @@ Kami melayani jasa pembuatan dan pemasangan pintu lipat besi di seluruh wilayah 
 
 Jangan biarkan garasi atau toko Anda tanpa perlindungan yang maksimal. Hubungi **Kinglas Tehnik** sekarang untuk mendapatkan penawaran harga terbaik.
 
-📲 **Konsultasi WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)
+📲 **Konsultasi WhatsApp**: [0851-8181-4469](https://wa.me/6285181814469)
 📍 **Workshop**: Area Layanan Utama: Priangan Timur (Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut)
 🕒 **Jam Operasional**: Senin - Sabtu (08.00 - 17.00 WIB).
 
@@ -81,5 +81,5 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
-Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0821-2062-9736](https://wa.me/6282120629736).
+Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).
 

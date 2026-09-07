@@ -64,7 +64,7 @@ Kami di **Kinglas Tehnik** siap menjadi mitra diskusi Anda. Tim desainer kami ti
 **Wujudkan Rumah Impian Anda Sekarang:**
 Konsultasi desain dan survey lokasi gratis untuk seluruh wilayah Priangan Timur Raya.
 
-📲 **WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)
+📲 **WhatsApp**: [0851-8181-4469](https://wa.me/6285181814469)
 📍 **Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 
 [**Kunjungi Portfolio Produk Kami**](https://laspagar.github.io/products)
@@ -82,5 +82,5 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
-Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0821-2062-9736](https://wa.me/6282120629736).
+Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).
 

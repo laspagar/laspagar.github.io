@@ -15,7 +15,7 @@ Pertanyaan ini terdengar sederhana, tapi jawabannya bisa sangat bervariasi. Ada 
 
 Sebagai bengkel las yang sudah 10+ tahun melayani warga Priangan Timur (mulai dari perumahan subsidi hingga cluster elite di Dago), **Kinglas Tehnik** ingin buka-bukaan soal struktur harga kanopi.
 
-📒 WhatsApp Kami: 0821-2062-9736 📍 Layanan: Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Soreang, Jatinangor.
+📒 WhatsApp Kami: 0851-8181-4469 📍 Layanan: Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Soreang, Jatinangor.
 
 ![Pemasangan Kanopi Minimalis Plafon PVC di Priangan Timur](/assets/products/kanopi-kordoba-plafon-pvc.jpg)
 
@@ -106,7 +106,7 @@ Beliau ingin yang adem dan tidak berisik (Pilih **Alderon**).
 **Sudah siap menghitung budget Anda?**
 Tim Kinglas Tehnik siap survey gratis ke lokasi Anda untuk pengukuran presisi.
 
-📲 **WA Sales**: [0821-2062-9736](https://wa.me/6282120629736)
+📲 **WA Sales**: [0851-8181-4469](https://wa.me/6285181814469)
 📍 **Area Layanan**: Kota Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, KBB (Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut/Area Layanan Utama: Priangan Timur (Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut)), Kab Priangan Timur (Soreang/Banjaran).
 
 *Jangan korbankan kualitas demi harga murah. Rumah adalah aset jangka panjang.*
@@ -125,5 +125,5 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
-Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0821-2062-9736](https://wa.me/6282120629736).
+Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).
 

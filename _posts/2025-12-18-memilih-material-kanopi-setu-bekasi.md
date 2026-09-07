@@ -80,7 +80,7 @@ Masih bingung menghitung total biayanya? Silakan baca artikel kami tentang [**es
 **Konsultasi Material Gratis:**
 Kami siap membawakan sampel material (potongan Alderon, Kaca, Spandek) saat survey ke rumah Anda agar Anda bisa memegang dan melihat kualitasnya secara langsung.
 
-📲 **Hubungi Kami via WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)
+📲 **Hubungi Kami via WhatsApp**: [0851-8181-4469](https://wa.me/6285181814469)
 📍 **Kinglas Tehnik**: Spesialis Kanopi, Pagar, Tangga & Konstruksi Besi.
 
 [**Lihat Portfolio Pemasangan Kanopi Kami**](https://laspagar.github.io/products)
@@ -99,5 +99,5 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
-Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0821-2062-9736](https://wa.me/6282120629736).
+Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).
 

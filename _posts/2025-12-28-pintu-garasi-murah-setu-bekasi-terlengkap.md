@@ -168,7 +168,7 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
-Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0821-2062-9736](https://wa.me/6282120629736).
+Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).
 
 
 ## Kesimpulan: Amankan Properti Anda Sekarang!
@@ -177,7 +177,7 @@ Memiliki pintu garasi yang kokoh adalah salah satu bentuk kasih sayang Anda pada
 
 Jangan sampai pencuri masuk atau pintu garasi Anda ambruk karena karat. Lindungi rumah Anda dengan pintu besi terbaik dari ahlinya.
 
-📲 **Konsultasi WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)
+📲 **Konsultasi WhatsApp**: [0851-8181-4469](https://wa.me/6285181814469)
 📍 **Alamat Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 
 ---

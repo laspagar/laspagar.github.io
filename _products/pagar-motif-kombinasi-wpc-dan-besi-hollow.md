@@ -33,4 +33,4 @@ WPC adalah material campuran serbuk kayu dan plastik.
 **[Lihat Juga: Pagar Laser Cutting Custom](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
 
 **Pesan Sekarang:**
-[0821-2062-9736](https://wa.me/6282120629736)
+[0851-8181-4469](https://wa.me/6285181814469)

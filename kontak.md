@@ -42,7 +42,7 @@ description: "Hubungi bengkel las Kinglas Tehnik Priangan Timur untuk konsultasi
                                 <div>
                                     <h3 class="font-bold text-slate-900 text-base mb-1">WhatsApp Respon Cepat</h3>
                                     <p class="text-slate-600 text-sm">
-                                        <a href="https://wa.me/6282120629736" class="text-green-600 font-bold hover:underline">+62 821-2062-9736</a>
+                                        <a href="https://wa.me/6285181814469" class="text-green-600 font-bold hover:underline">+62 851-8181-4469</a>
                                     </p>
                                     <p class="text-xs text-slate-400 mt-1">Aktif Setiap Hari (08:00 - 20:00 WIB)</p>
                                 </div>
@@ -55,7 +55,7 @@ description: "Hubungi bengkel las Kinglas Tehnik Priangan Timur untuk konsultasi
                                 <div>
                                     <h3 class="font-bold text-slate-900 text-base mb-1">Telepon Direct</h3>
                                     <p class="text-slate-600 text-sm">
-                                        <a href="tel:+6281316777302" class="text-indigo-600 font-bold hover:underline">081316777302</a>
+                                        <a href="tel:+6285181814469" class="text-indigo-600 font-bold hover:underline">0851-8181-4469</a>
                                     </p>
                                 </div>
                             </div>
@@ -75,7 +75,7 @@ description: "Hubungi bengkel las Kinglas Tehnik Priangan Timur untuk konsultasi
                     </div>
 
                     <div class="mt-8 pt-6 border-t border-slate-100">
-                        <a href="https://wa.me/6282120629736?text=Halo%20Kinglas%20Tehnik,%20saya%20ingin%20konsultasi%20pembuatan%20kanopi/pagar" class="w-full bg-green-500 hover:bg-green-600 text-white font-bold py-3.5 px-6 rounded-xl flex items-center justify-center gap-2 transition-all shadow-lg hover:shadow-green-500/20">
+                        <a href="https://wa.me/6285181814469?text=Halo%20Kinglas%20Tehnik,%20saya%20ingin%20konsultasi%20pembuatan%20kanopi/pagar" class="w-full bg-green-500 hover:bg-green-600 text-white font-bold py-3.5 px-6 rounded-xl flex items-center justify-center gap-2 transition-all shadow-lg hover:shadow-green-500/20">
                             <span>Hubungi via WhatsApp</span>
                         </a>
                     </div>

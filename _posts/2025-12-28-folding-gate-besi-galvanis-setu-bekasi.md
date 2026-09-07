@@ -66,7 +66,7 @@ Memang di awal Anda akan merogoh kocek sedikit lebih dalam, namun dalam 5 tahun 
 
 Keamanan rumah Anda layak mendapatkan material terbaik. Jangan korbankan ketenangan pikiran demi harga yang beda tipis. Ganti pintu lama Anda dengan **Folding Gate Galvanis** yang lebih tangguh sekarang juga!
 
-📲 **WhatsApp Kami**: [0821-2062-9736](https://wa.me/6282120629736)
+📲 **WhatsApp Kami**: [0851-8181-4469](https://wa.me/6285181814469)
 📍 **Layanan**: Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Soreang, Jatinangor.
 
 [**Kunjungi Portfolio Pintu Garasi Kami**](https://laspagar.github.io/products)
@@ -85,5 +85,5 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
-Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0821-2062-9736](https://wa.me/6282120629736).
+Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).
 

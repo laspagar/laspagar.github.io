@@ -30,6 +30,6 @@ Mulai **Rp 1.350.000 / m²** (Konstruksi standar balkon jemuran).
 Untuk fungsi beban berat (gudang/kamar), kami perlu hitung struktur dulu (GRATIS konsultasi).
 
 **Hubungi Engineering Kami:**
-[0821-2062-9736](https://wa.me/6282120629736)
+[0851-8181-4469](https://wa.me/6285181814469)
 
 **[Baca Panduan Lengkap Mezzanine Disini](/posts/2025-12-28-panduan-kanopi-mezzanine-setu-bekasi)**

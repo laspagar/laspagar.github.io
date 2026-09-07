@@ -28,5 +28,5 @@ Kami melayani pengiriman dan pemasangan untuk seluruh area Priangan Timur Raya, 
 [**Cek Harga Pintu Lipat Besi Per Meter Terbaru**](/posts/2025-12-28-harga-pintu-lipat-besi-setu-bekasi-2025)
 
 **Hubungi Kinglas Tehnik:**
-📲 [0821-2062-9736](https://wa.me/6282120629736)
+📲 [0851-8181-4469](https://wa.me/6285181814469)
 📍 Workshop: Area Layanan Utama: Priangan Timur (Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut), Priangan Timur Barat.

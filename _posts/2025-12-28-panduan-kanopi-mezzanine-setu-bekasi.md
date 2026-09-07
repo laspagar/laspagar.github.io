@@ -59,7 +59,7 @@ Harga pembuatan kanopi mezzanine di Priangan Timur berkisar mulai dari **Rp 1.xx
 
 Jangan biarkan lahan terbatas membatasi kenyamanan keluarga Anda. Hubungi **Kinglas Tehnik** hari ini. Kami siap datang ke lokasi Anda untuk **Survey & Konsultasi GRATIS**.
 
-**[📞 Hubungi WhatsApp Kami Sekarang](https://wa.me/6282120629736?text=Halo%20Las%20Pagar,%20saya%20tertarik%20info%20Mezzanine)**
+**[📞 Hubungi WhatsApp Kami Sekarang](https://wa.me/6285181814469?text=Halo%20Las%20Pagar,%20saya%20tertarik%20info%20Mezzanine)**
 
 [**Kembali ke Halaman Utama**](/)
 
@@ -80,5 +80,5 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
-Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0821-2062-9736](https://wa.me/6282120629736).
+Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).
 

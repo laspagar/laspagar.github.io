@@ -90,7 +90,7 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
-Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0821-2062-9736](https://wa.me/6282120629736).
+Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).
 
 
 ## Kesimpulan: Mana yang Pas untuk Anda?
@@ -100,7 +100,7 @@ Memilih model pintu garasi harus menyesuaikan dengan **fasad rumah** dan **fungs
 Masih bingung? Tim desain **Kinglas Tehnik** siap datang ke lokasi Anda untuk melakukan survey dan memberikan saran model yang paling proporsional untuk rumah Anda.
 
 **Survey & Konsultasi Gratis:**
-📲 **WhatsApp**: [0821-2062-9736](https://wa.me/6282120629736)
+📲 **WhatsApp**: [0851-8181-4469](https://wa.me/6285181814469)
 📍 **Workshop**: Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252
 
 [**Lihat Portfolio Pintu Garasi Kami Lainnya**](/products)

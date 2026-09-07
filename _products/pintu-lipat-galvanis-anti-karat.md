@@ -27,5 +27,5 @@ Dengan lapisan pelindung Zinc, besi di dalamnya aman dari korosi meskipun sering
 Ganti pintu lama Anda yang sudah berkarat dengan solusi masa depan dari Kinglas Tehnik.
 
 **Tanya Spek Material Gratis:**
-📲 WhatsApp: [0821-2062-9736](https://wa.me/6282120629736)
+📲 WhatsApp: [0851-8181-4469](https://wa.me/6285181814469)
 📍 Layanan: Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut.

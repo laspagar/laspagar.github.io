@@ -49,7 +49,7 @@ description: "Syarat dan Ketentuan penggunaan layanan pembuatan kanopi, pagar be
                 <div class="bg-slate-50 p-4 rounded-lg border border-slate-200">
                     <p class="font-bold text-slate-900">Kinglas Tehnik Priangan Timur</p>
                     <p class="text-sm text-slate-600">Area Layanan: Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka</p>
-                    <p class="text-sm text-slate-600">WhatsApp: +62 821-2062-9736 | Telepon: 081316777302</p>
+                    <p class="text-sm text-slate-600">WhatsApp: +62 851-8181-4469 | Telepon: 0851-8181-4469</p>
                     <p class="text-sm text-slate-600">Email: admin@kinglastehnik.com</p>
                 </div>
             </div>
