@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Estimasi Harga Pintu Garasi Besi Minimalis per Meter 2026"
 date: 2025-12-28 17:30:00 +0700
@@ -39,7 +39,7 @@ Ini adalah model yang paling banyak digunakan di perumahan cluster Priangan Timu
 Jika Anda memiliki budget terbatas, model hollow jari-jari adalah solusinya.
 *   **Hollow Galvanis 4x4 (Anti Karat)**: Rp 850.000 - Rp 1.100.000 / m².
 *   **Model Jari-jari Rapat**: Rp 1.200.000 / m².
-*   Dapatkan inspirasi desainnya di artikel: [**7 Model Pintu Garasi Minimalis Terbaru**](/posts/2025-12-28-model-pintu-garasi-minimalis-terbaru).
+*   Dapatkan inspirasi desainnya di artikel: [**7 Model Pintu Garasi Minimalis Terbaru**]({% post_url 2025-12-28-model-pintu-garasi-minimalis-terbaru %}).
 
 ## 3. Pintu Garasi Kombinasi Kayu / Woodplank (Industrial)
 Cocok untuk hunian bergaya tropis atau industrial di area Dago atau Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut.
@@ -54,7 +54,7 @@ Kesلطan yang sering dilakukan pemula adalah melupakan biaya rel. Pintu garasi 
 *   **Set Rel Sliding Tikung (Lengkap)**: Rp 3.500.000 - Rp 5.500.000 (tergantung jumlah daun dan merk).
 *   **Set Rel Lipat (Folding)**: Rp 2.500.000 - Rp 4.000.000.
 
-Bingung memilih sistem bukanya? Baca komparasi lengkapnya di: [**Pintu Garasi Sliding vs Lipat: Mana yang Cocok?**](/posts/2025-12-28-pintu-garasi-sliding-vs-lipat-setu-Priangan Timur).
+Bingung memilih sistem bukanya? Baca komparasi lengkapnya di: [**Pintu Garasi Manual vs Otomatis: Mana yang Cocok?**]({% post_url 2025-12-28-pintu-garasi-lipat-manual-otomatis-setu-bekasi %}).
 
 ---
 
@@ -75,10 +75,10 @@ Misalkan garasi Anda memiliki lebar 3 meter dan tinggi 2.3 meter (butuh sekitar 
 ## Faktor yang Membuat Harga Variatif di Priangan Timur
 1.  **Jarak Pengerjaan**: Lokasi di area terpencil atau lantai 2 biasanya ada tambahan biaya angkut/mobilisasi.
 2.  **Ketebalan Plat Besi**: Kami selalu menggunakan plat **FULL**, bukan plat "banci" yang tipis dan mudah penyok.
-3.  **Teknik Pengecatan**: Kami menawarkan opsi [**Finishing Powder Coating**](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu-Priangan Timur) agar warna tahan banting dan anti gores bertahun-tahun.
+3.  **Teknik Pengecatan**: Kami menawarkan opsi [**Finishing Powder Coating**]({% post_url 2025-12-14-finishing-powdercoat-vs-galvanis-setu-bekasi %}) agar warna tahan banting dan anti gores bertahun-tahun.
 
 ### Tips Dapat Harga Murah Namun Berkualitas
-Jangan tergiur harga di bawah pasar yang tidak masuk akal. Seringkali penghematan dilakukan pada kualitas rel atau ketebalan besi. Kami sudah merangkum strateginya untuk Anda: [**Tips Rahasia Dapat Harga Pintu Garasi Murah**](/posts/2025-12-28-tips-hemat-pintu-garasi-murah).
+Jangan tergiur harga di bawah pasar yang tidak masuk akal. Seringkali penghematan dilakukan pada kualitas rel atau ketebalan besi. Kami sudah merangkum panduannya untuk Anda: [**Panduan Memilih Pintu Garasi Murah**]({% post_url 2025-12-28-pintu-garasi-murah-setu-bekasi-terlengkap %}).
 
 ## Siap Memasang Pintu Garasi Impian?
 Survey lokasi adalah langkah terbijak. Tim **Kinglas Tehnik** siap datang ke rumah Anda untuk mengukur secara presisi dan memberikan saran teknis yang pas agar pintu garasi Anda awet puluhan tahun.
@@ -87,7 +87,7 @@ Survey lokasi adalah langkah terbijak. Tim **Kinglas Tehnik** siap datang ke rum
 📲 **WhatsApp**: [0851-8181-4469](https://wa.me/6285181814469)
 📍 **Workshop**: Area Layanan Utama: Priangan Timur (Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut)
 
-[**Kembali ke Panduan Utama Pintu Garasi Priangan Timur**](/posts/2025-12-28-pintu-garasi-murah-setu-Priangan Timur-terlengkap)
+[**Kembali ke Panduan Utama Pintu Garasi Priangan Timur**]({% post_url 2025-12-28-pintu-garasi-murah-setu-bekasi-terlengkap %})
 
 
 ---
@@ -100,7 +100,7 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - ☀️ **[Pasang Kanopi Alderon Double Layer & Kaca Tempered](/products/kanopi-alderon-murah-cirebon)**
 - 🚪 **[Pintu Lipat Besi Galvanis Anti Karat untuk Garasi & Toko](/products/pintu-lipat-galvanis-anti-karat)**
 - 🪜 **[Desain Tangga Besi Minimalis & Mezzanine](/products/desain-tangga-besi-minimalis)**
-- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
+- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi/)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
 Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).

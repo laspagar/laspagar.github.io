@@ -145,7 +145,7 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - ☀️ **[Pasang Kanopi Alderon Double Layer & Kaca Tempered](/products/kanopi-alderon-murah-cirebon)**
 - 🚪 **[Pintu Lipat Besi Galvanis Anti Karat untuk Garasi & Toko](/products/pintu-lipat-galvanis-anti-karat)**
 - 🪜 **[Desain Tangga Besi Minimalis & Mezzanine](/products/desain-tangga-besi-minimalis)**
-- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
+- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi/)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
 Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).

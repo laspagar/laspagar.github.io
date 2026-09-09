@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Panduan Memilih Pintu Lipat Besi Toko & Garasi Tahan Lama"
 date: 2025-12-28 17:15:00 +0700
@@ -31,7 +31,7 @@ Ini adalah "tulang" pintu Anda. Banyak paket murah yang menggunakan UNP tipis. H
 ### 3. Jenis Finishing (Cat)
 Pilihan cat sangat berpengaruh pada keawetan.
 *   **Cat Semprot (Standard)**: Lebih murah, namun rentan lecet seiring waktu.
-*   **Powder Coating (Premium)**: Lebih mahal, tapi sangat keras, anti gores, dan warna tidak pudar hingga 10 tahun. Baca perbandingannya di: [**Cat Semprot vs Powder Coating**](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu-Priangan Timur).
+*   **Powder Coating (Premium)**: Lebih mahal, tapi sangat keras, anti gores, dan warna tidak pudar hingga 10 tahun. Baca perbandingannya di: [**Cat Semprot vs Powder Coating**]({% post_url 2025-12-14-finishing-powdercoat-vs-galvanis-setu-bekasi %}).
 
 ### 4. Merk Komponen Aksesoris
 Komponen seperti roda bearing, kunci (lock set), dan engsel silang menentukan kelancaran operasional. Penggunaan merk premium seperti Wina atau Henderson tentu akan menambah biaya, namun memberikan kenyaman operasional luar biasa (pintu terasa ringan didorong).
@@ -82,7 +82,7 @@ Banyak iklan di marketplace yang menawarkan harga Rp 300rb-an. Hati-hati! Sering
 3.  **Survey Langsung**: Mintalah survey ke lokasi. Dengan survey, kami bisa memberikan rincian material yang paling efisien sesuai ukuran lubang pintu Anda.
 4.  **Cek Portfolio**: Pastikan bengkel yang Anda pilih punya workshop fisik yang asli. Anda bisa berkunjung ke workshop kami di Dusun Munjul, RT.09/RW.17, Buniseuri, Kec. Cipaku, Jawa Barat 46252 untuk melihat proses produksinya.
 
-Tabel [**Biaya Pasang Kanopi Priangan Timur**](/posts/2025-12-12-biaya-pasang-kanopi-estimasi-setu-Priangan Timur) juga bisa menjadi referensi jika Anda berencana melakukan renovasi eksterior rumah secara menyeluruh.
+Tabel [**Biaya Pasang Kanopi Priangan Timur**]({% post_url 2025-12-12-biaya-pasang-kanopi-estimasi-setu-bekasi %}) juga bisa menjadi referensi jika Anda berencana melakukan renovasi eksterior rumah secara menyeluruh.
 
 ## FAQ – Pertanyaan Sering Diajukan
 
@@ -100,7 +100,7 @@ Ingin mendapatkan hitungan RAB yang lebih akurat dan detail sesuai ukuran pintu 
 📲 **Hubungi Tim Sales**: [0851-8181-4469](https://wa.me/6285181814469)
 📍 **Kinglas Tehnik**: Amanah, Berkualitas, & Bergaransi.
 
-[**Kembali ke Artikel Utama Pintu Garasi**](/posts/2025-12-28-pintu-garasi-murah-setu-Priangan Timur-terlengkap)
+[**Kembali ke Artikel Utama Pintu Garasi**]({% post_url 2025-12-28-pintu-garasi-murah-setu-bekasi-terlengkap %})
 
 
 ---
@@ -113,7 +113,7 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - ☀️ **[Pasang Kanopi Alderon Double Layer & Kaca Tempered](/products/kanopi-alderon-murah-cirebon)**
 - 🚪 **[Pintu Lipat Besi Galvanis Anti Karat untuk Garasi & Toko](/products/pintu-lipat-galvanis-anti-karat)**
 - 🪜 **[Desain Tangga Besi Minimalis & Mezzanine](/products/desain-tangga-besi-minimalis)**
-- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
+- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi/)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
 Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).

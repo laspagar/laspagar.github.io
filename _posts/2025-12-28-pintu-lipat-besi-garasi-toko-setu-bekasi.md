@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Aplikasi Pintu Lipat Besi untuk Garasi Rumah & Ruko Komersial"
 date: 2025-12-28 17:00:00 +0700
@@ -34,7 +34,7 @@ Meskipun prinsip kerjanya sama, spesifikasi yang dibutuhkan biasanya berbeda ter
 
 ### Untuk Garasi Rumah (Fokus Estetika)
 Di perumahan seperti Antapani atau Margahayu, pemilik rumah biasanya menginginkan tampilan yang lebih "halus". Pintu lipat garasi cenderung menggunakan plat yang lebih tebal namun dengan finishing cat yang lebih estetik, seperti cat duco atau powder coating warna monokrom. Seringkali desainnya dikombinasikan dengan lubang sirkulasi udara bermotif minimalis agar garasi tidak pengap.
-*   **Lihat Juga**: [Inspirasi Model Pintu Garasi Minimalis Terbaru](/posts/2025-12-28-model-pintu-garasi-minimalis-terbaru)
+*   **Lihat Juga**: [Inspirasi Model Pintu Garasi Minimalis Terbaru]({% post_url 2025-12-28-model-pintu-garasi-minimalis-terbaru %})
 
 ### Untuk Toko / Ruko (Fokus Keamanan Maksimal)
 Untuk kebutuhan ruko, keamanan adalah segalanya. Plat yang digunakan biasanya lebih tebal (mulai 0.8mm ke atas) dengan sistem kunci ganda. Folding gate toko seringkali menggunakan finishing cat standar yang fungsional namun tahan terhadap cuaca ekstrem Priangan Timur yang sering hujan deras.
@@ -55,7 +55,7 @@ Jangan tergiur dengan harga murah tanpa mengecek komponen dalamnya. Berikut adal
 Walaupun kuat, pintu lipat besi tetap butuh kasih sayang agar tidak berkarat dan macet:
 *   **Bersihkan Rel**: Debu dan kerikil kecil adalah musuh utama roda. Pastikan rel bawah selalu bersih.
 *   **Lumasi Engsel**: Berikan oli atau WD-40 pada bagian silangan dan roda setiap 3 bulan sekali.
-*   **Cat Ulang Berkala**: Jika cat mulai mengelupas, segera lakukan pengecatan ulang untuk menghindari karat merayap ke pori-besi. Anda bisa membaca panduan [Cara Merawat Pagar Besi](/posts/2025-12-20-cara-merawat-pagar-besi-setu-Priangan Timur) untuk tips lebih detail.
+*   **Cat Ulang Berkala**: Jika cat mulai mengelupas, segera lakukan pengecatan ulang untuk menghindari karat merayap ke pori-besi. Anda bisa membaca panduan [Cara Merawat Pagar Besi]({% post_url 2025-12-20-cara-merawat-pagar-besi-setu-bekasi %}) untuk tips lebih detail.
 
 ## Mengapa Memesan di Kinglas Tehnik?
 
@@ -84,7 +84,7 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - ☀️ **[Pasang Kanopi Alderon Double Layer & Kaca Tempered](/products/kanopi-alderon-murah-cirebon)**
 - 🚪 **[Pintu Lipat Besi Galvanis Anti Karat untuk Garasi & Toko](/products/pintu-lipat-galvanis-anti-karat)**
 - 🪜 **[Desain Tangga Besi Minimalis & Mezzanine](/products/desain-tangga-besi-minimalis)**
-- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
+- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi/)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
 Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).

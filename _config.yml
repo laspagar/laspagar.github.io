@@ -21,8 +21,9 @@ linkedin_username: "linkedinuser"
 #########################################################################################
 # theme: "minima"  # Using custom layouts instead
 
-# Mengaktifkan pembuatan halaman untuk tanggal terjadwal (mencegah error 404 di GitHub Pages)
-future: true
+# Artikel bertanggal masa depan baru dibuat setelah waktunya tiba.
+# Workflow GitHub Actions melakukan rebuild berkala agar jadwal terbit berjalan otomatis.
+future: false
 
 rss: rss
 

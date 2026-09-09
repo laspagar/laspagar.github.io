@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Panduan Lengkap Pintu Garasi Besi Minimalis Berkualitas SNI"
 date: 2025-12-28 17:00:00 +0700
@@ -55,12 +55,12 @@ Sistem ini paling favorit di perumahan cluster Priangan Timur. Pintu tidak diayu
 Daun-daun pintu saling terhubung dengan engsel dan melipat ke arah pinggir.
 *   **Kelebihan**: Tidak butuh dinding samping yang panjang. Konstruksi lebih sederhana.
 *   **Kekurangan**: Tumpukan pintu (studi kami menunjukkan satu tumpukan 5 daun pintu memakan lebar sekitar 50-60cm). Anda harus memastikan lebar bersih garasi masih cukup untuk mobil kesayangan Anda.
-*   **Detail**: Pelajari lebih lanjut di [Panduan Pintu Lipat Besi untuk Garasi & Toko](/posts/2025-12-28-pintu-lipat-besi-garasi-toko-setu-Priangan Timur).
+*   **Detail**: Pelajari lebih lanjut di [Panduan Pintu Lipat Besi untuk Garasi & Toko]({% post_url 2025-12-28-pintu-lipat-besi-garasi-toko-setu-bekasi %}).
 
 ### C. Folding Gate (Pintu Harmonika)
 Berbeda dengan pintu lipat daun lebar, folding gate menggunakan struktur silang-silang kecil (jari-jari).
 *   **Pengunaan**: Sangat populer untuk ruko di area Kosambi atau Pasar Baru, namun kini juga mulai diaplikasikan untuk garasi rumah minimalis karena faktor keamanannya yang sangat tinggi.
-*   **Detail**: [Harga Pintu Lipat Besi Per Meter Priangan Timur 2025](/posts/2025-12-28-harga-pintu-lipat-besi-setu-Priangan Timur-2025).
+*   **Detail**: [Harga Pintu Lipat Besi Per Meter Priangan Timur 2025]({% post_url 2025-12-28-harga-pintu-lipat-besi-setu-bekasi-2025 %}).
 
 ![Model Pintu Lipat Garasi Modern](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6jnE5VbSTNyzBDTKISmajOsTk6O7UEtDhX0GB3f3zB6ZwnLdRuKIFtYU1bDLFMzTlS2ObLAjHAwKS2q3NQoOAoU2pXPewuMY8LIkrK6VEOsGvDirDuuRMsgsKzmtY3Au-Z4fgQGT4mHY6U5ieYZoa_Zs5Pw6hDtJJXfxSGP6qtDWotp0Cz4ABz7Fi/w320-h320-rw/791381_fb793430-6b62-4cd8-b6eb-cc918cfe4d1b.jpg)
 
@@ -72,8 +72,8 @@ Pilihan material menentukan seberapa sering Anda harus melakukan perawatan.
 
 ### 1. Besi Plat (Powder Coating) - Standard Emas 🏆
 Pintu besi plat modern tidak lagi menggunakan teknik las manual yang kasar. Plat besi ditekuk menggunakan mesin bending khusus.
-*   **Keunggulan**: Sangat kaku namun ringan. Finishing [Powder Coating Oven](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu-Priangan Timur) menjamin warna tidak mengelupas meski terkena hujan asam Priangan Timur.
-*   **Anti Karat**: Pastikan menggunakan material [Besi Galvanis Anti Karat](/posts/2025-12-28-folding-gate-besi-galvanis-setu-Priangan Timur) sebagai basisnya.
+*   **Keunggulan**: Sangat kaku namun ringan. Finishing [Powder Coating Oven]({% post_url 2025-12-14-finishing-powdercoat-vs-galvanis-setu-bekasi %}) menjamin warna tidak mengelupas meski terkena hujan asam Priangan Timur.
+*   **Anti Karat**: Pastikan menggunakan material [Besi Galvanis Anti Karat]({% post_url 2025-12-28-folding-gate-besi-galvanis-setu-bekasi %}) sebagai basisnya.
 
 ### 2. Kombinasi Besi + Woodplank (Industrial Look)
 Rangka besi hollow galvanis, dengan isian papan GRC motif kayu.
@@ -82,7 +82,7 @@ Rangka besi hollow galvanis, dengan isian papan GRC motif kayu.
 ### 3. Kayu Solid (Jati atau Kamper)
 Kayu memberikan kemewahan yang tak tertandingi oleh logam apapun.
 *   **Kelemahan**: Beratnya luar biasa. Memasang pintu kayu solid membutuhkan sistem rel yang jauh lebih mahal agar rel tidak cepat melengkung. Perawatannya pun tinggi (harus di-vernis ulang secara rutin).
-*   **Komparasi**: Baca [Pagar Woodplank vs Kayu Asli](/posts/2025-12-28-pagar-woodplank-vs-kayu-setu-Priangan Timur) untuk pertimbangan lebih dalam.
+*   **Komparasi**: Baca [Pagar Woodplank vs Kayu Asli]({% post_url 2025-12-28-pagar-woodplank-vs-kayu-setu-bekasi %}) untuk pertimbangan lebih dalam.
 
 ---
 
@@ -108,7 +108,7 @@ Ini adalah estimasi harga di workshop **Kinglas Tehnik**. Harga final tentu akan
 | **Pintu Minimalis Laser** | Plat 2mm Custom Pattern, Powder Coat | **Rp 2.500.000 - Rp 3.200.000 / daun** |
 | **Folding Gate Ruko** | Plat 0.8mm, Galvanis | **Rp 650.000 - Rp 850.000 / m²** |
 
-*Untuk update harga real-time dan negosiasi, silakan cek:* [**Update Harga Pintu Garasi Besi Per Meter**](/posts/2025-12-28-harga-pintu-garasi-besi-per-meter).
+*Untuk update harga real-time dan negosiasi, silakan cek:* [**Update Harga Pintu Garasi Besi Per Meter**]({% post_url 2025-12-28-harga-pintu-garasi-besi-per-meter %}).
 
 ---
 
@@ -118,7 +118,7 @@ Teknologi terus berkembang. Kini Anda tidak perlu turun dari mobil saat hujan un
 *   **Sistem Manual**: Menggunakan kekuatan tangan. Kunci menggunakan slot dalam dan luar. Praktis, murah, dan tidak butuh listrik.
 *   **Sistem Otomatis**: Menggunakan motor penggerak (biasanya merk FAAC atau Nice) dan remote control.
 *   **Kelebihan Otomatis**: Sangat nyaman dan aman (pencuri sulit membobol motor magnetik). Namun, harganya bisa menambah biaya 7-15 juta per satu paket garasi.
-*   **Lengkapnya**: [Review Pintu Garasi Manual vs Otomatis](/posts/2025-12-28-pintu-garasi-lipat-manual-otomatis-setu-Priangan Timur).
+*   **Lengkapnya**: [Review Pintu Garasi Manual vs Otomatis]({% post_url 2025-12-28-pintu-garasi-lipat-manual-otomatis-setu-bekasi %}).
 
 ---
 
@@ -137,14 +137,14 @@ Bagaimana cara dapat pintu garasi impian tapi budget pas-pasan?
 Pintu besi Anda adalah benda mekanis yang bergerak. Ia butuh perawatan minimal agar tidak rusak.
 *   **Lumasi Rel & Roda**: Setidaknya 6 bulan sekali, berikan pelumas cair (jangan gemuk tebal yang bisa menangkap debu) pada bagian roda.
 *   **Cek Kebersihan Rel Bawah**: Kerikil kecil yang masuk ke rel bawah adalah penyebab utama roda pintu pecah. Selalu sapu bersih area ambang pintu garasi Anda.
-*   **Cat Ulang**: Jika tinggal di area lembab di Priangan Timur, lakukan pengecekan karat setiap tahun. Baca selengkapnya: [**Cara Merawat Pagar Besi**](/posts/2025-12-20-cara-merawat-pagar-besi-setu-Priangan Timur).
+*   **Cat Ulang**: Jika tinggal di area lembab di Priangan Timur, lakukan pengecekan karat setiap tahun. Baca selengkapnya: [**Cara Merawat Pagar Besi**]({% post_url 2025-12-20-cara-merawat-pagar-besi-setu-bekasi %}).
 
 ---
 
 ## BAB 9: Mengapa Memilih Jasa Custom di Priangan Timur?
 
 Setiap garasi di Priangan Timur punya "drama" tersendiri (lantai yang tidak rata, dinding yang miring, atau balok gantung yang rendah). Membeli pintu ukuran jadi sangat berisiko.
-Dengan layanan [**Jasa Pintu Lipat Besi Custom Priangan Timur**](/posts/2025-12-28-jasa-pintu-lipat-besi-custom-setu-Priangan Timur), tim teknis kami akan datang, mengukur dengan laser, dan mendesain konstruksi paling pas untuk rumah Anda.
+Dengan layanan [**Jasa Pintu Lipat Besi Custom Priangan Timur**]({% post_url 2025-12-28-jasa-pintu-lipat-besi-custom-setu-bekasi %}), tim teknis kami akan datang, mengukur dengan laser, dan mendesain konstruksi paling pas untuk rumah Anda.
 
 **Mengapa di Kinglas Tehnik?**
 *   **Free Survey**: Kami ukur dulu, bicarakan budget, baru mulai pengerjaan.
@@ -165,7 +165,7 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - ☀️ **[Pasang Kanopi Alderon Double Layer & Kaca Tempered](/products/kanopi-alderon-murah-cirebon)**
 - 🚪 **[Pintu Lipat Besi Galvanis Anti Karat untuk Garasi & Toko](/products/pintu-lipat-galvanis-anti-karat)**
 - 🪜 **[Desain Tangga Besi Minimalis & Mezzanine](/products/desain-tangga-besi-minimalis)**
-- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
+- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi/)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
 Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).
@@ -183,8 +183,8 @@ Jangan sampai pencuri masuk atau pintu garasi Anda ambruk karena karat. Lindungi
 ---
 
 ### Pelajari Lebih Lanjut:
-*   [Update Harga Pintu Garasi Per Meter](/posts/2025-12-28-harga-pintu-garasi-besi-per-meter)
-*   [Inspirasi Model Pintu Minimalis 2025](/posts/2025-12-28-model-pintu-garasi-minimalis-terbaru)
-*   [Pintu Lipat Besi untuk Toko & Garasi](/posts/2025-12-28-pintu-lipat-besi-garasi-toko-setu-Priangan Timur)
-*   [Keunggulan Material Besi Galvanis](/posts/2025-12-28-folding-gate-besi-galvanis-setu-Priangan Timur)
-*   [Panduan Cara Merawat Pagar & Pintu Besi](/posts/2025-12-20-cara-merawat-pagar-besi-setu-Priangan Timur)
+*   [Update Harga Pintu Garasi Per Meter]({% post_url 2025-12-28-harga-pintu-garasi-besi-per-meter %})
+*   [Inspirasi Model Pintu Minimalis 2025]({% post_url 2025-12-28-model-pintu-garasi-minimalis-terbaru %})
+*   [Pintu Lipat Besi untuk Toko & Garasi]({% post_url 2025-12-28-pintu-lipat-besi-garasi-toko-setu-bekasi %})
+*   [Keunggulan Material Besi Galvanis]({% post_url 2025-12-28-folding-gate-besi-galvanis-setu-bekasi %})
+*   [Panduan Cara Merawat Pagar & Pintu Besi]({% post_url 2025-12-20-cara-merawat-pagar-besi-setu-bekasi %})

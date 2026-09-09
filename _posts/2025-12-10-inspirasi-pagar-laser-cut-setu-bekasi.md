@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Inspirasi Model Pagar Plat Laser Cutting Modern untuk Rumah Minimalis"
 date: 2025-12-10 10:00:00 +0700
@@ -46,13 +46,13 @@ Kami sangat transparan mengenai biaya. Harga jasa laser cutting memang lebih pre
 *   **Harga mulai dari Rp 1.500.000,- hingga Rp 2.800.000,- per meter persegi**.
 *   **Faktor yang mempengaruhi harga**: Ketebalan plat (biasanya 2mm, 3mm, atau 4mm), jenis cat finishing, kerumitan motif (semakin banyak titik potong, semakin lama waktu mesin), dan volume pekerjaan.
 
-Untuk perbandingan, Anda juga bisa melihat [daftar harga pintu garasi besi](/posts/2025-12-28-harga-pintu-garasi-besi-per-meter) yang menggunakan material serupa namun dengan mekanisme yang berbeda.
+Untuk perbandingan, Anda juga bisa melihat [daftar harga pintu garasi besi]({% post_url 2025-12-28-harga-pintu-garasi-besi-per-meter %}) yang menggunakan material serupa namun dengan mekanisme yang berbeda.
 
 ## Integrasi Desain Fasad Rumah
 
-Untuk hasil terbaik, banyak klien kami menyamakan motif pagar laser cutting dengan elemen eksterior lainnya. Misalnya, jika Anda juga berencana memasang kanopi, Anda bisa menggunakan motif yang senada untuk area samping atau sebagai aksen di bawah atap kaca. Silakan cek panduan kami mengenai [biaya pasang kanopi di Priangan Timur](/posts/2025-12-12-biaya-pasang-kanopi-estimasi-setu-Priangan Timur) untuk menyesuaikan budget total renovasi Anda.
+Untuk hasil terbaik, banyak klien kami menyamakan motif pagar laser cutting dengan elemen eksterior lainnya. Misalnya, jika Anda juga berencana memasang kanopi, Anda bisa menggunakan motif yang senada untuk area samping atau sebagai aksen di bawah atap kaca. Silakan cek panduan kami mengenai [biaya pasang kanopi di Priangan Timur]({% post_url 2025-12-12-biaya-pasang-kanopi-estimasi-setu-bekasi %}) untuk menyesuaikan budget total renovasi Anda.
 
-Bagi Anda yang menyukai tampilan minimalis tapi ingin kesan lebih hangat, kombinasi laser cutting dengan elemen kayu juga sangat menarik. Anda bisa membaca perbandingan antara [Pagar Woodplank vs Kayu Asli](/posts/2025-12-28-pagar-woodplank-vs-kayu-setu-Priangan Timur) sebagai referensi tambahan.
+Bagi Anda yang menyukai tampilan minimalis tapi ingin kesan lebih hangat, kombinasi laser cutting dengan elemen kayu juga sangat menarik. Anda bisa membaca perbandingan antara [Pagar Woodplank vs Kayu Asli]({% post_url 2025-12-28-pagar-woodplank-vs-kayu-setu-bekasi %}) sebagai referensi tambahan.
 
 ## Pesan Pagar Impian Anda di Kinglas Tehnik
 
@@ -81,7 +81,7 @@ Siap mengubah tampilan rumah Anda menjadi jauh lebih mewah hari ini?
 📲 **Hubungi Kami via WhatsApp**: [0851-8181-4469](https://wa.me/6285181814469)
 📍 **Workshop**: Area Layanan Utama: Priangan Timur (Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut)
 
-[**Lihat Katalog Produk Pagar Laser Cutting Kami**](/products/pagar-plat-laser-cutting-cimahi-setu-Priangan Timur)
+[**Lihat Katalog Produk Pagar Laser Cutting Kami**](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi/)
 
 
 ---
@@ -94,7 +94,7 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - ☀️ **[Pasang Kanopi Alderon Double Layer & Kaca Tempered](/products/kanopi-alderon-murah-cirebon)**
 - 🚪 **[Pintu Lipat Besi Galvanis Anti Karat untuk Garasi & Toko](/products/pintu-lipat-galvanis-anti-karat)**
 - 🪜 **[Desain Tangga Besi Minimalis & Mezzanine](/products/desain-tangga-besi-minimalis)**
-- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
+- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi/)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
 Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).

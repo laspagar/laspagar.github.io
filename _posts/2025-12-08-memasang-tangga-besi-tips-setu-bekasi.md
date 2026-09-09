@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Tips Merancang Tangga Besi Minimalis Hemat Ruang untuk Rumah Tipe 36"
 date: 2025-12-08 10:00:00 +0700
@@ -30,7 +30,7 @@ Ada 3 juara hemat tempat di dunia tangga besi:
 *   **Tangga Rebah (Tangga Monyet Miring)**: Sudut kemiringan 60 derajat. Gunakan sistem pijakan selang-seling (paddle steps) agar tetap aman.
 *   **Tangga Layang (Single Beam)**: Tangga dengan satu tulang tengah. Bagian bawahnya kosong melompong, bisa dipakai untuk rak TV atau taman kering (*zen garden*).
 
-> **[Baca Panduan Lengkap Desain & Harga Tangga Besi Disini](/posts/2025-12-28-panduan-tangga-besi-setu-Priangan Timur)**
+> **[Baca Panduan Lengkap Desain & Harga Tangga Besi Disini]({% post_url 2025-12-28-panduan-tangga-besi-setu-bekasi %})**
 
 ## 3. Jangan Takut Pakai Bordes Gantung
 Sudut ruangan (Letter L) sering mati. Kami bisa membuatkan bordes gantung dari plat besi atau rangka siku. Jadi tidak perlu ada tiang penyangga di bawah sudut yang mengganggu lalu lalang.
@@ -40,7 +40,7 @@ Besi hollow 100% memang kokoh, tapi kadang terlihat dingin dan "pabrik banget".
 Saya sarankan: **Kombinasikan dengan Pijakan Kayu**.
 *   Bisa pakai kayu solid (Meranti/Kamper) yang di-coating natural.
 *   Atau pakai papan GRC motif kayu (seperti Conwood) untuk opsi lebih murah dan anti rayap.
-*   Cek juga artikel kami tentang [**Woodplank vs Kayu Asli**](/posts/2025-12-28-pagar-woodplank-vs-kayu-setu-Priangan Timur) untuk referensi material tahan cuaca.
+*   Cek juga artikel kami tentang [**Woodplank vs Kayu Asli**]({% post_url 2025-12-28-pagar-woodplank-vs-kayu-setu-bekasi %}) untuk referensi material tahan cuaca.
 
 ## 5. Pikirkan "Headroom" (Jarak Kepala)
 Ini kesalahan fatal pemula. Saat mendesain tangga, pastikan jarak kepala anda dengan langit-langit (plafond) saat berdiri di anak tangga manapun minimal 200cm. Jangan sampai harus menunduk saat naik tangga.
@@ -49,7 +49,7 @@ Ini kesalahan fatal pemula. Saat mendesain tangga, pastikan jarak kepala anda de
 Untuk keamanan, railing harus kokoh.
 *   Tinggi standar: 90cm.
 *   Jika rumah ada balita, gunakan jari-jari vertikal rapat (jarak max 8cm) agar kepala anak tidak masuk.
-*   Lihat opsi material [**Railing Balkon & Tangga Disini**](/posts/2025-12-06-railing-balkon-pilihan-material-setu-Priangan Timur).
+*   Lihat opsi material [**Railing Balkon & Tangga Disini**]({% post_url 2025-12-06-railing-balkon-pilihan-material-setu-bekasi %}).
 
 ## 7. Finishing Cat yang Tepat
 Tangga indoor rentan lecet karena gesekan kaki. Gunakan cat jenis *Synthetic Enamel* (High Gloss) atau Duco. Untuk pijakan besi bordes, gunakan cat tekstur kasar agar tidak licin.
@@ -89,7 +89,7 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - ☀️ **[Pasang Kanopi Alderon Double Layer & Kaca Tempered](/products/kanopi-alderon-murah-cirebon)**
 - 🚪 **[Pintu Lipat Besi Galvanis Anti Karat untuk Garasi & Toko](/products/pintu-lipat-galvanis-anti-karat)**
 - 🪜 **[Desain Tangga Besi Minimalis & Mezzanine](/products/desain-tangga-besi-minimalis)**
-- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
+- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi/)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
 Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).

@@ -1,11 +1,11 @@
-﻿---
+---
 layout: post
 title: "Panduan Membuat Kanopi Mezzanine Besi untuk Tambahan Ruang Rumah"
 date: 2025-12-28 10:00:00 +0700
 categories: [Konstruksi, Mezzanine]
 tags: [Mezzanine Priangan Timur, Kanopi Mezzanine, Jasa Las Priangan Timur, Tukang Las Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Harga Mezzanine Per Meter]
 author: "Kinglas Tehnik"
-image: /assets/products/kanopi-mezzanine-setu-Priangan Timur.jpg
+image: /assets/products/kanopi-mezzanine-minimalis.jpg
 description: "Jasa pembuatan kanopi mezzanine besi di Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut & Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut. Solusi nambah ruang tanpa renovasi mahal. Harga per meter bersaing, survey gratis!"
 ---
 
@@ -17,7 +17,7 @@ Sebagai spesialis **[Jasa Kinglas Tehnik](/)** yang berpengalaman lebih dari 10 
 
 Mezzanine (atau sering disebut tingkat/balkon dalam ruangan) adalah lantai tambahan yang dibangun di antara lantai utama dan plafon. Dalam konteks eksterior atau semi-outdoor di perumahan Priangan Timur yang padat, "Kanopi Mezzanine" sering merujuk pada struktur kanopi yang bagian atasnya dicor atau diberi plat besi sehingga kuat diinjak dan difungsikan sebagai balkon, area jemur, atau taman rooftop mini.
 
-![Jasa Pembuatan Kanopi Mezzanine Priangan Timur](/assets/products/kanopi-mezzanine-setu-Priangan Timur.jpg)
+![Jasa Pembuatan Kanopi Mezzanine Priangan Timur](/assets/products/kanopi-mezzanine-minimalis.jpg)
 
 ## Mengapa Warga Priangan Timur Memilih Mezzanine Besi?
 
@@ -77,7 +77,7 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - ☀️ **[Pasang Kanopi Alderon Double Layer & Kaca Tempered](/products/kanopi-alderon-murah-cirebon)**
 - 🚪 **[Pintu Lipat Besi Galvanis Anti Karat untuk Garasi & Toko](/products/pintu-lipat-galvanis-anti-karat)**
 - 🪜 **[Desain Tangga Besi Minimalis & Mezzanine](/products/desain-tangga-besi-minimalis)**
-- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
+- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi/)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
 Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).

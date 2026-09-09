@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Keunggulan Pintu Folding Gate Besi Galvanis untuk Toko & Ruko"
 date: 2025-12-28 17:30:00 +0700
@@ -33,10 +33,10 @@ Udara perkotaan Priangan Timur yang padat kendaraan seringkali membawa partikel 
 
 ### 3. Nilai Estetika yang Terjaga
 Karena tidak mudah karatan, bentuk pintu akan tetap utuh dan permukaannya tetap rata. Anda tidak akan melihat bintik-bintik karat "berjerawat" yang sering muncul pada pintu besi lama yang mengganggu pemandangan fasad rumah Anda.
-*   **Lihat Juga**: [Review Finishing Powder Coating untuk Besi](/posts/2025-12-14-finishing-powdercoat-vs-galvanis-setu-Priangan Timur)
+*   **Lihat Juga**: [Review Finishing Powder Coating untuk Besi]({% post_url 2025-12-14-finishing-powdercoat-vs-galvanis-setu-bekasi %})
 
 ### 4. Perawatan yang Lebih Mudah (Low Maintenance)
-Anda tidak perlu setiap tahun melakukan pengerokan karat dan pengecatan ulang ("repaint"). Cukup bersihkan debu secara rutin menggunakan air sabun dan pastikan rel tetap bersih. Baca panduan lengkapnya di: [**Cara Merawat Pagar Besi**](/posts/2025-12-20-cara-merawat-pagar-besi-setu-Priangan Timur).
+Anda tidak perlu setiap tahun melakukan pengerokan karat dan pengecatan ulang ("repaint"). Cukup bersihkan debu secara rutin menggunakan air sabun dan pastikan rel tetap bersih. Baca panduan lengkapnya di: [**Cara Merawat Pagar Besi**]({% post_url 2025-12-20-cara-merawat-pagar-besi-setu-bekasi %}).
 
 ![Proses Pengecatan Pintu Garasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWxnm5zGwnVbX5DvYomC1P6OqRGJYp3ZwY68K225tXBw5rx6b2wlfw3KePqhu2bxK1P0YXwDwKX0hUoV7sGuqFNCEzVQGLLYvkqjQk3ZsajrQzzySLHpgxEvAVZrQ2fi7Skff5nqAR1d8g/s1600-rw/Desain-Cat-Pintu-Garasi.jpg)
 
@@ -56,7 +56,7 @@ Kami di **Kinglas Tehnik** memiliki standar SOP pengecatan yang jelas untuk mate
 | **Rangka (UNP)** | + Rp 75.000 / m² | Struktur tetap kaku puluhan tahun |
 | **Rel Bawah** | Tetap (Cor) | Kelancaran pintu terjaga |
 
-Memang di awal Anda akan merogoh kocek sedikit lebih dalam, namun dalam 5 tahun ke depan, Anda akan sadar bahwa Anda telah menghemat biaya pengecatan ulang dan penggantian pintu yang jauh lebih mahal. Cek rincian harga lengkapnya di: [**Harga Pintu Lipat Besi 2025**](/posts/2025-12-28-harga-pintu-lipat-besi-setu-Priangan Timur-2025).
+Memang di awal Anda akan merogoh kocek sedikit lebih dalam, namun dalam 5 tahun ke depan, Anda akan sadar bahwa Anda telah menghemat biaya pengecatan ulang dan penggantian pintu yang jauh lebih mahal. Cek rincian harga lengkapnya di: [**Harga Pintu Lipat Besi 2025**]({% post_url 2025-12-28-harga-pintu-lipat-besi-setu-bekasi-2025 %}).
 
 ## Tips Membeli Folding Gate Galvanis di Priangan Timur
 
@@ -82,7 +82,7 @@ Untuk melihat sampel desain real, spesifikasi material besi SNI, dan estimasi bi
 - ☀️ **[Pasang Kanopi Alderon Double Layer & Kaca Tempered](/products/kanopi-alderon-murah-cirebon)**
 - 🚪 **[Pintu Lipat Besi Galvanis Anti Karat untuk Garasi & Toko](/products/pintu-lipat-galvanis-anti-karat)**
 - 🪜 **[Desain Tangga Besi Minimalis & Mezzanine](/products/desain-tangga-besi-minimalis)**
-- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi)**
+- 🛡️ **[Pagar Plat Laser Cutting Custom Motif Modern](/products/pagar-plat-laser-cutting-cimahi-setu-bekasi/)**
 
 📲 **Konsultasi & Survey Lokasi Gratis:**
 Dapatkan penawaran harga resmi dan pengukuran gratis untuk area **Tasikmalaya, Banjar, Ciamis, Cirebon, Pangandaran, Garut, Majalengka, Sumedang, dan Kuningan**. Hubungi kami via [WhatsApp 0851-8181-4469](https://wa.me/6285181814469).
