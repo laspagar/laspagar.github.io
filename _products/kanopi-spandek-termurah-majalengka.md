@@ -1,4 +1,4 @@
-﻿---
+---
 layout: product
 title: Pasang Kanopi Spandek Murah Priangan Timur (Mulai 550rb)
 price: Rp 350.000 / m²
@@ -33,4 +33,4 @@ Bahannya terbuat dari lembaran Zincalume (Seng & Aluminium) yang ringan namun sa
 **Pesan Sekarang di WA:**
 [0851-8181-4469](https://wa.me/6285181814469)
 
-**[Mau yang Lebih Adem? Cek Kanopi Alderon](/products/kanopi-alderon-murah-setu-bekasi)**
+**[Mau yang Lebih Adem? Cek Kanopi Alderon](/products/kanopi-alderon-murah-cirebon)**

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: product
 title: Jasa Pembuatan Kanopi Priangan Timur (Terlengkap & Termurah)
 price: Mulai Rp 400rb/m²
@@ -14,11 +14,11 @@ Selamat datang di **Kinglas Tehnik**, spesialis pembuatan kanopi nomor 1 di Pria
 
 ## Pilihan Model Kanopi Kami:
 
-### 1. [Kanopi Spandek Ekonomis (Best Value)](/products/kanopi-spandek-termurah-setu-bekasi)
+### 1. [Kanopi Spandek Ekonomis (Best Value)](/products/kanopi-spandek-termurah-majalengka)
 *   **Harga**: Mulai Rp 550.000 / m².
 *   **Keunggulan**: Paling murah, awet, anti karat. Cocok untuk rumah kontrakan/subsidi.
 
-### 2. [Kanopi Alderon Sejuk (Recommended)](/products/kanopi-alderon-murah-setu-bekasi)
+### 2. [Kanopi Alderon Sejuk (Recommended)](/products/kanopi-alderon-murah-cirebon)
 *   **Harga**: Mulai Rp 750.000 / m².
 *   **Keunggulan**: Ruangan adem, tidak berisik saat hujan, tampilan mewah.
 
@@ -30,7 +30,7 @@ Selamat datang di **Kinglas Tehnik**, spesialis pembuatan kanopi nomor 1 di Pria
 *   **Harga**: Mulai Rp 2.500.000 / m².
 *   **Keunggulan**: Transparan, modern, pencahayaan alami maksimal.
 
-### 5. [Kanopi Mezzanine (Ruang Tambahan)](/products/kanopi-mezzanine-setu-bekasi)
+### 5. [Kanopi Mezzanine (Ruang Tambahan)](/products/kanopi-mezzanine-pangandaran)
 *   **Harga**: Mulai Rp 1.350.000 / m².
 *   **Keunggulan**: Bisa diinjak, jadi balkon/jemuran di atas carport.
 

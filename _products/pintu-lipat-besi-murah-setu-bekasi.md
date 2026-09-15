@@ -1,4 +1,4 @@
-﻿---
+---
 layout: product
 title: "Harga Pintu Lipat Besi Priangan Timur Termurah 2025: Mulai 450rb/m²"
 price: "Rp 450.000 / m²"
@@ -22,7 +22,7 @@ Dapatkan perlindungan maksimal untuk aset Anda dengan budget yang tetap terjaga.
 3.  **Tenaga Ahli Berpengalaman**: Pengerjaan lebih cepat dan akurat, mengurangi risiko kesalahan produksi.
 4.  **Tanpa Biaya Siluman**: Harga yang disepakati di awal sudah mencakup biaya pasang di area Priangan Timur.
 
-Jangan sampai salah kalkulasi! Baca panduan kami: [**Tips Rahasia Dapat Harga Pintu Garasi Murah**](/posts/2025-12-28-tips-hemat-pintu-garasi-murah).
+Jangan sampai salah kalkulasi! Baca panduan kami: [**Tips Rahasia Dapat Harga Pintu Garasi Murah**](/posts/2025-12-28-pintu-garasi-murah-setu-bekasi-terlengkap).
 
 **Konsultasi Budget Anda Sekarang:**
 📲 WhatsApp: [0851-8181-4469](https://wa.me/6285181814469)
