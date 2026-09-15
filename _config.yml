@@ -21,9 +21,8 @@ linkedin_username: "linkedinuser"
 #########################################################################################
 # theme: "minima"  # Using custom layouts instead
 
-# Artikel bertanggal masa depan baru dibuat setelah waktunya tiba.
-# Workflow GitHub Actions melakukan rebuild berkala agar jadwal terbit berjalan otomatis.
-future: false
+# Set future: true agar semua artikel (termasuk bertanggal mendatang) langsung terbit dan tampil di website.
+future: true
 
 rss: rss
 
